@@ -23,7 +23,17 @@ So many free resources are available for computer science students and I am jeal
 ### Theory of Machines
 #### Mechanism Design
 #### Control Engineering
-
+##### Book
+* Modern Control Engineering by Katsuhiko Ogata
+* Automatic Control Systems by Golnaraghi and Kuo
+* Control Systems Engineering by Norman Nise
+* Linear Robust Control by Green and Limebeer
+* Essentials of Robust Control by Zhou with Doyle
+* Feedback Control Theory by Doyle, Francis, and Tannenbaum
+* [Feedback Systems by Karl Johan Åström and Richard Murray](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf)
+* 
+##### Articles
+##### Tutorials
 ## Thermal Engineering
 
 ## Manufacturing
