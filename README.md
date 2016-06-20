@@ -32,6 +32,9 @@ So many free resources are available for computer science students and I am jeal
 ### For Finite Element Analysis
 #### OpenFoam
 #### Ansys
+* [EdX MOOC A Hands-on Introduction to Engineering Simulations](https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x)
+* 
+
 #### Abaqus
 #### LS Dyna
 #### Comsol
