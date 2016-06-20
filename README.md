@@ -63,6 +63,9 @@ So many free resources are available for computer science students and I am jeal
 ## Specialized Fields
 ### Robotics
 #### Books
+* [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
+* 
+
 #### Tutorials
 ### Finite Element Analysis
 ### Computational Fluid Dynamics
