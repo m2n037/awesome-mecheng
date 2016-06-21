@@ -8,6 +8,8 @@ So many free resources are available for computer science students and I am jeal
 
 ## Mathematics and Programming
 ### Applied Mathematics
+* [What is it like to understand advanced mathematics?](http://qr.ae/1tpuVn)
+* 
 
 ### Programming
 #### Shell
