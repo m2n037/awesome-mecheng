@@ -1,5 +1,15 @@
 # Awesome Mechanical Engineering Resources
 
+###### To-Do List
+- [] Add all ROS books from packt-pub
+- [] Add all youtube playlists
+- [] LS Dyna tutorial sites
+- [] Ansys cornell sites
+- [] FEM software books from my repo list
+- [] Stackexchange recommended books for C++/Python
+- [] Awesome lists from github to relvant sections
+- [] EdX courses to relvant sections
+
 ## Preamble
 So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice.
 
@@ -27,56 +37,56 @@ So many free resources are available for computer science students and I am jeal
 * [What is it like to understand advanced mathematics?](http://qr.ae/1tpuVn)
 * 
 
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 
 ### Programming
 #### Shell
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 #### C++
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 #### Python
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 #### Microsoft Excel VBA
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 #### MATLAB
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ## Mechanics & Theory of Machines
 ### Statics and Dynamics
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ### Strength of Materials
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ### Advanced Strength of Materials/Continuum Mechanics
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ### Theory of Machines
 #### Mechanism Design
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 #### Control Engineering
 ###### Book
@@ -90,34 +100,34 @@ So many free resources are available for computer science students and I am jeal
 * 
 
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ## Thermal Engineering
 ### Thermodynamics
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ### Heat Transfer
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ### Fluid Mechanics
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ## Manufacturing
 ### Conventional Manufacturing
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ### Non-traditional Machining
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ## Specialized Fields
 ### Robotics
@@ -129,92 +139,92 @@ So many free resources are available for computer science students and I am jeal
 * 
 
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ### Finite Element Analysis
 ###### Books
 ###### Articles
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
 * 
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ### Computational Fluid Dynamics
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ### MEMS/NEMS/Nanotechnology/BioEngineering
 #### MEMS/NEMS - Micro/Nano Electro Mechanical Systems
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 #### Nanotechnology
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 #### Bio-engineering
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ## Software Packages
 ### For Finite Element Analysis
 #### OpenFoam
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 #### Ansys
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 * [EdX MOOC A Hands-on Introduction to Engineering Simulations](https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x)
 * 
 
 #### Abaqus
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 #### LS Dyna
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 #### Comsol
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 #### Hyperworks (Radioss, Optistruct)
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ### For Fatigue Analysis
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ### For Control Engineering
 #### MATLAB
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 #### LabView
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ### For Robotics
 #### ROS
 ###### Books
 ###### Articles
-###### Tutorials/MOOCs
+###### Tutorials/MOOCs/Lectures
 
 ## Blogs/Forums for Mechanical Engineers
 * [Engineering StackExchange](https://engineering.stackexchange.com/)
