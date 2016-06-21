@@ -1,10 +1,10 @@
 # Awesome Mechanical Engineering Resources
 
-![Bilby Stampede](http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg)
-###### This image is taken from the url http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg/
-
 ## Preamble
 So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice.
+
+![Bilby Stampede](http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg)
+###### This image is taken from the url http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg/
 
 ### Overview Resources
 * [Survival guide for mechanical engineers on the journey to create astonishing engineering](https://nutsandbolts.quora.com/Survival-guide-for-mechanical-engineers-on-the-journey-to-create-astonishing-engineering)
