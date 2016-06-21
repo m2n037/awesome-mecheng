@@ -116,6 +116,46 @@ So many free resources are available for computer science students and I am jeal
 ###### Articles
 ###### Tutorials
 
+## Specialized Fields
+### Robotics
+* [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux :+1: 
+* 
+
+###### Books
+* [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
+* 
+
+###### Articles
+###### Tutorials
+
+### Finite Element Analysis
+###### Books
+###### Articles
+* [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
+* 
+###### Tutorials
+
+### Computational Fluid Dynamics
+###### Books
+###### Articles
+###### Tutorials
+
+### MEMS/NEMS/Nanotechnology/BioEngineering
+#### MEMS/NEMS - Micro/Nano Electro Mechanical Systems
+###### Books
+###### Articles
+###### Tutorials
+
+#### Nanotechnology
+###### Books
+###### Articles
+###### Tutorials
+
+#### Bio-engineering
+###### Books
+###### Articles
+###### Tutorials
+
 ## Software Packages
 ### For Finite Element Analysis
 #### OpenFoam
@@ -169,46 +209,6 @@ So many free resources are available for computer science students and I am jeal
 
 ### For Robotics
 #### ROS
-###### Books
-###### Articles
-###### Tutorials
-
-## Specialized Fields
-### Robotics
-* [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux :+1: 
-* 
-
-###### Books
-* [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
-* 
-
-###### Articles
-###### Tutorials
-
-### Finite Element Analysis
-###### Books
-###### Articles
-* [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
-* 
-###### Tutorials
-
-### Computational Fluid Dynamics
-###### Books
-###### Articles
-###### Tutorials
-
-### MEMS/NEMS/Nanotechnology/BioEngineering
-#### MEMS/NEMS - Micro/Nano Electro Mechanical Systems
-###### Books
-###### Articles
-###### Tutorials
-
-#### Nanotechnology
-###### Books
-###### Articles
-###### Tutorials
-
-#### Bio-engineering
 ###### Books
 ###### Articles
 ###### Tutorials
