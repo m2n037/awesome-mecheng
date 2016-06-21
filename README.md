@@ -5,6 +5,15 @@ So many free resources are available for computer science students and I am jeal
 ### Overview Resources
 * [Survival guide for mechanical engineers on the journey to create astonishing engineering](https://nutsandbolts.quora.com/Survival-guide-for-mechanical-engineers-on-the-journey-to-create-astonishing-engineering)
 * To be added
+* 
+### Rules and Regulations
+*
+*
+
+### Advice 
+*
+*
+
 
 ## Mathematics and Programming
 ### Applied Mathematics
@@ -20,12 +29,24 @@ So many free resources are available for computer science students and I am jeal
 
 ## Mechanics & Theory of Machines
 ### Statics and Dynamics
+###### Books
+###### Articles
+###### Tutorials
 ### Strength of Materials
+###### Books
+###### Articles
+###### Tutorials
 ### Advanced Strength of Materials/Continuum Mechanics
+###### Books
+###### Articles
+###### Tutorials
 ### Theory of Machines
 #### Mechanism Design
+###### Books
+###### Articles
+###### Tutorials
 #### Control Engineering
-##### Book
+###### Book
 * Modern Control Engineering by Katsuhiko Ogata
 * Automatic Control Systems by Golnaraghi and Kuo
 * Control Systems Engineering by Norman Nise
@@ -35,12 +56,27 @@ So many free resources are available for computer science students and I am jeal
 * [Feedback Systems by Karl Johan Åström and Richard Murray](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf)
 * 
 
-##### Articles
-##### Tutorials
+###### Articles
+###### Tutorials
 ## Thermal Engineering
-
+### Thermodynamics
+###### Books
+###### Articles
+###### Tutorials
+### Heat Transfer
+###### Books
+###### Articles
+###### Tutorials
+### Fluid Mechanics
 ## Manufacturing
-
+### Conventional Manufacturing
+###### Books
+###### Articles
+###### Tutorials
+### Non-traditional Machining
+###### Books
+###### Articles
+###### Tutorials
 ## Software Packages
 ### For Finite Element Analysis
 #### OpenFoam
@@ -73,9 +109,9 @@ So many free resources are available for computer science students and I am jeal
 
 #### Tutorials
 ### Finite Element Analysis
-#### Books
-#### Tutorials
-#### Articles
+###### Books
+###### Tutorials
+###### Articles
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
 
 ### Computational Fluid Dynamics
