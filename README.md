@@ -62,7 +62,9 @@ So many free resources are available for computer science students and I am jeal
 
 ## Specialized Fields
 ### Robotics
-* [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux 
+* [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux :+1: 
+* 
+
 #### Books
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
 * 
