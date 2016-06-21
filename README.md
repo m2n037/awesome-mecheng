@@ -18,6 +18,7 @@ So many free resources are available for computer science students and I am jeal
 - [ ] Mechanism design books by DS
 - [ ] Jog free book for FEM
 - [ ] Vector and Tensor book
+- [ ] add robotics forum/abaqus nabble forum 
 - [ ] 
 
 ![Bilby Stampede](http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg)
