@@ -12,12 +12,11 @@ So many free resources are available for computer science students and I am jeal
 
 ### Rules and Regulations
 * To be added
-*
+* 
 
 ### Advice 
 * To be added
-*
-
+* 
 
 ## Mathematics and Programming
 ### Applied Mathematics
