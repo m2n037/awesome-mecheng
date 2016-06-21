@@ -27,56 +27,56 @@ So many free resources are available for computer science students and I am jeal
 * [What is it like to understand advanced mathematics?](http://qr.ae/1tpuVn)
 * 
 
-###### Tutorials
+###### Tutorials/MOOCs
 
 
 ### Programming
 #### Shell
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 #### C++
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 #### Python
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 #### Microsoft Excel VBA
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 #### MATLAB
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ## Mechanics & Theory of Machines
 ### Statics and Dynamics
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ### Strength of Materials
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ### Advanced Strength of Materials/Continuum Mechanics
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ### Theory of Machines
 #### Mechanism Design
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 #### Control Engineering
 ###### Book
@@ -90,34 +90,34 @@ So many free resources are available for computer science students and I am jeal
 * 
 
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ## Thermal Engineering
 ### Thermodynamics
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ### Heat Transfer
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ### Fluid Mechanics
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ## Manufacturing
 ### Conventional Manufacturing
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ### Non-traditional Machining
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ## Specialized Fields
 ### Robotics
@@ -129,92 +129,92 @@ So many free resources are available for computer science students and I am jeal
 * 
 
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ### Finite Element Analysis
 ###### Books
 ###### Articles
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
 * 
-###### Tutorials
+###### Tutorials/MOOCs
 
 ### Computational Fluid Dynamics
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ### MEMS/NEMS/Nanotechnology/BioEngineering
 #### MEMS/NEMS - Micro/Nano Electro Mechanical Systems
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 #### Nanotechnology
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 #### Bio-engineering
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ## Software Packages
 ### For Finite Element Analysis
 #### OpenFoam
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 #### Ansys
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 * [EdX MOOC A Hands-on Introduction to Engineering Simulations](https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x)
 * 
 
 #### Abaqus
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 #### LS Dyna
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 #### Comsol
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 #### Hyperworks (Radioss, Optistruct)
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ### For Fatigue Analysis
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ### For Control Engineering
 #### MATLAB
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 #### LabView
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ### For Robotics
 #### ROS
 ###### Books
 ###### Articles
-###### Tutorials
+###### Tutorials/MOOCs
 
 ## Blogs/Forums for Mechanical Engineers
 * [Engineering StackExchange](https://engineering.stackexchange.com/)
