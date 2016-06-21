@@ -1,14 +1,17 @@
 # Awesome Mechanical Engineering Resources
 
 ###### To-Do List
-- [] Add all ROS books from packt-pub
-- [] Add all youtube playlists
-- [] LS Dyna tutorial sites
-- [] Ansys cornell sites
-- [] FEM software books from my repo list
-- [] Stackexchange recommended books for C++/Python
-- [] Awesome lists from github to relvant sections
-- [] EdX courses to relvant sections
+- [ ] Add all ROS books from packt-pub
+- [ ] Add all youtube playlists
+- [ ] LS Dyna tutorial sites
+- [ ] Ansys cornell sites
+- [ ] FEM software books from my repo list
+- [ ] Stackexchange recommended books for C++/Python
+- [ ] Awesome lists from github to relvant sections
+- [ ] EdX courses to relvant sections
+- [ ] Add stuff to this list when you remember
+- [ ] Create rules and regulations
+- [ ] 
 
 ## Preamble
 So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice.
