@@ -1,5 +1,8 @@
 # Awesome Mechanical Engineering Resources
 
+## Preamble
+So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice.
+
 ###### To-Do List
 - [ ] Add all ROS books from packt-pub
 - [ ] Add all youtube playlists
@@ -11,10 +14,11 @@
 - [ ] EdX courses to relvant sections
 - [ ] Add stuff to this list when you remember
 - [ ] Create rules and regulations
+- [ ] Cool answers from Quora
+- [ ] Mechanism design books by DS
+- [ ] Jog free book for FEM
+- [ ] Vector and Tensor book
 - [ ] 
-
-## Preamble
-So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice.
 
 ![Bilby Stampede](http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg)
 ###### This image is taken from the url http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg/
