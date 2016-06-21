@@ -68,5 +68,17 @@ So many free resources are available for computer science students and I am jeal
 
 #### Tutorials
 ### Finite Element Analysis
+#### Books
+#### Tutorials
+#### Articles
+* [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
+
 ### Computational Fluid Dynamics
 ### MEMS/NEMS/Nanotechnology
+
+## Blogs/Forums for Mechanical Engineers
+* [Engineering StackExchange](https://engineering.stackexchange.com/)
+* [iMechanica](https://imechanica.org)
+* 
+
+## Top Ten Journals for Different Fields
