@@ -19,6 +19,7 @@ So many free resources are available for computer science students and I am jeal
 - [ ] Jog free book for FEM
 - [ ] Vector and Tensor book
 - [ ] add robotics forum/abaqus nabble forum 
+- [ ] altair university books
 - [ ] 
 
 ![Bilby Stampede](http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg)
@@ -70,6 +71,11 @@ So many free resources are available for computer science students and I am jeal
 ###### Tutorials/MOOCs/Lectures
 
 #### MATLAB
+###### Books
+###### Articles
+###### Tutorials/MOOCs/Lectures
+
+#### Fortrun
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
@@ -154,9 +160,15 @@ So many free resources are available for computer science students and I am jeal
 ###### Articles
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
 * 
+
 ###### Tutorials/MOOCs/Lectures
 
 ### Computational Fluid Dynamics
+###### Books
+###### Articles
+###### Tutorials/MOOCs/Lectures
+
+### Engineering Optimization
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
