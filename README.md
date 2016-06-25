@@ -203,6 +203,9 @@ So many free resources are available for computer science students and I am jeal
 ###### Tutorials/MOOCs/Lectures
 
 #### Ansys
+
+Student/Free version: Available for anyone with limited capability and usage for learning purpose
+
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
@@ -210,21 +213,37 @@ So many free resources are available for computer science students and I am jeal
 * 
 
 #### Abaqus
+
+Student/Free version: Available
+
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
 #### LS Dyna
+
+Student/Free version: Not available but a student license can be obtained for less than $150 AFAIK.
+
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
 #### Comsol
+
+Comsol was known as FEMLAB before and is a academic spin-off from Stanford University. Comsol integrated multiphysics simulation capability for the first time in a commercial package and is pretty popular in many unconventional industry.
+
+Student/Free version: Not available.
+
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
 #### Hyperworks (Radioss, Optistruct)
+
+Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postprocessing tools for FEA by Altair Engineering. The flagship product is Hypermesh - a meshing software widely popular in CAE industry only challenged by ANSA, a new entrant from Beta CAE Systems. Hyperworks includes many software for different purposes though the mostly used ones are Optistruct and Radioss solvers besides Hypermesh.
+
+Student/Free version: Available only for students with limited capability
+
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
