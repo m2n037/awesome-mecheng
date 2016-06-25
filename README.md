@@ -4,7 +4,7 @@
 So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice.
 
 ###### To-Do List
-- [ ] Add all ROS books from packt-pub
+- [x] Add all ROS books from packt-pub
 - [ ] Add all youtube playlists
 - [ ] LS Dyna tutorial sites
 - [ ] Ansys cornell sites
@@ -16,7 +16,7 @@ So many free resources are available for computer science students and I am jeal
 - [ ] Create rules and regulations
 - [ ] Cool answers from Quora
 - [ ] Mechanism design books by DS
-- [ ] Jog free book for FEM
+- [x] Jog free book for FEM
 - [ ] Vector and Tensor book
 - [ ] add robotics forum/abaqus nabble forum 
 - [ ] altair university books
@@ -163,6 +163,9 @@ So many free resources are available for computer science students and I am jeal
 
 ### Finite Element Analysis
 ###### Books
+* [Finite Element Method by C S Jog] (http://hyfem.com/HyFem/fem.pdf)
+* 
+
 ###### Articles
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
 * 
