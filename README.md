@@ -228,35 +228,35 @@ So many free resources are available for computer science students and I am jeal
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
-* [Playlist](https://www.youtube.com/playlist?list=PLOahOE6DpL4puVylWdpHWRoGhIfswDc6T)
+* [HyperMesh | Pre processing | 2D | 3D | Meshing | ANSYS | Tutorial |](https://www.youtube.com/playlist?list=PLOahOE6DpL4puVylWdpHWRoGhIfswDc6T)
 
-* [Playlist](https://www.youtube.com/playlist?list=PL1u26y75SCrBpe7SWbMEgOe0Ty3O7gPGS)
+* [HyperMesh & Optistruct Solved Tutorials AOC-2016 Contest](https://www.youtube.com/playlist?list=PL1u26y75SCrBpe7SWbMEgOe0Ty3O7gPGS)
 
-* [Playlist](https://www.youtube.com/playlist?list=PL1u26y75SCrBHdDPaA2Thry6qwuSu2Uf_)
+* [Optistruct for Optimization AOC-2016 Contest](https://www.youtube.com/playlist?list=PL1u26y75SCrBHdDPaA2Thry6qwuSu2Uf_)
 
-* [Playlist](https://www.youtube.com/playlist?list=PLrXG4nKgafb8IWo7q4fTXH5SX4TjsV0Pp)
+* [Optistruct by Anil Kumar](https://www.youtube.com/playlist?list=PLrXG4nKgafb8IWo7q4fTXH5SX4TjsV0Pp)
 
-* [Playlist](https://www.youtube.com/playlist?list=PLE4jpqcRJiBpJvHgHDmTZxi0J_RiXAz-6)
+* [Hyperworks Optistruct Tutorials by Manuel Ramsaier](https://www.youtube.com/playlist?list=PLE4jpqcRJiBpJvHgHDmTZxi0J_RiXAz-6)
 
-* [Playlist](https://www.youtube.com/playlist?list=PLRqUDK2aqvkDi21dCVdT0uJFTzslg67gz)
+* [HyperWorks Tips & Tricks by Altair](https://www.youtube.com/playlist?list=PLRqUDK2aqvkDi21dCVdT0uJFTzslg67gz)
 
-* [Playlist](https://www.youtube.com/playlist?list=PLAsvHPJrmoWZNrnXYYLkvV2ElNe2g3zxX)
+* [Hypermesh basics by Apoorv Bapat](https://www.youtube.com/playlist?list=PLAsvHPJrmoWZNrnXYYLkvV2ElNe2g3zxX)
 
-* [Playlist](https://www.youtube.com/playlist?list=PL86AF55AB0D9AA70C)
+* [Hypermesh Tutorial by TheScientifica](https://www.youtube.com/playlist?list=PL86AF55AB0D9AA70C)
 
-* [Playlist](https://www.youtube.com/playlist?list=PLvVR-5zpzf0HQVpv3gs58U620ekf--IsJ)
+* [Hypermesh Tutorials Collections by Fazle ahad](https://www.youtube.com/playlist?list=PLvVR-5zpzf0HQVpv3gs58U620ekf--IsJ)
 
-* [Playlist](https://www.youtube.com/playlist?list=PLJRDa46CU8JKZyLbEOxuACCbHi0_jk03X)
+* [SAEINDIA BAJA 2016 Online Training Session](https://www.youtube.com/playlist?list=PLJRDa46CU8JKZyLbEOxuACCbHi0_jk03X)
 
-* [Playlist](https://www.youtube.com/playlist?list=PLJRDa46CU8JIch9nYk54DzrcyoRJgkQDl)
+* [Dynamic Analysis of Roll Cage](https://www.youtube.com/playlist?list=PLJRDa46CU8JIch9nYk54DzrcyoRJgkQDl)
 
-* [Playlist](https://www.youtube.com/playlist?list=PLJRDa46CU8JLDsfzy0ZB06KLeIBKVi6Aw)
+* [SUPRA SAE India 2016 Pre-virtual online Training Session](https://www.youtube.com/playlist?list=PLJRDa46CU8JLDsfzy0ZB06KLeIBKVi6Aw)
 
-* [Playlist](https://www.youtube.com/playlist?list=PLJRDa46CU8JLaBjaiwbePkUKJeSqQyA-P)
+* [Formula Student India Online Training Series](https://www.youtube.com/playlist?list=PLJRDa46CU8JLaBjaiwbePkUKJeSqQyA-P)
 
-* [Playlist](https://www.youtube.com/playlist?list=PLJRDa46CU8JLLiGpLtlhkMSMDjTVzW_1r)
+* [BAJA Student India Online Training Series](https://www.youtube.com/playlist?list=PLJRDa46CU8JLLiGpLtlhkMSMDjTVzW_1r)
 
-* [Playlist](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
+* [Altair HyperWorks Online Training series - Meshing, Analysis & Post-processing](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
 
 ### For Fatigue Analysis
 ###### Books
