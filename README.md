@@ -297,6 +297,12 @@ Student/Free version: Available only for students with limited capability
 ### For Robotics
 #### ROS
 ###### Books
+* [Learning ROS for Robotics Programming ] (https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming-second-edition)
+* [Mastering ROS for Robotics Programming ] (https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming)
+* [Learning Robotics Using Python ] (https://www.packtpub.com/application-development/learning-robotics-using-python)
+* [ROS Robotics By Example ] (https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
+* 
+
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
