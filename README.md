@@ -20,6 +20,7 @@ So many free resources are available for computer science students and I am jeal
 - [ ] Vector and Tensor book
 - [ ] add robotics forum/abaqus nabble forum 
 - [ ] altair university books
+- [ ] Unix matt might page from my site
 - [ ] 
 
 ![Bilby Stampede](http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg)
@@ -75,7 +76,12 @@ So many free resources are available for computer science students and I am jeal
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
-#### Fortrun
+#### R (statistics)
+###### Books
+###### Articles
+###### Tutorials/MOOCs/Lectures
+
+#### Fortran
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
@@ -222,6 +228,35 @@ So many free resources are available for computer science students and I am jeal
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
+* [Playlist](https://www.youtube.com/playlist?list=PLOahOE6DpL4puVylWdpHWRoGhIfswDc6T)
+
+* [Playlist](https://www.youtube.com/playlist?list=PL1u26y75SCrBpe7SWbMEgOe0Ty3O7gPGS)
+
+* [Playlist](https://www.youtube.com/playlist?list=PL1u26y75SCrBHdDPaA2Thry6qwuSu2Uf_)
+
+* [Playlist](https://www.youtube.com/playlist?list=PLrXG4nKgafb8IWo7q4fTXH5SX4TjsV0Pp)
+
+* [Playlist](https://www.youtube.com/playlist?list=PLE4jpqcRJiBpJvHgHDmTZxi0J_RiXAz-6)
+
+* [Playlist](https://www.youtube.com/playlist?list=PLRqUDK2aqvkDi21dCVdT0uJFTzslg67gz)
+
+* [Playlist](https://www.youtube.com/playlist?list=PLAsvHPJrmoWZNrnXYYLkvV2ElNe2g3zxX)
+
+* [Playlist](https://www.youtube.com/playlist?list=PL86AF55AB0D9AA70C)
+
+* [Playlist](https://www.youtube.com/playlist?list=PLvVR-5zpzf0HQVpv3gs58U620ekf--IsJ)
+
+* [Playlist](https://www.youtube.com/playlist?list=PLJRDa46CU8JKZyLbEOxuACCbHi0_jk03X)
+
+* [Playlist](https://www.youtube.com/playlist?list=PLJRDa46CU8JIch9nYk54DzrcyoRJgkQDl)
+
+* [Playlist](https://www.youtube.com/playlist?list=PLJRDa46CU8JLDsfzy0ZB06KLeIBKVi6Aw)
+
+* [Playlist](https://www.youtube.com/playlist?list=PLJRDa46CU8JLaBjaiwbePkUKJeSqQyA-P)
+
+* [Playlist](https://www.youtube.com/playlist?list=PLJRDa46CU8JLLiGpLtlhkMSMDjTVzW_1r)
+
+* [Playlist](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
 
 ### For Fatigue Analysis
 ###### Books
