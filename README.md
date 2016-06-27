@@ -315,3 +315,9 @@ Student/Free version: Available only for students with limited capability
 * 
 
 ## Top Ten Journals for Different Fields
+
+## Competitions for MechE students/enthusiasts
+#### SAE Competitions
+#### Altair Contests
+###### Altair Optimization Contest (AOC)
+#### ASME Competitions
