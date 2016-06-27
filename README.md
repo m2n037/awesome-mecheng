@@ -246,6 +246,7 @@ Student/Free version: Not available.
 Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postprocessing tools for FEA by Altair Engineering. The flagship product is Hypermesh - a meshing software widely popular in CAE industry only challenged by ANSA, a new entrant from Beta CAE Systems. Hyperworks includes many software for different purposes though the mostly used ones are Optistruct and Radioss solvers besides Hypermesh.
 
 Student/Free version: Available only for students with limited capability
+[Link to student's version download](http://www.altairuniversity.com/hyperworks-licensing/)
 
 ###### Books
 ###### Articles
@@ -312,12 +313,29 @@ Student/Free version: Available only for students with limited capability
 ## Blogs/Forums for Mechanical Engineers
 * [Engineering StackExchange](https://engineering.stackexchange.com/)
 * [iMechanica](https://imechanica.org)
+* [Eng-Tips Forums] (http://www.eng-tips.com/threadarea.cfm)
 * 
 
-## Top Ten Journals for Different Fields
+## Top Publication Venues for Different Fields
+
+#### Mechanics, FEA, CFD
+###### Journals
+###### Conferences
+
+#### Dynamics, Theory of Machines
+###### Journals
+###### Conferences
+
+#### Manufacturing Engineering, Industrial Engineering
+###### Journals
+###### Conferences
+
+#### Robotics
+###### Journals
+###### Conferences
 
 ## Competitions for MechE students/enthusiasts
 #### SAE Competitions
 #### Altair Contests
-###### Altair Optimization Contest (AOC)
-#### ASME Competitions
+###### [Altair Optimization Contest (AOC)] (http://www.altairhyperworks.in/aoc/)
+#### [ASME Competitions] (https://www.asme.org/events/competitions)
