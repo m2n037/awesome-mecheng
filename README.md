@@ -166,6 +166,11 @@ So many free resources are available for computer science students and I am jeal
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
+### Additive Machining (Rapid Prototyping, 3D Printing)
+###### Books
+###### Articles
+###### Tutorials/MOOCs/Lectures
+
 ## Specialized Fields
 ### Robotics
 * [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux :+1: 
@@ -185,7 +190,7 @@ So many free resources are available for computer science students and I am jeal
 
 ###### Articles
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
-* 
+* [What Is a Good Linear Finite Element? by J R Shewchuk] (http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf)
 
 ###### Tutorials/MOOCs/Lectures
 
