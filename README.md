@@ -21,7 +21,7 @@ So many free resources are available for computer science students and I am jeal
 - [ ] add robotics forum/abaqus nabble forum 
 - [ ] altair university books
 - [ ] Unix matt might page from my site
-- [ ] 
+- [ ] nuts and bolts post
 
 ![Bilby Stampede](http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg)
 ###### This image is taken from the url http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg/
@@ -38,6 +38,23 @@ So many free resources are available for computer science students and I am jeal
 ### Advice 
 * To be added
 * 
+
+## Engineering 
+### Units and measurements
+###### Books
+* [A Dictionary of Units of Measurement] (https://www.unc.edu/~rowlett/units/)
+* 
+
+###### Articles
+###### Tutorials/MOOCs/Lectures
+
+### Material Properties 
+###### Books
+* [Mat-Web] (http://www.matweb.com/)
+* 
+
+###### Articles
+###### Tutorials/MOOCs/Lectures
 
 ## Mathematics and Programming
 ### Applied Mathematics
