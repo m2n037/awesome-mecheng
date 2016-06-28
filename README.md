@@ -92,6 +92,8 @@ So many free resources are available for computer science students and I am jeal
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
+* [MATLAB Toolbox tutorials] (http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
+* 
 
 #### R (statistics)
 ###### Books
