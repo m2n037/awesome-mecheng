@@ -119,8 +119,8 @@ So many free resources are available for computer science students and I am jeal
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
-*[The Engineering of Structures Around Us - edX Dartmouth] (https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x)
-*[Elements of Structures - edX MIT] (https://www.edx.org/course/elements-structures-mitx-2-01x-1)
+* [The Engineering of Structures Around Us - edX Dartmouth] (https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x)
+* [Elements of Structures - edX MIT] (https://www.edx.org/course/elements-structures-mitx-2-01x-1)
 
 ### Strength of Materials
 ###### Books
