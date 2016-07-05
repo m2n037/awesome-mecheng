@@ -71,6 +71,9 @@ So many free resources are available for computer science students and I am jeal
 
 
 ### Programming
+* [Free programming books](https://github.com/vhf/free-programming-books)
+* 
+
 #### Shell
 ###### Books
 ###### Articles
