@@ -125,15 +125,11 @@ So many free resources are available for computer science students and I am jeal
 * [The Engineering of Structures Around Us - edX Dartmouth] (https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x)
 * [Elements of Structures - edX MIT] (https://www.edx.org/course/elements-structures-mitx-2-01x-1)
 
-### Strength of Materials
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
-
 ### Advanced Strength of Materials/Continuum Mechanics
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
+* Many lecture notes links available [from iMechanica](http://imechanica.org/node/1551)
 
 ### Theory of Machines
 #### Mechanism Design
