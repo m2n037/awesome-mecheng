@@ -57,6 +57,7 @@ So many free resources are available for computer science students and I am jeal
 * 
 
 ###### Articles
+* [Mechanical Properties of Materials] (https://www.mechanicalc.com/reference/material-properties)
 ###### Tutorials/MOOCs/Lectures
 
 ## Mathematics and Programming
@@ -86,6 +87,11 @@ So many free resources are available for computer science students and I am jeal
 
 #### Python
 ###### Books
+* [A Byte of Python] (https://python.swaroopch.com/)
+  * Excellent introductory book, also available as a free .pdf from the site
+###### Websites
+* [Learn X in Y minutes] (https://learnxinyminutes.com/docs/python/)
+  * Great cheat sheet format, gives a brief but comprehensive overview of Python
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
@@ -97,6 +103,7 @@ So many free resources are available for computer science students and I am jeal
 #### MATLAB
 ###### Books
 ###### Articles
+* [Learn X in Y minutes] (https://learnxinyminutes.com/docs/matlab/)
 ###### Tutorials/MOOCs/Lectures
 * [MATLAB Toolbox tutorials] (http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
 * 
@@ -115,12 +122,23 @@ So many free resources are available for computer science students and I am jeal
 ## Mechanics & Theory of Machines
 ### Statics and Dynamics
 ###### Books
+* [Introduction to Statics and Dynamics (Free PDF)] (http://ruina.tam.cornell.edu/Book/)
 ###### Articles
+* [Bolted Joint Analysis] (https://www.mechanicalc.com/reference/bolted-joint-analysis)
+* [Lug Analysis] (https://www.mechanicalc.com/reference/lug-analysis)
 ###### Tutorials/MOOCs/Lectures
 
 ### Strength of Materials
 ###### Books
+* [Gere, Mechanics of Materials] (https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1)
+* [Dowling, Mechanical Behavior of Materials] (https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1)
+* [Roark's Formulas for Stress and Strain] (https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1)
 ###### Articles
+* [Strength of Materials] (https://www.mechanicalc.com/reference/strength-of-materials)
+* [Beam Stress and Deflection] (https://www.mechanicalc.com/reference/beam-analysis)
+* [Column Buckling] (https://www.mechanicalc.com/reference/column-buckling)
+
+
 ###### Tutorials/MOOCs/Lectures
 * [The Engineering of Structures Around Us - edX Dartmouth] (https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x)
 * [Elements of Structures - edX MIT] (https://www.edx.org/course/elements-structures-mitx-2-01x-1)
@@ -134,6 +152,7 @@ So many free resources are available for computer science students and I am jeal
 ### Theory of Machines
 #### Mechanism Design
 ###### Books
+* [Shigley's Mechanical Engineering Design] (https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2)
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
@@ -198,7 +217,8 @@ So many free resources are available for computer science students and I am jeal
 ### Finite Element Analysis
 ###### Books
 * [Finite Element Method by C S Jog] (http://hyfem.com/HyFem/fem.pdf)
-* 
+* [Finite Element Analysis Theory and Application with ANSYS] (https://www.amazon.com/Finite-Element-Analysis-Theory-Application/dp/0131890808/ref=sr_1_1)
+
 
 ###### Articles
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
@@ -239,7 +259,7 @@ So many free resources are available for computer science students and I am jeal
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
-#### Ansys
+#### ANSYS
 
 Student/Free version: Available for anyone with limited capability and usage for learning purpose
 
@@ -248,6 +268,15 @@ Student/Free version: Available for anyone with limited capability and usage for
 ###### Tutorials/MOOCs/Lectures
 * [EdX MOOC A Hands-on Introduction to Engineering Simulations](https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x)
 * 
+
+#### NEi Nastran
+
+Student/Free version: 
+
+###### Books
+###### Articles
+###### Tutorials/MOOCs/Lectures
+
 
 #### Abaqus
 
@@ -348,12 +377,46 @@ Student/Free version: Available only for students with limited capability
 * [Engineering StackExchange](https://engineering.stackexchange.com/)
 * [iMechanica](https://imechanica.org)
 * [Eng-Tips Forums] (http://www.eng-tips.com/threadarea.cfm)
-* 
+* [Physics Forums] (https://www.physicsforums.com/forums/mechanical-engineering.101/)
+
+
+## Useful Websites
+
+* [The American Society of Mechanical Engineers (ASME)] (https://www.asme.org/)
+* [McMaster-Carr] (https://www.mcmaster.com/)
+  * for finding components
+* [Ryerson Stock List] (https://www.ryerson.com/stocklist)
+  * for structural profiles
+* [How Stuff Works] (http://www.howstuffworks.com/)
+  * good articles explaining how everyday things work
+* [MechaniCalc] (https://mechanicalc.com/)
+  * provides calculators and reference material for mechanical engineers
+* [MIT OpenCourseWare] (https://ocw.mit.edu/index.htm)
+  * free online courses
+* [edX] (https://www.edx.org/)
+  * more free online courses
+
+
+## Online Calculators
+
+* [MechaniCalc] (https://mechanicalc.com/)
+  * provides calculators for mechanical engineers with extensive documentation on methodology used
+* [Desmos] (https://www.desmos.com/calculator)
+  * online graphing calculator
+* [WolframAlpha] (https://www.wolframalpha.com/)
+
 
 ## Top Publication Venues for Different Fields
 
+#### General
+###### Journals/Magazines
+* [Popular Science] (http://www.popsci.com/)
+
 #### Mechanics, FEA, CFD
-###### Journals
+###### Journals/Magazines
+* [Machine Design] (http://machinedesign.com/)
+* [Popular Mechanics] (http://www.popularmechanics.com/)
+* [Mechanical Engineering Magazine] (https://www.asme.org/about-asme/mechanical-engineering-magazine)
 ###### Conferences
 
 #### Dynamics, Theory of Machines
@@ -373,3 +436,4 @@ Student/Free version: Available only for students with limited capability
 #### Altair Contests
 ###### [Altair Optimization Contest (AOC)] (http://www.altairhyperworks.in/aoc/)
 #### [ASME Competitions] (https://www.asme.org/events/competitions)
+#### [FIRST Robotics Competition] (http://www.firstinspires.org/robotics/frc)
