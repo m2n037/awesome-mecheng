@@ -139,6 +139,8 @@ So many free resources are available for computer science students and I am jeal
 
 #### C++
 ###### Books
+* [Stackoverflow - The Definitive C++ Book Guide and List] (http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
@@ -146,6 +148,7 @@ So many free resources are available for computer science students and I am jeal
 ###### Books
 * [A Byte of Python] (https://python.swaroopch.com/)
   * Excellent introductory book, also available as a free .pdf from the site
+* [Dive into Python 3] (http://www.diveintopython3.net/index.html)
 
 ###### Websites
 * [Learn X in Y minutes] (https://learnxinyminutes.com/docs/python/)
@@ -167,7 +170,7 @@ So many free resources are available for computer science students and I am jeal
 
 ###### Tutorials/MOOCs/Lectures
 * [MATLAB Toolbox tutorials] (http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
-* 
+* [Control Tutorials for MATLAB and Simulink] (http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 #### R (statistics)
 ###### Books
