@@ -84,7 +84,8 @@ So many free resources are available for computer science students and I am jeal
 * 
 
 ### Rules and Regulations
-* To be added
+* Give preference to free and open source resources.
+* Personal experience with a resource is good way to decide whether it is good or not.
 * 
 
 ### Advice 
@@ -530,3 +531,4 @@ Student/Free version: Available only for students with limited capability
 ###### [Altair Optimization Contest (AOC)] (http://www.altairhyperworks.in/aoc/)
 #### [ASME Competitions] (https://www.asme.org/events/competitions)
 #### [FIRST Robotics Competition] (http://www.firstinspires.org/robotics/frc)
+#### Robotics Competitions
