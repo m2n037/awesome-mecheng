@@ -1,54 +1,54 @@
 # Awesome Mechanical Engineering Resources
 
 ## Table of Contents
-### Preamble
+###### Preamble
 * To-Do List
 * Overview List
 * Rules and Regulations
 * Advice
 
-### Engineering
+###### Engineering
 * Units and Measurements
 * Material Properties
 
-### Mathematics and Programming
+###### Mathematics and Programming
 * Applied Mathematics
 * Programming
 
-### Mechanics & Theory of Machines
+###### Mechanics & Theory of Machines
 * Statics and Dynamics
 * Strength of Materials
 * Advanced Strength of Materials/Continuum Mechanics
 * Theory of Machines
 
-### Thermal Engineering
+###### Thermal Engineering
 * Thermodynamics
 * Heat Transfer
 * Fluid Mechanics
 
-### Manufacturing
+###### Manufacturing
 * Conventional Manufacturing
 * Non-traditional Machining
 * Additive Machining (Rapid Prototyping, 3D Printing)
 
-### Specialized Fields
+###### Specialized Fields
 * Robotics
 * Finite Element Analysis
 * Computational Fluid Dynamics
 * Engineering Optimization
 * MEMS/NEMS/Nanotechnology/BioEngineering
 
-### Software Packages
+###### Software Packages
 * Finite Element Analysis
 * Fatigue Analysis
 * Control Engineering
 * Robotics
 
-### Blogs/Forums for Mechanical Engineers
-### Useful Websites
-### Online Calculators
-### Top Publication Venues for Different Fields
-### Competitions for MechE students/enthusiasts
+###### Blogs/Forums for Mechanical Engineers
+###### Useful Websites
+###### Online Calculators
+###### Top Publication Venues for Different Fields
+###### Competitions for MechE students/enthusiasts
 
 ---
 
