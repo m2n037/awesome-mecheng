@@ -58,6 +58,7 @@ So many free resources are available for computer science students and I am jeal
 
 ###### Articles
 * [Mechanical Properties of Materials] (https://www.mechanicalc.com/reference/material-properties)
+
 ###### Tutorials/MOOCs/Lectures
 
 ## Mathematics and Programming
@@ -89,10 +90,13 @@ So many free resources are available for computer science students and I am jeal
 ###### Books
 * [A Byte of Python] (https://python.swaroopch.com/)
   * Excellent introductory book, also available as a free .pdf from the site
+
 ###### Websites
 * [Learn X in Y minutes] (https://learnxinyminutes.com/docs/python/)
   * Great cheat sheet format, gives a brief but comprehensive overview of Python
+
 ###### Articles
+
 ###### Tutorials/MOOCs/Lectures
 
 #### Microsoft Excel VBA
@@ -104,6 +108,7 @@ So many free resources are available for computer science students and I am jeal
 ###### Books
 ###### Articles
 * [Learn X in Y minutes] (https://learnxinyminutes.com/docs/matlab/)
+
 ###### Tutorials/MOOCs/Lectures
 * [MATLAB Toolbox tutorials] (http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
 * 
@@ -123,9 +128,11 @@ So many free resources are available for computer science students and I am jeal
 ### Statics and Dynamics
 ###### Books
 * [Introduction to Statics and Dynamics (Free PDF)] (http://ruina.tam.cornell.edu/Book/)
+
 ###### Articles
 * [Bolted Joint Analysis] (https://www.mechanicalc.com/reference/bolted-joint-analysis)
 * [Lug Analysis] (https://www.mechanicalc.com/reference/lug-analysis)
+
 ###### Tutorials/MOOCs/Lectures
 
 ### Strength of Materials
@@ -133,6 +140,7 @@ So many free resources are available for computer science students and I am jeal
 * [Gere, Mechanics of Materials] (https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1)
 * [Dowling, Mechanical Behavior of Materials] (https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1)
 * [Roark's Formulas for Stress and Strain] (https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1)
+
 ###### Articles
 * [Strength of Materials] (https://www.mechanicalc.com/reference/strength-of-materials)
 * [Beam Stress and Deflection] (https://www.mechanicalc.com/reference/beam-analysis)
@@ -146,13 +154,16 @@ So many free resources are available for computer science students and I am jeal
 ### Advanced Strength of Materials/Continuum Mechanics
 ###### Books
 ###### Articles
+
 ###### Tutorials/MOOCs/Lectures
 * Many lecture notes links available [from iMechanica](http://imechanica.org/node/1551)
 
 ### Theory of Machines
 #### Mechanism Design
+
 ###### Books
 * [Shigley's Mechanical Engineering Design] (https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2)
+
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
@@ -265,6 +276,7 @@ Student/Free version: Available for anyone with limited capability and usage for
 
 ###### Books
 ###### Articles
+
 ###### Tutorials/MOOCs/Lectures
 * [EdX MOOC A Hands-on Introduction to Engineering Simulations](https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x)
 * 
@@ -353,6 +365,7 @@ Student/Free version: Available only for students with limited capability
 #### MATLAB
 ###### Books
 ###### Articles
+
 ###### Tutorials/MOOCs/Lectures
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
@@ -363,6 +376,7 @@ Student/Free version: Available only for students with limited capability
 
 ### For Robotics
 #### ROS
+
 ###### Books
 * [Learning ROS for Robotics Programming ] (https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming-second-edition)
 * [Mastering ROS for Robotics Programming ] (https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming)
@@ -409,14 +423,17 @@ Student/Free version: Available only for students with limited capability
 ## Top Publication Venues for Different Fields
 
 #### General
+
 ###### Journals/Magazines
 * [Popular Science] (http://www.popsci.com/)
 
 #### Mechanics, FEA, CFD
+
 ###### Journals/Magazines
 * [Machine Design] (http://machinedesign.com/)
 * [Popular Mechanics] (http://www.popularmechanics.com/)
 * [Mechanical Engineering Magazine] (https://www.asme.org/about-asme/mechanical-engineering-magazine)
+
 ###### Conferences
 
 #### Dynamics, Theory of Machines
