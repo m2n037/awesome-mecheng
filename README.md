@@ -127,7 +127,8 @@ So many free resources are available for computer science students and I am jeal
 * 
 
 ###### Tutorials/MOOCs/Lectures
-
+* [Essentials of Linear Algebra by 3Blue1Brown] (https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+*
 
 ### Programming
 * [Free programming books](https://github.com/vhf/free-programming-books)
