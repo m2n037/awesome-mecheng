@@ -50,6 +50,8 @@
 ### Top Publication Venues for Different Fields
 ### Competitions for MechE students/enthusiasts
 
+---
+
 ## Preamble
 So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice.
 
@@ -88,6 +90,8 @@ So many free resources are available for computer science students and I am jeal
 ### Advice 
 * To be added
 * 
+
+---
 
 ## Engineering 
 ### Units and measurements
