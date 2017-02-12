@@ -115,6 +115,8 @@ So many free resources are available for computer science students and I am jeal
 
 ###### Tutorials/MOOCs/Lectures
 
+---
+
 ## Mathematics and Programming
 ### Applied Mathematics
 ###### Books
@@ -178,6 +180,8 @@ So many free resources are available for computer science students and I am jeal
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
+---
+
 ## Mechanics & Theory of Machines
 ### Statics and Dynamics
 ###### Books
@@ -235,6 +239,8 @@ So many free resources are available for computer science students and I am jeal
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
+---
+
 ## Thermal Engineering
 ### Thermodynamics
 ###### Books
@@ -251,6 +257,8 @@ So many free resources are available for computer science students and I am jeal
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
+---
+
 ## Manufacturing
 ### Conventional Manufacturing
 ###### Books
@@ -266,6 +274,8 @@ So many free resources are available for computer science students and I am jeal
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
+
+---
 
 ## Specialized Fields
 ### Robotics
@@ -316,6 +326,8 @@ So many free resources are available for computer science students and I am jeal
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
+
+---
 
 ## Software Packages
 ### For Finite Element Analysis
@@ -441,12 +453,15 @@ Student/Free version: Available only for students with limited capability
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
+---
+
 ## Blogs/Forums for Mechanical Engineers
 * [Engineering StackExchange](https://engineering.stackexchange.com/)
 * [iMechanica](https://imechanica.org)
 * [Eng-Tips Forums] (http://www.eng-tips.com/threadarea.cfm)
 * [Physics Forums] (https://www.physicsforums.com/forums/mechanical-engineering.101/)
 
+---
 
 ## Useful Websites
 
@@ -464,6 +479,7 @@ Student/Free version: Available only for students with limited capability
 * [edX] (https://www.edx.org/)
   * more free online courses
 
+---
 
 ## Online Calculators
 
@@ -473,6 +489,7 @@ Student/Free version: Available only for students with limited capability
   * online graphing calculator
 * [WolframAlpha] (https://www.wolframalpha.com/)
 
+---
 
 ## Top Publication Venues for Different Fields
 
@@ -501,6 +518,8 @@ Student/Free version: Available only for students with limited capability
 #### Robotics
 ###### Journals
 ###### Conferences
+
+---
 
 ## Competitions for MechE students/enthusiasts
 #### SAE Competitions
