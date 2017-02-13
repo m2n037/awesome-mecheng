@@ -53,7 +53,7 @@
 ---
 
 ## Preamble
-So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice.
+_So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice._
 
 ###### To-Do List
 - [x] Add all ROS books from packt-pub
@@ -80,17 +80,16 @@ So many free resources are available for computer science students and I am jeal
 
 ### Overview Resources
 * [Survival guide for mechanical engineers on the journey to create astonishing engineering](https://nutsandbolts.quora.com/Survival-guide-for-mechanical-engineers-on-the-journey-to-create-astonishing-engineering)
+ _This was not written by me. An anonymous user wrote this in Quora and later deleted it. I kept an offline copy of the same and then later posted it as I found it awesome_
 * To be added
 * 
 
 ### Rules and Regulations
+_This section contains some rules to be followed while adding resources to this list_
 * Give preference to free and open source resources.
 * Personal experience with a resource is good way to decide whether it is good or not.
 * 
 
-### Advice 
-* To be added
-* 
 
 ---
 
@@ -166,6 +165,8 @@ So many free resources are available for computer science students and I am jeal
 ###### Tutorials/MOOCs/Lectures
 
 #### MATLAB
+* [Awesome MATLAB List by] (https://github.com/mikecroucher/awesome-MATLAB) [@mikecroucher](https://github.com/mikecroucher/)
+
 ###### Books
 ###### Articles
 * [Learn X in Y minutes] (https://learnxinyminutes.com/docs/matlab/)
