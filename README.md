@@ -534,10 +534,23 @@ Student/Free version: Available only for students with limited capability
 
 ## Competitions for MechE students/enthusiasts
 #### SAE Competitions
+
 #### Altair Contests
+
 ###### [Altair Optimization Contest (AOC)] (http://www.altairhyperworks.in/aoc/)
+
 #### [ASME Competitions] (https://www.asme.org/events/competitions)
-#### [FIRST Robotics Competition] (http://www.firstinspires.org/robotics/frc)
+
 #### Robotics Competitions
+* [Robocup Virtual Robot Competitions] (http://robocup.org/) | [RoboCup 2017] (http://www.robocup2017.org/)
+ * Robocup Soccer
+ * Robocup Rescue
+ * Robocup Home
+ * Robocup Industrial
+ * Robocup Junior
+* [FIRST Robotics Competition] (http://www.firstinspires.org/robotics/frc)
+* To be added
+
 #### Other Competitions
 * [Elsevier 3D Printing Grand Challenge] (http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
+*
