@@ -539,3 +539,5 @@ Student/Free version: Available only for students with limited capability
 #### [ASME Competitions] (https://www.asme.org/events/competitions)
 #### [FIRST Robotics Competition] (http://www.firstinspires.org/robotics/frc)
 #### Robotics Competitions
+#### Other Competitions
+* [Elsevier 3D Printing Grand Challenge] (http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
