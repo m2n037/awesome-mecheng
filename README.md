@@ -350,7 +350,9 @@ Student/Free version: Available for anyone with limited capability and usage for
 
 ###### Tutorials/MOOCs/Lectures
 * [EdX MOOC A Hands-on Introduction to Engineering Simulations](https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x)
-* 
+* [University of Alberta - ANSYS Tutorials] (http://www.mece.ualberta.ca/tutorials/ansys/)
+* [Cornell University- ANSYS Tutorials] (https://confluence.cornell.edu/display/SIMULATION/ANSYS+Learning+Modules)
+* [Ansys Support Resources] (http://www.ansys.com/products/academic/support-resources)
 
 #### NEi Nastran
 
@@ -376,6 +378,8 @@ Student/Free version: Not available but a student license can be obtained for le
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
+* [LS Dyna Official Examples Site] (http://www.dynaexamples.com/)
+* [LS Prepost Tutorials] (http://www.lstc.com/lspp/content/tutorials.shtml)
 
 #### Comsol
 
