@@ -1,4 +1,5 @@
 # Awesome Mechanical Engineering Resources
+_So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice._
 
 ## Table of Contents
 ###### Preamble
@@ -53,7 +54,7 @@
 ---
 
 ## Preamble
-_So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice._
+I got inspiration from the countless awesome lists in github. 
 
 ###### To-Do List
 - [x] Add all ROS books from packt-pub
