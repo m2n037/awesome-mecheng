@@ -549,6 +549,7 @@ Student/Free version: Available only for students with limited capability
  * Robocup Industrial
  * Robocup Junior
 * [FIRST Robotics Competition] (http://www.firstinspires.org/robotics/frc)
+* [Wearable Robotics Innovation Competition] (https://wra5.wildapricot.org/page-18058) at [WearRAcon 17] (https://wra5.wildapricot.org/event-2359716) by [Wearable Robotics Association] (http://www.wearablerobotics.com/)
 * To be added
 
 #### Other Competitions
