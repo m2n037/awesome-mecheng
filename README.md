@@ -574,7 +574,11 @@ GATE or [Graduate Aptitute Test in Engineering](https://en.wikipedia.org/wiki/Gr
 
 ###### PSU & Govt Entities Recruiting Through GATE
 These companies recruit engineering and management trainees using GATE score as qualifier. They are ordered alphabeticallly. Not all of them recruit every year which is indicated by Y/N
-* [AAI - Airports Authority of India](http://www.aai.aero/employment_news/Employee_Recruitment_new.jsp) *N*
-* [NTPC - National Thermal Power Corporation](http://www.ntpccareers.net/) *Y*
-* 
-* 
+
+An exhaustive list is available here - [List of 40+ PSUs Recruitment Through GATE 2017](https://testbook.com/blog/psus-recruitment-through-gate/)
+
+* [AAI - Airports Authority of India](http://www.aai.aero/employment_news/Employee_Recruitment_new.jsp) **N**
+* [NTPC - National Thermal Power Corporation](http://www.ntpccareers.net/) **Y**
+* [BARC - Bhaba Atomic Research Centre](https://www.i-register.co.in/barcengv17/frmdeclare.aspx) **Y**
+* [BBNL - Bharat Broadband Network Limited](http://www.bbnl.nic.in/index1.aspx?lid=43&lsid=281&pid=280&lev=2&langid=1) **N**
+*
