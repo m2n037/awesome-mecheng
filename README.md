@@ -555,3 +555,24 @@ Student/Free version: Available only for students with limited capability
 #### Other Competitions
 * [Elsevier 3D Printing Grand Challenge] (http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
 *
+
+## Qualifying Examinations
+Qualifying examinations are a kind of certification to engineers - PE in USA, GATE in India
+
+#### Mechanical Engineering PE
+
+#### GATE
+GATE or [Graduate Aptitute Test in Engineering](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) is a qualifying examination conducted by a consortium of [Indian Institutes of Technology](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology) and [Indian Institute of Science Bangalore](http://www.iisc.ac.in/). Even though the official reason to conduct GATE is for post-graduate admissions only, PSUs and Govt. research entities often recruit students on the basis of GATE score.
+
+###### How to Prepare 
+
+###### Topper's Story
+
+###### GATE specific Books
+
+###### GATE specific Tutorials/MOOCs
+
+###### PSU & Govt Entities Recruiting Through GATE
+* 
+* 
+* 
