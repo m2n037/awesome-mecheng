@@ -559,7 +559,7 @@ Student/Free version: Available only for students with limited capability
 ## Qualifying Examinations
 Qualifying examinations are a kind of certification to engineers - PE in USA, GATE in India
 
-Note: If you're from another country than USA or India, feel free to add a section relavant to your country's professional certification or equivalent examination. If you're not sure how to do that in Github, send me an [email](mailto:m2n037@gmail.com)
+**Note: If you're from another country than USA or India, feel free to add a section relavant to your country's professional certification or equivalent examination. If you're not sure how to do that in Github, send me an [email](mailto:m2n037@gmail.com)**
 
 ### Mechanical Engineering & Related PE License for USA
 [Official Practice of Engineering(PE) License Examination Website](http://ncees.org/engineering/pe/)
