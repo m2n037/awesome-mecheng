@@ -533,15 +533,15 @@ Student/Free version: Available only for students with limited capability
 ---
 
 ## Competitions for MechE students/enthusiasts
-#### SAE Competitions
+### SAE Competitions
 
 #### Altair Contests
 
 ###### [Altair Optimization Contest (AOC)] (http://www.altairhyperworks.in/aoc/)
 
-#### [ASME Competitions] (https://www.asme.org/events/competitions)
+### [ASME Competitions] (https://www.asme.org/events/competitions)
 
-#### Robotics Competitions
+### Robotics Competitions
 * [Robocup Virtual Robot Competitions] (http://robocup.org/) | [RoboCup 2017] (http://www.robocup2017.org/)
  * Robocup Soccer
  * Robocup Rescue
@@ -552,16 +552,16 @@ Student/Free version: Available only for students with limited capability
 * [Wearable Robotics Innovation Competition] (https://wra5.wildapricot.org/page-18058) at [WearRAcon 17] (https://wra5.wildapricot.org/event-2359716) by [Wearable Robotics Association] (http://www.wearablerobotics.com/)
 * To be added
 
-#### Other Competitions
+### Other Competitions
 * [Elsevier 3D Printing Grand Challenge] (http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
 *
 
 ## Qualifying Examinations
 Qualifying examinations are a kind of certification to engineers - PE in USA, GATE in India
 
-#### Mechanical Engineering PE
+### Mechanical Engineering PE
 
-#### GATE
+### GATE
 GATE or [Graduate Aptitute Test in Engineering](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) is a qualifying examination conducted by a consortium of [Indian Institutes of Technology](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology) and [Indian Institute of Science Bangalore](http://www.iisc.ac.in/). Even though the official reason to conduct GATE is for post-graduate admissions only, PSUs and Govt. research entities often recruit students on the basis of GATE score.
 
 ###### How to Prepare 
@@ -573,6 +573,8 @@ GATE or [Graduate Aptitute Test in Engineering](https://en.wikipedia.org/wiki/Gr
 ###### GATE specific Tutorials/MOOCs
 
 ###### PSU & Govt Entities Recruiting Through GATE
-* 
+These companies recruit engineering and management trainees using GATE score as qualifier. They are ordered alphabeticallly. Not all of them recruit every year which is indicated by Y/N
+* [AAI - Airports Authority of India](http://www.aai.aero/employment_news/Employee_Recruitment_new.jsp) *N*
+* [NTPC - National Thermal Power Corporation](http://www.ntpccareers.net/) *Y*
 * 
 * 
