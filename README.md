@@ -559,14 +559,29 @@ Student/Free version: Available only for students with limited capability
 ## Qualifying Examinations
 Qualifying examinations are a kind of certification to engineers - PE in USA, GATE in India
 
-### Mechanical Engineering PE
+Note: If you're from another country than USA or India, feel free to add a section relavant to your country's professional certification or equivalent examination. If you're not sure how to do that in Github, send me an [email](mailto:m2n037@gmail.com)
 
-### GATE
+### Mechanical Engineering & Related PE License for USA
+[Official Practice of Engineering(PE) License Examination Website](http://ncees.org/engineering/pe/)
+
+###### Information about the Exam
+* [Passing the PE Exam](https://mechanicalc.com/posts/passing-the-pe-exam)
+
+###### Topper's Story or How to Prepare
+
+###### ME PE specific Books
+
+###### ME PE specific Tutorials/MOOCs
+
+
+### GATE for India
+[GATE Official Website](www.gate.iitr.ernet.in/)
+
 GATE or [Graduate Aptitute Test in Engineering](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) is a qualifying examination conducted by a consortium of [Indian Institutes of Technology](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology) and [Indian Institute of Science Bangalore](http://www.iisc.ac.in/). Even though the official reason to conduct GATE is for post-graduate admissions only, PSUs and Govt. research entities often recruit students on the basis of GATE score.
 
-###### How to Prepare 
+###### Information about the Exam
 
-###### Topper's Story
+###### Topper's Story or How to Prepare
 
 ###### GATE specific Books
 
