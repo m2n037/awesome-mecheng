@@ -566,6 +566,7 @@ Qualifying examinations are a kind of certification to engineers - PE in USA, GA
 
 ###### Information about the Exam
 * [Passing the PE Exam](https://mechanicalc.com/posts/passing-the-pe-exam)
+* [Examinee Guide](http://ncees.org/exams/examinee-guide/)
 
 ###### Topper's Story or How to Prepare
 
