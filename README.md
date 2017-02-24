@@ -1,6 +1,13 @@
 # Awesome Mechanical Engineering Resources
 _So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice._
 
+---
+
+### Contact Details
+You can contact me at ``` m2n037 [at] gmail [dot] com ``` for any issue related to this list. Please mention "awesome mecheng" in the subject line.
+
+---
+
 ## Table of Contents
 ###### Preamble
 * To-Do List
@@ -556,6 +563,7 @@ Student/Free version: Available only for students with limited capability
 * [Elsevier 3D Printing Grand Challenge] (http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
 *
 
+---
 ## Qualifying Examinations
 Qualifying examinations are a kind of certification to engineers - PE in USA, GATE in India
 
