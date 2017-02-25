@@ -579,6 +579,9 @@ Qualifying examinations are a kind of certification to engineers - PE in USA, GA
 ###### Topper's Story or How to Prepare
 
 ###### ME PE specific Books
+* [Lindeburg, "Mechanical Engineering Reference Manual for the PE Exam"](https://www.amazon.com/Mechanical-Engineering-Reference-Manual-Exam/dp/1591264146/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=7defb8a434a541210f122c9306b2392d)
+* [Mechanical ME Practice Examination](https://www.amazon.com/Mechanical-PE-Practice-Examination-3rd/dp/1591264170/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=TZGSAJC0M4GVPQV089GD&linkCode=ll1&tag=mechanicalc-20&linkId=d42940ff0d1bdb59bc2ae2fdc98126a3)
+* [NCEES Mechanical PE Practice Exam](https://www.amazon.com/PE-Mechanical-Engineering-Materials-Practice/dp/1932613773/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=323726031869b0095d1a4641a056257a)
 
 ###### ME PE specific Tutorials/MOOCs
 
