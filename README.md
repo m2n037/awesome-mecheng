@@ -570,7 +570,7 @@ Qualifying examinations are a kind of certification to engineers - PE in USA, GA
 **Note: If you're from another country than USA or India, feel free to add a section relavant to your country's professional certification or equivalent examination. If you're not sure how to do that in Github, send me an [email](mailto:m2n037@gmail.com)**
 
 ### Mechanical Engineering & Related PE License for USA
-This examination is organized by [NCEES - National Council of Examiners for Engineering and Surveying](http://ncees.org/).
+A PE license is probably the most useful certification that a mechanical engineer can obtain.  A PE license is only actually a requirement if you want to provide services directly to the public, but it is still a good thing to have regardless.  It is a sign to employers and clients that you are a competent engineer, and the act of studying for the exam will sharpen your skills. This examination is organized by [NCEES - National Council of Examiners for Engineering and Surveying](http://ncees.org/).
 
 [Official Practice of Engineering(PE) License Examination Website](http://ncees.org/engineering/pe/)
 
