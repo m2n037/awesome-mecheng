@@ -570,11 +570,13 @@ Qualifying examinations are a kind of certification to engineers - PE in USA, GA
 **Note: If you're from another country than USA or India, feel free to add a section relavant to your country's professional certification or equivalent examination. If you're not sure how to do that in Github, send me an [email](mailto:m2n037@gmail.com)**
 
 ### Mechanical Engineering & Related PE License for USA
+This examination is organized by [NCEES - National Council of Examiners for Engineering and Surveying](http://ncees.org/).
+
 [Official Practice of Engineering(PE) License Examination Website](http://ncees.org/engineering/pe/)
 
 ###### Information about the Exam
 * [Passing the PE Exam](https://mechanicalc.com/posts/passing-the-pe-exam)
-* [Examinee Guide](http://ncees.org/exams/examinee-guide/)
+* [NCEES Examinee Guide](http://ncees.org/exams/examinee-guide/)
 
 ###### Topper's Story or How to Prepare
 
