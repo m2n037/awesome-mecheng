@@ -575,8 +575,8 @@ A PE license is probably the most useful certification that a mechanical enginee
 [Official Practice of Engineering(PE) License Examination Website](http://ncees.org/engineering/pe/)
 
 ###### Information about the Exam
-* [Passing the PE Exam](https://mechanicalc.com/posts/passing-the-pe-exam)
 * [NCEES Examinee Guide](http://ncees.org/exams/examinee-guide/)
+* [Passing the PE Exam](https://mechanicalc.com/posts/passing-the-pe-exam)
 
 ###### Topper's Story or How to Prepare
 
