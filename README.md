@@ -258,6 +258,9 @@ _This section contains some rules to be followed while adding resources to this 
 ## Thermal Engineering
 ### Thermodynamics
 ###### Books
+* Thermodynamics: An Engineering Approach by Yunus A. Cengel, Michael A. Boles
+* 
+
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
