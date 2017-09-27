@@ -3,6 +3,8 @@ _So many free resources are available for computer science students and I am jea
 
 Discuss this list in [Hacker News](https://news.ycombinator.com/item?id=15337556)
 
+Licensed under [GNU General Public License v3.0](https://github.com/m2n037/awesome-mecheng/blob/master/LICENSE.MD)
+
 ---
 
 ### Contact Details
