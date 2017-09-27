@@ -106,22 +106,22 @@ _This section contains some rules to be followed while adding resources to this 
 ## Engineering 
 ### Units and measurements
 ###### Books
-* [A Dictionary of Units of Measurement] (https://www.unc.edu/~rowlett/units/)
+* [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/)
 * 
 
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
-* [Creative Problem-Solving and Decision Making] (https://www.edx.org/course/creative-problem-solving-decision-making-delftx-tpm1x-0)
+* [Creative Problem-Solving and Decision Making](https://www.edx.org/course/creative-problem-solving-decision-making-delftx-tpm1x-0)
 
 ### Material Properties 
 ###### Books
 
 ###### Websites
-* [Mat-Web] (http://www.matweb.com/)
+* [Mat-Web](http://www.matweb.com/)
 * 
 
 ###### Articles
-* [Mechanical Properties of Materials] (https://www.mechanicalc.com/reference/material-properties)
+* [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
 
 ###### Tutorials/MOOCs/Lectures
 
@@ -136,7 +136,7 @@ _This section contains some rules to be followed while adding resources to this 
 * 
 
 ###### Tutorials/MOOCs/Lectures
-* [Essentials of Linear Algebra by 3Blue1Brown] (https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Essentials of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 *
 
 ### Programming
@@ -150,19 +150,19 @@ _This section contains some rules to be followed while adding resources to this 
 
 #### C++
 ###### Books
-* [Stackoverflow - The Definitive C++ Book Guide and List] (http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+* [Stackoverflow - The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
 
 #### Python
 ###### Books
-* [A Byte of Python] (https://python.swaroopch.com/)
+* [A Byte of Python](https://python.swaroopch.com/)
   * Excellent introductory book, also available as a free .pdf from the site
-* [Dive into Python 3] (http://www.diveintopython3.net/index.html)
+* [Dive into Python 3](http://www.diveintopython3.net/index.html)
 
 ###### Websites
-* [Learn X in Y minutes] (https://learnxinyminutes.com/docs/python/)
+* [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
   * Great cheat sheet format, gives a brief but comprehensive overview of Python
 
 ###### Articles
@@ -175,21 +175,21 @@ _This section contains some rules to be followed while adding resources to this 
 ###### Tutorials/MOOCs/Lectures
 
 #### MATLAB
-* [Awesome MATLAB List by] (https://github.com/mikecroucher/awesome-MATLAB) [@mikecroucher](https://github.com/mikecroucher/)
+* [Awesome MATLAB List by](https://github.com/mikecroucher/awesome-MATLAB) [@mikecroucher](https://github.com/mikecroucher/)
 
 ###### Books
 ###### Articles
-* [Learn X in Y minutes] (https://learnxinyminutes.com/docs/matlab/)
+* [Learn X in Y minutes](https://learnxinyminutes.com/docs/matlab/)
 
 ###### Tutorials/MOOCs/Lectures
-* [MATLAB Toolbox tutorials] (http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
-* [Control Tutorials for MATLAB and Simulink] (http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
+* [MATLAB Toolbox tutorials](http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
+* [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 #### R (statistics)
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
-* [Intro to R for data science - edX Microsoft] (https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0)
+* [Intro to R for data science - edX Microsoft](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0)
 
 #### Fortran
 ###### Books
@@ -201,29 +201,29 @@ _This section contains some rules to be followed while adding resources to this 
 ## Mechanics & Theory of Machines
 ### Statics and Dynamics
 ###### Books
-* [Introduction to Statics and Dynamics (Free PDF)] (http://ruina.tam.cornell.edu/Book/)
+* [Introduction to Statics and Dynamics (Free PDF)](http://ruina.tam.cornell.edu/Book/)
 
 ###### Articles
-* [Bolted Joint Analysis] (https://www.mechanicalc.com/reference/bolted-joint-analysis)
-* [Lug Analysis] (https://www.mechanicalc.com/reference/lug-analysis)
+* [Bolted Joint Analysis](https://www.mechanicalc.com/reference/bolted-joint-analysis)
+* [Lug Analysis](https://www.mechanicalc.com/reference/lug-analysis)
 
 ###### Tutorials/MOOCs/Lectures
 
 ### Strength of Materials
 ###### Books
-* [Gere, Mechanics of Materials] (https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1)
-* [Dowling, Mechanical Behavior of Materials] (https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1)
-* [Roark's Formulas for Stress and Strain] (https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1)
+* [Gere, Mechanics of Materials](https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1)
+* [Dowling, Mechanical Behavior of Materials](https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1)
+* [Roark's Formulas for Stress and Strain](https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1)
 
 ###### Articles
-* [Strength of Materials] (https://www.mechanicalc.com/reference/strength-of-materials)
-* [Beam Stress and Deflection] (https://www.mechanicalc.com/reference/beam-analysis)
-* [Column Buckling] (https://www.mechanicalc.com/reference/column-buckling)
+* [Strength of Materials](https://www.mechanicalc.com/reference/strength-of-materials)
+* [Beam Stress and Deflection](https://www.mechanicalc.com/reference/beam-analysis)
+* [Column Buckling](https://www.mechanicalc.com/reference/column-buckling)
 
 
 ###### Tutorials/MOOCs/Lectures
-* [The Engineering of Structures Around Us - edX Dartmouth] (https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x)
-* [Elements of Structures - edX MIT] (https://www.edx.org/course/elements-structures-mitx-2-01x-1)
+* [The Engineering of Structures Around Us - edX Dartmouth](https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x)
+* [Elements of Structures - edX MIT](https://www.edx.org/course/elements-structures-mitx-2-01x-1)
 
 ### Advanced Strength of Materials/Continuum Mechanics
 ###### Books
@@ -236,7 +236,7 @@ _This section contains some rules to be followed while adding resources to this 
 #### Mechanism Design
 
 ###### Books
-* [Shigley's Mechanical Engineering Design] (https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2)
+* [Shigley's Mechanical Engineering Design](https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2)
 
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
@@ -310,13 +310,13 @@ _This section contains some rules to be followed while adding resources to this 
 
 ### Finite Element Analysis
 ###### Books
-* [Finite Element Method by C S Jog] (http://hyfem.com/HyFem/fem.pdf)
-* [Finite Element Analysis Theory and Application with ANSYS] (https://www.amazon.com/Finite-Element-Analysis-Theory-Application/dp/0131890808/ref=sr_1_1)
+* [Finite Element Method by C S Jog](http://hyfem.com/HyFem/fem.pdf)
+* [Finite Element Analysis Theory and Application with ANSYS](https://www.amazon.com/Finite-Element-Analysis-Theory-Application/dp/0131890808/ref=sr_1_1)
 
 
 ###### Articles
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
-* [What Is a Good Linear Finite Element? by J R Shewchuk] (http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf)
+* [What Is a Good Linear Finite Element? by J R Shewchuk](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf)
 
 ###### Tutorials/MOOCs/Lectures
 
@@ -364,9 +364,9 @@ Student/Free version: Available for anyone with limited capability and usage for
 
 ###### Tutorials/MOOCs/Lectures
 * [EdX MOOC A Hands-on Introduction to Engineering Simulations](https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x)
-* [University of Alberta - ANSYS Tutorials] (http://www.mece.ualberta.ca/tutorials/ansys/)
-* [Cornell University- ANSYS Tutorials] (https://confluence.cornell.edu/display/SIMULATION/ANSYS+Learning+Modules)
-* [Ansys Support Resources] (http://www.ansys.com/products/academic/support-resources)
+* [University of Alberta - ANSYS Tutorials](http://www.mece.ualberta.ca/tutorials/ansys/)
+* [Cornell University- ANSYS Tutorials](https://confluence.cornell.edu/display/SIMULATION/ANSYS+Learning+Modules)
+* [Ansys Support Resources](http://www.ansys.com/products/academic/support-resources)
 
 #### NEi Nastran
 
@@ -392,8 +392,8 @@ Student/Free version: Not available but a student license can be obtained for le
 ###### Books
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
-* [LS Dyna Official Examples Site] (http://www.dynaexamples.com/)
-* [LS Prepost Tutorials] (http://www.lstc.com/lspp/content/tutorials.shtml)
+* [LS Dyna Official Examples Site](http://www.dynaexamples.com/)
+* [LS Prepost Tutorials](http://www.lstc.com/lspp/content/tutorials.shtml)
 
 #### Comsol
 
@@ -467,10 +467,10 @@ Student/Free version: Available only for students with limited capability
 #### ROS
 
 ###### Books
-* [Learning ROS for Robotics Programming ] (https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming-second-edition)
-* [Mastering ROS for Robotics Programming ] (https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming)
-* [Learning Robotics Using Python ] (https://www.packtpub.com/application-development/learning-robotics-using-python)
-* [ROS Robotics By Example ] (https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
+* [Learning ROS for Robotics Programming ](https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming-second-edition)
+* [Mastering ROS for Robotics Programming ](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming)
+* [Learning Robotics Using Python ](https://www.packtpub.com/application-development/learning-robotics-using-python)
+* [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
 * 
 
 ###### Articles
@@ -481,36 +481,36 @@ Student/Free version: Available only for students with limited capability
 ## Blogs/Forums for Mechanical Engineers
 * [Engineering StackExchange](https://engineering.stackexchange.com/)
 * [iMechanica](https://imechanica.org)
-* [Eng-Tips Forums] (http://www.eng-tips.com/threadarea.cfm)
-* [Physics Forums] (https://www.physicsforums.com/forums/mechanical-engineering.101/)
+* [Eng-Tips Forums](http://www.eng-tips.com/threadarea.cfm)
+* [Physics Forums](https://www.physicsforums.com/forums/mechanical-engineering.101/)
 
 ---
 
 ## Useful Websites
 
-* [The American Society of Mechanical Engineers (ASME)] (https://www.asme.org/)
-* [McMaster-Carr] (https://www.mcmaster.com/)
+* [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
+* [McMaster-Carr](https://www.mcmaster.com/)
   * for finding components
-* [Ryerson Stock List] (https://www.ryerson.com/stocklist)
+* [Ryerson Stock List](https://www.ryerson.com/stocklist)
   * for structural profiles
-* [How Stuff Works] (http://www.howstuffworks.com/)
+* [How Stuff Works](http://www.howstuffworks.com/)
   * good articles explaining how everyday things work
-* [MechaniCalc] (https://mechanicalc.com/)
+* [MechaniCalc](https://mechanicalc.com/)
   * provides calculators and reference material for mechanical engineers
-* [MIT OpenCourseWare] (https://ocw.mit.edu/index.htm)
+* [MIT OpenCourseWare] https://ocw.mit.edu/index.htm)
   * free online courses
-* [edX] (https://www.edx.org/)
+* [edX](https://www.edx.org/)
   * more free online courses
 
 ---
 
 ## Online Calculators
 
-* [MechaniCalc] (https://mechanicalc.com/)
+* [MechaniCalc](https://mechanicalc.com/)
   * provides calculators for mechanical engineers with extensive documentation on methodology used
-* [Desmos] (https://www.desmos.com/calculator)
+* [Desmos](https://www.desmos.com/calculator)
   * online graphing calculator
-* [WolframAlpha] (https://www.wolframalpha.com/)
+* [WolframAlpha](https://www.wolframalpha.com/)
 
 ---
 
@@ -519,14 +519,14 @@ Student/Free version: Available only for students with limited capability
 #### General
 
 ###### Journals/Magazines
-* [Popular Science] (http://www.popsci.com/)
+* [Popular Science](http://www.popsci.com/)
 
 #### Mechanics, FEA, CFD
 
 ###### Journals/Magazines
-* [Machine Design] (http://machinedesign.com/)
-* [Popular Mechanics] (http://www.popularmechanics.com/)
-* [Mechanical Engineering Magazine] (https://www.asme.org/about-asme/mechanical-engineering-magazine)
+* [Machine Design](http://machinedesign.com/)
+* [Popular Mechanics](http://www.popularmechanics.com/)
+* [Mechanical Engineering Magazine](https://www.asme.org/about-asme/mechanical-engineering-magazine)
 
 ###### Conferences
 
@@ -549,23 +549,23 @@ Student/Free version: Available only for students with limited capability
 
 #### Altair Contests
 
-###### [Altair Optimization Contest (AOC)] (http://www.altairhyperworks.in/aoc/)
+###### [Altair Optimization Contest (AOC)](http://www.altairhyperworks.in/aoc/)
 
-### [ASME Competitions] (https://www.asme.org/events/competitions)
+### [ASME Competitions](https://www.asme.org/events/competitions)
 
 ### Robotics Competitions
-* [Robocup Virtual Robot Competitions] (http://robocup.org/) | [RoboCup 2017] (http://www.robocup2017.org/)
+* [Robocup Virtual Robot Competitions](http://robocup.org/) | [RoboCup 2017](http://www.robocup2017.org/)
  * Robocup Soccer
  * Robocup Rescue
  * Robocup Home
  * Robocup Industrial
  * Robocup Junior
-* [FIRST Robotics Competition] (http://www.firstinspires.org/robotics/frc)
-* [Wearable Robotics Innovation Competition] (https://wra5.wildapricot.org/page-18058) at [WearRAcon 17] (https://wra5.wildapricot.org/event-2359716) by [Wearable Robotics Association] (http://www.wearablerobotics.com/)
+* [FIRST Robotics Competition](http://www.firstinspires.org/robotics/frc)
+* [Wearable Robotics Innovation Competition](https://wra5.wildapricot.org/page-18058) at [WearRAcon 17](https://wra5.wildapricot.org/event-2359716) by [Wearable Robotics Association](http://www.wearablerobotics.com/)
 * To be added
 
 ### Other Competitions
-* [Elsevier 3D Printing Grand Challenge] (http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
+* [Elsevier 3D Printing Grand Challenge](http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
 *
 
 ---
@@ -621,4 +621,3 @@ An exhaustive list is available here - [List of 40+ PSUs Recruitment Through GAT
 * [NTPC - National Thermal Power Corporation](http://www.ntpccareers.net/) **Y**
 * [BARC - Bhaba Atomic Research Centre](https://www.i-register.co.in/barcengv17/frmdeclare.aspx) **Y**
 * [BBNL - Bharat Broadband Network Limited](http://www.bbnl.nic.in/index1.aspx?lid=43&lsid=281&pid=280&lev=2&langid=1) **N**
-*
