@@ -1,4 +1,7 @@
 # Awesome Mechanical Engineering Resources
+
+https://github.com/m2n037/awesome-mecheng/blob/master/img/awesome-logo.png
+
 _So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice._
 
 Check the [contributions guideline](https://github.com/m2n037/awesome-mecheng/blob/master/contributions.md)
