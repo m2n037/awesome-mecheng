@@ -9,11 +9,6 @@ Licensed under [GNU General Public License v3.0](https://github.com/m2n037/aweso
 
 ---
 
-### Contact Details
-You can contact me at ``` m2n037 [at] gmail [dot] com ``` for any issue related to this list. Please mention "awesome mecheng" in the subject line.
-
----
-
 ## Table of Contents
 ###### Preamble
 * To-Do List
@@ -68,29 +63,6 @@ You can contact me at ``` m2n037 [at] gmail [dot] com ``` for any issue related 
 
 ## Preamble
 I got inspiration from the countless awesome lists in github. 
-
-###### To-Do List
-- [x] Add all ROS books from packt-pub
-- [ ] Add all youtube playlists
-- [ ] LS Dyna tutorial sites
-- [ ] Ansys cornell sites
-- [ ] FEM software books from my repo list
-- [ ] Stackexchange recommended books for C++/Python
-- [ ] Awesome lists from github to relvant sections
-- [ ] EdX courses to relvant sections
-- [ ] Add stuff to this list when you remember
-- [ ] Create rules and regulations
-- [ ] Cool answers from Quora
-- [ ] Mechanism design books by DS
-- [x] Jog free book for FEM
-- [ ] Vector and Tensor book
-- [ ] add robotics forum/abaqus nabble forum 
-- [ ] altair university books
-- [ ] Unix matt might page from my site
-- [ ] nuts and bolts post
-
-![Bilby Stampede](http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg)
-###### This image is taken from the url http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg/
 
 ### Overview Resources
 * [Survival guide for mechanical engineers on the journey to create astonishing engineering](https://nutsandbolts.quora.com/Survival-guide-for-mechanical-engineers-on-the-journey-to-create-astonishing-engineering)
