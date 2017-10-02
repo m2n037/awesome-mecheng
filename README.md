@@ -296,6 +296,7 @@ _This section contains some rules to be followed while adding resources to this 
 
 ### Finite Element Analysis
 ###### Books
+* [Finite Element Procedures by KJ Bathe](web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf)
 * [Finite Element Method by C S Jog](http://hyfem.com/HyFem/fem.pdf)
 * [Finite Element Analysis Theory and Application with ANSYS](https://www.amazon.com/Finite-Element-Analysis-Theory-Application/dp/0131890808/ref=sr_1_1)
 
