@@ -144,6 +144,13 @@ _This section contains some rules to be followed while adding resources to this 
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
   * Great cheat sheet format, gives a brief but comprehensive overview of Python
 
+### Julia
+
+###### Websites
+* [Learning Julia](https://julialang.org/learning/)
+  * Julia's official learning resources
+* [Learn X in Y minutes, where X=Julia](https://learnxinyminutes.com/docs/julia/)
+
 ###### Articles
 
 ###### Tutorials/MOOCs/Lectures
