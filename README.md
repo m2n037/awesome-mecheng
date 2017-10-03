@@ -296,7 +296,7 @@ _This section contains some rules to be followed while adding resources to this 
 
 ### Finite Element Analysis
 ###### Books
-* [Finite Element Procedures by KJ Bathe](web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf)
+* [Finite Element Procedures by KJ Bathe](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf)
 * [Finite Element Method by C S Jog](http://hyfem.com/HyFem/fem.pdf)
 * [Finite Element Analysis Theory and Application with ANSYS](https://www.amazon.com/Finite-Element-Analysis-Theory-Application/dp/0131890808/ref=sr_1_1)
 
@@ -344,7 +344,7 @@ _This section contains some rules to be followed while adding resources to this 
 
 #### ANSYS
 
-Student/Free version: Available for anyone with limited capability and usage for learning purpose
+[Student/Free version](http://www.ansys.com/academic/free-student-products): Available for anyone with limited capability and usage for learning purpose
 
 ###### Books
 ###### Articles
@@ -366,7 +366,7 @@ Student/Free version:
 
 #### Abaqus
 
-Student/Free version: Available
+[Student/Free version](https://academy.3ds.com/en/software/abaqus-student-edition): Available
 
 ###### Books
 ###### Articles
