@@ -484,7 +484,7 @@ Student/Free version: Available only for students with limited capability
   * good articles explaining how everyday things work
 * [MechaniCalc](https://mechanicalc.com/)
   * provides calculators and reference material for mechanical engineers
-* [MIT OpenCourseWare] https://ocw.mit.edu/index.htm)
+* [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
   * free online courses
 * [edX](https://www.edx.org/)
   * more free online courses
