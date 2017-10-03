@@ -366,7 +366,7 @@ Student/Free version:
 
 #### Abaqus
 
-[Student/Free version](https://academy.3ds.com/en/software/abaqus-student-edition): Available
+[Student/Free version](https://academy.3ds.com/en/software/abaqus-student-edition): Available, 1000 nodes limit.
 
 ###### Books
 ###### Articles
