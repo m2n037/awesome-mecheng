@@ -109,7 +109,9 @@ _This section contains some rules to be followed while adding resources to this 
 ## Mathematics and Programming
 ### Applied Mathematics
 ###### Books
-
+* [Numerical Anlysis for Engineering, by D.W. Harder and R. Khoury](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/)
+* [Numerical Recipes in C, by W.H. Press, B.P. Flannery, S.A. TEukolsky and W.T. Vetterly](http://www.nrbook.com/a/bookcpdf.html) (1992) Free for personal use.
+* [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by G. Cain.
 ###### Articles
 * [What is it like to understand advanced mathematics?](http://qr.ae/1tpuVn)
 * 
@@ -213,6 +215,8 @@ _This section contains some rules to be followed while adding resources to this 
 
 ### Advanced Strength of Materials/Continuum Mechanics
 ###### Books
+* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired.
+
 ###### Articles
 
 ###### Tutorials/MOOCs/Lectures
@@ -337,6 +341,9 @@ _This section contains some rules to be followed while adding resources to this 
 
 ## Software Packages
 ### For Finite Element Analysis
+* [deal.II](https://www.dealii.org/) (C++ library)
+* [FEniCS Project](https://fenicsproject.org/) (C++ and Python library)
+* [List of FE packages](https://en.wikipedia.org/wiki/List_of_finite_element_software_packages) (Wikipedia)
 #### OpenFoam
 ###### Books
 ###### Articles
@@ -390,6 +397,9 @@ Student/Free version: Not available.
 
 ###### Books
 ###### Articles
+* [Comsol Blog](https://www.comsol.com/blogs/)
+* [Comsol Technical Papers and Presentations](https://www.comsol.com/papers-presentations)
+
 ###### Tutorials/MOOCs/Lectures
 
 #### Hyperworks (Radioss, Optistruct)
@@ -470,6 +480,7 @@ Student/Free version: Available only for students with limited capability
 * [iMechanica](https://imechanica.org)
 * [Eng-Tips Forums](http://www.eng-tips.com/threadarea.cfm)
 * [Physics Forums](https://www.physicsforums.com/forums/mechanical-engineering.101/)
+* [IEEE Spectrum](https://spectrum.ieee.org/)
 
 ---
 
@@ -488,6 +499,13 @@ Student/Free version: Available only for students with limited capability
   * free online courses
 * [edX](https://www.edx.org/)
   * more free online courses
+* [Google Scholar Classic Papers](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
+* [fxSolver](https://www.fxsolver.com/)
+  * Solver for engineering and scientific equations. 
+* [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/)
+   * Quick prototyping of linkage mechanism
+* [SCIRP](http://www.scirp.org/) 
+   * Open Access accademic publisher.
 
 ---
 
