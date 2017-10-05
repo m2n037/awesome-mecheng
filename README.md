@@ -146,6 +146,13 @@ _This section contains some rules to be followed while adding resources to this 
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
   * Great cheat sheet format, gives a brief but comprehensive overview of Python
 
+### Julia
+
+###### Websites
+* [Learning Julia](https://julialang.org/learning/)
+  * Julia's official learning resources
+* [Learn X in Y minutes, where X=Julia](https://learnxinyminutes.com/docs/julia/)
+
 ###### Articles
 
 ###### Tutorials/MOOCs/Lectures
@@ -293,6 +300,7 @@ _This section contains some rules to be followed while adding resources to this 
 
 ### Finite Element Analysis
 ###### Books
+* [Finite Element Procedures by KJ Bathe](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf)
 * [Finite Element Method by C S Jog](http://hyfem.com/HyFem/fem.pdf)
 * [Finite Element Analysis Theory and Application with ANSYS](https://www.amazon.com/Finite-Element-Analysis-Theory-Application/dp/0131890808/ref=sr_1_1)
 
@@ -343,7 +351,7 @@ _This section contains some rules to be followed while adding resources to this 
 
 #### ANSYS
 
-Student/Free version: Available for anyone with limited capability and usage for learning purpose
+[Student/Free version](http://www.ansys.com/academic/free-student-products): Available for anyone with limited capability and usage for learning purpose
 
 ###### Books
 ###### Articles
@@ -365,7 +373,7 @@ Student/Free version:
 
 #### Abaqus
 
-Student/Free version: Available
+[Student/Free version](https://academy.3ds.com/en/software/abaqus-student-edition): Available, 1000 nodes limit.
 
 ###### Books
 ###### Articles
@@ -487,7 +495,7 @@ Student/Free version: Available only for students with limited capability
   * good articles explaining how everyday things work
 * [MechaniCalc](https://mechanicalc.com/)
   * provides calculators and reference material for mechanical engineers
-* [MIT OpenCourseWare] https://ocw.mit.edu/index.htm)
+* [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
   * free online courses
 * [edX](https://www.edx.org/)
   * more free online courses
