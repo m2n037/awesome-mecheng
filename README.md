@@ -384,6 +384,9 @@ Student/Free version: Not available.
 
 ###### Books
 ###### Articles
+* [Comsol Blog](https://www.comsol.com/blogs/)
+* [Comsol Technical Papers and Presentations](https://www.comsol.com/papers-presentations)
+
 ###### Tutorials/MOOCs/Lectures
 
 #### Hyperworks (Radioss, Optistruct)
