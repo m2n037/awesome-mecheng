@@ -206,6 +206,8 @@ _This section contains some rules to be followed while adding resources to this 
 
 ### Advanced Strength of Materials/Continuum Mechanics
 ###### Books
+* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired.
+
 ###### Articles
 
 ###### Tutorials/MOOCs/Lectures
