@@ -333,6 +333,8 @@ _This section contains some rules to be followed while adding resources to this 
 
 ## Software Packages
 ### For Finite Element Analysis
+* [deal.II](https://www.dealii.org/) (C++ library)
+* [FEniCS Project](https://fenicsproject.org/) (C++ and Python library)
 #### OpenFoam
 ###### Books
 ###### Articles
