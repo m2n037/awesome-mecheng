@@ -108,10 +108,10 @@ _This section contains some rules to be followed while adding resources to this 
 
 ## Mathematics and Programming
 ### Applied Mathematics
+###### Books
 * [Numerical Anlysis for Engineering, by D.W. Harder and R. Khoury](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/)
 * [Numerical Recipes in C, by W.H. Press, B.P. Flannery, S.A. TEukolsky and W.T. Vetterly](http://www.nrbook.com/a/bookcpdf.html) (1992) Free for personal use.
-###### Books
-
+* [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by G. Cain.
 ###### Articles
 * [What is it like to understand advanced mathematics?](http://qr.ae/1tpuVn)
 * 
