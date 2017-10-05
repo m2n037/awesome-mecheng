@@ -490,6 +490,7 @@ Student/Free version: Available only for students with limited capability
   * free online courses
 * [edX](https://www.edx.org/)
   * more free online courses
+* [Google Scholar Classic Papers](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
 
 ---
 
