@@ -472,6 +472,7 @@ Student/Free version: Available only for students with limited capability
 * [iMechanica](https://imechanica.org)
 * [Eng-Tips Forums](http://www.eng-tips.com/threadarea.cfm)
 * [Physics Forums](https://www.physicsforums.com/forums/mechanical-engineering.101/)
+* [IEEE Spectrum](https://spectrum.ieee.org/)
 
 ---
 
