@@ -108,6 +108,8 @@ _This section contains some rules to be followed while adding resources to this 
 
 ## Mathematics and Programming
 ### Applied Mathematics
+* [Numerical Anlysis for Engineering, by D.W. Harder and R. Khoury](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/)
+* [Numerical Recipes in C, by W.H. Press, B.P. Flannery, S.A. TEukolsky and W.T. Vetterly](http://www.nrbook.com/a/bookcpdf.html) (1992) Free for personal use.
 ###### Books
 
 ###### Articles
