@@ -496,6 +496,9 @@ Student/Free version: Available only for students with limited capability
   * Solver for engineering and scientific equations. 
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/)
    * Quick prototyping of linkage mechanism
+* [SCIRP](http://www.scirp.org/) 
+   * Open Access accademic publisher.
+
 ---
 
 ## Online Calculators
