@@ -244,6 +244,7 @@ _This section contains some rules to be followed while adding resources to this 
 
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
+ * [Classical Control Theory, by Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
 
 ---
 
