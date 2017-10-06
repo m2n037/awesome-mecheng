@@ -509,7 +509,6 @@ Student/Free version: Available only for students with limited capability
    * Open Access accademic publisher.
 * [InTech](https://www.intechopen.com/books/subject/mechanical-engineering)
    * Open Acess book publisher.
-* [The Royal Society](http://rspa.royalsocietypublishing.org/collection/mechanical-engineering)
 ---
 
 ## Online Calculators
