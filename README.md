@@ -507,7 +507,8 @@ Student/Free version: Available only for students with limited capability
    * Quick prototyping of linkage mechanism
 * [SCIRP](http://www.scirp.org/) 
    * Open Access accademic publisher.
-
+* [InTech](https://www.intechopen.com/books/subject/mechanical-engineering)
+   * Open Acess book publisher.
 ---
 
 ## Online Calculators
