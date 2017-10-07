@@ -244,6 +244,7 @@ _This section contains some rules to be followed while adding resources to this 
 
 ###### Articles
 ###### Tutorials/MOOCs/Lectures
+ * [Classical Control Theory, by Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
 
 ---
 
@@ -481,6 +482,7 @@ Student/Free version: Available only for students with limited capability
 * [Eng-Tips Forums](http://www.eng-tips.com/threadarea.cfm)
 * [Physics Forums](https://www.physicsforums.com/forums/mechanical-engineering.101/)
 * [IEEE Spectrum](https://spectrum.ieee.org/)
+* [ScarbsTech](http://scarbsf1.com/), everything technical in F1
 
 ---
 
@@ -504,9 +506,10 @@ Student/Free version: Available only for students with limited capability
   * Solver for engineering and scientific equations. 
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/)
    * Quick prototyping of linkage mechanism
-* [SCIRP](http://www.scirp.org/) 
-   * Open Access accademic publisher.
-
+* [SCIRP, Modern Mechanical Engineering](http://www.scirp.org/journal/mme/)
+   * Open Journal.
+* [InTech](https://www.intechopen.com/books/subject/mechanical-engineering)
+   * Open Acess book publisher.
 ---
 
 ## Online Calculators
