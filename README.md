@@ -495,6 +495,8 @@ Student/Free version: Available only for students with limited capability
   * for structural profiles
 * [How Stuff Works](http://www.howstuffworks.com/)
   * good articles explaining how everyday things work
+* [MatWeb](http://www.matweb.com/index.aspx)
+  * Database of material properties
 * [MechaniCalc](https://mechanicalc.com/)
   * provides calculators and reference material for mechanical engineers
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
