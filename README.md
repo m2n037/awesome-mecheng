@@ -510,6 +510,8 @@ Student/Free version: Available only for students with limited capability
    * Open Journal.
 * [InTech](https://www.intechopen.com/books/subject/mechanical-engineering)
    * Open Acess book publisher.
+* [traceparts online](https://www.tracepartsonline.net/)
+   * CAD part library
 ---
 
 ## Online Calculators
