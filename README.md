@@ -118,7 +118,7 @@ _This section contains some rules to be followed while adding resources to this 
 
 ###### Tutorials/MOOCs/Lectures
 * [Essentials of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-*
+* [Numerical Methods for PDEs, by Qiqi Wang](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos)
 
 ### Programming
 * [Free programming books](https://github.com/vhf/free-programming-books)
