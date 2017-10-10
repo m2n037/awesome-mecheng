@@ -84,39 +84,26 @@ _This section contains some rules to be followed while adding resources to this 
 
 ## Engineering 
 ### Units and measurements
-###### Books
+
 * [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/)
 * 
-
-###### Articles
-###### Tutorials/MOOCs/Lectures
 * [Creative Problem-Solving and Decision Making](https://www.edx.org/course/creative-problem-solving-decision-making-delftx-tpm1x-0)
 
 ### Material Properties 
-###### Books
 
-###### Websites
 * [Mat-Web](http://www.matweb.com/)
 * 
-
-###### Articles
 * [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
-
-###### Tutorials/MOOCs/Lectures
 
 ---
 
 ## Mathematics and Programming
 ### Applied Mathematics
-###### Books
 * [Numerical Anlysis for Engineering, by D.W. Harder and R. Khoury](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/)
 * [Numerical Recipes in C, by W.H. Press, B.P. Flannery, S.A. TEukolsky and W.T. Vetterly](http://www.nrbook.com/a/bookcpdf.html) (1992) Free for personal use.
 * [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by G. Cain.
-###### Articles
 * [What is it like to understand advanced mathematics?](http://qr.ae/1tpuVn)
 * 
-
-###### Tutorials/MOOCs/Lectures
 * [Essentials of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Numerical Methods for PDEs, by Qiqi Wang](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos)
 
@@ -125,114 +112,68 @@ _This section contains some rules to be followed while adding resources to this 
 * 
 
 #### Shell
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
+
 
 #### C++
-###### Books
 * [Stackoverflow - The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 #### Python
-###### Books
 * [A Byte of Python](https://python.swaroopch.com/)
   * Excellent introductory book, also available as a free .pdf from the site
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
-
-###### Websites
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
   * Great cheat sheet format, gives a brief but comprehensive overview of Python
 
 ### Julia
-
-###### Websites
 * [Learning Julia](https://julialang.org/learning/)
   * Julia's official learning resources
 * [Learn X in Y minutes, where X=Julia](https://learnxinyminutes.com/docs/julia/)
 
-###### Articles
-
-###### Tutorials/MOOCs/Lectures
 
 #### Microsoft Excel VBA
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
+
 
 #### MATLAB
 * [Awesome MATLAB List by](https://github.com/mikecroucher/awesome-MATLAB) [@mikecroucher](https://github.com/mikecroucher/)
 
 ###### Books
-###### Articles
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/matlab/)
-
-###### Tutorials/MOOCs/Lectures
 * [MATLAB Toolbox tutorials](http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 #### R (statistics)
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 * [Intro to R for data science - edX Microsoft](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0)
 
 #### Fortran
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 ---
 
 ## Mechanics & Theory of Machines
 ### Statics and Dynamics
-###### Books
 * [Introduction to Statics and Dynamics (Free PDF)](http://ruina.tam.cornell.edu/Book/)
-
-###### Articles
 * [Bolted Joint Analysis](https://www.mechanicalc.com/reference/bolted-joint-analysis)
 * [Lug Analysis](https://www.mechanicalc.com/reference/lug-analysis)
 
-###### Tutorials/MOOCs/Lectures
-
 ### Strength of Materials
-###### Books
 * [Gere, Mechanics of Materials](https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1)
 * [Dowling, Mechanical Behavior of Materials](https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1)
 * [Roark's Formulas for Stress and Strain](https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1)
-
-###### Articles
 * [Strength of Materials](https://www.mechanicalc.com/reference/strength-of-materials)
 * [Beam Stress and Deflection](https://www.mechanicalc.com/reference/beam-analysis)
 * [Column Buckling](https://www.mechanicalc.com/reference/column-buckling)
-
-
-###### Tutorials/MOOCs/Lectures
 * [The Engineering of Structures Around Us - edX Dartmouth](https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x)
 * [Elements of Structures - edX MIT](https://www.edx.org/course/elements-structures-mitx-2-01x-1)
 
 ### Advanced Strength of Materials/Continuum Mechanics
-###### Books
 * [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired.
-
-###### Articles
-
-###### Tutorials/MOOCs/Lectures
 * Many lecture notes links available [from iMechanica](http://imechanica.org/node/1551)
 
 ### Theory of Machines
 #### Mechanism Design
-
-###### Books
 * [Shigley's Mechanical Engineering Design](https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2)
 
-###### Articles
-###### Tutorials/MOOCs/Lectures
-
 #### Control Engineering
-###### Book
 * Modern Control Engineering by Katsuhiko Ogata
 * Automatic Control Systems by Golnaraghi and Kuo
 * Control Systems Engineering by Norman Nise
@@ -240,50 +181,29 @@ _This section contains some rules to be followed while adding resources to this 
 * Essentials of Robust Control by Zhou with Doyle
 * Feedback Control Theory by Doyle, Francis, and Tannenbaum
 * [Feedback Systems by Karl Johan Åström and Richard Murray](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf)
-* 
-
-###### Articles
-###### Tutorials/MOOCs/Lectures
- * [Classical Control Theory, by Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
+* [Classical Control Theory, by Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
 
 ---
 
 ## Thermal Engineering
 ### Thermodynamics
-###### Books
 * Thermodynamics: An Engineering Approach by Yunus A. Cengel, Michael A. Boles
 * 
-
-###### Articles
-###### Tutorials/MOOCs/Lectures
-
 ### Heat Transfer
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
+
 
 ### Fluid Mechanics
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 ---
 
 ## Manufacturing
 ### Conventional Manufacturing
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 ### Non-traditional Machining
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
+
 
 ### Additive Machining (Rapid Prototyping, 3D Printing)
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
+
 
 ---
 
@@ -291,52 +211,26 @@ _This section contains some rules to be followed while adding resources to this 
 ### Robotics
 * [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux :+1: 
 * 
-
-###### Books
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
 * 
 
-###### Articles
-###### Tutorials/MOOCs/Lectures
-
 ### Finite Element Analysis
-###### Books
 * [Finite Element Procedures by KJ Bathe](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf)
 * [Finite Element Method by C S Jog](http://hyfem.com/HyFem/fem.pdf)
 * [Finite Element Analysis Theory and Application with ANSYS](https://www.amazon.com/Finite-Element-Analysis-Theory-Application/dp/0131890808/ref=sr_1_1)
-
-
-###### Articles
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
 * [What Is a Good Linear Finite Element? by J R Shewchuk](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf)
 
-###### Tutorials/MOOCs/Lectures
-
 ### Computational Fluid Dynamics
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 ### Engineering Optimization
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 ### MEMS/NEMS/Nanotechnology/BioEngineering
 #### MEMS/NEMS - Micro/Nano Electro Mechanical Systems
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 #### Nanotechnology
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 #### Bio-engineering
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 ---
 
@@ -346,18 +240,10 @@ _This section contains some rules to be followed while adding resources to this 
 * [FEniCS Project](https://fenicsproject.org/) (C++ and Python library)
 * [List of FE packages](https://en.wikipedia.org/wiki/List_of_finite_element_software_packages) (Wikipedia)
 #### OpenFoam
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 #### ANSYS
 
 [Student/Free version](http://www.ansys.com/academic/free-student-products): Available for anyone with limited capability and usage for learning purpose
-
-###### Books
-###### Articles
-
-###### Tutorials/MOOCs/Lectures
 * [EdX MOOC A Hands-on Introduction to Engineering Simulations](https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x)
 * [University of Alberta - ANSYS Tutorials](http://www.mece.ualberta.ca/tutorials/ansys/)
 * [Cornell University- ANSYS Tutorials](https://confluence.cornell.edu/display/SIMULATION/ANSYS+Learning+Modules)
@@ -367,26 +253,17 @@ _This section contains some rules to be followed while adding resources to this 
 
 Student/Free version: 
 
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 
 #### Abaqus
 
 [Student/Free version](https://academy.3ds.com/en/software/abaqus-student-edition): Available, 1000 nodes limit.
 
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 #### LS Dyna
 
 Student/Free version: Not available but a student license can be obtained for less than $150 AFAIK.
 
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 * [LS Dyna Official Examples Site](http://www.dynaexamples.com/)
 * [LS Prepost Tutorials](http://www.lstc.com/lspp/content/tutorials.shtml)
 
@@ -396,12 +273,9 @@ Comsol was known as FEMLAB before and is a academic spin-off from Stanford Unive
 
 Student/Free version: Not available.
 
-###### Books
-###### Articles
 * [Comsol Blog](https://www.comsol.com/blogs/)
 * [Comsol Technical Papers and Presentations](https://www.comsol.com/papers-presentations)
 
-###### Tutorials/MOOCs/Lectures
 
 #### Hyperworks (Radioss, Optistruct)
 
@@ -410,9 +284,6 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 Student/Free version: Available only for students with limited capability
 [Link to student's version download](http://www.altairuniversity.com/hyperworks-licensing/)
 
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 * [HyperMesh | Pre processing | 2D | 3D | Meshing | ANSYS | Tutorial |](https://www.youtube.com/playlist?list=PLOahOE6DpL4puVylWdpHWRoGhIfswDc6T)
 
 * [HyperMesh & Optistruct Solved Tutorials AOC-2016 Contest](https://www.youtube.com/playlist?list=PL1u26y75SCrBpe7SWbMEgOe0Ty3O7gPGS)
@@ -444,35 +315,20 @@ Student/Free version: Available only for students with limited capability
 * [Altair HyperWorks Online Training series - Meshing, Analysis & Post-processing](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
 
 ### For Fatigue Analysis
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 ### For Control Engineering
 #### MATLAB
-###### Books
-###### Articles
-
-###### Tutorials/MOOCs/Lectures
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 #### LabView
-###### Books
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 ### For Robotics
 #### ROS
-
-###### Books
 * [Learning ROS for Robotics Programming ](https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming-second-edition)
 * [Mastering ROS for Robotics Programming ](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming)
 * [Learning Robotics Using Python ](https://www.packtpub.com/application-development/learning-robotics-using-python)
 * [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
 * 
-
-###### Articles
-###### Tutorials/MOOCs/Lectures
 
 ---
 
