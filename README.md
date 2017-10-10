@@ -118,7 +118,7 @@ _This section contains some rules to be followed while adding resources to this 
 
 ###### Tutorials/MOOCs/Lectures
 * [Essentials of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-*
+* [Numerical Methods for PDEs, by Qiqi Wang](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos)
 
 ### Programming
 * [Free programming books](https://github.com/vhf/free-programming-books)
@@ -495,6 +495,8 @@ Student/Free version: Available only for students with limited capability
   * for structural profiles
 * [How Stuff Works](http://www.howstuffworks.com/)
   * good articles explaining how everyday things work
+* [MatWeb](http://www.matweb.com/index.aspx)
+  * Database of material properties
 * [MechaniCalc](https://mechanicalc.com/)
   * provides calculators and reference material for mechanical engineers
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
@@ -502,14 +504,18 @@ Student/Free version: Available only for students with limited capability
 * [edX](https://www.edx.org/)
   * more free online courses
 * [Google Scholar Classic Papers](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
-* [fxSolver](https://www.fxsolver.com/)
-  * Solver for engineering and scientific equations. 
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/)
    * Quick prototyping of linkage mechanism
 * [SCIRP, Modern Mechanical Engineering](http://www.scirp.org/journal/mme/)
    * Open Journal.
 * [InTech](https://www.intechopen.com/books/subject/mechanical-engineering)
    * Open Acess book publisher.
+* [traceparts online](https://www.tracepartsonline.net/)
+   * CAD part library
+* [507 Mechanical Movements](http://507movements.com/)
+   * Animated movements.
+* [Animated Engines](http://www.animatedengines.com/)
+   * Animated engines.
 ---
 
 ## Online Calculators
@@ -519,6 +525,8 @@ Student/Free version: Available only for students with limited capability
 * [Desmos](https://www.desmos.com/calculator)
   * online graphing calculator
 * [WolframAlpha](https://www.wolframalpha.com/)
+* [fxSolver](https://www.fxsolver.com/)
+  * Solver for engineering and scientific equations. 
 
 ---
 
