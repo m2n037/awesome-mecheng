@@ -502,8 +502,6 @@ Student/Free version: Available only for students with limited capability
 * [edX](https://www.edx.org/)
   * more free online courses
 * [Google Scholar Classic Papers](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
-* [fxSolver](https://www.fxsolver.com/)
-  * Solver for engineering and scientific equations. 
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/)
    * Quick prototyping of linkage mechanism
 * [SCIRP, Modern Mechanical Engineering](http://www.scirp.org/journal/mme/)
@@ -519,6 +517,8 @@ Student/Free version: Available only for students with limited capability
 * [Desmos](https://www.desmos.com/calculator)
   * online graphing calculator
 * [WolframAlpha](https://www.wolframalpha.com/)
+* [fxSolver](https://www.fxsolver.com/)
+  * Solver for engineering and scientific equations. 
 
 ---
 
