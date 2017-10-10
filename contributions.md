@@ -1,6 +1,10 @@
 # Cotribution Guidelines
 
 ## Rules and Regulations
+_This section contains some rules to be followed while adding resources to this list_
+* Give preference to free and open source resources.
+* Personal experience with a resource is good way to decide whether it is good or not.
+* 
 
 ## List of Contributors
 *This list is in no particular order*
