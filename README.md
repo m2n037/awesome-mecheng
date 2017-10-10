@@ -71,14 +71,7 @@ I got inspiration from the countless awesome lists in github.
 * [Survival guide for mechanical engineers on the journey to create astonishing engineering](https://nutsandbolts.quora.com/Survival-guide-for-mechanical-engineers-on-the-journey-to-create-astonishing-engineering)
  _This was not written by me. An anonymous user wrote this in Quora and later deleted it. I kept an offline copy of the same and then later posted it as I found it awesome_
 * To be added
-* 
-
-### Rules and Regulations
-_This section contains some rules to be followed while adding resources to this list_
-* Give preference to free and open source resources.
-* Personal experience with a resource is good way to decide whether it is good or not.
-* 
-
+*
 
 ---
 
