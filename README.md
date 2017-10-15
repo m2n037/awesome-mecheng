@@ -361,6 +361,8 @@ Student/Free version: Available only for students with limited capability
    * Open Acess book publisher.
 * [traceparts online](https://www.tracepartsonline.net/)
    * CAD part library
+* [Thingiverse](https://www.thingiverse.com/)
+   * CAD parts, especially for 3D printing
 * [507 Mechanical Movements](http://507movements.com/)
    * Animated movements.
 * [Animated Engines](http://www.animatedengines.com/)
