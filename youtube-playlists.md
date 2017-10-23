@@ -1,1713 +1,1713 @@
-- [LAFF Numerical Linear Algebra (Fall 2014) ](https://www.youtube.com/watch?v=UYfEMVNYYFU&list=PLiVOwJ-acxpc1_wqs7s2cVnYF6UeixEjg)
+* [LAFF Numerical Linear Algebra (Fall 2014) ](https://www.youtube.com/watch?v=UYfEMVNYYFU&list=PLiVOwJ-acxpc1_wqs7s2cVnYF6UeixEjg)
 
-- [DeepLearningBook,](https://www.youtube.com/watch?v=vi7lACKOUao&list=PLkISDyMVw2Htm42P0eTVEKyz7scxZ4V-O )
+* [DeepLearningBook,](https://www.youtube.com/watch?v=vi7lACKOUao&list=PLkISDyMVw2Htm42P0eTVEKyz7scxZ4V-O )
 
-- [Basic Python for Beginners,](https://www.youtube.com/watch?v=rxSyXBq9zq0&list=PLlEgNdBJEO-nQkFDah-gm6UX7CI6rCdB- )
+* [Basic Python for Beginners,](https://www.youtube.com/watch?v=rxSyXBq9zq0&list=PLlEgNdBJEO-nQkFDah-gm6UX7CI6rCdB- )
 
-- [Engineering Mechanics (Statics,](https://www.youtube.com/watch?v=-hMfpDY6WFk&list=PLZOZfX_TaWAEzhyvNT1e9jbmTt4Eqo8C0 )
+* [Engineering Mechanics (Statics,](https://www.youtube.com/watch?v=-hMfpDY6WFk&list=PLZOZfX_TaWAEzhyvNT1e9jbmTt4Eqo8C0 )
 
-- [Numerical Modeling (EGR 511),](https://www.youtube.com/watch?v=vOr0xex-1H0&list=PLZOZfX_TaWAFYQOeG6h3l9Nej0K8cPDdA )
+* [Numerical Modeling (EGR 511),](https://www.youtube.com/watch?v=vOr0xex-1H0&list=PLZOZfX_TaWAFYQOeG6h3l9Nej0K8cPDdA )
 
-- [Design for Manufacturing Course,](https://www.youtube.com/watch?v=84VxN9K_PMM&list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a )
+* [Design for Manufacturing Course,](https://www.youtube.com/watch?v=84VxN9K_PMM&list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a )
 
-- [GitHub Professional Guides,](https://www.youtube.com/watch?v=xSv_m3KhUO8&list=PLg7s6cbtAD15mfk2YVHy2U8Ileig_yEZW )
+* [GitHub Professional Guides,](https://www.youtube.com/watch?v=xSv_m3KhUO8&list=PLg7s6cbtAD15mfk2YVHy2U8Ileig_yEZW )
 
-- [Free Classes,](https://www.youtube.com/watch?v=RaKX4A5EiQo&list=PLg7s6cbtAD17uAwaZwiykDci_q3te3CTY )
+* [Free Classes,](https://www.youtube.com/watch?v=RaKX4A5EiQo&list=PLg7s6cbtAD17uAwaZwiykDci_q3te3CTY )
 
-- [Get Up and Running,](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB- )
+* [Get Up and Running,](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB- )
 
-- [Git and GitHub with Briana Swift,](https://www.youtube.com/watch?v=47E-jcuQz5c&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4 )
+* [Git and GitHub with Briana Swift,](https://www.youtube.com/watch?v=47E-jcuQz5c&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4 )
 
-- [Strength of Materials for GATE,](https://www.youtube.com/watch?v=vkn9aY8DWcA&list=PLRJTmEvFf-OOI_6XiF_z3lJTCTDrId9O7 )
+* [Strength of Materials for GATE,](https://www.youtube.com/watch?v=vkn9aY8DWcA&list=PLRJTmEvFf-OOI_6XiF_z3lJTCTDrId9O7 )
 
-- [Whiteboard Wednesday,](https://www.youtube.com/watch?v=4HfDrisG3MQ&list=PLs2vRLhtciEt46Fg-uz1LQxb4xSW-KMGa )
+* [Whiteboard Wednesday,](https://www.youtube.com/watch?v=4HfDrisG3MQ&list=PLs2vRLhtciEt46Fg-uz1LQxb4xSW-KMGa )
 
-- [MATLAB and Simulink Robotics Arena,](https://www.youtube.com/watch?v=GyJeZ1_Lni8&list=PLn8PRpmsu08oLufaYWEvcuez8Rq7q4O7D )
+* [MATLAB and Simulink Robotics Arena,](https://www.youtube.com/watch?v=GyJeZ1_Lni8&list=PLn8PRpmsu08oLufaYWEvcuez8Rq7q4O7D )
 
-- [Python Q&A with Dan – Your Python/Career questions answered | #PythonQA,](https://www.youtube.com/watch?v=ovi5J5XK40s&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_ )
+* [Python Q&A with Dan – Your Python/Career questions answered | #PythonQA,](https://www.youtube.com/watch?v=ovi5J5XK40s&list=PLP8GkvaIxJP2Z1rqBxlWmqYmhJ9vG2Jm_ )
 
-- [Deep learning with Keras,](https://www.youtube.com/watch?v=SGn8fMrWWtg&list=PL_SSujepRkqyjjbWnXQBzKXXm86UQ53Ic )
+* [Deep learning with Keras,](https://www.youtube.com/watch?v=SGn8fMrWWtg&list=PL_SSujepRkqyjjbWnXQBzKXXm86UQ53Ic )
 
-- [1-7: Foundations of Programming in JavaScript - p5.js Tutorial,](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA )
+* [1-7: Foundations of Programming in JavaScript - p5.js Tutorial,](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA )
 
-- [Dante in Translation with Giuseppe Mazzotta,](https://www.youtube.com/watch?v=679FGDpZBew&list=PLD1450DFDA859F694 )
+* [Dante in Translation with Giuseppe Mazzotta,](https://www.youtube.com/watch?v=679FGDpZBew&list=PLD1450DFDA859F694 )
 
-- [Finite Mathematics,](https://www.youtube.com/watch?v=qaFNhwNBY3k&list=PLIeGtxpvyG-KxMqY8wJ0KoY3ujxf0C856 )
+* [Finite Mathematics,](https://www.youtube.com/watch?v=qaFNhwNBY3k&list=PLIeGtxpvyG-KxMqY8wJ0KoY3ujxf0C856 )
 
-- [Full Webinars,](https://www.youtube.com/watch?v=VZD7vu6-0to&list=PLbEyNOJ4QXBoxYrBznFoCB_XbJGsGgCG0 )
+* [Full Webinars,](https://www.youtube.com/watch?v=VZD7vu6-0to&list=PLbEyNOJ4QXBoxYrBznFoCB_XbJGsGgCG0 )
 
-- [Robotics,](https://www.youtube.com/watch?v=ykMN3ZsGKM0&list=PLh2tx2yot8hlcMg6lAZqNi6ENxsMigRfe )
+* [Robotics,](https://www.youtube.com/watch?v=ykMN3ZsGKM0&list=PLh2tx2yot8hlcMg6lAZqNi6ENxsMigRfe )
 
-- [Statistics and Data Analysis in MATLAB,](https://www.youtube.com/watch?v=l1mqJFQHcfI&list=PLmUd5Zvaz17QSCaB0b4tLwmTBzFIHKQFO )
+* [Statistics and Data Analysis in MATLAB,](https://www.youtube.com/watch?v=l1mqJFQHcfI&list=PLmUd5Zvaz17QSCaB0b4tLwmTBzFIHKQFO )
 
-- [Algorithms,](https://www.youtube.com/watch?v=iRv6wKRCybA&list=PLo_wesNOyQTOwEuTh1Pd61U8x3GvgT-OS )
+* [Algorithms,](https://www.youtube.com/watch?v=iRv6wKRCybA&list=PLo_wesNOyQTOwEuTh1Pd61U8x3GvgT-OS )
 
-- [Matlab,](https://www.youtube.com/watch?v=-UR18HN78r4&list=PLIx9QCwIhuRTi0LzH-kijlSb8rbj5fys4 )
+* [Matlab,](https://www.youtube.com/watch?v=-UR18HN78r4&list=PLIx9QCwIhuRTi0LzH-kijlSb8rbj5fys4 )
 
-- [Deep Learning,](https://www.youtube.com/watch?v=jpmGxOB2YPo&list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz )
+* [Deep Learning,](https://www.youtube.com/watch?v=jpmGxOB2YPo&list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz )
 
-- [Graph Algorithms,](https://www.youtube.com/watch?v=ddTC4Zovtbc&list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j )
+* [Graph Algorithms,](https://www.youtube.com/watch?v=ddTC4Zovtbc&list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j )
 
-- [Graph Theory by Sarada Herke,](https://www.youtube.com/watch?v=eIb1cz06UwI&list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg )
+* [Graph Theory by Sarada Herke,](https://www.youtube.com/watch?v=eIb1cz06UwI&list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg )
 
-- [EuroPython 2017,](https://www.youtube.com/watch?v=OCHrzW-R3QI&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh )
+* [EuroPython 2017,](https://www.youtube.com/watch?v=OCHrzW-R3QI&list=PL8uoeex94UhG9QAoRICebFpeKK2M0Herh )
 
-- [Liked videos,](https://www.youtube.com/watch?v=ESpvG6cgY5c&list=LLgdHSFcXvkN6O3NXvif0-pA )
+* [Liked videos,](https://www.youtube.com/watch?v=ESpvG6cgY5c&list=LLgdHSFcXvkN6O3NXvif0-pA )
 
-- [Operating Systems,](https://www.youtube.com/watch?v=xc_co-RcJwg&list=PL6lxxT7IdTxH5MCBuj4bDQsKbo1LRPTB1 )
+* [Operating Systems,](https://www.youtube.com/watch?v=xc_co-RcJwg&list=PL6lxxT7IdTxH5MCBuj4bDQsKbo1LRPTB1 )
 
-- [Number Systems,](https://www.youtube.com/watch?v=9DhGv5-GvfQ&list=PL049A4BB543D49D6B )
+* [Number Systems,](https://www.youtube.com/watch?v=9DhGv5-GvfQ&list=PL049A4BB543D49D6B )
 
-- [Python – Intermediate and Advanced Features,](https://www.youtube.com/watch?v=gllUwQnYVww&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx )
+* [Python – Intermediate and Advanced Features,](https://www.youtube.com/watch?v=gllUwQnYVww&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx )
 
-- [Introduction to R Programming,](https://www.youtube.com/watch?v=Lphv0VIR7sY&list=PLUgZaFoyJafjGP_3w9dk7Jy8GPaGFFYd_ )
+* [Introduction to R Programming,](https://www.youtube.com/watch?v=Lphv0VIR7sY&list=PLUgZaFoyJafjGP_3w9dk7Jy8GPaGFFYd_ )
 
-- [Descriptive Statistics,](https://www.youtube.com/watch?v=N5hvv1XIV10&list=PLUgZaFoyJafhQFvdthEK6mbgvp6oG_KR8 )
+* [Descriptive Statistics,](https://www.youtube.com/watch?v=N5hvv1XIV10&list=PLUgZaFoyJafhQFvdthEK6mbgvp6oG_KR8 )
 
-- [Analytics on R,](https://www.youtube.com/watch?v=RdR1lRQ_WQc&list=PLUgZaFoyJafgYrEycCrpnB008E9mxxli5 )
+* [Analytics on R,](https://www.youtube.com/watch?v=RdR1lRQ_WQc&list=PLUgZaFoyJafgYrEycCrpnB008E9mxxli5 )
 
-- [Probability Distribution,](https://www.youtube.com/watch?v=hG6eS7LcRQs&list=PLUgZaFoyJafjaw-5lb9AmIH3aoGgsxkJ7 )
+* [Probability Distribution,](https://www.youtube.com/watch?v=hG6eS7LcRQs&list=PLUgZaFoyJafjaw-5lb9AmIH3aoGgsxkJ7 )
 
-- [Solidworks Practice with me Beginners,](https://www.youtube.com/watch?v=-AC_MfkmaoY&list=PLTj_0Tgy4cn9_eIlsfHLBruTobeSY5zM0 )
+* [Solidworks Practice with me Beginners,](https://www.youtube.com/watch?v=-AC_MfkmaoY&list=PLTj_0Tgy4cn9_eIlsfHLBruTobeSY5zM0 )
 
-- [Blender for Beginners: Modeling a Basic Handgun tutorial,](https://www.youtube.com/watch?v=XLoAwcGQb_g&list=PLozD5GE_BHsnPL_ZTLh6uYrlOrzFy3PvL )
+* [Blender for Beginners: Modeling a Basic Handgun tutorial,](https://www.youtube.com/watch?v=XLoAwcGQb_g&list=PLozD5GE_BHsnPL_ZTLh6uYrlOrzFy3PvL )
 
-- [Blender 3D Tutorials,](https://www.youtube.com/watch?v=zlv0zn5xJqU&list=PL5AB3173494ED73B9 )
+* [Blender 3D Tutorials,](https://www.youtube.com/watch?v=zlv0zn5xJqU&list=PL5AB3173494ED73B9 )
 
-- [Blender Fundamentals,](https://www.youtube.com/watch?v=kes2qmijy7w&list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1 )
+* [Blender Fundamentals,](https://www.youtube.com/watch?v=kes2qmijy7w&list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1 )
 
-- [The Mechanical Universe,](https://www.youtube.com/watch?v=XtMmeAjQTXc&list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ )
+* [The Mechanical Universe,](https://www.youtube.com/watch?v=XtMmeAjQTXc&list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ )
 
-- [OpenGL,](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2 )
+* [OpenGL,](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2 )
 
-- [Modern Robotics,](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx )
+* [Modern Robotics,](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx )
 
-- [Coding Whiteboard Exercise,](https://www.youtube.com/watch?v=mEU_c7mxXFs&list=PLjJlQgygxY7f2fxaXQlvy5jJ001SC9RO7 )
+* [Coding Whiteboard Exercise,](https://www.youtube.com/watch?v=mEU_c7mxXFs&list=PLjJlQgygxY7f2fxaXQlvy5jJ001SC9RO7 )
 
-- [MySQL for Beginners,](https://www.youtube.com/watch?v=Lf6BaaK_Bqo&list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh )
+* [MySQL for Beginners,](https://www.youtube.com/watch?v=Lf6BaaK_Bqo&list=PLmpc3xvYSk4wGOo2TY0qNsu62PsHfU1vh )
 
-- [Sublime Text,](https://www.youtube.com/watch?v=zVLJfrIwEP8&list=PL-osiE80TeTtHH8BZngXEsLPGotQxZa6z )
+* [Sublime Text,](https://www.youtube.com/watch?v=zVLJfrIwEP8&list=PL-osiE80TeTtHH8BZngXEsLPGotQxZa6z )
 
-- [Python Fundamentals Training,](https://www.youtube.com/watch?v=B9MvjMFokLc&list=PL26BA8B9FC33789FF )
+* [Python Fundamentals Training,](https://www.youtube.com/watch?v=B9MvjMFokLc&list=PL26BA8B9FC33789FF )
 
-- [OpenGL Animation Tutorials,](https://www.youtube.com/watch?v=f3Cr8Yx3GGA&list=PLRIWtICgwaX2tKWCxdeB7Wv_rTET9JtWW )
+* [OpenGL Animation Tutorials,](https://www.youtube.com/watch?v=f3Cr8Yx3GGA&list=PLRIWtICgwaX2tKWCxdeB7Wv_rTET9JtWW )
 
-- [OpenGL 3D Game Tutorials,](https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP )
+* [OpenGL 3D Game Tutorials,](https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP )
 
-- [Computer Aided Analysis / C,](https://www.youtube.com/watch?v=N-JXeyUw7zw&list=PLFnx8Vsp0KYkCjzT-gTucuWtLbJKbZZlc )
+* [Computer Aided Analysis / C,](https://www.youtube.com/watch?v=N-JXeyUw7zw&list=PLFnx8Vsp0KYkCjzT-gTucuWtLbJKbZZlc )
 
-- [Building Prototypes with Dan Gelbart,](https://www.youtube.com/watch?v=xMP_AfiNlX4&list=PL_tws4AXg7asrBv1MMAq4AO68ONUcvty2 )
+* [Building Prototypes with Dan Gelbart,](https://www.youtube.com/watch?v=xMP_AfiNlX4&list=PL_tws4AXg7asrBv1MMAq4AO68ONUcvty2 )
 
-- [Circuit Analysis - Electrical Engineering,](https://www.youtube.com/watch?v=DgRBKz-hj5A&list=PLFnx8Vsp0KYnFkr_-mp7mH43NPXLClhEW )
+* [Circuit Analysis - Electrical Engineering,](https://www.youtube.com/watch?v=DgRBKz-hj5A&list=PLFnx8Vsp0KYnFkr_-mp7mH43NPXLClhEW )
 
-- [Introductory Physics II,](https://www.youtube.com/watch?v=9laglyq_eDk&list=PLFnx8Vsp0KYlFzEcYG31Vw3w0_5LbgACT )
+* [Introductory Physics II,](https://www.youtube.com/watch?v=9laglyq_eDk&list=PLFnx8Vsp0KYlFzEcYG31Vw3w0_5LbgACT )
 
-- [PowerShell 5 Recipes tutorial,](https://www.youtube.com/watch?v=OVcWvdBGlHs&list=PLTgRMOcmRb3M0KzVSsC7gNdVUzPWF_KF_ )
+* [PowerShell 5 Recipes tutorial,](https://www.youtube.com/watch?v=OVcWvdBGlHs&list=PLTgRMOcmRb3M0KzVSsC7gNdVUzPWF_KF_ )
 
-- [Learning Basics of Functional Programming tutorial,](https://www.youtube.com/watch?v=ZRgm2RnoE3g&list=PLTgRMOcmRb3OkOsvMfKZyGGCJFC9STA53 )
+* [Learning Basics of Functional Programming tutorial,](https://www.youtube.com/watch?v=ZRgm2RnoE3g&list=PLTgRMOcmRb3OkOsvMfKZyGGCJFC9STA53 )
 
-- [Qt Tutorials For Beginners,](https://www.youtube.com/watch?v=EkjaiDsiM-Q&list=PLS1QulWo1RIZiBcTr5urECberTITj7gjA )
+* [Qt Tutorials For Beginners,](https://www.youtube.com/watch?v=EkjaiDsiM-Q&list=PLS1QulWo1RIZiBcTr5urECberTITj7gjA )
 
-- [C++ Programming Tutorial for Beginners (For Absolute Beginners),](https://www.youtube.com/watch?v=e1YafrxYOWw&list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK )
+* [C++ Programming Tutorial for Beginners (For Absolute Beginners),](https://www.youtube.com/watch?v=e1YafrxYOWw&list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK )
 
-- [C Programming Tutorials for Beginners (Complete Series),](https://www.youtube.com/watch?v=CCZE4zuOwZM&list=PLS1QulWo1RIZlA5oGczk8kY7Eenytc33s )
+* [C Programming Tutorials for Beginners (Complete Series),](https://www.youtube.com/watch?v=CCZE4zuOwZM&list=PLS1QulWo1RIZlA5oGczk8kY7Eenytc33s )
 
-- [Scala Tutorial,](https://www.youtube.com/watch?v=LQVDJtfpQU0&list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3 )
+* [Scala Tutorial,](https://www.youtube.com/watch?v=LQVDJtfpQU0&list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3 )
 
-- [C++ Programming Video Tutorials For Beginners [ Complete Series ],](https://www.youtube.com/watch?v=3fwKlU9AwSY&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C )
+* [C++ Programming Video Tutorials For Beginners [ Complete Series ],](https://www.youtube.com/watch?v=3fwKlU9AwSY&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C )
 
-- [Basic Programming,](https://www.youtube.com/watch?v=dVpqv0gSskU&list=PLlDLEKfQYGWCzBTOy-DMgZFrVbAOuQ8at )
+* [Basic Programming,](https://www.youtube.com/watch?v=dVpqv0gSskU&list=PLlDLEKfQYGWCzBTOy-DMgZFrVbAOuQ8at )
 
-- [A brief History of Humankind - Dr. Yuval Noah Harari,](https://www.youtube.com/watch?v=CGhTQ4iruLc&list=PLfc2WtGuVPdmhYaQjd449k-YeY71fiaFp )
+* [A brief History of Humankind - Dr. Yuval Noah Harari,](https://www.youtube.com/watch?v=CGhTQ4iruLc&list=PLfc2WtGuVPdmhYaQjd449k-YeY71fiaFp )
 
-- [Physics,](https://www.youtube.com/watch?v=ZM8ECpBuQYE&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV )
+* [Physics,](https://www.youtube.com/watch?v=ZM8ECpBuQYE&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV )
 
-- [Python Programming Beginner Tutorials,](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7 )
+* [Python Programming Beginner Tutorials,](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7 )
 
-- [CVPR17: Tutorials,](https://www.youtube.com/watch?v=jHv37mKAhV4&list=PL_bDvITUYucCaTvfFp0Y45DOpGQYg0W8Q )
+* [CVPR17: Tutorials,](https://www.youtube.com/watch?v=jHv37mKAhV4&list=PL_bDvITUYucCaTvfFp0Y45DOpGQYg0W8Q )
 
-- [LS-DYNA Sample Models 1,](https://www.youtube.com/watch?v=mIyimJ5Cv6o&list=PL16VCAjJucAS7vA1FfaOoKEVDHqwoX-Rz )
+* [LS-DYNA Sample Models 1,](https://www.youtube.com/watch?v=mIyimJ5Cv6o&list=PL16VCAjJucAS7vA1FfaOoKEVDHqwoX-Rz )
 
-- [Data Structures in Animated Way,](https://www.youtube.com/watch?v=xiIoa2rfAaQ&list=PLrKBFf87Cy9CNZpzi3poq8BFWc0h4f0vL )
+* [Data Structures in Animated Way,](https://www.youtube.com/watch?v=xiIoa2rfAaQ&list=PLrKBFf87Cy9CNZpzi3poq8BFWc0h4f0vL )
 
-- [C++,](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb )
+* [C++,](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb )
 
-- [LS-DYNA all videos,](https://www.youtube.com/watch?v=jeWWX8ImLXo&list=PLXFT4P5W0f3-r_Rb3b3RkSj9oCOHvmWJb )
+* [LS-DYNA all videos,](https://www.youtube.com/watch?v=jeWWX8ImLXo&list=PLXFT4P5W0f3-r_Rb3b3RkSj9oCOHvmWJb )
 
-- [Mastering Markdown,](https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3 )
+* [Mastering Markdown,](https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3 )
 
-- [Web Dev Tutorials,](https://www.youtube.com/watch?v=80UUPMUAP-g&list=PL942738B74C08BF97 )
+* [Web Dev Tutorials,](https://www.youtube.com/watch?v=80UUPMUAP-g&list=PL942738B74C08BF97 )
 
-- [Python for Process Control,](https://www.youtube.com/watch?v=SgBuzrtqor0&list=PLLBUgWXdTBDhrs5FuoJXni-cIeNYEyxw1 )
+* [Python for Process Control,](https://www.youtube.com/watch?v=SgBuzrtqor0&list=PLLBUgWXdTBDhrs5FuoJXni-cIeNYEyxw1 )
 
-- [Functional Programming in Python,](https://www.youtube.com/watch?v=xJCPpDlk9_w&list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr )
+* [Functional Programming in Python,](https://www.youtube.com/watch?v=xJCPpDlk9_w&list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr )
 
-- [CS50 Lectures 2017,](https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu )
+* [CS50 Lectures 2017,](https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu )
 
-- [OpenGL Screencasts and Tutorials,](https://www.youtube.com/watch?v=QO4NTBWJQLg&list=PL2330214740B33712 )
+* [OpenGL Screencasts and Tutorials,](https://www.youtube.com/watch?v=QO4NTBWJQLg&list=PL2330214740B33712 )
 
-- [Algorithm and Data Structure Screencasts and Tutorials,](https://www.youtube.com/watch?v=T1qGd1_PxIw&list=PLPqKsyEGhUna5-ge0n_Q0F7QXuOS6IYUm )
+* [Algorithm and Data Structure Screencasts and Tutorials,](https://www.youtube.com/watch?v=T1qGd1_PxIw&list=PLPqKsyEGhUna5-ge0n_Q0F7QXuOS6IYUm )
 
-- [WebGL Screencasts and Tutorials,](https://www.youtube.com/watch?v=oDiSqQT_szo&list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl )
+* [WebGL Screencasts and Tutorials,](https://www.youtube.com/watch?v=oDiSqQT_szo&list=PLPqKsyEGhUnaOdIFLKvdkXAQWD4DoXnFl )
 
-- [3D math Screencasts and Tutorial Videos,](https://www.youtube.com/watch?v=1uaIZ27fHUI&list=PLPqKsyEGhUnaxVxzRaSKs1gSSJMknhwrL )
+* [3D math Screencasts and Tutorial Videos,](https://www.youtube.com/watch?v=1uaIZ27fHUI&list=PLPqKsyEGhUnaxVxzRaSKs1gSSJMknhwrL )
 
-- [LS-DYNA | GRS CAEWorldwide,](https://www.youtube.com/watch?v=f3fVMVOlYcY&list=PLOahOE6DpL4rnp-4VSl7hAS2trgUoIB9T )
+* [LS-DYNA | GRS CAEWorldwide,](https://www.youtube.com/watch?v=f3fVMVOlYcY&list=PLOahOE6DpL4rnp-4VSl7hAS2trgUoIB9T )
 
-- [ Google Developer Days Europe 2017,](https://www.youtube.com/watch?v=K-er6CT66w0&list=PLOU2XLYxmsIJz-cYWfjQP8SV7n8C-PTVm )
+* [ Google Developer Days Europe 2017,](https://www.youtube.com/watch?v=K-er6CT66w0&list=PLOU2XLYxmsIJz-cYWfjQP8SV7n8C-PTVm )
 
-- [Learning From Data,](https://www.youtube.com/watch?v=VeKeFIepJBU&list=PLCA2C1469EA777F9A )
+* [Learning From Data,](https://www.youtube.com/watch?v=VeKeFIepJBU&list=PLCA2C1469EA777F9A )
 
-- [Getting Started with ANSYS Student,](https://www.youtube.com/watch?v=rV-xr_D18hM&list=PLQMtm0_chcLx4NoPbUFkqLHoOomntN0Gr )
+* [Getting Started with ANSYS Student,](https://www.youtube.com/watch?v=rV-xr_D18hM&list=PLQMtm0_chcLx4NoPbUFkqLHoOomntN0Gr )
 
-- [Discrete Maths,](https://www.youtube.com/watch?v=AlxXZ_wPkrs&list=PLsFENPUZBqioyqffh3YZ2pKUg4uZFQJUY )
+* [Discrete Maths,](https://www.youtube.com/watch?v=AlxXZ_wPkrs&list=PLsFENPUZBqioyqffh3YZ2pKUg4uZFQJUY )
 
-- [The Fundamentals of Logic,](https://www.youtube.com/watch?v=i3m0hV157Ro&list=PLANMHOrJaFxPCjR2enLZBRgtZgjtXJ0MJ )
+* [The Fundamentals of Logic,](https://www.youtube.com/watch?v=i3m0hV157Ro&list=PLANMHOrJaFxPCjR2enLZBRgtZgjtXJ0MJ )
 
-- [Differential Equations,](https://www.youtube.com/watch?v=oVhzzIgBKmo&list=PLD4B0062CA82D73FB )
+* [Differential Equations,](https://www.youtube.com/watch?v=oVhzzIgBKmo&list=PLD4B0062CA82D73FB )
 
-- [Thermodynamics I: Professor David Miller's Lecture Series,](https://www.youtube.com/watch?v=6ng6ozV-9jg&list=PLZOZfX_TaWAH3zDurz4ds7jMFzhxhfKZV )
+* [Thermodynamics I: Professor David Miller's Lecture Series,](https://www.youtube.com/watch?v=6ng6ozV-9jg&list=PLZOZfX_TaWAH3zDurz4ds7jMFzhxhfKZV )
 
-- [LS-DYNA Metal Forming Application & LS-PrePost eZSetup,](https://www.youtube.com/watch?v=tg6LY7ab6_g&list=PLWMrCp1cuzJaN2RZz2l32HE0pUpyESXQ3 )
+* [LS-DYNA Metal Forming Application & LS-PrePost eZSetup,](https://www.youtube.com/watch?v=tg6LY7ab6_g&list=PLWMrCp1cuzJaN2RZz2l32HE0pUpyESXQ3 )
 
-- [LSPP-eZSetup Introduction,](https://www.youtube.com/watch?v=k9tJqSdmBDw&list=PLWMrCp1cuzJa2fmrzbbzstSe9dV6B4WFk )
+* [LSPP-eZSetup Introduction,](https://www.youtube.com/watch?v=k9tJqSdmBDw&list=PLWMrCp1cuzJa2fmrzbbzstSe9dV6B4WFk )
 
-- [Materials Characterization Course,](https://www.youtube.com/watch?v=bjNTfHlZW98&list=PLwCFBj9ZpOBbVW04LGO9UoXQPLUe9BtqG )
+* [Materials Characterization Course,](https://www.youtube.com/watch?v=bjNTfHlZW98&list=PLwCFBj9ZpOBbVW04LGO9UoXQPLUe9BtqG )
 
-- [Beharbari Outpost,](https://www.youtube.com/watch?v=QwdvHREBCS0&list=PLmBe7np55b6dTEAFmKic_F4E99Kp1bHTM )
+* [Beharbari Outpost,](https://www.youtube.com/watch?v=QwdvHREBCS0&list=PLmBe7np55b6dTEAFmKic_F4E99Kp1bHTM )
 
-- [White Board Sessions,](https://www.youtube.com/watch?v=gWbDocYhwDA&list=PLMCXHnjXnTnscaLq1qQ2qxc3XiSFls2BW )
+* [White Board Sessions,](https://www.youtube.com/watch?v=gWbDocYhwDA&list=PLMCXHnjXnTnscaLq1qQ2qxc3XiSFls2BW )
 
-- [Mechanical mechanisms,](https://www.youtube.com/watch?v=ZpQxOXSWCwM&list=PLtpFpSrstPcV92pRS5X4a2oXOpvTpi9lE )
+* [Mechanical mechanisms,](https://www.youtube.com/watch?v=ZpQxOXSWCwM&list=PLtpFpSrstPcV92pRS5X4a2oXOpvTpi9lE )
 
-- [For Linking,](https://www.youtube.com/watch?v=cuqATAgS1wI&list=PLTjYmezlCy67GTQvaT1uYneJCXva1_elD )
+* [For Linking,](https://www.youtube.com/watch?v=cuqATAgS1wI&list=PLTjYmezlCy67GTQvaT1uYneJCXva1_elD )
 
-- [CS160 Spring 2015 lectures,](https://www.youtube.com/watch?v=TaNSVNj6diE&list=PLF9bYy39t4tFN3N9IWe5sywr7mlHCpVsg )
+* [CS160 Spring 2015 lectures,](https://www.youtube.com/watch?v=TaNSVNj6diE&list=PLF9bYy39t4tFN3N9IWe5sywr7mlHCpVsg )
 
-- [Linear Algebra Done Right,](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw )
+* [Linear Algebra Done Right,](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw )
 
-- [Math 676,](https://www.youtube.com/watch?v=WAKD8hBVIE4&list=PLT_nFX1kYtB6EGcbHtge1ph3-8UDN-Zyk )
+* [Math 676,](https://www.youtube.com/watch?v=WAKD8hBVIE4&list=PLT_nFX1kYtB6EGcbHtge1ph3-8UDN-Zyk )
 
-- [Matrix & Linear Algebra,](https://www.youtube.com/watch?v=12BEHgCimaQ&list=PLSlqN4CMG7zwK_Ni8lcx-T5dNe9bkVPwd )
+* [Matrix & Linear Algebra,](https://www.youtube.com/watch?v=12BEHgCimaQ&list=PLSlqN4CMG7zwK_Ni8lcx-T5dNe9bkVPwd )
 
-- [Enriching Collegiate Mathematics,](https://www.youtube.com/watch?v=SJc-2Ykiig0&list=PLhkiT_RYTEU0u_47b3B_RrXfaOnAljMg0 )
+* [Enriching Collegiate Mathematics,](https://www.youtube.com/watch?v=SJc-2Ykiig0&list=PLhkiT_RYTEU0u_47b3B_RrXfaOnAljMg0 )
 
-- [TensorFlow Object Detection API,](https://www.youtube.com/watch?v=COlbP62-B-U&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku )
+* [TensorFlow Object Detection API,](https://www.youtube.com/watch?v=COlbP62-B-U&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku )
 
-- [C++ Weekly C++17,](https://www.youtube.com/watch?v=vLhr_y4YOIY&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86 )
+* [C++ Weekly C++17,](https://www.youtube.com/watch?v=vLhr_y4YOIY&list=PLs3KjaCtOwSbcWD1LlHS7w5AVM0tCAD86 )
 
-- [SolidWorks Complete Learning Tutorials,](https://www.youtube.com/watch?v=dN1Ub864wks&list=PLkMYhICFMsGajeARsY7N1t1jhbtMb1poL )
+* [SolidWorks Complete Learning Tutorials,](https://www.youtube.com/watch?v=dN1Ub864wks&list=PLkMYhICFMsGajeARsY7N1t1jhbtMb1poL )
 
-- [MATLAB Beginners Tutorials,](https://www.youtube.com/watch?v=1kC-o7iWZu8&list=PLkMYhICFMsGZfEMQda72NL9kHUb__LsmK )
+* [MATLAB Beginners Tutorials,](https://www.youtube.com/watch?v=1kC-o7iWZu8&list=PLkMYhICFMsGZfEMQda72NL9kHUb__LsmK )
 
-- [SolidWorks 20XX Training,](https://www.youtube.com/watch?v=oA5iq_gIEjU&list=PLE46CA2CC3D36281B )
+* [SolidWorks 20XX Training,](https://www.youtube.com/watch?v=oA5iq_gIEjU&list=PLE46CA2CC3D36281B )
 
-- [Basic Introduction to Image processing using Matlab,](https://www.youtube.com/watch?v=zhynoSY165A&list=PLAgklkVHvynN9GM9_wJ-kULQW58qdHH6F )
+* [Basic Introduction to Image processing using Matlab,](https://www.youtube.com/watch?v=zhynoSY165A&list=PLAgklkVHvynN9GM9_wJ-kULQW58qdHH6F )
 
-- [Abaqus Learning,](https://www.youtube.com/watch?v=MWeIrlXd-90&list=PL1SUp2_tvBcG2YbxuQxJaOhBac6VLXq2F )
+* [Abaqus Learning,](https://www.youtube.com/watch?v=MWeIrlXd-90&list=PL1SUp2_tvBcG2YbxuQxJaOhBac6VLXq2F )
 
-- [To The Point Math (TTP Videos),](https://www.youtube.com/watch?v=cqk4vcuKoBQ&list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN )
+* [To The Point Math (TTP Videos),](https://www.youtube.com/watch?v=cqk4vcuKoBQ&list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN )
 
-- [MIT 10.34 Numerical Methods Applied to Chemical Engineering,](https://www.youtube.com/watch?v=txKXRtlrFfI&list=PLUl4u3cNGP6152YvEOa6i6L3axPx0IkIO )
+* [MIT 10.34 Numerical Methods Applied to Chemical Engineering,](https://www.youtube.com/watch?v=txKXRtlrFfI&list=PLUl4u3cNGP6152YvEOa6i6L3axPx0IkIO )
 
-- [MIT 18.650 Statistics for Applications,](https://www.youtube.com/watch?v=C_W1adH-NVE&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0 )
+* [MIT 18.650 Statistics for Applications,](https://www.youtube.com/watch?v=C_W1adH-NVE&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0 )
 
-- [Neural Network Tutorial,](https://www.youtube.com/watch?v=aVId8KMsdUU&list=PL29C61214F2146796 )
+* [Neural Network Tutorial,](https://www.youtube.com/watch?v=aVId8KMsdUU&list=PL29C61214F2146796 )
 
-- [Fluid Mechanics,](https://www.youtube.com/watch?v=5JG_P6ixaaE&list=PL7FF084F8C414D602 )
+* [Fluid Mechanics,](https://www.youtube.com/watch?v=5JG_P6ixaaE&list=PL7FF084F8C414D602 )
 
-- [Start Programming Today with Python! w/English Subtitles,](https://www.youtube.com/watch?v=Z02Q7RXSxu0&list=PLYmlEoSHldN46dpxzEgcG83VxcEr_L9zq )
+* [Start Programming Today with Python! w/English Subtitles,](https://www.youtube.com/watch?v=Z02Q7RXSxu0&list=PLYmlEoSHldN46dpxzEgcG83VxcEr_L9zq )
 
-- [Python Regular Expressions,](https://www.youtube.com/watch?v=VU60rEXaOXk&list=PLGKQkV4guDKH1TpfM-FvPGLUyjsPGdXOg )
+* [Python Regular Expressions,](https://www.youtube.com/watch?v=VU60rEXaOXk&list=PLGKQkV4guDKH1TpfM-FvPGLUyjsPGdXOg )
 
-- [Python Threading - Multithreading Playlist (2017),](https://www.youtube.com/watch?v=2ZwuKeL0aHs&list=PLGKQkV4guDKEv1DoK4LYdo2ZPLo6cyLbm )
+* [Python Threading - Multithreading Playlist (2017),](https://www.youtube.com/watch?v=2ZwuKeL0aHs&list=PLGKQkV4guDKEv1DoK4LYdo2ZPLo6cyLbm )
 
-- [cs155,](https://www.youtube.com/watch?v=Kdwf5cci8hw&list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb )
+* [cs155,](https://www.youtube.com/watch?v=Kdwf5cci8hw&list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb )
 
-- [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017),](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv )
+* [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017),](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv )
 
-- [MIT RES.10-001 Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work,](https://www.youtube.com/watch?v=PBggBCnfbC8&list=PLUl4u3cNGP63Aq55nsHOxWyzKzohEOiDf )
+* [MIT RES.10-001 Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work,](https://www.youtube.com/watch?v=PBggBCnfbC8&list=PLUl4u3cNGP63Aq55nsHOxWyzKzohEOiDf )
 
-- [MIT 6.0002 Introduction to Computational Thinking and Data Science,](https://www.youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd )
+* [MIT 6.0002 Introduction to Computational Thinking and Data Science,](https://www.youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd )
 
-- [MIT 15.S50 How to Win at Texas Hold 'Em,](https://www.youtube.com/watch?v=62nDLA_A8gs&list=PLUl4u3cNGP6083Y-NElqTRAgKtXQxgD3g )
+* [MIT 15.S50 How to Win at Texas Hold 'Em,](https://www.youtube.com/watch?v=62nDLA_A8gs&list=PLUl4u3cNGP6083Y-NElqTRAgKtXQxgD3g )
 
-- [MIT 16.842 Fundamentals of Systems Engineering,](https://www.youtube.com/watch?v=MOdNzHR_tck&list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx )
+* [MIT 16.842 Fundamentals of Systems Engineering,](https://www.youtube.com/watch?v=MOdNzHR_tck&list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx )
 
-- [Heroes of Deep Learning,](https://www.youtube.com/watch?v=-eyhCTvrEtE&list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR )
+* [Heroes of Deep Learning,](https://www.youtube.com/watch?v=-eyhCTvrEtE&list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR )
 
-- [Great Ideas in Theoretical Computer Science at CMU (incomplete),](https://www.youtube.com/watch?v=uaAvVNWvi4A&list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv )
+* [Great Ideas in Theoretical Computer Science at CMU (incomplete),](https://www.youtube.com/watch?v=uaAvVNWvi4A&list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv )
 
-- [MIT Course 9.520 - Statistical Learning Theory and Applications,](https://www.youtube.com/watch?v=6AWZS4Ho2Z8&list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O )
+* [MIT Course 9.520 - Statistical Learning Theory and Applications,](https://www.youtube.com/watch?v=6AWZS4Ho2Z8&list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O )
 
-- [Algorithms - Shai Simonson,](https://www.youtube.com/watch?v=gwlevtaC-u0&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm )
+* [Algorithms - Shai Simonson,](https://www.youtube.com/watch?v=gwlevtaC-u0&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm )
 
-- [Computational Linear Algebra,](https://www.youtube.com/watch?v=8iGzBMboA0I&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY )
+* [Computational Linear Algebra,](https://www.youtube.com/watch?v=8iGzBMboA0I&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY )
 
-- [NACA High-Speed Flight Research Station (Historic),](https://www.youtube.com/watch?v=AXwZMzDUEt8&list=PL7b4vf55aQl3NOIXZoHiiRRuxvreZysQV )
+* [NACA High-Speed Flight Research Station (Historic),](https://www.youtube.com/watch?v=AXwZMzDUEt8&list=PL7b4vf55aQl3NOIXZoHiiRRuxvreZysQV )
 
-- [Book: Introduction to Statistical Learning,](https://www.youtube.com/watch?v=F_I8jSgwFEw&list=PLh6SAYydrIpd8UBxltsK-mgKopfLcoens )
+* [Book: Introduction to Statistical Learning,](https://www.youtube.com/watch?v=F_I8jSgwFEw&list=PLh6SAYydrIpd8UBxltsK-mgKopfLcoens )
 
-- [SciPy 2017: Scientific Computing with Python Conference,](https://www.youtube.com/watch?v=He9MCbs1wgE&list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf )
+* [SciPy 2017: Scientific Computing with Python Conference,](https://www.youtube.com/watch?v=He9MCbs1wgE&list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf )
 
-- [C++ Tutorials in Animated Way,](https://www.youtube.com/watch?v=zl203Xj26AI&list=PLrKBFf87Cy9BVBAZ1Y-6Olzz0KTU4Qw6L )
+* [C++ Tutorials in Animated Way,](https://www.youtube.com/watch?v=zl203Xj26AI&list=PLrKBFf87Cy9BVBAZ1Y-6Olzz0KTU4Qw6L )
 
-- [Web Development with HTML & CSS!,](https://www.youtube.com/watch?v=2t3q_hOWw1o&list=PLB5jA40tNf3vh75MBwUb4oqiXFOZ5pYyX )
+* [Web Development with HTML & CSS!,](https://www.youtube.com/watch?v=2t3q_hOWw1o&list=PLB5jA40tNf3vh75MBwUb4oqiXFOZ5pYyX )
 
-- [Creating Your First Django App! (Series),](https://www.youtube.com/watch?v=H5aVejBcM8k&list=PLB5jA40tNf3vkj5O2NCwMbDZo0Q8GV5Fn )
+* [Creating Your First Django App! (Series),](https://www.youtube.com/watch?v=H5aVejBcM8k&list=PLB5jA40tNf3vkj5O2NCwMbDZo0Q8GV5Fn )
 
-- [Python Programming for Beginners!,](https://www.youtube.com/watch?v=xCixkaXrVMI&list=PLB5jA40tNf3scN7gwpDOx0gBm-otmXVoz )
+* [Python Programming for Beginners!,](https://www.youtube.com/watch?v=xCixkaXrVMI&list=PLB5jA40tNf3scN7gwpDOx0gBm-otmXVoz )
 
-- [Intro to the Design of Everyday Things,](https://www.youtube.com/watch?v=fy-J_E55rw0&list=PLAwxTw4SYaPlr4Uq3RoYuwlDADp0WQdGl )
+* [Intro to the Design of Everyday Things,](https://www.youtube.com/watch?v=fy-J_E55rw0&list=PLAwxTw4SYaPlr4Uq3RoYuwlDADp0WQdGl )
 
-- [Introduction to Algorithms,](https://www.youtube.com/watch?v=JtzIGTXesrE&list=PLAwxTw4SYaPk0SXKi0ARnhK5zhZcA4yDU )
+* [Introduction to Algorithms,](https://www.youtube.com/watch?v=JtzIGTXesrE&list=PLAwxTw4SYaPk0SXKi0ARnhK5zhZcA4yDU )
 
-- [Intro to Artificial Intelligence,](https://www.youtube.com/watch?v=G7qwhdnE7RA&list=PLAwxTw4SYaPlqMkzr4xyuD6cXTIgPuzgn )
+* [Intro to Artificial Intelligence,](https://www.youtube.com/watch?v=G7qwhdnE7RA&list=PLAwxTw4SYaPlqMkzr4xyuD6cXTIgPuzgn )
 
-- [Intro to Parallel Programming,](https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2 )
+* [Intro to Parallel Programming,](https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2 )
 
-- [Intro to Theoretical Computer Science,](https://www.youtube.com/watch?v=hQGJrCSFA44&list=PLAwxTw4SYaPl4bx7Pck4JWjy1WVbrDx0U )
+* [Intro to Theoretical Computer Science,](https://www.youtube.com/watch?v=hQGJrCSFA44&list=PLAwxTw4SYaPl4bx7Pck4JWjy1WVbrDx0U )
 
-- [Computational Photography | Udacity,](https://www.youtube.com/watch?v=ZdAKLeuFmFI&list=PLAwxTw4SYaPn-unAWtRMleY4peSe4OzIY )
+* [Computational Photography | Udacity,](https://www.youtube.com/watch?v=ZdAKLeuFmFI&list=PLAwxTw4SYaPn-unAWtRMleY4peSe4OzIY )
 
-- [High Performance Computing | Udacity,](https://www.youtube.com/watch?v=grD5en6_IiQ&list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC )
+* [High Performance Computing | Udacity,](https://www.youtube.com/watch?v=grD5en6_IiQ&list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC )
 
-- [Introduction to Computer Vision | Udacity,](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm )
+* [Introduction to Computer Vision | Udacity,](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm )
 
-- [Intro to Statistics,](https://www.youtube.com/watch?v=_K8UpLKAVxY&list=PLAwxTw4SYaPnYdzOgKRoTNYwmvjUDH_pt )
+* [Intro to Statistics,](https://www.youtube.com/watch?v=_K8UpLKAVxY&list=PLAwxTw4SYaPnYdzOgKRoTNYwmvjUDH_pt )
 
-- [Artificial Intelligence Tutorials,](https://www.youtube.com/watch?v=P4d0pUkAsz4&list=PLPN-43XehstNQttedytmmLPwzMCXahBRg )
+* [Artificial Intelligence Tutorials,](https://www.youtube.com/watch?v=P4d0pUkAsz4&list=PLPN-43XehstNQttedytmmLPwzMCXahBRg )
 
-- [HTML5 For Beginners 2017,](https://www.youtube.com/watch?v=xelw94KFQQY&list=PLKAQNgDySr2Ubld_XknqigAUa-EWdgjh1 )
+* [HTML5 For Beginners 2017,](https://www.youtube.com/watch?v=xelw94KFQQY&list=PLKAQNgDySr2Ubld_XknqigAUa-EWdgjh1 )
 
-- [Data Science Tutorial Videos,](https://www.youtube.com/watch?v=8eoi2BKaSRE&list=PL9ooVrP1hQOFZ1W2m8zYMxUiQhHywHxYm )
+* [Data Science Tutorial Videos,](https://www.youtube.com/watch?v=8eoi2BKaSRE&list=PL9ooVrP1hQOFZ1W2m8zYMxUiQhHywHxYm )
 
-- [Deep Learning With TensorFlow Videos,](https://www.youtube.com/watch?v=dafuAz_CV7Q&list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg )
+* [Deep Learning With TensorFlow Videos,](https://www.youtube.com/watch?v=dafuAz_CV7Q&list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg )
 
-- [Lecture Collection | Introduction to Robotics,](https://www.youtube.com/watch?v=0yD3uBshJB0&list=PL65CC0384A1798ADF )
+* [Lecture Collection | Introduction to Robotics,](https://www.youtube.com/watch?v=0yD3uBshJB0&list=PL65CC0384A1798ADF )
 
-- [Python Basics,](https://www.youtube.com/watch?v=jvZLWhkzX-8&list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK )
+* [Python Basics,](https://www.youtube.com/watch?v=jvZLWhkzX-8&list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK )
 
-- [Shine On You Crazy KiCad,](https://www.youtube.com/watch?v=eMW9ohCbcik&list=PLy2022BX6EspB0SmUDMBQDFSufxzxva2X )
+* [Shine On You Crazy KiCad,](https://www.youtube.com/watch?v=eMW9ohCbcik&list=PLy2022BX6EspB0SmUDMBQDFSufxzxva2X )
 
-- [Django Tutorials,](https://www.youtube.com/watch?v=Fc2O3_2kax8&list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj )
+* [Django Tutorials,](https://www.youtube.com/watch?v=Fc2O3_2kax8&list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj )
 
-- [Startup School: The First 100 Days - CS183F - Spring 2017,](https://www.youtube.com/watch?v=5ZXU84_sGXo&list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY )
+* [Startup School: The First 100 Days - CS183F - Spring 2017,](https://www.youtube.com/watch?v=5ZXU84_sGXo&list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY )
 
-- [Building products with javascript,](https://www.youtube.com/watch?v=gSwLKyVnGTw&list=PL_gX69xPLi-ljVdNhspjZUlPmBNjRgD2X )
+* [Building products with javascript,](https://www.youtube.com/watch?v=gSwLKyVnGTw&list=PL_gX69xPLi-ljVdNhspjZUlPmBNjRgD2X )
 
-- [SRDK 1.0: Soft Robotics Setup Videos,](https://www.youtube.com/watch?v=pNuPEHTltAs&list=PL1W_34565-FnWozGxW7m1jm8b75JUo2Cu )
+* [SRDK 1.0: Soft Robotics Setup Videos,](https://www.youtube.com/watch?v=pNuPEHTltAs&list=PL1W_34565-FnWozGxW7m1jm8b75JUo2Cu )
 
-- [Essence of calculus,](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr )
+* [Essence of calculus,](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr )
 
-- [Online ROS Tutorials,](https://www.youtube.com/watch?v=DBFYZRMLr70&list=PLK0b4e05LnzaOZxQt0OwMRwIa8ysYG9_a )
+* [Online ROS Tutorials,](https://www.youtube.com/watch?v=DBFYZRMLr70&list=PLK0b4e05LnzaOZxQt0OwMRwIa8ysYG9_a )
 
-- [Amrita Infosys Programming Contest Camp,](https://www.youtube.com/watch?v=vZ2Wn6Ly8Ok&list=PL713C10F05D6BB7BF )
+* [Amrita Infosys Programming Contest Camp,](https://www.youtube.com/watch?v=vZ2Wn6Ly8Ok&list=PL713C10F05D6BB7BF )
 
-- [ACM/ICPC Training: For Beginner,](https://www.youtube.com/watch?v=g-ug9-imstk&list=PLr7bO3PQtaB98icc2r80iN4Eb4hLNVdUF )
+* [ACM/ICPC Training: For Beginner,](https://www.youtube.com/watch?v=g-ug9-imstk&list=PLr7bO3PQtaB98icc2r80iN4Eb4hLNVdUF )
 
-- [undergraduate machine learning at UBC 2012,](https://www.youtube.com/watch?v=pid0lUH467o&list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf )
+* [undergraduate machine learning at UBC 2012,](https://www.youtube.com/watch?v=pid0lUH467o&list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf )
 
-- [Kivy Tutorial,](https://www.youtube.com/watch?v=B79miUFD_ss&list=PLGLfVvz_LVvTAZ-OcNIXe05srJRXaJRd9 )
+* [Kivy Tutorial,](https://www.youtube.com/watch?v=B79miUFD_ss&list=PLGLfVvz_LVvTAZ-OcNIXe05srJRXaJRd9 )
 
-- [Kivy crash course,](https://www.youtube.com/watch?v=F7UKmK9eQLY&list=PLdNh1e1kmiPP4YApJm8ENK2yMlwF1_edq )
+* [Kivy crash course,](https://www.youtube.com/watch?v=F7UKmK9eQLY&list=PLdNh1e1kmiPP4YApJm8ENK2yMlwF1_edq )
 
-- [ECE5760 DE2/115 lectures 2011,](https://www.youtube.com/watch?v=yvqkg44_DQA&list=PL2BA78454E71FF0E5 )
+* [ECE5760 DE2/115 lectures 2011,](https://www.youtube.com/watch?v=yvqkg44_DQA&list=PL2BA78454E71FF0E5 )
 
-- [FPGA design,](https://www.youtube.com/watch?v=Y8FvvzcocT4&list=PL301FC12E3E501514 )
+* [FPGA design,](https://www.youtube.com/watch?v=Y8FvvzcocT4&list=PL301FC12E3E501514 )
 
-- [Anh's research,](https://www.youtube.com/watch?v=QskhBeQ1uDQ&list=PLkErMDq2gl8Q6IqufhpXc5Yw41cOz4G3y )
+* [Anh's research,](https://www.youtube.com/watch?v=QskhBeQ1uDQ&list=PLkErMDq2gl8Q6IqufhpXc5Yw41cOz4G3y )
 
-- [MIT Making Science and Engineering Pictures,](https://www.youtube.com/watch?v=k7CqAVzhkoo&list=PLUl4u3cNGP62u0NhYTD1_h0ub_D4MGhuz )
+* [MIT Making Science and Engineering Pictures,](https://www.youtube.com/watch?v=k7CqAVzhkoo&list=PLUl4u3cNGP62u0NhYTD1_h0ub_D4MGhuz )
 
-- [Embedded Linux Conference + OpenIoT Summit NA 2017,](https://www.youtube.com/watch?v=Pwc0cX43sec&list=PLbzoR-pLrL6pSlkQDW7RpnNLuxPq6WVUR )
+* [Embedded Linux Conference + OpenIoT Summit NA 2017,](https://www.youtube.com/watch?v=Pwc0cX43sec&list=PLbzoR-pLrL6pSlkQDW7RpnNLuxPq6WVUR )
 
-- [CS1: Higher Computing - Richard Buckland UNSW,](https://www.youtube.com/watch?v=hE7l6Adoiiw&list=PL6B940F08B9773B9F )
+* [CS1: Higher Computing - Richard Buckland UNSW,](https://www.youtube.com/watch?v=hE7l6Adoiiw&list=PL6B940F08B9773B9F )
 
-- [ELEC2141 Digital Circuit Design,](https://www.youtube.com/watch?v=esAE1WLAubM&list=PLB52B8F4E464CEEF7 )
+* [ELEC2141 Digital Circuit Design,](https://www.youtube.com/watch?v=esAE1WLAubM&list=PLB52B8F4E464CEEF7 )
 
-- [HCR Lab tutorials,](https://www.youtube.com/watch?v=MD255BS0YH4&list=PLJNGprAk4DF5s27K5rqLKe2Z721HLADhl )
+* [HCR Lab tutorials,](https://www.youtube.com/watch?v=MD255BS0YH4&list=PLJNGprAk4DF5s27K5rqLKe2Z721HLADhl )
 
-- [CS3: Design in Computing - Richard Buckland UNSW,](https://www.youtube.com/watch?v=coserN4FO3g&list=PL0C5D85DBA20E685C )
+* [CS3: Design in Computing - Richard Buckland UNSW,](https://www.youtube.com/watch?v=coserN4FO3g&list=PL0C5D85DBA20E685C )
 
-- [Gate 2017 Rankers,](https://www.youtube.com/watch?v=10fkkUEFSDQ&list=PLEbnTDJUr_If8gGpI4A8T1u-bGfoaIUvr )
+* [Gate 2017 Rankers,](https://www.youtube.com/watch?v=10fkkUEFSDQ&list=PLEbnTDJUr_If8gGpI4A8T1u-bGfoaIUvr )
 
-- [Python Plays: Grand Theft Auto V,](https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a )
+* [Python Plays: Grand Theft Auto V,](https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a )
 
-- [ROS Prototype to Production on Ubuntu Core,](https://www.youtube.com/watch?v=x6BkzfwOZbc&list=PL1LO5F1-Jh8K6R1Ba23irALtey6CRFFYu )
+* [ROS Prototype to Production on Ubuntu Core,](https://www.youtube.com/watch?v=x6BkzfwOZbc&list=PL1LO5F1-Jh8K6R1Ba23irALtey6CRFFYu )
 
-- [ANSYS APDL Tutorials,](https://www.youtube.com/watch?v=uDPaiElWd0E&list=PLq0dftOnIMLSxrlG5Ef5rouCCLuG8Bbzg )
+* [ANSYS APDL Tutorials,](https://www.youtube.com/watch?v=uDPaiElWd0E&list=PLq0dftOnIMLSxrlG5Ef5rouCCLuG8Bbzg )
 
-- [Introduction to Deep Learning,](https://www.youtube.com/watch?v=3cSjsTKtN9M&list=PLn8PRpmsu08oDVpvGZLknZckFIG09fV9H )
+* [Introduction to Deep Learning,](https://www.youtube.com/watch?v=3cSjsTKtN9M&list=PLn8PRpmsu08oDVpvGZLknZckFIG09fV9H )
 
-- [Robot Operating System,](https://www.youtube.com/watch?v=nKIOb6lyrlI&list=PLENoUUr0N3XmO6HeQ9kB2fVcgucPDPhnv )
+* [Robot Operating System,](https://www.youtube.com/watch?v=nKIOb6lyrlI&list=PLENoUUr0N3XmO6HeQ9kB2fVcgucPDPhnv )
 
-- [Robot Operating System (ROS),](https://www.youtube.com/watch?v=oX294t9UYSw&list=PL_GJXEcCEjIcjRGGzBYocRW0i-mro8Pbi )
+* [Robot Operating System (ROS),](https://www.youtube.com/watch?v=oX294t9UYSw&list=PL_GJXEcCEjIcjRGGzBYocRW0i-mro8Pbi )
 
-- [ROSCon 2016,](https://www.youtube.com/watch?v=1XflsBeXsDs&list=PLR6CmuZKUufUiIqoq0fbZG9NebXxXoT7U )
+* [ROSCon 2016,](https://www.youtube.com/watch?v=1XflsBeXsDs&list=PLR6CmuZKUufUiIqoq0fbZG9NebXxXoT7U )
 
-- [ROSCon 2016,](https://www.youtube.com/watch?v=mZBV_Wd1k1s&list=PL-hltDQ7qfyUnI9bqZavzCfnfbuAd5jME )
+* [ROSCon 2016,](https://www.youtube.com/watch?v=mZBV_Wd1k1s&list=PL-hltDQ7qfyUnI9bqZavzCfnfbuAd5jME )
 
-- [Programming for Robotics (ROS),](https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP )
+* [Programming for Robotics (ROS),](https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP )
 
-- [Essential Training,](https://www.youtube.com/watch?v=tSL_263XPUo&list=PLK0b4e05Lnzbysgm6lWhtCFCUVq3p8oSd )
+* [Essential Training,](https://www.youtube.com/watch?v=tSL_263XPUo&list=PLK0b4e05Lnzbysgm6lWhtCFCUVq3p8oSd )
 
-- [Raspberry Pi and Python Tutorials,](https://www.youtube.com/watch?v=RpseX2ylEuw&list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv )
+* [Raspberry Pi and Python Tutorials,](https://www.youtube.com/watch?v=RpseX2ylEuw&list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv )
 
-- [Python Tutorial for Beginners (For Absolute Beginners),](https://www.youtube.com/watch?v=41qgdwd3zAg&list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n )
+* [Python Tutorial for Beginners (For Absolute Beginners),](https://www.youtube.com/watch?v=41qgdwd3zAg&list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n )
 
-- [An interactive introduction to MATLAB® 2012,](https://www.youtube.com/watch?v=3mtvhqMLYeg&list=PL9ED10D416FE22976 )
+* [An interactive introduction to MATLAB® 2012,](https://www.youtube.com/watch?v=3mtvhqMLYeg&list=PL9ED10D416FE22976 )
 
-- [Matlab Tutorial,](https://www.youtube.com/watch?v=YeT_UW4-N7E&list=PLF-mVwVDBBdyzz18m8GNypoTelpwCFLNE )
+* [Matlab Tutorial,](https://www.youtube.com/watch?v=YeT_UW4-N7E&list=PLF-mVwVDBBdyzz18m8GNypoTelpwCFLNE )
 
-- [Introduction to Game Development (Unity and C#),](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw )
+* [Introduction to Game Development (Unity and C#),](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw )
 
-- [FPGA Introduction Course training,](https://www.youtube.com/watch?v=wlZQgeIlSnU&list=PLo7bVbJhQ6qxesicBHQwSl4nYOMJO2CHw )
+* [FPGA Introduction Course training,](https://www.youtube.com/watch?v=wlZQgeIlSnU&list=PLo7bVbJhQ6qxesicBHQwSl4nYOMJO2CHw )
 
-- [Embedded Systems with mbed course,](https://www.youtube.com/watch?v=H-OKGOMoCSI&list=PLo7bVbJhQ6qwlDa-R6pz7tA7kPzn1s5Ae )
+* [Embedded Systems with mbed course,](https://www.youtube.com/watch?v=H-OKGOMoCSI&list=PLo7bVbJhQ6qwlDa-R6pz7tA7kPzn1s5Ae )
 
-- [IMAGE PROCESSING USING MATLAB,](https://www.youtube.com/watch?v=-cSVGwAwZZ4&list=PLEo-jHOqGNyUWoCSD3l3V-FjX9PnHvx5n )
+* [IMAGE PROCESSING USING MATLAB,](https://www.youtube.com/watch?v=-cSVGwAwZZ4&list=PLEo-jHOqGNyUWoCSD3l3V-FjX9PnHvx5n )
 
-- [Engineering CEE 20: Engineering Problem Solving,](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7knT8fKhloW9x2yOH0AUDfo )
+* [Engineering CEE 20: Engineering Problem Solving,](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7knT8fKhloW9x2yOH0AUDfo )
 
-- [Understanding Kalman Filters,](https://www.youtube.com/watch?v=mwn8xhgNpFY&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr )
+* [Understanding Kalman Filters,](https://www.youtube.com/watch?v=mwn8xhgNpFY&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr )
 
-- [Reproducible Data Analysis in Jupyter,](https://www.youtube.com/watch?v=_ZEWDGpM-vM&list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ )
+* [Reproducible Data Analysis in Jupyter,](https://www.youtube.com/watch?v=_ZEWDGpM-vM&list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ )
 
-- [Python 3 Programming Course,](https://www.youtube.com/watch?v=lOVpSh_0pTQ&list=PLDmvslp_VR0ySYKeFYAeJW0GAWQSxsPdq )
+* [Python 3 Programming Course,](https://www.youtube.com/watch?v=lOVpSh_0pTQ&list=PLDmvslp_VR0ySYKeFYAeJW0GAWQSxsPdq )
 
-- [Beau teaches JavaScript,](https://www.youtube.com/watch?v=X65s7WQLWJY&list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_ )
+* [Beau teaches JavaScript,](https://www.youtube.com/watch?v=X65s7WQLWJY&list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_ )
 
-- [Google Cloud Tutorials,](https://www.youtube.com/watch?v=chk2rRjSn5o&list=PLQVvvaa0QuDfGVb3yucqvKtUgwOJgZWCm )
+* [Google Cloud Tutorials,](https://www.youtube.com/watch?v=chk2rRjSn5o&list=PLQVvvaa0QuDfGVb3yucqvKtUgwOJgZWCm )
 
-- [URC CDR 2017,](https://www.youtube.com/watch?v=LevR4G2S7pM&list=PLfRlBDdqxV8II-dl_kMsYeMaW4dhA2Amo )
+* [URC CDR 2017,](https://www.youtube.com/watch?v=LevR4G2S7pM&list=PLfRlBDdqxV8II-dl_kMsYeMaW4dhA2Amo )
 
-- [2017 University Rover Challenge (URC) ROS Robots,](https://www.youtube.com/watch?v=8yuIWnTZDPc&list=PLCKbtagjamrkziXImCTb_fp0jE8P4YiyI )
+* [2017 University Rover Challenge (URC) ROS Robots,](https://www.youtube.com/watch?v=8yuIWnTZDPc&list=PLCKbtagjamrkziXImCTb_fp0jE8P4YiyI )
 
-- [CS50 VR Lectures 2016,](https://www.youtube.com/watch?v=0C8a6GBF8Bg&list=PLhQjrBD2T381yQVAOzT-PHcGMgvjFX2V6 )
+* [CS50 VR Lectures 2016,](https://www.youtube.com/watch?v=0C8a6GBF8Bg&list=PLhQjrBD2T381yQVAOzT-PHcGMgvjFX2V6 )
 
-- [Learn Scientific Python in One Playlist,](https://www.youtube.com/watch?v=icm6UnfkU3U&list=PLLBUgWXdTBDgeaeHTG8bpRmSS2fMCMRGg )
+* [Learn Scientific Python in One Playlist,](https://www.youtube.com/watch?v=icm6UnfkU3U&list=PLLBUgWXdTBDgeaeHTG8bpRmSS2fMCMRGg )
 
-- [Get Started Using MATLAB! w/English Subtitles,](https://www.youtube.com/watch?v=nmyJTiZ3NeE&list=PLYmlEoSHldN4bz5WY7e0OvXQ90E_xUOmz )
+* [Get Started Using MATLAB! w/English Subtitles,](https://www.youtube.com/watch?v=nmyJTiZ3NeE&list=PLYmlEoSHldN4bz5WY7e0OvXQ90E_xUOmz )
 
-- [RRL Research,](https://www.youtube.com/watch?v=Plt7h8nT2dg&list=PLDyJD9pi5YiSQsmGe-WKQ8IJeFhxpl3rg )
+* [RRL Research,](https://www.youtube.com/watch?v=Plt7h8nT2dg&list=PLDyJD9pi5YiSQsmGe-WKQ8IJeFhxpl3rg )
 
-- [Python 101,](https://www.youtube.com/watch?v=yEusyqoxNQI&list=PLN0iJDXT7K2vB3EGwKpDV-VIylhs3dEV8 )
+* [Python 101,](https://www.youtube.com/watch?v=yEusyqoxNQI&list=PLN0iJDXT7K2vB3EGwKpDV-VIylhs3dEV8 )
 
-- [Algebra II (Core Course Jan - Apr 2014) By Prof. K. N. Raghavan,](https://www.youtube.com/watch?v=Z4QyhKr0FK0&list=PLhkiT_RYTEU0CcvzU49C5AYmX7mLHUvOb )
+* [Algebra II (Core Course Jan - Apr 2014) By Prof. K. N. Raghavan,](https://www.youtube.com/watch?v=Z4QyhKr0FK0&list=PLhkiT_RYTEU0CcvzU49C5AYmX7mLHUvOb )
 
-- [Sage Days,](https://www.youtube.com/watch?v=HrA8Um5dmo8&list=PLhkiT_RYTEU3y9cWbfVgIsZwQTaMdegnr )
+* [Sage Days,](https://www.youtube.com/watch?v=HrA8Um5dmo8&list=PLhkiT_RYTEU3y9cWbfVgIsZwQTaMdegnr )
 
-- [Programing for Mathematics Course,](https://www.youtube.com/watch?v=BqB0YzIMzTc&list=PLhkiT_RYTEU2xUIl-fxOo2W87uJ5nuoS4 )
+* [Programing for Mathematics Course,](https://www.youtube.com/watch?v=BqB0YzIMzTc&list=PLhkiT_RYTEU2xUIl-fxOo2W87uJ5nuoS4 )
 
-- [NNMCB Course on Mathematical and ComputationalBiology - Computers,](https://www.youtube.com/watch?v=vdpTT5TAQro&list=PLhkiT_RYTEU12g-1i-e_rPx5-K4SLRnXg )
+* [NNMCB Course on Mathematical and ComputationalBiology - Computers,](https://www.youtube.com/watch?v=vdpTT5TAQro&list=PLhkiT_RYTEU12g-1i-e_rPx5-K4SLRnXg )
 
-- [Femap Basics,](https://www.youtube.com/watch?v=0WElObl_l_k&list=PL1m1vu8_quoBryduxMQy2xPc8xdHQceg6 )
+* [Femap Basics,](https://www.youtube.com/watch?v=0WElObl_l_k&list=PL1m1vu8_quoBryduxMQy2xPc8xdHQceg6 )
 
-- [A first course in Linear Algebra - N J Wildberger,](https://www.youtube.com/watch?v=ndWqKOJ9DgQ&list=PL44B6B54CBF6A72DF )
+* [A first course in Linear Algebra - N J Wildberger,](https://www.youtube.com/watch?v=ndWqKOJ9DgQ&list=PL44B6B54CBF6A72DF )
 
-- [Programming for Designers - COMP1400-T2 (2011),](https://www.youtube.com/watch?v=8wHvAq06Y-o&list=PL33A90F8537C8B1FB )
+* [Programming for Designers - COMP1400-T2 (2011),](https://www.youtube.com/watch?v=8wHvAq06Y-o&list=PL33A90F8537C8B1FB )
 
-- [University Calculus. Dr Chris Tisdell,](https://www.youtube.com/watch?v=23w5dA4UeRw&list=PL867C2955132FFCE7 )
+* [University Calculus. Dr Chris Tisdell,](https://www.youtube.com/watch?v=23w5dA4UeRw&list=PL867C2955132FFCE7 )
 
-- [CS2: Data Structures and Algorithms - Richard Buckland,](https://www.youtube.com/watch?v=RpRRUQFbePU&list=PLE621E25B3BF8B9D1 )
+* [CS2: Data Structures and Algorithms - Richard Buckland,](https://www.youtube.com/watch?v=RpRRUQFbePU&list=PLE621E25B3BF8B9D1 )
 
-- [Vector Calculus @ UNSW Sydney. Dr Chris Tisdell,](https://www.youtube.com/watch?v=22oMQY_zQ34&list=PL283CA2107AD503A3 )
+* [Vector Calculus @ UNSW Sydney. Dr Chris Tisdell,](https://www.youtube.com/watch?v=22oMQY_zQ34&list=PL283CA2107AD503A3 )
 
-- [Art of Programming. Richard Buckland,](https://www.youtube.com/watch?v=juPY486IhWc&list=PLHSIfioizVW1hxTz_E2MLTyckuHb7R5F2 )
+* [Art of Programming. Richard Buckland,](https://www.youtube.com/watch?v=juPY486IhWc&list=PLHSIfioizVW1hxTz_E2MLTyckuHb7R5F2 )
 
-- [Quantum Computing Concepts,](https://www.youtube.com/watch?v=sjINVV2xOow&list=PLHSIfioizVW2uC27IFkHlSc-NgvZjBliZ )
+* [Quantum Computing Concepts,](https://www.youtube.com/watch?v=sjINVV2xOow&list=PLHSIfioizVW2uC27IFkHlSc-NgvZjBliZ )
 
-- [Talks,](https://www.youtube.com/watch?v=WCUNPb-5EYI&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa )
+* [Talks,](https://www.youtube.com/watch?v=WCUNPb-5EYI&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa )
 
-- [#TutorialTuesday,](https://www.youtube.com/watch?v=D7kn72eKGZU&list=PLWHat3P46AwBd2iADWGeO5ZhHpHIVBxHT )
+* [#TutorialTuesday,](https://www.youtube.com/watch?v=D7kn72eKGZU&list=PLWHat3P46AwBd2iADWGeO5ZhHpHIVBxHT )
 
-- [AnacondaCON 2017,](https://www.youtube.com/watch?v=0XDqc5wTve0&list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T )
+* [AnacondaCON 2017,](https://www.youtube.com/watch?v=0XDqc5wTve0&list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T )
 
-- [A few impressions from IISc Open Day - March 4,](https://www.youtube.com/watch?v=9fqHhwTO5O8&list=PLfMnpdlFWcxfgsY_CX38r4n9ruJnX3tX9 )
+* [A few impressions from IISc Open Day - March 4,](https://www.youtube.com/watch?v=9fqHhwTO5O8&list=PLfMnpdlFWcxfgsY_CX38r4n9ruJnX3tX9 )
 
-- [ENGR380 Design of Machine Elements (2014W),](https://www.youtube.com/watch?v=4uvio6KJg54&list=PLJzZfbLAMTem_DSqbQ4Er1fABr2hh7mU9 )
+* [ENGR380 Design of Machine Elements (2014W),](https://www.youtube.com/watch?v=4uvio6KJg54&list=PLJzZfbLAMTem_DSqbQ4Er1fABr2hh7mU9 )
 
-- [MEEG 4104 - Machine Element Design,](https://www.youtube.com/watch?v=CBVlYibdF3M&list=PLKz_xsS_duovIcKifF1vL_qE8xDoocWf5 )
+* [MEEG 4104 - Machine Element Design,](https://www.youtube.com/watch?v=CBVlYibdF3M&list=PLKz_xsS_duovIcKifF1vL_qE8xDoocWf5 )
 
-- [Slocum Fundamentals EdX (Machine Design MIT),](https://www.youtube.com/watch?v=b6eh9MNPWXo&list=PLkZm2N0DMyThugyfsp4CXrdWajr9oR6Ai )
+* [Slocum Fundamentals EdX (Machine Design MIT),](https://www.youtube.com/watch?v=b6eh9MNPWXo&list=PLkZm2N0DMyThugyfsp4CXrdWajr9oR6Ai )
 
-- [Lecture 2012.08.29 Machine Design,](https://www.youtube.com/watch?v=kUhdFjSiu0Y&list=PLr9AxGLdq5YkPuznTRvKuIbVPLMM9k6ff )
+* [Lecture 2012.08.29 Machine Design,](https://www.youtube.com/watch?v=kUhdFjSiu0Y&list=PLr9AxGLdq5YkPuznTRvKuIbVPLMM9k6ff )
 
-- [Mechanical - Design of Machine Elements,](https://www.youtube.com/watch?v=mzWMdZZaHwI&list=PL3D4EECEFAA99D9BE )
+* [Mechanical - Design of Machine Elements,](https://www.youtube.com/watch?v=mzWMdZZaHwI&list=PL3D4EECEFAA99D9BE )
 
-- [Design of Machine (DOM),](https://www.youtube.com/watch?v=nqhyCzrFp1s&list=PLm_MSClsnwm-QwOu8EkbM7C-DOUB4DxLD )
+* [Design of Machine (DOM),](https://www.youtube.com/watch?v=nqhyCzrFp1s&list=PLm_MSClsnwm-QwOu8EkbM7C-DOUB4DxLD )
 
-- [Process Dynamics and Control,](https://www.youtube.com/watch?v=yRuMDmQlyXw&list=PLLBUgWXdTBDg6cYVhFNAFckvLFSQwoYZp )
+* [Process Dynamics and Control,](https://www.youtube.com/watch?v=yRuMDmQlyXw&list=PLLBUgWXdTBDg6cYVhFNAFckvLFSQwoYZp )
 
-- [Dynamic Optimization,](https://www.youtube.com/watch?v=WCTTY4baYLk&list=PLLBUgWXdTBDge70HuAhn0mlNkLB-tcbMi )
+* [Dynamic Optimization,](https://www.youtube.com/watch?v=WCTTY4baYLk&list=PLLBUgWXdTBDge70HuAhn0mlNkLB-tcbMi )
 
-- [Computational Tools for Engineers,](https://www.youtube.com/watch?v=gY0sEokk2h0&list=PLLBUgWXdTBDi-E--rwBujaNkTejLNI6ap )
+* [Computational Tools for Engineers,](https://www.youtube.com/watch?v=gY0sEokk2h0&list=PLLBUgWXdTBDi-E--rwBujaNkTejLNI6ap )
 
-- [Math 2B: Calculus,](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7mxsWrqTwndCBFXAKC0Xho9 )
+* [Math 2B: Calculus,](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7mxsWrqTwndCBFXAKC0Xho9 )
 
-- [Computer Science,](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo )
+* [Computer Science,](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo )
 
-- [8.03 - MIT Physics III: Vibrations and Waves,](https://www.youtube.com/watch?v=sf3XlpPtBo0&list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89 )
+* [8.03 - MIT Physics III: Vibrations and Waves,](https://www.youtube.com/watch?v=sf3XlpPtBo0&list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89 )
 
-- [8.02x - MIT Physics II: Electricity and Magnetism,](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j )
+* [8.02x - MIT Physics II: Electricity and Magnetism,](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j )
 
-- [8.01x - MIT Physics I: Classical Mechanics,](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e )
+* [8.01x - MIT Physics I: Classical Mechanics,](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e )
 
-- [C++ Weekly,](https://www.youtube.com/watch?v=EJtqHLvAIZE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1 )
+* [C++ Weekly,](https://www.youtube.com/watch?v=EJtqHLvAIZE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1 )
 
-- [Prof. Gilbert Strang - Linear Algebra Lectures,](https://www.youtube.com/watch?v=6-wh6yvk6uc&list=PL41A1C92F1766D4AB )
+* [Prof. Gilbert Strang - Linear Algebra Lectures,](https://www.youtube.com/watch?v=6-wh6yvk6uc&list=PL41A1C92F1766D4AB )
 
-- [Try Django 1.9 -- Build a Django Blog -- Django 1.9,](https://www.youtube.com/watch?v=yfgsklK_yFo&list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy )
+* [Try Django 1.9 -- Build a Django Blog -- Django 1.9,](https://www.youtube.com/watch?v=yfgsklK_yFo&list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy )
 
-- [Intro to Flask Series,](https://www.youtube.com/watch?v=mD4KFDmusCc&list=PLXmMXHVSvS-AjwTOtiW1DXFYTgUlrUmHV )
+* [Intro to Flask Series,](https://www.youtube.com/watch?v=mD4KFDmusCc&list=PLXmMXHVSvS-AjwTOtiW1DXFYTgUlrUmHV )
 
-- [Programming with Text - All Videos,](https://www.youtube.com/watch?v=HRANU6KtNEs&list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch )
+* [Programming with Text - All Videos,](https://www.youtube.com/watch?v=HRANU6KtNEs&list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch )
 
-- [C++ Programming,](https://www.youtube.com/watch?v=z3mB3s8JZCs&list=PLOAuB8dR35ocZ2YtaGzhJetZqLW2J3s5Z )
+* [C++ Programming,](https://www.youtube.com/watch?v=z3mB3s8JZCs&list=PLOAuB8dR35ocZ2YtaGzhJetZqLW2J3s5Z )
 
-- [Stress Analysis: Dr. Hassan Rejali's lecture series,](https://www.youtube.com/watch?v=feBBF5Rlv74&list=PLZOZfX_TaWAHfpBzrqHBNjd9G1_SxMvfr )
+* [Stress Analysis: Dr. Hassan Rejali's lecture series,](https://www.youtube.com/watch?v=feBBF5Rlv74&list=PLZOZfX_TaWAHfpBzrqHBNjd9G1_SxMvfr )
 
-- [Embedded Linux Conference + OpenIoT Summit Europe 2016,](https://www.youtube.com/watch?v=edJmyqFSgQs&list=PLbzoR-pLrL6pRFP6SOywVJWdEHlmQE51q )
+* [Embedded Linux Conference + OpenIoT Summit Europe 2016,](https://www.youtube.com/watch?v=edJmyqFSgQs&list=PLbzoR-pLrL6pRFP6SOywVJWdEHlmQE51q )
 
-- [Tutorial on Sheaves in Data Analytics,](https://www.youtube.com/watch?v=b1Wu8kTngoE&list=PLSekr_gm4hWLvFtJX0WUueVO65uhvBPrA )
+* [Tutorial on Sheaves in Data Analytics,](https://www.youtube.com/watch?v=b1Wu8kTngoE&list=PLSekr_gm4hWLvFtJX0WUueVO65uhvBPrA )
 
-- [Shell Scripting Tutorial for Beginners,](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_ )
+* [Shell Scripting Tutorial for Beginners,](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_ )
 
-- [TensorFlow Dev Summit 2017,](https://www.youtube.com/watch?v=mWl45NkFBOc&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv )
+* [TensorFlow Dev Summit 2017,](https://www.youtube.com/watch?v=mWl45NkFBOc&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv )
 
-- [6.0001 Introduction to Computer Science and Programming in Python. Fall 2016,](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA )
+* [6.0001 Introduction to Computer Science and Programming in Python. Fall 2016,](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA )
 
-- [Learn Linux from Scratch,](https://www.youtube.com/watch?v=QHLtVVmchl4&list=PLDmvslp_VR0xQjY7-uuxcB-zGcMlk6r9U )
+* [Learn Linux from Scratch,](https://www.youtube.com/watch?v=QHLtVVmchl4&list=PLDmvslp_VR0xQjY7-uuxcB-zGcMlk6r9U )
 
-- [Learn Version Control with Git,](https://www.youtube.com/watch?v=s1SlK-RQyj8&list=PLDmvslp_VR0xJ_LXjA-hMI0DMG8DT3_cR )
+* [Learn Version Control with Git,](https://www.youtube.com/watch?v=s1SlK-RQyj8&list=PLDmvslp_VR0xJ_LXjA-hMI0DMG8DT3_cR )
 
-- [Git and GitHub Essentials,](https://www.youtube.com/watch?v=Z0wSax92Dag&list=PLDmvslp_VR0xv0A3-PWKXtiRlXPg58q4q )
+* [Git and GitHub Essentials,](https://www.youtube.com/watch?v=Z0wSax92Dag&list=PLDmvslp_VR0xv0A3-PWKXtiRlXPg58q4q )
 
-- [Probabilistic Robotics,](https://www.youtube.com/watch?v=WPSQfOkb1M8&list=PLmuIL21dtFz8g_pPqQooAHfIOJkOxw2_z )
+* [Probabilistic Robotics,](https://www.youtube.com/watch?v=WPSQfOkb1M8&list=PLmuIL21dtFz8g_pPqQooAHfIOJkOxw2_z )
 
-- [C++ Robotics Programming,](https://www.youtube.com/watch?v=tyVhn0FWWB4&list=PLRlQ_PRK5QGcnJDz1VdFzji3AEm_zfkNw )
+* [C++ Robotics Programming,](https://www.youtube.com/watch?v=tyVhn0FWWB4&list=PLRlQ_PRK5QGcnJDz1VdFzji3AEm_zfkNw )
 
-- [LabVIEW Robotics (Lego Mindstorms & Tetrix),](https://www.youtube.com/watch?v=5ERNFRcv0Yg&list=PLEDAB6134CD2810E6 )
+* [LabVIEW Robotics (Lego Mindstorms & Tetrix),](https://www.youtube.com/watch?v=5ERNFRcv0Yg&list=PLEDAB6134CD2810E6 )
 
-- [Python Programming,](https://www.youtube.com/watch?v=0tQoTlutCCE&list=PLHPcpp4e3JVqYgQFM9NPo_ksEqa_bRH79 )
+* [Python Programming,](https://www.youtube.com/watch?v=0tQoTlutCCE&list=PLHPcpp4e3JVqYgQFM9NPo_ksEqa_bRH79 )
 
-- [Applied Finite Element Analysis,](https://www.youtube.com/watch?v=vZfM-vBZxsM&list=PL3A7B78F0E428DF72 )
+* [Applied Finite Element Analysis,](https://www.youtube.com/watch?v=vZfM-vBZxsM&list=PL3A7B78F0E428DF72 )
 
-- [Beginning C,](https://www.youtube.com/watch?v=kig4GU_2Pn0&list=PLLSiimA0Z6S7efW-4qvBXZYi81BocjI-C )
+* [Beginning C,](https://www.youtube.com/watch?v=kig4GU_2Pn0&list=PLLSiimA0Z6S7efW-4qvBXZYi81BocjI-C )
 
-- [Approximate Dynamic Programming Lectures by Dimitri P. Bertsekas,](https://www.youtube.com/watch?v=6CaUxbFX8Oc&list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4 )
+* [Approximate Dynamic Programming Lectures by Dimitri P. Bertsekas,](https://www.youtube.com/watch?v=6CaUxbFX8Oc&list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4 )
 
-- [Coding Challenges,](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH )
+* [Coding Challenges,](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH )
 
-- [Secret History with Gary Geck,](https://www.youtube.com/watch?v=L26Ioa3WAtc&list=PLC25C694A288E5A03 )
+* [Secret History with Gary Geck,](https://www.youtube.com/watch?v=L26Ioa3WAtc&list=PLC25C694A288E5A03 )
 
-- [Build applications with Python,](https://www.youtube.com/watch?v=7wuKDDMb3R4&list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy )
+* [Build applications with Python,](https://www.youtube.com/watch?v=7wuKDDMb3R4&list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy )
 
-- [MIT Lecture: Gödel Escher Bach; an Eternal Golden Braid,](https://www.youtube.com/watch?v=j5ty2s1TZvE&list=PL068ES-0ca9CSIp5OPGI5RXB3k5XgYRxF )
+* [MIT Lecture: Gödel Escher Bach; an Eternal Golden Braid,](https://www.youtube.com/watch?v=j5ty2s1TZvE&list=PL068ES-0ca9CSIp5OPGI5RXB3k5XgYRxF )
 
-- [Advanced Algorithms (COMPSCI 224),](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf )
+* [Advanced Algorithms (COMPSCI 224),](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf )
 
-- [MFGD - Numerical Analysis,](https://www.youtube.com/watch?v=q9mE-FfkIsY&list=PLW3Zl3wyJwWPhARNV8SH1Jev5sgdH28ka )
+* [MFGD - Numerical Analysis,](https://www.youtube.com/watch?v=q9mE-FfkIsY&list=PLW3Zl3wyJwWPhARNV8SH1Jev5sgdH28ka )
 
-- [Legged Locomotion,](https://www.youtube.com/watch?v=cIDkP7atTMM&list=PL90178F12BDA31D60 )
+* [Legged Locomotion,](https://www.youtube.com/watch?v=cIDkP7atTMM&list=PL90178F12BDA31D60 )
 
-- [Foundations of Machine Learning Boot Camp,](https://www.youtube.com/watch?v=f0qQsz4-o68&list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD )
+* [Foundations of Machine Learning Boot Camp,](https://www.youtube.com/watch?v=f0qQsz4-o68&list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD )
 
-- [2016 Argonne Training Program on Extreme Scale Computing (ATPESC),](https://www.youtube.com/watch?v=QZNE5mw72JA&list=PLGj2a3KTwhRb6LNVucPkwdpzg9OHd8jli )
+* [2016 Argonne Training Program on Extreme Scale Computing (ATPESC),](https://www.youtube.com/watch?v=QZNE5mw72JA&list=PLGj2a3KTwhRb6LNVucPkwdpzg9OHd8jli )
 
-- [CSE373 - Analysis of Algorithms - 2012 SBU,](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b )
+* [CSE373 - Analysis of Algorithms - 2012 SBU,](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b )
 
-- [Evolutionary Robotics Course (Spring 2017),](https://www.youtube.com/watch?v=4cHHj4l-xuI&list=PLAuiGdPEdw0hbF7EBoTUJbHaEjsxq6oer )
+* [Evolutionary Robotics Course (Spring 2017),](https://www.youtube.com/watch?v=4cHHj4l-xuI&list=PLAuiGdPEdw0hbF7EBoTUJbHaEjsxq6oer )
 
-- [Deep Learning with Tensorflow,](https://www.youtube.com/watch?v=MrijcdNl_U4&list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh )
+* [Deep Learning with Tensorflow,](https://www.youtube.com/watch?v=MrijcdNl_U4&list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh )
 
-- [MIT 6.S094: Deep Learning for Self-Driving Cars,](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf )
+* [MIT 6.S094: Deep Learning for Self-Driving Cars,](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf )
 
-- [Ubuntu Linux Tutorials for Beginners,](https://www.youtube.com/watch?v=WAIBI3dOmLo&list=PLS1QulWo1RIaS1s08yM5FGzPkXXKStVTX )
+* [Ubuntu Linux Tutorials for Beginners,](https://www.youtube.com/watch?v=WAIBI3dOmLo&list=PLS1QulWo1RIaS1s08yM5FGzPkXXKStVTX )
 
-- [Simple Programmer Episodes,](https://www.youtube.com/watch?v=kDFIqNTHeyo&list=PLjwWT1Xy3c4U4xrSdGiN9fh04NjHoNwTq )
+* [Simple Programmer Episodes,](https://www.youtube.com/watch?v=kDFIqNTHeyo&list=PLjwWT1Xy3c4U4xrSdGiN9fh04NjHoNwTq )
 
-- [Lecture Collection | Machine Learning,](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599 )
+* [Lecture Collection | Machine Learning,](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599 )
 
-- [SQL tutorials for beginners/ Oracle Database tutorials.,](https://www.youtube.com/watch?v=0NLsJQCvKXY&list=PLL_LQvNX4xKwbz1aJe0RofbT9YeJH9huQ )
+* [SQL tutorials for beginners/ Oracle Database tutorials.,](https://www.youtube.com/watch?v=0NLsJQCvKXY&list=PLL_LQvNX4xKwbz1aJe0RofbT9YeJH9huQ )
 
-- [Intro to C on Windows,](https://www.youtube.com/watch?v=F3ntGDm6hOs&list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp )
+* [Intro to C on Windows,](https://www.youtube.com/watch?v=F3ntGDm6hOs&list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp )
 
-- [Python Tutorials,](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU )
+* [Python Tutorials,](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU )
 
-- [Python OOP Tutorials - Working with Classes,](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc )
+* [Python OOP Tutorials - Working with Classes,](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc )
 
-- [What is a programming language? (2015-10-28),](https://www.youtube.com/watch?v=xF5uFE62UQE&list=PLzV58Zm8FuBKGXrqGGJe2wyFU8Xx73f85 )
+* [What is a programming language? (2015-10-28),](https://www.youtube.com/watch?v=xF5uFE62UQE&list=PLzV58Zm8FuBKGXrqGGJe2wyFU8Xx73f85 )
 
-- [CPython internals: A ten-hour codewalk through the Python interpreter source code,](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S )
+* [CPython internals: A ten-hour codewalk through the Python interpreter source code,](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S )
 
-- [Web Programming Video Lectures,](https://www.youtube.com/watch?v=9k48hjSSOPA&list=PLzV58Zm8FuBJH0SrvATyptT_7eXENjkcx )
+* [Web Programming Video Lectures,](https://www.youtube.com/watch?v=9k48hjSSOPA&list=PLzV58Zm8FuBJH0SrvATyptT_7eXENjkcx )
 
-- [Machine Learning,](https://www.youtube.com/watch?v=OypPjvm4kiA&list=PL3XtGMELeTxytyFKrUu87EudAJiO4XK0u )
+* [Machine Learning,](https://www.youtube.com/watch?v=OypPjvm4kiA&list=PL3XtGMELeTxytyFKrUu87EudAJiO4XK0u )
 
-- [Django class based views,](https://www.youtube.com/watch?v=1XQt8ban0UQ&list=PLDF6pmMQf-BiBsNRWAyux-rboKZAsFhth )
+* [Django class based views,](https://www.youtube.com/watch?v=1XQt8ban0UQ&list=PLDF6pmMQf-BiBsNRWAyux-rboKZAsFhth )
 
-- [A course on Finite Element Analysis,](https://www.youtube.com/watch?v=n8nbPHH5tyo&list=PLAg9Hvqs83c5JSJjdz3ywNQflL3Jc7L1d )
+* [A course on Finite Element Analysis,](https://www.youtube.com/watch?v=n8nbPHH5tyo&list=PLAg9Hvqs83c5JSJjdz3ywNQflL3Jc7L1d )
 
-- [Intro to TensorFlow,](https://www.youtube.com/watch?v=dYhrCUFN0eM&list=PLnZEPpH20YVbBhwlKUWBRqNM8y2BnELtN )
+* [Intro to TensorFlow,](https://www.youtube.com/watch?v=dYhrCUFN0eM&list=PLnZEPpH20YVbBhwlKUWBRqNM8y2BnELtN )
 
-- [Learning To See,](https://www.youtube.com/watch?v=i8D90DkCLhI&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV )
+* [Learning To See,](https://www.youtube.com/watch?v=i8D90DkCLhI&list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV )
 
-- [Two Minute Papers,](https://www.youtube.com/watch?v=_ZLXKt4L-AA&list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e )
+* [Two Minute Papers,](https://www.youtube.com/watch?v=_ZLXKt4L-AA&list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e )
 
-- [Understanding Control Systems,](https://www.youtube.com/watch?v=VZIsHshZnFU&list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd )
+* [Understanding Control Systems,](https://www.youtube.com/watch?v=VZIsHshZnFU&list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd )
 
-- [Begin to Code with C#,](https://www.youtube.com/watch?v=sAVqaJ6WqFo&list=PL7zNOp_WVLyWzWQAlT7-oB6rWTeZt80or )
+* [Begin to Code with C#,](https://www.youtube.com/watch?v=sAVqaJ6WqFo&list=PL7zNOp_WVLyWzWQAlT7-oB6rWTeZt80or )
 
-- [What should you do with your life? - The 80,](https://www.youtube.com/watch?v=2VRL-ByuQuo&list=PL-BRtcBm4Yj6ZpOG49cbHut0gtuCEVXfk )
+* [What should you do with your life? - The 80,](https://www.youtube.com/watch?v=2VRL-ByuQuo&list=PL-BRtcBm4Yj6ZpOG49cbHut0gtuCEVXfk )
 
-- [A Friendly Introduction to Machine Learning,](https://www.youtube.com/watch?v=bYeteZQrUcE&list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3 )
+* [A Friendly Introduction to Machine Learning,](https://www.youtube.com/watch?v=bYeteZQrUcE&list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3 )
 
-- [The CORE Hacking Course,](https://www.youtube.com/watch?v=msr48OGZboA&list=PLMGUdaTHpFQLmSAk5_cTM8Y502hhVpeNf )
+* [The CORE Hacking Course,](https://www.youtube.com/watch?v=msr48OGZboA&list=PLMGUdaTHpFQLmSAk5_cTM8Y502hhVpeNf )
 
-- [Elements of Statistical Learning,](https://www.youtube.com/watch?v=2wLfFB_6SKI&list=PLgxu-AAi2lTbtF6MyfvC-tcPvraJcNViL )
+* [Elements of Statistical Learning,](https://www.youtube.com/watch?v=2wLfFB_6SKI&list=PLgxu-AAi2lTbtF6MyfvC-tcPvraJcNViL )
 
-- [signal processing 101,](https://www.youtube.com/watch?v=KZd68xgasIU&list=PLJ-OcUCIty7evBmHvYRv66RcuziszpSFB )
+* [signal processing 101,](https://www.youtube.com/watch?v=KZd68xgasIU&list=PLJ-OcUCIty7evBmHvYRv66RcuziszpSFB )
 
-- [Intermediate Python Programming,](https://www.youtube.com/watch?v=YSe9Tu_iNQQ&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_ )
+* [Intermediate Python Programming,](https://www.youtube.com/watch?v=YSe9Tu_iNQQ&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_ )
 
-- [BASH Shell Scripting Tutorial in Linux,](https://www.youtube.com/watch?v=vcXlnGK8GMc&list=PLypxmOPCOkHWHrSfAFgzHA1Y0iSbxXVOt )
+* [BASH Shell Scripting Tutorial in Linux,](https://www.youtube.com/watch?v=vcXlnGK8GMc&list=PLypxmOPCOkHWHrSfAFgzHA1Y0iSbxXVOt )
 
-- [Linux Command-Line Interface Tutorials (CLI),](https://www.youtube.com/watch?v=UfUn9c6Tmvo&list=PLypxmOPCOkHV4vnWkQCasSjBOI8ZpkmMY )
+* [Linux Command-Line Interface Tutorials (CLI),](https://www.youtube.com/watch?v=UfUn9c6Tmvo&list=PLypxmOPCOkHV4vnWkQCasSjBOI8ZpkmMY )
 
-- [Python Programming Tutorial in Linux,](https://www.youtube.com/watch?v=RjNnCMwaw4E&list=PLypxmOPCOkHVzhKRcWzEkQXCnmHezGVeB )
+* [Python Programming Tutorial in Linux,](https://www.youtube.com/watch?v=RjNnCMwaw4E&list=PLypxmOPCOkHVzhKRcWzEkQXCnmHezGVeB )
 
-- [Arduino Starter Kit - Video Tutorials by Massimo Banzi,](https://www.youtube.com/watch?v=grU7eNPBRxk&list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd )
+* [Arduino Starter Kit - Video Tutorials by Massimo Banzi,](https://www.youtube.com/watch?v=grU7eNPBRxk&list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd )
 
-- [Tutorial Series for Arduino,](https://www.youtube.com/watch?v=fCxzA9_kg6s&list=PLA567CE235D39FA84 )
+* [Tutorial Series for Arduino,](https://www.youtube.com/watch?v=fCxzA9_kg6s&list=PLA567CE235D39FA84 )
 
-- [C Programming in Linux Tutorial,](https://www.youtube.com/watch?v=CKNjXvMB0MY&list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg )
+* [C Programming in Linux Tutorial,](https://www.youtube.com/watch?v=CKNjXvMB0MY&list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg )
 
-- [Embedded Systems Arduino,](https://www.youtube.com/watch?v=9Q-3c0gQcok&list=PLSNIkIpXJJG-oh15CUYhzk2a6vg-RI92z )
+* [Embedded Systems Arduino,](https://www.youtube.com/watch?v=9Q-3c0gQcok&list=PLSNIkIpXJJG-oh15CUYhzk2a6vg-RI92z )
 
-- [Introduction to C programming for embedded systems (ICES),](https://www.youtube.com/watch?v=ACYFvvydW9M&list=PL084n18jpUgCdJFjOOnJnJWe0a85h5xrs )
+* [Introduction to C programming for embedded systems (ICES),](https://www.youtube.com/watch?v=ACYFvvydW9M&list=PL084n18jpUgCdJFjOOnJnJWe0a85h5xrs )
 
-- [UC Berkeley CSc149 Intro to Embedded Systems,](https://www.youtube.com/watch?v=Isdbyx6rkmQ&list=PL17748CABE32AC663 )
+* [UC Berkeley CSc149 Intro to Embedded Systems,](https://www.youtube.com/watch?v=Isdbyx6rkmQ&list=PL17748CABE32AC663 )
 
-- [UT Embedded Systems Class,](https://www.youtube.com/watch?v=EcEOGGmX8c8&list=PLW60rZ86fz4fgDJclcLTWuSlsYtAzj32c )
+* [UT Embedded Systems Class,](https://www.youtube.com/watch?v=EcEOGGmX8c8&list=PLW60rZ86fz4fgDJclcLTWuSlsYtAzj32c )
 
-- [Embedded Systems Course - Version 3 - 2015,](https://www.youtube.com/watch?v=bvEDXDFbM_E&list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5 )
+* [Embedded Systems Course - Version 3 - 2015,](https://www.youtube.com/watch?v=bvEDXDFbM_E&list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5 )
 
-- [Introduction to Robotics Course,](https://www.youtube.com/watch?v=dxC6dE7TLCg&list=PL4847E1D1C121292F )
+* [Introduction to Robotics Course,](https://www.youtube.com/watch?v=dxC6dE7TLCg&list=PL4847E1D1C121292F )
 
-- [Electrical - Embedded Systems,](https://www.youtube.com/watch?v=y9RAhEfLfJs&list=PL5677C301A37CEF76 )
+* [Electrical - Embedded Systems,](https://www.youtube.com/watch?v=y9RAhEfLfJs&list=PL5677C301A37CEF76 )
 
-- [Modern Embedded Systems Programming Course,](https://www.youtube.com/watch?v=3V9eqvkMzHA&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM )
+* [Modern Embedded Systems Programming Course,](https://www.youtube.com/watch?v=3V9eqvkMzHA&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM )
 
-- [Blender Conference 2016,](https://www.youtube.com/watch?v=4l4KMI9YHr4&list=PLa1F2ddGya_8FBk61qbCdRu-otyPzFfDF )
+* [Blender Conference 2016,](https://www.youtube.com/watch?v=4l4KMI9YHr4&list=PLa1F2ddGya_8FBk61qbCdRu-otyPzFfDF )
 
-- [PyData DC 2016,](https://www.youtube.com/watch?v=K3AQsepkoZg&list=PLGVZCDnMOq0qLoYpkeySVtfdbQg1A_GiB )
+* [PyData DC 2016,](https://www.youtube.com/watch?v=K3AQsepkoZg&list=PLGVZCDnMOq0qLoYpkeySVtfdbQg1A_GiB )
 
-- [CS50 Lectures 2016,](https://www.youtube.com/watch?v=o4SGkB_8fFs&list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl )
+* [CS50 Lectures 2016,](https://www.youtube.com/watch?v=o4SGkB_8fFs&list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl )
 
-- [Git & GitHub,](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF )
+* [Git & GitHub,](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF )
 
-- [SciPy 2016,](https://www.youtube.com/watch?v=5boKDo1C144&list=PLGB9meziqbzpRP7mVyihOihNzm_J2Kx9I )
+* [SciPy 2016,](https://www.youtube.com/watch?v=5boKDo1C144&list=PLGB9meziqbzpRP7mVyihOihNzm_J2Kx9I )
 
-- [Python GUI with Tkinter Playlist,](https://www.youtube.com/watch?v=RJB1Ek2Ko_Y&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d )
+* [Python GUI with Tkinter Playlist,](https://www.youtube.com/watch?v=RJB1Ek2Ko_Y&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d )
 
-- [Javascript Tutorial For Beginners,](https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACnrXwo5HMCfOH9VT05znGv )
+* [Javascript Tutorial For Beginners,](https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACnrXwo5HMCfOH9VT05znGv )
 
-- [Design Patterns Video Tutorial,](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07 )
+* [Design Patterns Video Tutorial,](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07 )
 
-- [Object Oriented Design,](https://www.youtube.com/watch?v=fJW65Wo7IHI&list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE )
+* [Object Oriented Design,](https://www.youtube.com/watch?v=fJW65Wo7IHI&list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE )
 
-- [C++ Beginner Tutorials,](https://www.youtube.com/watch?v=jP_dnE4Us94&list=PLA68C1F33757B4A38 )
+* [C++ Beginner Tutorials,](https://www.youtube.com/watch?v=jP_dnE4Us94&list=PLA68C1F33757B4A38 )
 
-- [Learn JavaScript,](https://www.youtube.com/watch?v=6eFT4sdd454&list=PLCZavbLlUiH8s_XK_wEDxUGy_TVqZ57jG )
+* [Learn JavaScript,](https://www.youtube.com/watch?v=6eFT4sdd454&list=PLCZavbLlUiH8s_XK_wEDxUGy_TVqZ57jG )
 
-- [C++ OpenGL Beginner Tutorials,](https://www.youtube.com/watch?v=TH_hA_Sru6Q&list=PL2E88A9FE78FBF3B8 )
+* [C++ OpenGL Beginner Tutorials,](https://www.youtube.com/watch?v=TH_hA_Sru6Q&list=PL2E88A9FE78FBF3B8 )
 
-- [Algorithms,](https://www.youtube.com/watch?v=P00xJgWzz2c&list=PL89B61F78B552C1AB )
+* [Algorithms,](https://www.youtube.com/watch?v=P00xJgWzz2c&list=PL89B61F78B552C1AB )
 
-- [Neural Networks,](https://www.youtube.com/watch?v=eDYOH9q2QdA&list=PLA45CD9BACEC8B923 )
+* [Neural Networks,](https://www.youtube.com/watch?v=eDYOH9q2QdA&list=PLA45CD9BACEC8B923 )
 
-- [C++ Miscellaneous,](https://www.youtube.com/watch?v=zVV9CmzL-Go&list=PLE6BE7903C5799675 )
+* [C++ Miscellaneous,](https://www.youtube.com/watch?v=zVV9CmzL-Go&list=PLE6BE7903C5799675 )
 
-- [What is a Manifold?,](https://www.youtube.com/watch?v=CEXSSz0gZI4&list=PLRlVmXqzHjUQHEx63ZFxV-0Ortgf-rpJo )
+* [What is a Manifold?,](https://www.youtube.com/watch?v=CEXSSz0gZI4&list=PLRlVmXqzHjUQHEx63ZFxV-0Ortgf-rpJo )
 
-- [What is a Tensor?,](https://www.youtube.com/watch?v=_pKxbNyjNe8&list=PLRlVmXqzHjUQARA37r4Qw3SHPqVXgqO6c )
+* [What is a Tensor?,](https://www.youtube.com/watch?v=_pKxbNyjNe8&list=PLRlVmXqzHjUQARA37r4Qw3SHPqVXgqO6c )
 
-- [Kali Linux 2016.1 Hacking Tutorials (Full Course) ✔,](https://www.youtube.com/watch?v=SZqP1IJJ_UM&list=PLoAx5AQlvczUPV87uLcxZmaAp7kYMI8JA )
+* [Kali Linux 2016.1 Hacking Tutorials (Full Course) ✔,](https://www.youtube.com/watch?v=SZqP1IJJ_UM&list=PLoAx5AQlvczUPV87uLcxZmaAp7kYMI8JA )
 
-- [Web Development,](https://www.youtube.com/watch?v=dtiKDBO4nMc&list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI )
+* [Web Development,](https://www.youtube.com/watch?v=dtiKDBO4nMc&list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI )
 
-- [Python Tutorials Using Spyder,](https://www.youtube.com/watch?v=OPuDjdRjtyY&list=PLi0JA8iXJGFAaViSS3lFo1A4SM_tDjL9b )
+* [Python Tutorials Using Spyder,](https://www.youtube.com/watch?v=OPuDjdRjtyY&list=PLi0JA8iXJGFAaViSS3lFo1A4SM_tDjL9b )
 
-- [NLTK with Python 3 for Natural Language Processing,](https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL )
+* [NLTK with Python 3 for Natural Language Processing,](https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL )
 
-- [R Shiny Tutorial - Building Interactive Web Apps in R using Shiny,](https://www.youtube.com/watch?v=_0ORRJqctHE&list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB )
+* [R Shiny Tutorial - Building Interactive Web Apps in R using Shiny,](https://www.youtube.com/watch?v=_0ORRJqctHE&list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB )
 
-- [R Statistics Programming - Bioinformatics - Lectures,](https://www.youtube.com/watch?v=IYpGxUI9bxk&list=PL5rRb2J7OCT5N7kVJ4dehW1MDZe_hWeqh )
+* [R Statistics Programming - Bioinformatics - Lectures,](https://www.youtube.com/watch?v=IYpGxUI9bxk&list=PL5rRb2J7OCT5N7kVJ4dehW1MDZe_hWeqh )
 
-- [Introduction to Programming in R Statistical Software,](https://www.youtube.com/watch?v=riONFzJdXcs&list=PLqzoL9-eJTNATicffatWXTEjwMq6N0Sf3 )
+* [Introduction to Programming in R Statistical Software,](https://www.youtube.com/watch?v=riONFzJdXcs&list=PLqzoL9-eJTNATicffatWXTEjwMq6N0Sf3 )
 
-- [R Statistics Essential Training,](https://www.youtube.com/watch?v=zNuzNo1pKPw&list=PL3aKe7XwdM8VybLmUrYU_m-JEn5F-4IDB )
+* [R Statistics Essential Training,](https://www.youtube.com/watch?v=zNuzNo1pKPw&list=PL3aKe7XwdM8VybLmUrYU_m-JEn5F-4IDB )
 
-- [R Tutorial Videos,](https://www.youtube.com/watch?v=eDrhZb2onWY&list=PL9ooVrP1hQOEIUTpxRf4infBJnquwaTME )
+* [R Tutorial Videos,](https://www.youtube.com/watch?v=eDrhZb2onWY&list=PL9ooVrP1hQOEIUTpxRf4infBJnquwaTME )
 
-- [R Programming Tutorials Playlist,](https://www.youtube.com/watch?v=X67No4239Ys&list=PL6gx4Cwl9DGCzVMGCPi1kwvABu7eWv08P )
+* [R Programming Tutorials Playlist,](https://www.youtube.com/watch?v=X67No4239Ys&list=PL6gx4Cwl9DGCzVMGCPi1kwvABu7eWv08P )
 
-- [R tutorial - Learn R Programming,](https://www.youtube.com/watch?v=SWxoJqTqo08&list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg )
+* [R tutorial - Learn R Programming,](https://www.youtube.com/watch?v=SWxoJqTqo08&list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg )
 
-- [Episodes,](https://www.youtube.com/watch?v=ES7BtEOYY9Q&list=PLwMNlhB9pzRqLAt2FVpoRVxpB7XUX2kIz )
+* [Episodes,](https://www.youtube.com/watch?v=ES7BtEOYY9Q&list=PLwMNlhB9pzRqLAt2FVpoRVxpB7XUX2kIz )
 
-- [Deep Learning School 2016: Individual Talks,](https://www.youtube.com/watch?v=zij_FTbJHsk&list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW )
+* [Deep Learning School 2016: Individual Talks,](https://www.youtube.com/watch?v=zij_FTbJHsk&list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW )
 
-- [UC Berkeley CS10 Beauty and Joy of Computing Fa10 (1080p HD),](https://www.youtube.com/watch?v=ok_KcxqVrOk&list=PLECBD29A17AAF6EF9 )
+* [UC Berkeley CS10 Beauty and Joy of Computing Fa10 (1080p HD),](https://www.youtube.com/watch?v=ok_KcxqVrOk&list=PLECBD29A17AAF6EF9 )
 
-- [Pythonic code tips,](https://www.youtube.com/watch?v=QzEbSqCR658&list=PLwyG5wA5gIzgKu2rWb2hAUtYTuIlYizfU )
+* [Pythonic code tips,](https://www.youtube.com/watch?v=QzEbSqCR658&list=PLwyG5wA5gIzgKu2rWb2hAUtYTuIlYizfU )
 
-- [Redstone Tutorials,](https://www.youtube.com/watch?v=_5W1ofzboBc&list=PLsYWJNTsmPUX8nkFbGNuAXBmi9F8FrwvU )
+* [Redstone Tutorials,](https://www.youtube.com/watch?v=_5W1ofzboBc&list=PLsYWJNTsmPUX8nkFbGNuAXBmi9F8FrwvU )
 
-- [MIT 6.854 (Advanced Algorithms),](https://www.youtube.com/watch?v=hM547xRIdzc&list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c )
+* [MIT 6.854 (Advanced Algorithms),](https://www.youtube.com/watch?v=hM547xRIdzc&list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c )
 
-- [18.409 Algorithmic Aspects of Machine Learning Spring 2015 MIT,](https://www.youtube.com/watch?v=nsHbkVMaUGk&list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx )
+* [18.409 Algorithmic Aspects of Machine Learning Spring 2015 MIT,](https://www.youtube.com/watch?v=nsHbkVMaUGk&list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx )
 
-- [Simulink tutorial,](https://www.youtube.com/watch?v=9zv9cR3r980&list=PL6AE7D156C88080A1 )
+* [Simulink tutorial,](https://www.youtube.com/watch?v=9zv9cR3r980&list=PL6AE7D156C88080A1 )
 
-- [MATLAB: Statistics and Machine Learning Examples,](https://www.youtube.com/watch?v=e_-mt2XluaM&list=PL064D2B34455449AC )
+* [MATLAB: Statistics and Machine Learning Examples,](https://www.youtube.com/watch?v=e_-mt2XluaM&list=PL064D2B34455449AC )
 
-- [ALL TUTORIAL,](https://www.youtube.com/watch?v=u4Po2wHCIAs&list=PLMXD52C8bTC-B56kt0pZ5bH6DfubX_5g7 )
+* [ALL TUTORIAL,](https://www.youtube.com/watch?v=u4Po2wHCIAs&list=PLMXD52C8bTC-B56kt0pZ5bH6DfubX_5g7 )
 
-- [MATLAB: Signal Processing and Control System Examples,](https://www.youtube.com/watch?v=2hTxgPvY2bo&list=PLB9665D54A0459DF3 )
+* [MATLAB: Signal Processing and Control System Examples,](https://www.youtube.com/watch?v=2hTxgPvY2bo&list=PLB9665D54A0459DF3 )
 
-- [Making Control System Development Easier with MATLAB and Simulink,](https://www.youtube.com/watch?v=c8Fjk9TF6Y8&list=PLgh4hIUyrYyfonJjF22rheuJuV-znNXG3 )
+* [Making Control System Development Easier with MATLAB and Simulink,](https://www.youtube.com/watch?v=c8Fjk9TF6Y8&list=PLgh4hIUyrYyfonJjF22rheuJuV-znNXG3 )
 
-- [R Programming Software and Statistics Tutorials (All Videos),](https://www.youtube.com/watch?v=riONFzJdXcs&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU )
+* [R Programming Software and Statistics Tutorials (All Videos),](https://www.youtube.com/watch?v=riONFzJdXcs&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU )
 
-- [YaRrr! Course,](https://www.youtube.com/watch?v=dpPwdjorpg0&list=PL9tt3I41HFS8-A8V82yicRIl0uSb9mwEU )
+* [YaRrr! Course,](https://www.youtube.com/watch?v=dpPwdjorpg0&list=PL9tt3I41HFS8-A8V82yicRIl0uSb9mwEU )
 
-- [GIMP 2.8 Tutorials,](https://www.youtube.com/watch?v=RV03FZzobyU&list=PL6lxxT7IdTxFLGnbrViK4EA580xVVdT4y )
+* [GIMP 2.8 Tutorials,](https://www.youtube.com/watch?v=RV03FZzobyU&list=PL6lxxT7IdTxFLGnbrViK4EA580xVVdT4y )
 
-- [Logic Gates and Combinational Logic Circuits,](https://www.youtube.com/watch?v=zc59TXKAPio&list=PL7EF5F145E6CAF84E )
+* [Logic Gates and Combinational Logic Circuits,](https://www.youtube.com/watch?v=zc59TXKAPio&list=PL7EF5F145E6CAF84E )
 
-- [Boolean Algebra and Combinational Logic Circuit Design,](https://www.youtube.com/watch?v=bWyo3zNaSm4&list=PL6ACA763210093905 )
+* [Boolean Algebra and Combinational Logic Circuit Design,](https://www.youtube.com/watch?v=bWyo3zNaSm4&list=PL6ACA763210093905 )
 
-- [Python Programming,](https://www.youtube.com/watch?v=wqPzyszZrQc&list=PL6lxxT7IdTxFKo9DguLxGM2dhgb8-u976 )
+* [Python Programming,](https://www.youtube.com/watch?v=wqPzyszZrQc&list=PL6lxxT7IdTxFKo9DguLxGM2dhgb8-u976 )
 
-- [D& R for the Analysis of Big Data by William S. Cleveland,](https://www.youtube.com/watch?v=DKKN0BOBMxA&list=PLA9BB8D82FDB6565A )
+* [D& R for the Analysis of Big Data by William S. Cleveland,](https://www.youtube.com/watch?v=DKKN0BOBMxA&list=PLA9BB8D82FDB6565A )
 
-- [Introduction to Machine Learning by Dale Schuurmans,](https://www.youtube.com/watch?v=tdfZm-_Ru3c&list=PL2425D47C1B5A57C0 )
+* [Introduction to Machine Learning by Dale Schuurmans,](https://www.youtube.com/watch?v=tdfZm-_Ru3c&list=PL2425D47C1B5A57C0 )
 
-- [PURDUE Machine Learning Summer School 2011,](https://www.youtube.com/watch?v=tdfZm-_Ru3c&list=PL2A65507F7D725EFB )
+* [PURDUE Machine Learning Summer School 2011,](https://www.youtube.com/watch?v=tdfZm-_Ru3c&list=PL2A65507F7D725EFB )
 
-- [Large-scale ML and Stochastic Algorithms by Leon Bottou,](https://www.youtube.com/watch?v=A3Q5SpB7Lns&list=PL2100D4EB6EB12BDC )
+* [Large-scale ML and Stochastic Algorithms by Leon Bottou,](https://www.youtube.com/watch?v=A3Q5SpB7Lns&list=PL2100D4EB6EB12BDC )
 
-- [Optimization for Machine Learning by S.V.N Vishwanathan,](https://www.youtube.com/watch?v=wycjmwaunBQ&list=PL09B0E8AFC69BE108 )
+* [Optimization for Machine Learning by S.V.N Vishwanathan,](https://www.youtube.com/watch?v=wycjmwaunBQ&list=PL09B0E8AFC69BE108 )
 
-- [Reinforcement Learning by Satinder Singh Baveja,](https://www.youtube.com/watch?v=hx9o49Zt-us&list=PLEC4A69C404BDA578 )
+* [Reinforcement Learning by Satinder Singh Baveja,](https://www.youtube.com/watch?v=hx9o49Zt-us&list=PLEC4A69C404BDA578 )
 
-- [Mechatronics with MATLAB and Simulink,](https://www.youtube.com/watch?v=qJV393TOJAA&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt )
+* [Mechatronics with MATLAB and Simulink,](https://www.youtube.com/watch?v=qJV393TOJAA&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt )
 
-- [Matlab & Simulink Tutorial Videos,](https://www.youtube.com/watch?v=QY8xhCEoIOU&list=PL6izMgVOG4_OTQuabc5YPWZBFAhXMC0_V )
+* [Matlab & Simulink Tutorial Videos,](https://www.youtube.com/watch?v=QY8xhCEoIOU&list=PL6izMgVOG4_OTQuabc5YPWZBFAhXMC0_V )
 
-- [Fourier Analysis,](https://www.youtube.com/watch?v=_ZB4upHQCvQ&list=PL15675AA2B43110DF )
+* [Fourier Analysis,](https://www.youtube.com/watch?v=_ZB4upHQCvQ&list=PL15675AA2B43110DF )
 
-- [Partial Differential Equations,](https://www.youtube.com/watch?v=LYsIBqjQTdI&list=PLF6061160B55B0203 )
+* [Partial Differential Equations,](https://www.youtube.com/watch?v=LYsIBqjQTdI&list=PLF6061160B55B0203 )
 
-- [Ordinary Differential Equations,](https://www.youtube.com/watch?v=HKvP2ESjJbA&list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS )
+* [Ordinary Differential Equations,](https://www.youtube.com/watch?v=HKvP2ESjJbA&list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS )
 
-- [Finite Element Analysis,](https://www.youtube.com/watch?v=U65GK1vVw4o&list=PLyKRvOcqmC4JefemEHDN0KT0RJtPc6dhM )
+* [Finite Element Analysis,](https://www.youtube.com/watch?v=U65GK1vVw4o&list=PLyKRvOcqmC4JefemEHDN0KT0RJtPc6dhM )
 
-- [Basics of Finite Element Analysis,](https://www.youtube.com/watch?v=0kFjOz05d2k&list=PLmwqraYHSWdvqGD1D2ng_4KeuXt90cl0y )
+* [Basics of Finite Element Analysis,](https://www.youtube.com/watch?v=0kFjOz05d2k&list=PLmwqraYHSWdvqGD1D2ng_4KeuXt90cl0y )
 
-- [Finite Element Analysis of Engineering Problems with ANSYS,](https://www.youtube.com/watch?v=YBsBW6MSuck&list=PLeaqZIa18iQjbq4Lb1yQ3A4XVkqvVGi8B )
+* [Finite Element Analysis of Engineering Problems with ANSYS,](https://www.youtube.com/watch?v=YBsBW6MSuck&list=PLeaqZIa18iQjbq4Lb1yQ3A4XVkqvVGi8B )
 
-- [ANSYS APDL mechanical Coarse 2015,](https://www.youtube.com/watch?v=m2Hmf0Vz_po&list=PLBsjw1BLTfTqFF7RrLiIMmFavde-ZNsdp )
+* [ANSYS APDL mechanical Coarse 2015,](https://www.youtube.com/watch?v=m2Hmf0Vz_po&list=PLBsjw1BLTfTqFF7RrLiIMmFavde-ZNsdp )
 
-- [ENGR 570: Finite Element Analysis (Spring 2016),](https://www.youtube.com/watch?v=l3HOB8H71wI&list=PLCV9OyAY5K-XbJZOxkj8kMqD0MsG1ptBj )
+* [ENGR 570: Finite Element Analysis (Spring 2016),](https://www.youtube.com/watch?v=l3HOB8H71wI&list=PLCV9OyAY5K-XbJZOxkj8kMqD0MsG1ptBj )
 
-- [Femap - FEA (Finite Element Analysis),](https://www.youtube.com/watch?v=jl3JNgUn_z4&list=PLtibzNgCFXKkAMPbngLiDzHXWbV0Tat1s )
+* [Femap - FEA (Finite Element Analysis),](https://www.youtube.com/watch?v=jl3JNgUn_z4&list=PLtibzNgCFXKkAMPbngLiDzHXWbV0Tat1s )
 
-- [Adams 2012 Student Edition Tutorials,](https://www.youtube.com/watch?v=HAy0qjrlYWU&list=PLI39KM_btemyN-p1uc_rmqi4Zpeay8VCB )
+* [Adams 2012 Student Edition Tutorials,](https://www.youtube.com/watch?v=HAy0qjrlYWU&list=PLI39KM_btemyN-p1uc_rmqi4Zpeay8VCB )
 
-- [Student Edition Tutorials,](https://www.youtube.com/watch?v=HAy0qjrlYWU&list=PLI39KM_btemzq83Am_bg9dvpRVMQGODjv )
+* [Student Edition Tutorials,](https://www.youtube.com/watch?v=HAy0qjrlYWU&list=PLI39KM_btemzq83Am_bg9dvpRVMQGODjv )
 
-- [Adams Webinars,](https://www.youtube.com/watch?v=hGWs39kgnQE&list=PLI39KM_btemwE1DTroX7upqg5rle-Tb1X )
+* [Adams Webinars,](https://www.youtube.com/watch?v=hGWs39kgnQE&list=PLI39KM_btemwE1DTroX7upqg5rle-Tb1X )
 
-- [Computational Fluid Dynamics Teachers Workshop,](https://www.youtube.com/watch?v=47C6fEDwWXs&list=PL_uaeekrhGzJEBzxOh_9hG64k10gEUU7k )
+* [Computational Fluid Dynamics Teachers Workshop,](https://www.youtube.com/watch?v=47C6fEDwWXs&list=PL_uaeekrhGzJEBzxOh_9hG64k10gEUU7k )
 
-- [Computational Fluid Dynamics Coordinator Workshop,](https://www.youtube.com/watch?v=zLsDy6Lw-NA&list=PL_uaeekrhGzIljUqy2eYgbFxR6g9smomQ )
+* [Computational Fluid Dynamics Coordinator Workshop,](https://www.youtube.com/watch?v=zLsDy6Lw-NA&list=PL_uaeekrhGzIljUqy2eYgbFxR6g9smomQ )
 
-- [Python Programming,](https://www.youtube.com/watch?v=sdTiJfPOyZo&list=PLUY1lsOTtPeJIQkTG1BX8VU7fm7woUQhp )
+* [Python Programming,](https://www.youtube.com/watch?v=sdTiJfPOyZo&list=PLUY1lsOTtPeJIQkTG1BX8VU7fm7woUQhp )
 
-- [PySide,](https://www.youtube.com/watch?v=6fWVvlmuPLc&list=PLUY1lsOTtPeIyHW6dcmInh7yTUOHwmgiE )
+* [PySide,](https://www.youtube.com/watch?v=6fWVvlmuPLc&list=PLUY1lsOTtPeIyHW6dcmInh7yTUOHwmgiE )
 
-- [R Programming,](https://www.youtube.com/watch?v=lEddKmImD9I&list=PLUY1lsOTtPeI42ubgl9IMdplLTlyvUYdu )
+* [R Programming,](https://www.youtube.com/watch?v=lEddKmImD9I&list=PLUY1lsOTtPeI42ubgl9IMdplLTlyvUYdu )
 
-- [Python Data Science,](https://www.youtube.com/watch?v=bPw7wk7Tcy8&list=PLUY1lsOTtPeIgYC4fZwT8Gn9LZ2iwfWF- )
+* [Python Data Science,](https://www.youtube.com/watch?v=bPw7wk7Tcy8&list=PLUY1lsOTtPeIgYC4fZwT8Gn9LZ2iwfWF- )
 
-- [SciPy 2016: Scientific Computing with Python Conference,](https://www.youtube.com/watch?v=gtejJ3RCddE&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6 )
+* [SciPy 2016: Scientific Computing with Python Conference,](https://www.youtube.com/watch?v=gtejJ3RCddE&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6 )
 
-- [SciPy 2015: Scientific Computing with Python Conference,](https://www.youtube.com/watch?v=xAoljeRJ3lU&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu )
+* [SciPy 2015: Scientific Computing with Python Conference,](https://www.youtube.com/watch?v=xAoljeRJ3lU&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu )
 
-- [SciPy 2014: Scientific Computing with Python,](https://www.youtube.com/watch?v=vWkgEddb4-A&list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog )
+* [SciPy 2014: Scientific Computing with Python,](https://www.youtube.com/watch?v=vWkgEddb4-A&list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog )
 
-- [SciPy 2013: Scientific Computing with Python,](https://www.youtube.com/watch?v=NOm1zA_Cats&list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y )
+* [SciPy 2013: Scientific Computing with Python,](https://www.youtube.com/watch?v=NOm1zA_Cats&list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y )
 
-- [Programming,](https://www.youtube.com/watch?v=gjuHxjdv3ZE&list=PL7A1B745BB1504D83 )
+* [Programming,](https://www.youtube.com/watch?v=gjuHxjdv3ZE&list=PL7A1B745BB1504D83 )
 
-- [Mechanical - Computational Fluid Dynamics,](https://www.youtube.com/watch?v=gQ3q2G4bWz4&list=PLbMVogVj5nJSj3mANcK5ZbTplWGWpcj_7 )
+* [Mechanical - Computational Fluid Dynamics,](https://www.youtube.com/watch?v=gQ3q2G4bWz4&list=PLbMVogVj5nJSj3mANcK5ZbTplWGWpcj_7 )
 
-- [Lectures on Continuum Physics,](https://www.youtube.com/watch?v=iI4LfHVjSR4&list=PLJhG_d-Sp_JHvh47eZ8fSuUCUdp86i__y )
+* [Lectures on Continuum Physics,](https://www.youtube.com/watch?v=iI4LfHVjSR4&list=PLJhG_d-Sp_JHvh47eZ8fSuUCUdp86i__y )
 
-- [Full Stack Fest 2016,](https://www.youtube.com/watch?v=fnG7BE_FMjo&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc )
+* [Full Stack Fest 2016,](https://www.youtube.com/watch?v=fnG7BE_FMjo&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc )
 
-- [Functional Programming in Python by Caleb Smith,](https://www.youtube.com/watch?v=goypZR_lQ7I&list=PLHO1zGieXehCIHU87fNpMWgB2s53IdYk2 )
+* [Functional Programming in Python by Caleb Smith,](https://www.youtube.com/watch?v=goypZR_lQ7I&list=PLHO1zGieXehCIHU87fNpMWgB2s53IdYk2 )
 
-- [Torch Video Tutorials,](https://www.youtube.com/watch?v=QLYLOPeI92g&list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW )
+* [Torch Video Tutorials,](https://www.youtube.com/watch?v=QLYLOPeI92g&list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW )
 
-- [Google Developer Python tutorial,](https://www.youtube.com/watch?v=tKTZoB2Vjuk&list=PL123FD827C7984559 )
+* [Google Developer Python tutorial,](https://www.youtube.com/watch?v=tKTZoB2Vjuk&list=PL123FD827C7984559 )
 
-- [Developer Playlist,](https://www.youtube.com/watch?v=o5vBqG-IQQI&list=PLJ21zHI2TNh9BZqm32WAg2uXe9SWvgvfr )
+* [Developer Playlist,](https://www.youtube.com/watch?v=o5vBqG-IQQI&list=PLJ21zHI2TNh9BZqm32WAg2uXe9SWvgvfr )
 
-- [Tutorials,](https://www.youtube.com/watch?v=xYkz0Ueg0L4&list=PLJ21zHI2TNh9hcG0FFb4GVnHhTLGYtkfo )
+* [Tutorials,](https://www.youtube.com/watch?v=xYkz0Ueg0L4&list=PLJ21zHI2TNh9hcG0FFb4GVnHhTLGYtkfo )
 
-- [Material Design,](https://www.youtube.com/watch?v=jE1EU1ACe6s&list=PLJ21zHI2TNh-rX-Xr_xi9KIEcbdee_1Ah )
+* [Material Design,](https://www.youtube.com/watch?v=jE1EU1ACe6s&list=PLJ21zHI2TNh-rX-Xr_xi9KIEcbdee_1Ah )
 
-- [How Things Work,](https://www.youtube.com/watch?v=YtE0OsRWeYI&list=PL45DD1CA57AA3122A )
+* [How Things Work,](https://www.youtube.com/watch?v=YtE0OsRWeYI&list=PL45DD1CA57AA3122A )
 
-- [Math in Real Life,](https://www.youtube.com/watch?v=GJHhnr9R_ZM&list=PLE3376FF44087B17B )
+* [Math in Real Life,](https://www.youtube.com/watch?v=GJHhnr9R_ZM&list=PLE3376FF44087B17B )
 
-- [MIT 6.851 Advanced Data Structures,](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf )
+* [MIT 6.851 Advanced Data Structures,](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf )
 
-- [MIT 18.06SC Linear Algebra Recitations,](https://www.youtube.com/watch?v=uNKDw46_Ev4&list=PL221E2BBF13BECF6C )
+* [MIT 18.06SC Linear Algebra Recitations,](https://www.youtube.com/watch?v=uNKDw46_Ev4&list=PL221E2BBF13BECF6C )
 
-- [MIT 18.02SC: Homework Help for Multivariable Calculus,](https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01 )
+* [MIT 18.02SC: Homework Help for Multivariable Calculus,](https://www.youtube.com/watch?v=AYixF5nY3Vc&list=PLF07555F3CC669D01 )
 
-- [6.041 Probabilistic Systems Analysis and Applied Probability,](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8 )
+* [6.041 Probabilistic Systems Analysis and Applied Probability,](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8 )
 
-- [MIT 6.370 The Battlecode Programming Competition,](https://www.youtube.com/watch?v=BLExWo9Empk&list=PLUl4u3cNGP61vHg_yuYXydlzBs6d0KSTL )
+* [MIT 6.370 The Battlecode Programming Competition,](https://www.youtube.com/watch?v=BLExWo9Empk&list=PLUl4u3cNGP61vHg_yuYXydlzBs6d0KSTL )
 
-- [MIT 6.042J Mathematics for Computer Science,](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ )
+* [MIT 6.042J Mathematics for Computer Science,](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ )
 
-- [esigning the graphics in ""The Truthful Art""",](https://www.youtube.com/watch?v=RIFJM3iRhNE&list=PLI0e4-ERAU-NKn4BqEgi5OlFaixEtkmMC )
+* [esigning the graphics in ""The Truthful Art""",](https://www.youtube.com/watch?v=RIFJM3iRhNE&list=PLI0e4-ERAU-NKn4BqEgi5OlFaixEtkmMC )
 
-- [CS460 ROS Short Tutorials,](https://www.youtube.com/watch?v=xgLETnSMMYA&list=PLSzYQGCXRW1HLWHdJ7ehZPA-nn7R9UKPa )
+* [CS460 ROS Short Tutorials,](https://www.youtube.com/watch?v=xgLETnSMMYA&list=PLSzYQGCXRW1HLWHdJ7ehZPA-nn7R9UKPa )
 
-- [Math Olympiad,](https://www.youtube.com/watch?v=YDPL_rChCjc&list=PLZvN63Av-VXKp5WJp9oarGkmxZjLRzRBx )
+* [Math Olympiad,](https://www.youtube.com/watch?v=YDPL_rChCjc&list=PLZvN63Av-VXKp5WJp9oarGkmxZjLRzRBx )
 
-- [ Mini-course: ""Introduction to Analytic Number Theory"" by Ram Murty [2015]",](https://www.youtube.com/watch?v=SpeDnV6pXsQ&list=PLhsb6tmzSpiwLds3DD62o1MvI2MS2bby7 )
+* [ Mini-course: ""Introduction to Analytic Number Theory"" by Ram Murty [2015]",](https://www.youtube.com/watch?v=SpeDnV6pXsQ&list=PLhsb6tmzSpiwLds3DD62o1MvI2MS2bby7 )
 
-- [Number Theory,](https://www.youtube.com/watch?v=Br-uizllBTw&list=PL018X5Hlr4RnB78091B1SghJNb98T-XUs )
+* [Number Theory,](https://www.youtube.com/watch?v=Br-uizllBTw&list=PL018X5Hlr4RnB78091B1SghJNb98T-XUs )
 
-- [ME 702 - CFD,](https://www.youtube.com/watch?v=cDy5XGOokBY&list=PL30F4C5ABCE62CB61 )
+* [ME 702 - CFD,](https://www.youtube.com/watch?v=cDy5XGOokBY&list=PL30F4C5ABCE62CB61 )
 
-- [Statistics everyone should know,](https://www.youtube.com/watch?v=tQ5slNYRcC4&list=PLVc-QdfGfSl1NWTgexwWmcU1Z6BufQ1MI )
+* [Statistics everyone should know,](https://www.youtube.com/watch?v=tQ5slNYRcC4&list=PLVc-QdfGfSl1NWTgexwWmcU1Z6BufQ1MI )
 
-- [Writing in the Sciences,](https://www.youtube.com/watch?v=PPsocEFCGRU&list=PLVc-QdfGfSl2Ntc6CvIP83Nj_uHTSdNSw )
+* [Writing in the Sciences,](https://www.youtube.com/watch?v=PPsocEFCGRU&list=PLVc-QdfGfSl2Ntc6CvIP83Nj_uHTSdNSw )
 
-- [Differential Equations,](https://www.youtube.com/watch?v=oDkNb1liiRg&list=PLsu0TcgLDUiJF5u8tbcnyxjAFhqiSyGnJ )
+* [Differential Equations,](https://www.youtube.com/watch?v=oDkNb1liiRg&list=PLsu0TcgLDUiJF5u8tbcnyxjAFhqiSyGnJ )
 
-- [Advanced Calculus / Multivariable Calculus,](https://www.youtube.com/watch?v=qDZN2wz5cuc&list=PL3A32E95F0F6AE5C1 )
+* [Advanced Calculus / Multivariable Calculus,](https://www.youtube.com/watch?v=qDZN2wz5cuc&list=PL3A32E95F0F6AE5C1 )
 
-- [Introduction to Pyhton for mathematical programming,](https://www.youtube.com/watch?v=P8DIM41B-mM&list=PLsu0TcgLDUiIqN76ZuRkhDUCd-c_EjIkN )
+* [Introduction to Pyhton for mathematical programming,](https://www.youtube.com/watch?v=P8DIM41B-mM&list=PLsu0TcgLDUiIqN76ZuRkhDUCd-c_EjIkN )
 
-- [Learning medical statistics with python and Jupyter notebooks,](https://www.youtube.com/watch?v=Kp9RuOLTHvQ&list=PLsu0TcgLDUiIueDMfTX3322AZhdGb0_zm )
+* [Learning medical statistics with python and Jupyter notebooks,](https://www.youtube.com/watch?v=Kp9RuOLTHvQ&list=PLsu0TcgLDUiIueDMfTX3322AZhdGb0_zm )
 
-- [A Second Course in Differential Equations,](https://www.youtube.com/watch?v=k77jyRsdYKs&list=PLsu0TcgLDUiLA6AnL7XL65pKhIEuyEDHd )
+* [A Second Course in Differential Equations,](https://www.youtube.com/watch?v=k77jyRsdYKs&list=PLsu0TcgLDUiLA6AnL7XL65pKhIEuyEDHd )
 
-- [SciPy 2014: Scientific Computing with Python,](https://www.youtube.com/watch?v=vWkgEddb4-A&list=PLdkuolCDcHLr1FEdDKoolLQ33kzjoRsZc )
+* [SciPy 2014: Scientific Computing with Python,](https://www.youtube.com/watch?v=vWkgEddb4-A&list=PLdkuolCDcHLr1FEdDKoolLQ33kzjoRsZc )
 
-- [CFD - by Prof. Lorena Barba - Boston University,](https://www.youtube.com/watch?v=3YWFU4sEIcE&list=PLF7SDx4juIrpvqYTjIgp89NSmHOHWrrWb )
+* [CFD - by Prof. Lorena Barba - Boston University,](https://www.youtube.com/watch?v=3YWFU4sEIcE&list=PLF7SDx4juIrpvqYTjIgp89NSmHOHWrrWb )
 
-- [Johns Hopkins Learning Theory (Spring 2014),](https://www.youtube.com/watch?v=bNVBfzZ6Nx0&list=PLm2O0wgl7szMwurPdJBXlauklMa-_yLOq )
+* [Johns Hopkins Learning Theory (Spring 2014),](https://www.youtube.com/watch?v=bNVBfzZ6Nx0&list=PLm2O0wgl7szMwurPdJBXlauklMa-_yLOq )
 
-- [MIT 6.006 Introduction to Algorithms,](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLSX2U_ZE4Huk19DPn34oZlygPbsig380X )
+* [MIT 6.006 Introduction to Algorithms,](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLSX2U_ZE4Huk19DPn34oZlygPbsig380X )
 
-- [HTML Basics Tutorial Series,](https://www.youtube.com/watch?v=xvjTQqxLnEU&list=PLRtjMdoYXLf5oAbJvPeCPYtUqAUJj4USe )
+* [HTML Basics Tutorial Series,](https://www.youtube.com/watch?v=xvjTQqxLnEU&list=PLRtjMdoYXLf5oAbJvPeCPYtUqAUJj4USe )
 
-- [CSS Basics Tutorial Series,](https://www.youtube.com/watch?v=L2T8OgU40GU&list=PLRtjMdoYXLf5u3uNq4hN72D8eJAOKqhSH )
+* [CSS Basics Tutorial Series,](https://www.youtube.com/watch?v=L2T8OgU40GU&list=PLRtjMdoYXLf5u3uNq4hN72D8eJAOKqhSH )
 
-- [JavaScript Basics Tutorial Series,](https://www.youtube.com/watch?v=PkKzO3LAYxQ&list=PLRtjMdoYXLf5h9m89FNo1f_Bz1MVXRnZO )
+* [JavaScript Basics Tutorial Series,](https://www.youtube.com/watch?v=PkKzO3LAYxQ&list=PLRtjMdoYXLf5h9m89FNo1f_Bz1MVXRnZO )
 
-- [C++ Programming Tutorial Series,](https://www.youtube.com/watch?v=9_htIl_ikk4&list=PLRtjMdoYXLf6TJYfWc8yWrekSwpyhPEx1 )
+* [C++ Programming Tutorial Series,](https://www.youtube.com/watch?v=9_htIl_ikk4&list=PLRtjMdoYXLf6TJYfWc8yWrekSwpyhPEx1 )
 
-- [OpenGL,](https://www.youtube.com/watch?v=4zjCqjfjcPs&list=PLRtjMdoYXLf4yTkXgyRBy5LXTFhdU7LWq )
+* [OpenGL,](https://www.youtube.com/watch?v=4zjCqjfjcPs&list=PLRtjMdoYXLf4yTkXgyRBy5LXTFhdU7LWq )
 
-- [Modern OpenGL 3.0+ Tutorials,](https://www.youtube.com/watch?v=Tz0dq2krCW8&list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8 )
+* [Modern OpenGL 3.0+ Tutorials,](https://www.youtube.com/watch?v=Tz0dq2krCW8&list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8 )
 
-- [Abstract Algebra,](https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6 )
+* [Abstract Algebra,](https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6 )
 
-- [Python Programming Tutorials (Computer Science),](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er- )
+* [Python Programming Tutorials (Computer Science),](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er- )
 
-- [Neural networks class - Université de Sherbrooke,](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH )
+* [Neural networks class - Université de Sherbrooke,](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH )
 
-- [Parallel and Concurrent Haskell,](https://www.youtube.com/watch?v=N6sOMGYsvFA&list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw )
+* [Parallel and Concurrent Haskell,](https://www.youtube.com/watch?v=N6sOMGYsvFA&list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw )
 
-- [Category Theory,](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_ )
+* [Category Theory,](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_ )
 
-- [Linux Command Line Tutorial For Beginners,](https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As )
+* [Linux Command Line Tutorial For Beginners,](https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As )
 
-- [CSharp for beginners,](https://www.youtube.com/watch?v=-f46EnqJ_nE&list=PLWcAOKgczzMA-RYZiS0yDjdixpU7XYa_S )
+* [CSharp for beginners,](https://www.youtube.com/watch?v=-f46EnqJ_nE&list=PLWcAOKgczzMA-RYZiS0yDjdixpU7XYa_S )
 
-- [Bonus videos not part of the above episodes,](https://www.youtube.com/watch?v=Zxm4Xxvzohk&list=PL87386AD236727A1B )
+* [Bonus videos not part of the above episodes,](https://www.youtube.com/watch?v=Zxm4Xxvzohk&list=PL87386AD236727A1B )
 
-- [Khan's Crypto by Brit Cruise,](https://www.youtube.com/watch?v=Kf9KjCKmDcU&list=PL148EBF39F493C3DE )
+* [Khan's Crypto by Brit Cruise,](https://www.youtube.com/watch?v=Kf9KjCKmDcU&list=PL148EBF39F493C3DE )
 
-- [Python Challenge!,](https://www.youtube.com/watch?v=mQT3_98_-Y4&list=PL1H1sBF1VAKWfha866WUjDw0cwser3HAZ )
+* [Python Challenge!,](https://www.youtube.com/watch?v=mQT3_98_-Y4&list=PL1H1sBF1VAKWfha866WUjDw0cwser3HAZ )
 
-- [Python sympy Module Tutorials,](https://www.youtube.com/watch?v=MJEgX2bn62o&list=PL1H1sBF1VAKVAgoRedF-G6VHawk9d4yuz )
+* [Python sympy Module Tutorials,](https://www.youtube.com/watch?v=MJEgX2bn62o&list=PL1H1sBF1VAKVAgoRedF-G6VHawk9d4yuz )
 
-- [C++ Tutorials,](https://www.youtube.com/watch?v=Vp71PorGwRM&list=PL1H1sBF1VAKWaQykj6F4qqKkLLMpDSQxN )
+* [C++ Tutorials,](https://www.youtube.com/watch?v=Vp71PorGwRM&list=PL1H1sBF1VAKWaQykj6F4qqKkLLMpDSQxN )
 
-- [Batch Tutorials,](https://www.youtube.com/watch?v=JbAyxKjUPs0&list=PL69BE3BF7D0BB69C4 )
+* [Batch Tutorials,](https://www.youtube.com/watch?v=JbAyxKjUPs0&list=PL69BE3BF7D0BB69C4 )
 
-- [Machine Learning CMU Fall 2013 10-701x,](https://www.youtube.com/watch?v=qBtfh0uxGM8&list=PLZSO_6-bSqHR7NPk4k0zqdm2dPdraQZ_B )
+* [Machine Learning CMU Fall 2013 10-701x,](https://www.youtube.com/watch?v=qBtfh0uxGM8&list=PLZSO_6-bSqHR7NPk4k0zqdm2dPdraQZ_B )
 
-- [Knowledge | Computing | Machine Learning | Sendex,](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLubb3AIPdPhaWYGYsNnBZwRwGDxKtsyX1 )
+* [Knowledge | Computing | Machine Learning | Sendex,](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLubb3AIPdPhaWYGYsNnBZwRwGDxKtsyX1 )
 
-- [Machine Learning Crash Course 2015,](https://www.youtube.com/watch?v=OXxwWCtEZf8&list=PLyGKBDfnk-iD5dK8N7UBUFVVDBBtznenR )
+* [Machine Learning Crash Course 2015,](https://www.youtube.com/watch?v=OXxwWCtEZf8&list=PLyGKBDfnk-iD5dK8N7UBUFVVDBBtznenR )
 
-- [Caltech's Machine Learning Course,](https://www.youtube.com/watch?v=ep9VP0qeuzo&list=PL28TZg_5n002mkIrYAsdwFHQFVEIVRrv7 )
+* [Caltech's Machine Learning Course,](https://www.youtube.com/watch?v=ep9VP0qeuzo&list=PL28TZg_5n002mkIrYAsdwFHQFVEIVRrv7 )
 
-- [GPU Computing and Machine Learning,](https://www.youtube.com/watch?v=nRSxp5ZKwhQ&list=PLH5bJF99EVzRwpvhr5Qa35_DDtCrTYcix )
+* [GPU Computing and Machine Learning,](https://www.youtube.com/watch?v=nRSxp5ZKwhQ&list=PLH5bJF99EVzRwpvhr5Qa35_DDtCrTYcix )
 
-- [Caltech Machine learning,](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLXIPmvMlpicGPhDuIDYWSSUeV8JVElsei )
+* [Caltech Machine learning,](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLXIPmvMlpicGPhDuIDYWSSUeV8JVElsei )
 
-- [Python,](https://www.youtube.com/watch?v=plmR-D2vBLs&list=PLUgZaFoyJafij0pzV4ZIPfyVxiBKY2nVS )
+* [Python,](https://www.youtube.com/watch?v=plmR-D2vBLs&list=PLUgZaFoyJafij0pzV4ZIPfyVxiBKY2nVS )
 
-- [Machine Learning Fundamentals,](https://www.youtube.com/watch?v=MXZxn_hmnLA&list=PLUgZaFoyJafheHtl5be26kKzne06-WSnO )
+* [Machine Learning Fundamentals,](https://www.youtube.com/watch?v=MXZxn_hmnLA&list=PLUgZaFoyJafheHtl5be26kKzne06-WSnO )
 
-- [AI and Deep Learning - Two Minute Papers,](https://www.youtube.com/watch?v=V1eYniJ0Rnk&list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2 )
+* [AI and Deep Learning - Two Minute Papers,](https://www.youtube.com/watch?v=V1eYniJ0Rnk&list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2 )
 
-- [Machine Learning for Trading | Udacity,](https://www.youtube.com/watch?v=s5xKxliBMTo&list=PLAwxTw4SYaPnIRwl6rad_mYwEk4Gmj7Mx )
+* [Machine Learning for Trading | Udacity,](https://www.youtube.com/watch?v=s5xKxliBMTo&list=PLAwxTw4SYaPnIRwl6rad_mYwEk4Gmj7Mx )
 
-- [Machine Learning - Google Developers,](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt )
+* [Machine Learning - Google Developers,](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt )
 
-- [Machine Learning by Andrew Ng,](https://www.youtube.com/watch?v=gNkE3tFUFuw&list=PL0Smm0jPm9WcCsYvbhPCdizqNKps69W4Z )
+* [Machine Learning by Andrew Ng,](https://www.youtube.com/watch?v=gNkE3tFUFuw&list=PL0Smm0jPm9WcCsYvbhPCdizqNKps69W4Z )
 
-- [Machine Learning 2013,](https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6 )
+* [Machine Learning 2013,](https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6 )
 
-- [Python Tips,](https://www.youtube.com/watch?v=cbot48lckOs&list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i )
+* [Python Tips,](https://www.youtube.com/watch?v=cbot48lckOs&list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i )
 
-- [Sublime Text Tips,](https://www.youtube.com/watch?v=3yGZ0P-wRSw&list=PLP8GkvaIxJP0DMzXTsie2BMXU7mePpKmZ )
+* [Sublime Text Tips,](https://www.youtube.com/watch?v=3yGZ0P-wRSw&list=PLP8GkvaIxJP0DMzXTsie2BMXU7mePpKmZ )
 
-- [Make Better Software: The Training Series (Complete Series),](https://www.youtube.com/watch?v=qXZ75Ds5vOs&list=PLXOSex6PRPFN48McdqRkGMLFd9-pov0Fe )
+* [Make Better Software: The Training Series (Complete Series),](https://www.youtube.com/watch?v=qXZ75Ds5vOs&list=PLXOSex6PRPFN48McdqRkGMLFd9-pov0Fe )
 
-- [MIT 3.60 Symmetry,](https://www.youtube.com/watch?v=vT_6DlaHcWQ&list=PL7E7E396BF006E209 )
+* [MIT 3.60 Symmetry,](https://www.youtube.com/watch?v=vT_6DlaHcWQ&list=PL7E7E396BF006E209 )
 
-- [Math 308 - Bridge to Advanced Mathematics - Summer 2015,](https://www.youtube.com/watch?v=Mab6W-kZnOs&list=PLYoxM3oLTvxLximquG1CH9jFZBW_NaePL )
+* [Math 308 - Bridge to Advanced Mathematics - Summer 2015,](https://www.youtube.com/watch?v=Mab6W-kZnOs&list=PLYoxM3oLTvxLximquG1CH9jFZBW_NaePL )
 
-- [Math 346 - Elements of Linear Algebra - CCNY Spring 2016,](https://www.youtube.com/watch?v=Z11bDGjh58c&list=PLYoxM3oLTvxJTBSyKeRH9IFeQSbMfLLx7 )
+* [Math 346 - Elements of Linear Algebra - CCNY Spring 2016,](https://www.youtube.com/watch?v=Z11bDGjh58c&list=PLYoxM3oLTvxJTBSyKeRH9IFeQSbMfLLx7 )
 
-- [Vectors,](https://www.youtube.com/watch?v=IBDiWlXJcUk&list=PLJ8OrXpbC-BNHmhFI4i_EK3vUmuMgZ6wb )
+* [Vectors,](https://www.youtube.com/watch?v=IBDiWlXJcUk&list=PLJ8OrXpbC-BNHmhFI4i_EK3vUmuMgZ6wb )
 
-- [Math 391 - Methods of Differential Equations - Spring 2015,](https://www.youtube.com/watch?v=0ka7Gercf5k&list=PLYoxM3oLTvxJG4eG_cB6RAol_93YkxcJB )
+* [Math 391 - Methods of Differential Equations - Spring 2015,](https://www.youtube.com/watch?v=0ka7Gercf5k&list=PLYoxM3oLTvxJG4eG_cB6RAol_93YkxcJB )
 
-- [Differential Equations,](https://www.youtube.com/watch?v=hsTfC1Wmxqc&list=PLJ8OrXpbC-BO2zEW58TpHHakh5nodn3-i )
+* [Differential Equations,](https://www.youtube.com/watch?v=hsTfC1Wmxqc&list=PLJ8OrXpbC-BO2zEW58TpHHakh5nodn3-i )
 
-- [Differential Equations for XII Standard & IIT-JEE,](https://www.youtube.com/watch?v=ApHa64N2sg8&list=PL3Wi397dlS-H76CihjOgYczPgF9SUvyJt )
+* [Differential Equations for XII Standard & IIT-JEE,](https://www.youtube.com/watch?v=ApHa64N2sg8&list=PL3Wi397dlS-H76CihjOgYczPgF9SUvyJt )
 
-- [MIT Nonlinear Finite Element Analysis,](https://www.youtube.com/watch?v=TJh7KPABk6I&list=PL75C727EA9F6A0E8B )
+* [MIT Nonlinear Finite Element Analysis,](https://www.youtube.com/watch?v=TJh7KPABk6I&list=PL75C727EA9F6A0E8B )
 
-- [MIT Linear Finite Element Analysis,](https://www.youtube.com/watch?v=oNqSzzycRhw&list=PLD4017FC423EC3EB5 )
+* [MIT Linear Finite Element Analysis,](https://www.youtube.com/watch?v=oNqSzzycRhw&list=PLD4017FC423EC3EB5 )
 
-- [Intro to Bitcoin,](https://www.youtube.com/watch?v=nVFDZsxOMRg&list=PL2-dafEMk2A54lEqRGsl7Zdcbj3IfEj_z )
+* [Intro to Bitcoin,](https://www.youtube.com/watch?v=nVFDZsxOMRg&list=PL2-dafEMk2A54lEqRGsl7Zdcbj3IfEj_z )
 
-- [Fresh Machine Learning,](https://www.youtube.com/watch?v=FIjy3lV_KJU&list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY )
+* [Fresh Machine Learning,](https://www.youtube.com/watch?v=FIjy3lV_KJU&list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY )
 
-- [MATLAB® Tutorial: Detailed Examples,](https://www.youtube.com/watch?v=D_hmws6dwgg&list=PLEDEA276B25EE6D03 )
+* [MATLAB® Tutorial: Detailed Examples,](https://www.youtube.com/watch?v=D_hmws6dwgg&list=PLEDEA276B25EE6D03 )
 
-- [Physical Modeling,](https://www.youtube.com/watch?v=QtQI4RAYLrM&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4 )
+* [Physical Modeling,](https://www.youtube.com/watch?v=QtQI4RAYLrM&list=PLn8PRpmsu08pi-Wfq-1l-pPP-UbZoOkf4 )
 
-- [Understanding Wavelets,](https://www.youtube.com/watch?v=QX1-xGVFqmw&list=PLn8PRpmsu08ojy02wi4QLVzELM545Xw3p )
+* [Understanding Wavelets,](https://www.youtube.com/watch?v=QX1-xGVFqmw&list=PLn8PRpmsu08ojy02wi4QLVzELM545Xw3p )
 
-- [Electronics Tutorial,](https://www.youtube.com/watch?v=XYJ_AUOw4aE&list=PLGLfVvz_LVvTVx-OeaqONkqFVpXvFBNR- )
+* [Electronics Tutorial,](https://www.youtube.com/watch?v=XYJ_AUOw4aE&list=PLGLfVvz_LVvTVx-OeaqONkqFVpXvFBNR- )
 
-- [Learn to Program,](https://www.youtube.com/watch?v=nwjAHQERL08&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt )
+* [Learn to Program,](https://www.youtube.com/watch?v=nwjAHQERL08&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt )
 
-- [Lecture Collection | Linear Dynamical Systems,](https://www.youtube.com/watch?v=bf1264iFr-w&list=PL06960BA52D0DB32B )
+* [Lecture Collection | Linear Dynamical Systems,](https://www.youtube.com/watch?v=bf1264iFr-w&list=PL06960BA52D0DB32B )
 
-- [Highlights of Calculus,](https://www.youtube.com/watch?v=X9t-u87df3o&list=PLBE9407EA64E2C318 )
+* [Highlights of Calculus,](https://www.youtube.com/watch?v=X9t-u87df3o&list=PLBE9407EA64E2C318 )
 
-- [More mathematics,](https://www.youtube.com/watch?v=CliW7kSxxWU&list=PLkyBCj4JhHt-BTSJka3WRsTvmMKz1YNLY )
+* [More mathematics,](https://www.youtube.com/watch?v=CliW7kSxxWU&list=PLkyBCj4JhHt-BTSJka3WRsTvmMKz1YNLY )
 
-- [Mathematics,](https://www.youtube.com/watch?v=rjLJIVoQxz4&list=PLkyBCj4JhHt9G55u1vgx_DF0C7DXVsBS8 )
+* [Mathematics,](https://www.youtube.com/watch?v=rjLJIVoQxz4&list=PLkyBCj4JhHt9G55u1vgx_DF0C7DXVsBS8 )
 
-- [Remaking Cavestory in C++,](https://www.youtube.com/watch?v=ETvApbD5xRo&list=PLNOBk_id22bw6LXhrGfhVwqQIa-M2MsLa )
+* [Remaking Cavestory in C++,](https://www.youtube.com/watch?v=ETvApbD5xRo&list=PLNOBk_id22bw6LXhrGfhVwqQIa-M2MsLa )
 
-- [Course | Programming Methodology,](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852 )
+* [Course | Programming Methodology,](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852 )
 
-- [Getting started with ABAQUS,](https://www.youtube.com/watch?v=l1ibUdMmQts&list=PLJV_5cZfj1QCZR1TwHAJT2qrdGqpgkxJp )
+* [Getting started with ABAQUS,](https://www.youtube.com/watch?v=l1ibUdMmQts&list=PLJV_5cZfj1QCZR1TwHAJT2qrdGqpgkxJp )
 
-- [MSC Nastran,](https://www.youtube.com/watch?v=ARe5R6eR0VM&list=PLrqlhiIpF3S0hrqskm7xf4fDRdJai0IC6 )
+* [MSC Nastran,](https://www.youtube.com/watch?v=ARe5R6eR0VM&list=PLrqlhiIpF3S0hrqskm7xf4fDRdJai0IC6 )
 
-- [Technical Seminar for Femap & NX Nastran Best Practices,](https://www.youtube.com/watch?v=nGY8gCpKtvA&list=PLIq4ammgRgreNA3H54ns8f5Ue5DG7kqqf )
+* [Technical Seminar for Femap & NX Nastran Best Practices,](https://www.youtube.com/watch?v=nGY8gCpKtvA&list=PLIq4ammgRgreNA3H54ns8f5Ue5DG7kqqf )
 
-- [MSC Nastran Advanced Nonlinear,](https://www.youtube.com/watch?v=CuyBPj2isvQ&list=PL9A089F7E6CDCF2AF )
+* [MSC Nastran Advanced Nonlinear,](https://www.youtube.com/watch?v=CuyBPj2isvQ&list=PL9A089F7E6CDCF2AF )
 
-- [MSC Nastran,](https://www.youtube.com/watch?v=ARe5R6eR0VM&list=PLI39KM_btemwwh_QEJWRpkrsK7EN7Kmth )
+* [MSC Nastran,](https://www.youtube.com/watch?v=ARe5R6eR0VM&list=PLI39KM_btemwwh_QEJWRpkrsK7EN7Kmth )
 
-- [Finite element Method by Mr. Ravi Pratap Singh e-content for AKTU,](https://www.youtube.com/watch?v=HaiU0i1mmDQ&list=PL73aTOIQua3oD2wwhmmW4yQTxn3craDdX )
+* [Finite element Method by Mr. Ravi Pratap Singh e-content for AKTU,](https://www.youtube.com/watch?v=HaiU0i1mmDQ&list=PL73aTOIQua3oD2wwhmmW4yQTxn3craDdX )
 
-- [Numerical Electromagnetics,](https://www.youtube.com/watch?v=NEVBspWwj3g&list=PLA12C8B6121AFB9D7 )
+* [Numerical Electromagnetics,](https://www.youtube.com/watch?v=NEVBspWwj3g&list=PLA12C8B6121AFB9D7 )
 
-- [Linear,](https://www.youtube.com/watch?v=guI1by6Vj_8&list=PLA5F2DE976A97F712 )
+* [Linear,](https://www.youtube.com/watch?v=guI1by6Vj_8&list=PLA5F2DE976A97F712 )
 
-- [Structural Dynamic Finite Element Analysis,](https://www.youtube.com/watch?v=U_HPnKNDCzo&list=PL629437C435379364 )
+* [Structural Dynamic Finite Element Analysis,](https://www.youtube.com/watch?v=U_HPnKNDCzo&list=PL629437C435379364 )
 
-- [Introduction to Programming with MATLAB,](https://www.youtube.com/watch?v=6iN56l7dEMY&list=PLYdXvSx87cgRJfv6gZl7GjAs0GNvyg-uS )
+* [Introduction to Programming with MATLAB,](https://www.youtube.com/watch?v=6iN56l7dEMY&list=PLYdXvSx87cgRJfv6gZl7GjAs0GNvyg-uS )
 
-- [Engineering Mathematics (UW ME564 and ME565),](https://www.youtube.com/watch?v=QM0ATZRlbKQ&list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j )
+* [Engineering Mathematics (UW ME564 and ME565),](https://www.youtube.com/watch?v=QM0ATZRlbKQ&list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j )
 
-- [Electro Magnetics Theory for GATE,](https://www.youtube.com/watch?v=5GLOKnHzAPU&list=PLWPirh4EWFpGn8qUBc8dz6xNPjGixPcA7 )
+* [Electro Magnetics Theory for GATE,](https://www.youtube.com/watch?v=5GLOKnHzAPU&list=PLWPirh4EWFpGn8qUBc8dz6xNPjGixPcA7 )
 
-- [Excel VBA Macro,](https://www.youtube.com/watch?v=T-VXoFYsFWM&list=PLWPirh4EWFpEFSYTbKaST6hSlgIFCJjU3 )
+* [Excel VBA Macro,](https://www.youtube.com/watch?v=T-VXoFYsFWM&list=PLWPirh4EWFpEFSYTbKaST6hSlgIFCJjU3 )
 
-- [Digital Electronics for GATE,](https://www.youtube.com/watch?v=W0U9oU8r830&list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S- )
+* [Digital Electronics for GATE,](https://www.youtube.com/watch?v=W0U9oU8r830&list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S- )
 
-- [Numerical linear algebra,](https://www.youtube.com/watch?v=d1wuITwdBZ8&list=PLvUvOH0OYx3AZ_WXhkLXo3JLSeGT2wLj3 )
+* [Numerical linear algebra,](https://www.youtube.com/watch?v=d1wuITwdBZ8&list=PLvUvOH0OYx3AZ_WXhkLXo3JLSeGT2wLj3 )
 
-- [Linear Algebra,](https://www.youtube.com/watch?v=ivP-6oicIWU&list=PLAFEC355DFEADC30C )
+* [Linear Algebra,](https://www.youtube.com/watch?v=ivP-6oicIWU&list=PLAFEC355DFEADC30C )
 
-- [Linear Algebra,](https://www.youtube.com/watch?v=eV3NidpjfNg&list=PLEbnTDJUr_IdiveZ4bvOc1Oh2zEp7J8z6 )
+* [Linear Algebra,](https://www.youtube.com/watch?v=eV3NidpjfNg&list=PLEbnTDJUr_IdiveZ4bvOc1Oh2zEp7J8z6 )
 
-- [Stanford NLP Open Course,](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL4LJlvG_SDpxQAwZYtwfXcQr7kGnl9W93 )
+* [Stanford NLP Open Course,](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL4LJlvG_SDpxQAwZYtwfXcQr7kGnl9W93 )
 
-- [introduction to the Natural Language Processing (season 0),](https://www.youtube.com/watch?v=tzAcaeFt9UM&list=PLEmGr4T5IjTQhSRoPUG6f5Plph-VX6FOc )
+* [introduction to the Natural Language Processing (season 0),](https://www.youtube.com/watch?v=tzAcaeFt9UM&list=PLEmGr4T5IjTQhSRoPUG6f5Plph-VX6FOc )
 
-- [Essence of linear algebra,](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab )
+* [Essence of linear algebra,](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab )
 
-- [Bayesian Inference and Data Analytics,](https://www.youtube.com/watch?v=p_zOik_AIjM&list=PLhkiT_RYTEU1mkJHBUiA2Ze56h6z1uZgj )
+* [Bayesian Inference and Data Analytics,](https://www.youtube.com/watch?v=p_zOik_AIjM&list=PLhkiT_RYTEU1mkJHBUiA2Ze56h6z1uZgj )
 
-- [An introduction to analytic number theory,](https://www.youtube.com/watch?v=6J-47Qk4ffY&list=PLhkiT_RYTEU1H7OmRVF5VJi76D2Efwf7F )
+* [An introduction to analytic number theory,](https://www.youtube.com/watch?v=6J-47Qk4ffY&list=PLhkiT_RYTEU1H7OmRVF5VJi76D2Efwf7F )
 
-- [Dynamic Graph Algorithms,](https://www.youtube.com/watch?v=yHzhbxX4lOE&list=PLhkiT_RYTEU0v11wIuql18C1H5939eSTq )
+* [Dynamic Graph Algorithms,](https://www.youtube.com/watch?v=yHzhbxX4lOE&list=PLhkiT_RYTEU0v11wIuql18C1H5939eSTq )
 
-- [Dynamic Graph Algorithm by Sayan Bhattacharya,](https://www.youtube.com/watch?v=bqU4YPt7Q0c&list=PLhkiT_RYTEU2jSqGla9m-ErKH_PgX9D92 )
+* [Dynamic Graph Algorithm by Sayan Bhattacharya,](https://www.youtube.com/watch?v=bqU4YPt7Q0c&list=PLhkiT_RYTEU2jSqGla9m-ErKH_PgX9D92 )
 
-- [Algorithm Design and Analysis August 2016,](https://www.youtube.com/watch?v=cWY6vhIhlMI&list=PLhkiT_RYTEU311z4srvUZwEYQoj1N3orb )
+* [Algorithm Design and Analysis August 2016,](https://www.youtube.com/watch?v=cWY6vhIhlMI&list=PLhkiT_RYTEU311z4srvUZwEYQoj1N3orb )
 
-- [C# Basics for Beginners Series,](https://www.youtube.com/watch?v=cQZG0XwCsMc&list=PLylgIRlJtHWT6iB_c_sumeqIEYJ5GWZqd )
+* [C# Basics for Beginners Series,](https://www.youtube.com/watch?v=cQZG0XwCsMc&list=PLylgIRlJtHWT6iB_c_sumeqIEYJ5GWZqd )
 
-- [Intermediate Dynamics - Dr. Peter Dashner Lecture Series,](https://www.youtube.com/watch?v=NqLZTie8cD8&list=PLZOZfX_TaWAGSEFRDLLaUewaCPVSz2zp9 )
+* [Intermediate Dynamics - Dr. Peter Dashner Lecture Series,](https://www.youtube.com/watch?v=NqLZTie8cD8&list=PLZOZfX_TaWAGSEFRDLLaUewaCPVSz2zp9 )
 
-- [Strength of Materials I,](https://www.youtube.com/watch?v=pe6_vqbONaA&list=PLZOZfX_TaWAFPuTrxm24zuGmOUIvPgfvL )
+* [Strength of Materials I,](https://www.youtube.com/watch?v=pe6_vqbONaA&list=PLZOZfX_TaWAFPuTrxm24zuGmOUIvPgfvL )
 
-- [Vector Statics: Dr. Mohammad Izadi's lecture series,](https://www.youtube.com/watch?v=gcGbncU--Qk&list=PLZOZfX_TaWAERZkDoFNSklyPZq1TaNo-g )
+* [Vector Statics: Dr. Mohammad Izadi's lecture series,](https://www.youtube.com/watch?v=gcGbncU--Qk&list=PLZOZfX_TaWAERZkDoFNSklyPZq1TaNo-g )
 
-- [Fluid Mechanics I - Concept & Derivation Videos,](https://www.youtube.com/watch?v=PXjZ7xEAqsU&list=PLZOZfX_TaWAH0baRhA8OosWVbEsJK5sPe )
+* [Fluid Mechanics I - Concept & Derivation Videos,](https://www.youtube.com/watch?v=PXjZ7xEAqsU&list=PLZOZfX_TaWAH0baRhA8OosWVbEsJK5sPe )
 
-- [ME 340,](https://www.youtube.com/watch?v=nTRNrvJmixw&list=PLZOZfX_TaWAHTtKFGk43CZtKTQsLV9W0i )
+* [ME 340,](https://www.youtube.com/watch?v=nTRNrvJmixw&list=PLZOZfX_TaWAHTtKFGk43CZtKTQsLV9W0i )
 
-- [Fluid Mechanics I - Dr. Biddle Lecture Series,](https://www.youtube.com/watch?v=clVwKynHpB0&list=PLZOZfX_TaWAGocs2k5QmTL44OKOl7rn34 )
+* [Fluid Mechanics I - Dr. Biddle Lecture Series,](https://www.youtube.com/watch?v=clVwKynHpB0&list=PLZOZfX_TaWAGocs2k5QmTL44OKOl7rn34 )
 
-- [Thermodynamics - ME 301,](https://www.youtube.com/watch?v=NFS2Ca5eEJA&list=PLZOZfX_TaWAGxiKi0pjqdvg-yzk0Arhhg )
+* [Thermodynamics - ME 301,](https://www.youtube.com/watch?v=NFS2Ca5eEJA&list=PLZOZfX_TaWAGxiKi0pjqdvg-yzk0Arhhg )
 
-- [Vector Dynamics: Examples and simulations,](https://www.youtube.com/watch?v=pkfLU8ICsn4&list=PLZOZfX_TaWAGFvm0zjmsgvo8N9pAVFRxZ )
+* [Vector Dynamics: Examples and simulations,](https://www.youtube.com/watch?v=pkfLU8ICsn4&list=PLZOZfX_TaWAGFvm0zjmsgvo8N9pAVFRxZ )
 
-- [Introduction to Excel VBA Programming - ME 232,](https://www.youtube.com/watch?v=fZU4RdvoPxg&list=PLZOZfX_TaWAGg2uE_E7fz5SCrHhMaKw8j )
+* [Introduction to Excel VBA Programming - ME 232,](https://www.youtube.com/watch?v=fZU4RdvoPxg&list=PLZOZfX_TaWAGg2uE_E7fz5SCrHhMaKw8j )
 
-- [Differential Geometry,](https://www.youtube.com/watch?v=8vBfTyBPu-4&list=PLA3C55EC6DEB58621 )
+* [Differential Geometry,](https://www.youtube.com/watch?v=8vBfTyBPu-4&list=PLA3C55EC6DEB58621 )
 
-- [Nonlinear dynamics and chaos by V Balakrishnan,](https://www.youtube.com/watch?v=EF9T78DPzGg&list=PLVbyDf9daF9tFUpKqKzkzfEg-mRooTVAs )
+* [Nonlinear dynamics and chaos by V Balakrishnan,](https://www.youtube.com/watch?v=EF9T78DPzGg&list=PLVbyDf9daF9tFUpKqKzkzfEg-mRooTVAs )
 
-- [Nonlinear Dynamics and Chaos - Steven Strogatz,](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V )
+* [Nonlinear Dynamics and Chaos - Steven Strogatz,](https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V )
 
-- [ RSS Workshop ""Are the sceptics right? Limits and Potentials of Deep Learning in Robotics""",](https://www.youtube.com/watch?v=D5mBcUlLXe8&list=PL2EfTVAIHZW-2GxdCRFjUVuJAmitxniX3 )
+* [ RSS Workshop ""Are the sceptics right? Limits and Potentials of Deep Learning in Robotics""",](https://www.youtube.com/watch?v=D5mBcUlLXe8&list=PL2EfTVAIHZW-2GxdCRFjUVuJAmitxniX3 )
 
-- [Machine Learning,](https://www.youtube.com/watch?v=S75EdAcXHKk&list=PLS2-0xHzDc2DhxHyDxfZeAaj-8LYjzl7h )
+* [Machine Learning,](https://www.youtube.com/watch?v=S75EdAcXHKk&list=PLS2-0xHzDc2DhxHyDxfZeAaj-8LYjzl7h )
 
-- [COLT 2016,](https://www.youtube.com/watch?v=5Mb_IguFDmQ&list=PLCHBdlWR7RYxyz4k3OlafPd9G68v7zDWB )
+* [COLT 2016,](https://www.youtube.com/watch?v=5Mb_IguFDmQ&list=PLCHBdlWR7RYxyz4k3OlafPd9G68v7zDWB )
 
-- [Machine Learning in a Nutshell,](https://www.youtube.com/watch?v=-8UgCenuT-w&list=PLwrB811UWdsigKUtviWyskWwKZ6K9edii )
+* [Machine Learning in a Nutshell,](https://www.youtube.com/watch?v=-8UgCenuT-w&list=PLwrB811UWdsigKUtviWyskWwKZ6K9edii )
 
-- [C++ Programming For Beginners,](https://www.youtube.com/watch?v=uBTxfy4RgCY&list=PLY3W8pMest4ndHWmMibWxOUv9ZZHsErxK )
+* [C++ Programming For Beginners,](https://www.youtube.com/watch?v=uBTxfy4RgCY&list=PLY3W8pMest4ndHWmMibWxOUv9ZZHsErxK )
 
-- [C Programming For Beginners,](https://www.youtube.com/watch?v=jGu36Y-O-Yg&list=PLY3W8pMest4nXKmF7YLL9MSqZnSJDnZB8 )
+* [C Programming For Beginners,](https://www.youtube.com/watch?v=jGu36Y-O-Yg&list=PLY3W8pMest4nXKmF7YLL9MSqZnSJDnZB8 )
 
-- [MIT 18.S997 Introduction to MATLAB Programming Fall 2011,](https://www.youtube.com/watch?v=jTS5ZmrrzMs&list=PLUl4u3cNGP62bMZx9A3DR7V5myByt48CC )
+* [MIT 18.S997 Introduction to MATLAB Programming Fall 2011,](https://www.youtube.com/watch?v=jTS5ZmrrzMs&list=PLUl4u3cNGP62bMZx9A3DR7V5myByt48CC )
 
-- [Introduction to MATLAB,](https://www.youtube.com/watch?v=guk9vTlyN5k&list=PL60D54836FB8893F0 )
+* [Introduction to MATLAB,](https://www.youtube.com/watch?v=guk9vTlyN5k&list=PL60D54836FB8893F0 )
 
-- [Let's Pi!,](https://www.youtube.com/watch?v=B3sG5CuSo4Y&list=PLG_kH__iovDnm9HX5XC1frH0bSuxxdQV8 )
+* [Let's Pi!,](https://www.youtube.com/watch?v=B3sG5CuSo4Y&list=PLG_kH__iovDnm9HX5XC1frH0bSuxxdQV8 )
 
-- [Python QT,](https://www.youtube.com/watch?v=53oeJPKRttY&list=PLnE1jOYUw8i5fhUKgxptzD54U3GJ8Ywvc )
+* [Python QT,](https://www.youtube.com/watch?v=53oeJPKRttY&list=PLnE1jOYUw8i5fhUKgxptzD54U3GJ8Ywvc )
 
-- [Python for Data Analysis - Pandas Cookbook,](https://www.youtube.com/watch?v=eRpFC2CKvao&list=PLyBBc46Y6aAz54aOUgKXXyTcEmpMisAq3 )
+* [Python for Data Analysis - Pandas Cookbook,](https://www.youtube.com/watch?v=eRpFC2CKvao&list=PLyBBc46Y6aAz54aOUgKXXyTcEmpMisAq3 )
 
-- [Machine Learning for Hackers,](https://www.youtube.com/watch?v=2FOXR16mLow&list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj )
+* [Machine Learning for Hackers,](https://www.youtube.com/watch?v=2FOXR16mLow&list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj )
 
-- [Makers of India,](https://www.youtube.com/watch?v=JHk9YVjhk7c&list=PLBnkFS2RXysXWwsEqGsJBCpMUZ6twShx9 )
+* [Makers of India,](https://www.youtube.com/watch?v=JHk9YVjhk7c&list=PLBnkFS2RXysXWwsEqGsJBCpMUZ6twShx9 )
 
-- [Erle Robotics - ROS 2 Tutorials,](https://www.youtube.com/watch?v=0PQwDPQt5Rw&list=PL39WpgKDjDfXbJSoXPlu1qsWIs25oSIGU )
+* [Erle Robotics - ROS 2 Tutorials,](https://www.youtube.com/watch?v=0PQwDPQt5Rw&list=PL39WpgKDjDfXbJSoXPlu1qsWIs25oSIGU )
 
-- [JavaScript for Beginners,](https://www.youtube.com/watch?v=6X1kOo8AFtU&list=PLCCRzPrPbnO1IX9XsUGuiXFIPR5LdCPla )
+* [JavaScript for Beginners,](https://www.youtube.com/watch?v=6X1kOo8AFtU&list=PLCCRzPrPbnO1IX9XsUGuiXFIPR5LdCPla )
 
-- [Learn to program in C++ - pLAY with C++ || Doctor Codes,](https://www.youtube.com/watch?v=nyOwyaBojz0&list=PLt3iuRubvqBJkwW9LsVrpjaxy2xMe-Jnu )
+* [Learn to program in C++ - pLAY with C++ || Doctor Codes,](https://www.youtube.com/watch?v=nyOwyaBojz0&list=PLt3iuRubvqBJkwW9LsVrpjaxy2xMe-Jnu )
 
-- [MIT 8.334 Statistical Mechanics II,](https://www.youtube.com/watch?v=2MaQKFHqYBw&list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7 )
+* [MIT 8.334 Statistical Mechanics II,](https://www.youtube.com/watch?v=2MaQKFHqYBw&list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7 )
 
-- [MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles,](https://www.youtube.com/watch?v=4RX_lpoGRBg&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg )
+* [MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles,](https://www.youtube.com/watch?v=4RX_lpoGRBg&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg )
 
-- [SLAM Lectures,](https://www.youtube.com/watch?v=B2qzYCeT9oQ&list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm )
+* [SLAM Lectures,](https://www.youtube.com/watch?v=B2qzYCeT9oQ&list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm )
 
-- [Getting To Blinky 4.0,](https://www.youtube.com/watch?v=JN_Y93RTdSo&list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q )
+* [Getting To Blinky 4.0,](https://www.youtube.com/watch?v=JN_Y93RTdSo&list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q )
 
-- [Linux Administration Tutorial Videos,](https://www.youtube.com/watch?v=v_1zB2WNN14&list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik )
+* [Linux Administration Tutorial Videos,](https://www.youtube.com/watch?v=v_1zB2WNN14&list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik )
 
-- [Linux Fundamentals Tutorials,](https://www.youtube.com/watch?v=y27h55RnqpE&list=PL9ooVrP1hQOHSGgHqf_rW8KrW3IkZmbRM )
+* [Linux Fundamentals Tutorials,](https://www.youtube.com/watch?v=y27h55RnqpE&list=PL9ooVrP1hQOHSGgHqf_rW8KrW3IkZmbRM )
 
-- [GIT and GITHUB Tutorial Videos,](https://www.youtube.com/watch?v=aFBMd0W6pEM&list=PL9ooVrP1hQOGwtQOt8ZBlVjFlI-9Vr5hx )
+* [GIT and GITHUB Tutorial Videos,](https://www.youtube.com/watch?v=aFBMd0W6pEM&list=PL9ooVrP1hQOGwtQOt8ZBlVjFlI-9Vr5hx )
 
-- [Data Analytics with R Tutorial Videos,](https://www.youtube.com/watch?v=dJYe9q0doLk&list=PL9ooVrP1hQOHAPQPcVgnVZjbrbKSckiii )
+* [Data Analytics with R Tutorial Videos,](https://www.youtube.com/watch?v=dJYe9q0doLk&list=PL9ooVrP1hQOHAPQPcVgnVZjbrbKSckiii )
 
-- [Software Development From A to Z Video Course,](https://www.youtube.com/watch?v=tQx3ljw7SLk&list=PLqyx8dnzDyGZ6r4lwWQUZr1ZgayU3dTvm )
+* [Software Development From A to Z Video Course,](https://www.youtube.com/watch?v=tQx3ljw7SLk&list=PLqyx8dnzDyGZ6r4lwWQUZr1ZgayU3dTvm )
 
-- [Python 3 Basics Tutorial Series,](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M )
+* [Python 3 Basics Tutorial Series,](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M )
 
-- [PyQT Python GUI Application Development with Python,](https://www.youtube.com/watch?v=JBME1ZyHiP8&list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4 )
+* [PyQT Python GUI Application Development with Python,](https://www.youtube.com/watch?v=JBME1ZyHiP8&list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4 )
 
-- [Training • GitHub Overview,](https://www.youtube.com/watch?v=SCZF6I-Rc4I&list=PL0lo9MOBetEGqyl2a4vyApFQi6t8PFCvQ )
+* [Training • GitHub Overview,](https://www.youtube.com/watch?v=SCZF6I-Rc4I&list=PL0lo9MOBetEGqyl2a4vyApFQi6t8PFCvQ )
 
-- [Learn Python 2017,](https://www.youtube.com/watch?v=fCSAOcTbe8g&list=PL8CqgFMrermWLb4hygBPrb_ttsv2bV_T2 )
+* [Learn Python 2017,](https://www.youtube.com/watch?v=fCSAOcTbe8g&list=PL8CqgFMrermWLb4hygBPrb_ttsv2bV_T2 )
 
-- [Jupyter,](https://www.youtube.com/watch?v=Rc4JQWowG5I&list=PLRJx8WOUx5XcDMOxSQegCJUjTJePTlF9Z )
+* [Jupyter,](https://www.youtube.com/watch?v=Rc4JQWowG5I&list=PLRJx8WOUx5XcDMOxSQegCJUjTJePTlF9Z )
 
-- [ipython tutorial,](https://www.youtube.com/watch?v=xe_ATRmw0KM&list=PL4HlmUlCGNT7bnUADN95vqspkZe-y3OmI )
+* [ipython tutorial,](https://www.youtube.com/watch?v=xe_ATRmw0KM&list=PL4HlmUlCGNT7bnUADN95vqspkZe-y3OmI )
 
-- [Software Debugging,](https://www.youtube.com/watch?v=FQ2xLRguzE0&list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A )
+* [Software Debugging,](https://www.youtube.com/watch?v=FQ2xLRguzE0&list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A )
 
-- [Python 101,](https://www.youtube.com/watch?v=EgZnc93EamA&list=PLBOh8f9FoHHjOz0vGrD20WcTtJar-LOrw )
+* [Python 101,](https://www.youtube.com/watch?v=EgZnc93EamA&list=PLBOh8f9FoHHjOz0vGrD20WcTtJar-LOrw )
 
-- [Learn C,](https://www.youtube.com/watch?v=VxN5d6qdazg&list=PLBOh8f9FoHHjnbMYnhJpCNIoD8Du59dpV )
+* [Learn C,](https://www.youtube.com/watch?v=VxN5d6qdazg&list=PLBOh8f9FoHHjnbMYnhJpCNIoD8Du59dpV )
 
-- [Python 101 Clip,](https://www.youtube.com/watch?v=iW6enq-T-Z8&list=PLVcky7_Sy_7ltVaI1WVIWDvit_DtgUYBw )
+* [Python 101 Clip,](https://www.youtube.com/watch?v=iW6enq-T-Z8&list=PLVcky7_Sy_7ltVaI1WVIWDvit_DtgUYBw )
 
-- [Python3 Advanced Tutorials,](https://www.youtube.com/watch?v=CkIrizsP64c&list=PL1A2CSdiySGIPxpSlgzsZiWDavYTAx61d )
+* [Python3 Advanced Tutorials,](https://www.youtube.com/watch?v=CkIrizsP64c&list=PL1A2CSdiySGIPxpSlgzsZiWDavYTAx61d )
 
-- [Python3 Intermediate Tutorials,](https://www.youtube.com/watch?v=JkmjK84Crcg&list=PL1A2CSdiySGLPTXm0cTxlGYbReGqTcGRA )
+* [Python3 Intermediate Tutorials,](https://www.youtube.com/watch?v=JkmjK84Crcg&list=PL1A2CSdiySGLPTXm0cTxlGYbReGqTcGRA )
 
-- [Python3 Beginner Tutorials,](https://www.youtube.com/watch?v=kJv1QDfp1PM&list=PL1A2CSdiySGJd0LJRRSwQZbPZaDP0q67j )
+* [Python3 Beginner Tutorials,](https://www.youtube.com/watch?v=kJv1QDfp1PM&list=PL1A2CSdiySGJd0LJRRSwQZbPZaDP0q67j )
 
-- [Advanced Python2 Tutorials,](https://www.youtube.com/watch?v=_s2IfFSDnA8&list=PL1A2CSdiySGJeOmhFfV7d2EeiiunIDRZZ )
+* [Advanced Python2 Tutorials,](https://www.youtube.com/watch?v=_s2IfFSDnA8&list=PL1A2CSdiySGJeOmhFfV7d2EeiiunIDRZZ )
 
-- [Intermediate Python2 Tutorials,](https://www.youtube.com/watch?v=egY1ts7QzNs&list=PL1A2CSdiySGIQZl3-v6o3iz-O5NO6roRl )
+* [Intermediate Python2 Tutorials,](https://www.youtube.com/watch?v=egY1ts7QzNs&list=PL1A2CSdiySGIQZl3-v6o3iz-O5NO6roRl )
 
-- [Beginner Python2 Tutorials,](https://www.youtube.com/watch?v=zChQJfNDZfo&list=PL1A2CSdiySGIJ47_tj4kUyqP_bxWRP40X )
+* [Beginner Python2 Tutorials,](https://www.youtube.com/watch?v=zChQJfNDZfo&list=PL1A2CSdiySGIJ47_tj4kUyqP_bxWRP40X )
 
-- [Python 3 Essential Video tutorial Training,](https://www.youtube.com/watch?v=mv5kWsfzN6E&list=PL2bpbV1ZZWXfSysL0xBdQ6BWBj58P_c0k )
+* [Python 3 Essential Video tutorial Training,](https://www.youtube.com/watch?v=mv5kWsfzN6E&list=PL2bpbV1ZZWXfSysL0xBdQ6BWBj58P_c0k )
 
-- [Learn Python (Google),](https://www.youtube.com/watch?v=tKTZoB2Vjuk&list=PLC8CB5BDF4C88F2B9 )
+* [Learn Python (Google),](https://www.youtube.com/watch?v=tKTZoB2Vjuk&list=PLC8CB5BDF4C88F2B9 )
 
-- [Learn Python Basics,](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PL4D76CB6311B501D2 )
+* [Learn Python Basics,](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PL4D76CB6311B501D2 )
 
-- [Vim Meetups,](https://www.youtube.com/watch?v=XA2WjJbmmoM&list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs )
+* [Vim Meetups,](https://www.youtube.com/watch?v=XA2WjJbmmoM&list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs )
 
-- [Perfect Workflow in Sublime Text (Tuts+),](https://www.youtube.com/watch?v=5AV9zJH2n_Y&list=PLfOUVua2ZO5hyp62n0BnGVLrcP-djHA7E )
+* [Perfect Workflow in Sublime Text (Tuts+),](https://www.youtube.com/watch?v=5AV9zJH2n_Y&list=PLfOUVua2ZO5hyp62n0BnGVLrcP-djHA7E )
 
-- [Git Basics • Training,](https://www.youtube.com/watch?v=8oRjP8yj2Wo&list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH )
+* [Git Basics • Training,](https://www.youtube.com/watch?v=8oRjP8yj2Wo&list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH )
 
-- [Python - Object-Oriented Programming,](https://www.youtube.com/watch?v=4vP2ShUtRGA&list=PLtNErhYMkHnHhWjInPS4Fd6BDu4hQwO-Z )
+* [Python - Object-Oriented Programming,](https://www.youtube.com/watch?v=4vP2ShUtRGA&list=PLtNErhYMkHnHhWjInPS4Fd6BDu4hQwO-Z )
 
-- [Git Fundamentals for Web Developers,](https://www.youtube.com/watch?v=HYoC-d6TEMM&list=PLtNErhYMkHnF9_J3tlidgMFqdJ7vDEQkE )
+* [Git Fundamentals for Web Developers,](https://www.youtube.com/watch?v=HYoC-d6TEMM&list=PLtNErhYMkHnF9_J3tlidgMFqdJ7vDEQkE )
 
-- [Abaqus FEA Tutorial Videos,](https://www.youtube.com/watch?v=RSql5ALd4Js&list=PLwcbtpP-CGRyOa4Go4Ek5RzpjTTUvWQPM )
+* [Abaqus FEA Tutorial Videos,](https://www.youtube.com/watch?v=RSql5ALd4Js&list=PLwcbtpP-CGRyOa4Go4Ek5RzpjTTUvWQPM )
 
-- [CSE294: Algorithmic Problem Solving (Summer 2016),](https://www.youtube.com/watch?v=UMbXDnLI44A&list=PLhDf93xuCzIHKSiysQVAfGkTajfz6pzE8 )
+* [CSE294: Algorithmic Problem Solving (Summer 2016),](https://www.youtube.com/watch?v=UMbXDnLI44A&list=PLhDf93xuCzIHKSiysQVAfGkTajfz6pzE8 )
 
-- [InkScape Tutorials,](https://www.youtube.com/watch?v=aw_gKk17EUs&list=PLBLMLmceVkExj9euA0dG7eNKLIxJJGDHr )
+* [InkScape Tutorials,](https://www.youtube.com/watch?v=aw_gKk17EUs&list=PLBLMLmceVkExj9euA0dG7eNKLIxJJGDHr )
 
-- [Inkscape advanced tutorials,](https://www.youtube.com/watch?v=yZADgn5pmpo&list=PLlgtav0GVHbAaPJb72wuYfmBIXxJnweLw )
+* [Inkscape advanced tutorials,](https://www.youtube.com/watch?v=yZADgn5pmpo&list=PLlgtav0GVHbAaPJb72wuYfmBIXxJnweLw )
 
-- [INKSCAPE TUTORIALS FOR BEGINNERS,](https://www.youtube.com/watch?v=sRna9tWs0gY&list=PLAAD35A719CF5A042 )
+* [INKSCAPE TUTORIALS FOR BEGINNERS,](https://www.youtube.com/watch?v=sRna9tWs0gY&list=PLAAD35A719CF5A042 )
 
-- [Inkscape Beginners' Guide,](https://www.youtube.com/watch?v=pWUy7VHDKaI&list=PL534205D85E494E80 )
+* [Inkscape Beginners' Guide,](https://www.youtube.com/watch?v=pWUy7VHDKaI&list=PL534205D85E494E80 )
 
-- [Best Inkscape Tutorials,](https://www.youtube.com/watch?v=P5H-KUHvZZA&list=PLyn2aJ7cVX9JeFvPcyTzDREsMZmqFPyfr )
+* [Best Inkscape Tutorials,](https://www.youtube.com/watch?v=P5H-KUHvZZA&list=PLyn2aJ7cVX9JeFvPcyTzDREsMZmqFPyfr )
 
-- [ANSYS TUTORIAL for freshar,](https://www.youtube.com/watch?v=KCQVq5omhz4&list=PLzx3Hl6mpvnMk4xKEctuHHWQQh_PKHRro )
+* [ANSYS TUTORIAL for freshar,](https://www.youtube.com/watch?v=KCQVq5omhz4&list=PLzx3Hl6mpvnMk4xKEctuHHWQQh_PKHRro )
 
-- [ANSYS Mechanical,](https://www.youtube.com/watch?v=qBdI9D4fNjQ&list=PL0lZXwHtV6OkrIiG04WGmNCbffU7gKJM7 )
+* [ANSYS Mechanical,](https://www.youtube.com/watch?v=qBdI9D4fNjQ&list=PL0lZXwHtV6OkrIiG04WGmNCbffU7gKJM7 )
 
-- [ANSYS Workbench,](https://www.youtube.com/watch?v=m9bUMJW1qOk&list=PL0lZXwHtV6OlroIVBP7zuHGU_yRKyCkS7 )
+* [ANSYS Workbench,](https://www.youtube.com/watch?v=m9bUMJW1qOk&list=PL0lZXwHtV6OlroIVBP7zuHGU_yRKyCkS7 )
 
-- [ANSYS ICEM CFD,](https://www.youtube.com/watch?v=jrtoPni6Lp0&list=PL0lZXwHtV6OkcqmwxZqk24zRM1JOXKRt9 )
+* [ANSYS ICEM CFD,](https://www.youtube.com/watch?v=jrtoPni6Lp0&list=PL0lZXwHtV6OkcqmwxZqk24zRM1JOXKRt9 )
 
-- [ANSYS Workbench: Decomposition and Hex Meshing,](https://www.youtube.com/watch?v=P19GOTQWmc0&list=PL0lZXwHtV6Om3aXTjY_CyOSeqfCPuD3Mf )
+* [ANSYS Workbench: Decomposition and Hex Meshing,](https://www.youtube.com/watch?v=P19GOTQWmc0&list=PL0lZXwHtV6Om3aXTjY_CyOSeqfCPuD3Mf )
 
-- [ANSYS Workbench Tutorial : thermal,](https://www.youtube.com/watch?v=pw1Tcjfb0Vo&list=PLCaeQHGbPOQBHt37XPTKe6OeLkKOwVt0e, transient, fluent, frictional contact for beginner and advance level)
+* [ANSYS Workbench Tutorial : thermal,](https://www.youtube.com/watch?v=pw1Tcjfb0Vo&list=PLCaeQHGbPOQBHt37XPTKe6OeLkKOwVt0e, transient, fluent, frictional contact for beginner and advance level)
 
-- [HyperMesh | Pre processing | 2D | 3D | Meshing | ANSYS | Tutorial |,](https://www.youtube.com/watch?v=dwFvUz8xyzo&list=PLOahOE6DpL4puVylWdpHWRoGhIfswDc6T )
+* [HyperMesh | Pre processing | 2D | 3D | Meshing | ANSYS | Tutorial |,](https://www.youtube.com/watch?v=dwFvUz8xyzo&list=PLOahOE6DpL4puVylWdpHWRoGhIfswDc6T )
 
-- [Professor Richard A. Muller. Physics for Future Presidents,](https://www.youtube.com/watch?v=6ysbZ_j2xi0&list=PLFAEDD2AE4C4AAFC6 )
+* [Professor Richard A. Muller. Physics for Future Presidents,](https://www.youtube.com/watch?v=6ysbZ_j2xi0&list=PLFAEDD2AE4C4AAFC6 )
 
-- [Spring 2015 -- Computer Architecture Lectures -- Carnegie Mellon,](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq )
+* [Spring 2015 -- Computer Architecture Lectures -- Carnegie Mellon,](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq )
 
-- [ANSYS Workbench 15.0 to 18.1Tutorials,](https://www.youtube.com/watch?v=CTi1ru-pfi0&list=PL0Ya8d8RGCTqSaM6GbGHXqAUq1ga7-N__ )
+* [ANSYS Workbench 15.0 to 18.1Tutorials,](https://www.youtube.com/watch?v=CTi1ru-pfi0&list=PL0Ya8d8RGCTqSaM6GbGHXqAUq1ga7-N__ )
 
-- [Neural Networks Demystified - Stephen Welch,](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PL77aoaxdgEVDrHoFOMKTjDdsa0p9iVtsR )
+* [Neural Networks Demystified - Stephen Welch,](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PL77aoaxdgEVDrHoFOMKTjDdsa0p9iVtsR )
 
-- [Motion Planning for Multiple Autonomous Vehicles,](https://www.youtube.com/watch?v=itiViN8LJFY&list=PL_gtKJvFTv6iLJa6LIDx-IfTXg9dizDfZ )
+* [Motion Planning for Multiple Autonomous Vehicles,](https://www.youtube.com/watch?v=itiViN8LJFY&list=PL_gtKJvFTv6iLJa6LIDx-IfTXg9dizDfZ )
 
-- [TF ROS Tutorial,](https://www.youtube.com/watch?v=Ra-nXIfPWdg&list=PLC4CBF956FFEDC1D4 )
+* [TF ROS Tutorial,](https://www.youtube.com/watch?v=Ra-nXIfPWdg&list=PLC4CBF956FFEDC1D4 )
 
-- [ROS tutorials,](https://www.youtube.com/watch?v=9U6GDonGFHw&list=PLJNGprAk4DF5PY0kB866fEZfz6zMLJTF8 )
+* [ROS tutorials,](https://www.youtube.com/watch?v=9U6GDonGFHw&list=PLJNGprAk4DF5PY0kB866fEZfz6zMLJTF8 )
 
-- [2016 CS224D Lecture Videos,](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam )
+* [2016 CS224D Lecture Videos,](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam )
 
-- [How to build a responsive website from start to finish,](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI )
+* [How to build a responsive website from start to finish,](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI )
 
-- [Machine Learning with Python,](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v )
+* [Machine Learning with Python,](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v )
 
-- [The Julia Computer Language,](https://www.youtube.com/watch?v=4nPmKG_f8-M&list=PLsu0TcgLDUiIznEhN165XmykqyLgzwY0Y )
+* [The Julia Computer Language,](https://www.youtube.com/watch?v=4nPmKG_f8-M&list=PLsu0TcgLDUiIznEhN165XmykqyLgzwY0Y )
 
-- [Tensor Algebra,](https://www.youtube.com/watch?v=8vBfTyBPu-4&list=PLB066D7FE0F7B4BE4 )
+* [Tensor Algebra,](https://www.youtube.com/watch?v=8vBfTyBPu-4&list=PLB066D7FE0F7B4BE4 )
 
-- [Differential Equations,](https://www.youtube.com/watch?v=-_POEWfygmU&list=PL96AE8D9C68FEB902 )
+* [Differential Equations,](https://www.youtube.com/watch?v=-_POEWfygmU&list=PL96AE8D9C68FEB902 )
 
-- [Deep learning at Oxford 2015,](https://www.youtube.com/watch?v=dV80NAlEins&list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu )
+* [Deep learning at Oxford 2015,](https://www.youtube.com/watch?v=dV80NAlEins&list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu )
 
-- [MIT Learn Differential Equations,](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG )
+* [MIT Learn Differential Equations,](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG )
 
-- [Introduction to Programming with Python,](https://www.youtube.com/watch?v=FVFmfV1gur8&list=PLIoX3-mcY80jMCFaqkHV3QRfkLFd0a3dw )
+* [Introduction to Programming with Python,](https://www.youtube.com/watch?v=FVFmfV1gur8&list=PLIoX3-mcY80jMCFaqkHV3QRfkLFd0a3dw )
 
-- [Linux,](https://www.youtube.com/watch?v=_gCwCOhMcog&list=PLD6B6473ACF32C59D )
+* [Linux,](https://www.youtube.com/watch?v=_gCwCOhMcog&list=PLD6B6473ACF32C59D )
 
-- [Python Tutorial for Beginners,](https://www.youtube.com/watch?v=zh9NgGf3cxU&list=PL1Z_7yg6Pa3CURAEFLwzXRYrhGcQskRhY )
+* [Python Tutorial for Beginners,](https://www.youtube.com/watch?v=zh9NgGf3cxU&list=PL1Z_7yg6Pa3CURAEFLwzXRYrhGcQskRhY )
 
-- [C# Fundamentals,](https://www.youtube.com/watch?v=QviDrnrwyWQ&list=PLKxBD84tImu2WjmrkZINUxyGOKuZCJB8U )
+* [C# Fundamentals,](https://www.youtube.com/watch?v=QviDrnrwyWQ&list=PLKxBD84tImu2WjmrkZINUxyGOKuZCJB8U )
 
-- [Nexus Trimester - 2016 - Inference Problems Theme,](https://www.youtube.com/watch?v=CGWxSTL0Dl4&list=PL9kd4mpdvWcDl-gw3nUw-3QvUtgLOjAVO )
+* [Nexus Trimester - 2016 - Inference Problems Theme,](https://www.youtube.com/watch?v=CGWxSTL0Dl4&list=PL9kd4mpdvWcDl-gw3nUw-3QvUtgLOjAVO )
 
-- [Math Puzzles/Problem Solving,](https://www.youtube.com/watch?v=KulgWGuQlh4&list=PLEccTojAcsRFO9W6Y8EdHHqv1UWfe7vHE )
+* [Math Puzzles/Problem Solving,](https://www.youtube.com/watch?v=KulgWGuQlh4&list=PLEccTojAcsRFO9W6Y8EdHHqv1UWfe7vHE )
 
-- [Machine Learning,](https://www.youtube.com/watch?v=xhiqLYx3R08&list=PL5-da3qGB5IA_x9xJ7qzUyU1XJwOJsFAn )
+* [Machine Learning,](https://www.youtube.com/watch?v=xhiqLYx3R08&list=PL5-da3qGB5IA_x9xJ7qzUyU1XJwOJsFAn )
 
-- [Data manipulation in R with dplyr,](https://www.youtube.com/watch?v=jWjqLW-u3hc&list=PL5-da3qGB5IBM6DdZ-ZV8mA0oV0U56xaq )
+* [Data manipulation in R with dplyr,](https://www.youtube.com/watch?v=jWjqLW-u3hc&list=PL5-da3qGB5IBM6DdZ-ZV8mA0oV0U56xaq )
 
-- [Machine learning in Python with scikit-learn,](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A )
+* [Machine learning in Python with scikit-learn,](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A )
 
-- [TCL Scripting,](https://www.youtube.com/watch?v=G8EHr_Lp9cY&list=PLJzTGn9q7uHcBrSSF9HdpbHQjOLm3cv9C )
+* [TCL Scripting,](https://www.youtube.com/watch?v=G8EHr_Lp9cY&list=PLJzTGn9q7uHcBrSSF9HdpbHQjOLm3cv9C )
 
-- [Statistics Essentials for Analytics - Videos,](https://www.youtube.com/watch?v=0sVvZzOgoj8&list=PL9ooVrP1hQOG8Eb825rT4drOPYsoXBfKX )
+* [Statistics Essentials for Analytics - Videos,](https://www.youtube.com/watch?v=0sVvZzOgoj8&list=PL9ooVrP1hQOG8Eb825rT4drOPYsoXBfKX )
 
-- [Perl Scripting Tutorial Videos,](https://www.youtube.com/watch?v=IoLVCEr207w&list=PL9ooVrP1hQOH9R0GR6yFteE4XWbsYNLga )
+* [Perl Scripting Tutorial Videos,](https://www.youtube.com/watch?v=IoLVCEr207w&list=PL9ooVrP1hQOH9R0GR6yFteE4XWbsYNLga )
 
-- [Electronics - Linux Programming & Scripting,](https://www.youtube.com/watch?v=akU1Ji8Vzdk&list=PLbMVogVj5nJRa3VKt_eyZdJ_DitCz1cvQ )
+* [Electronics - Linux Programming & Scripting,](https://www.youtube.com/watch?v=akU1Ji8Vzdk&list=PLbMVogVj5nJRa3VKt_eyZdJ_DitCz1cvQ )
 
-- [Tcl TK,](https://www.youtube.com/watch?v=8E2CHmfTEVs&list=PLTZydheAoJ1pRxx9tUU2KOV6rQEVr8k9H )
+* [Tcl TK,](https://www.youtube.com/watch?v=8E2CHmfTEVs&list=PLTZydheAoJ1pRxx9tUU2KOV6rQEVr8k9H )
 
-- [Classical Control Systems,](https://www.youtube.com/watch?v=4wGunEH8AQc&list=PLJqRpPcJQ_g1YRGRnYgIDO5LjqcrtSfrH )
+* [Classical Control Systems,](https://www.youtube.com/watch?v=4wGunEH8AQc&list=PLJqRpPcJQ_g1YRGRnYgIDO5LjqcrtSfrH )
 
-- [All Control System Lecture Videos,](https://www.youtube.com/watch?v=O-OqgFE9SD4&list=PLUMWjy5jgHK3j74Z5Tq6Tso1fSfVWZC8L )
+* [All Control System Lecture Videos,](https://www.youtube.com/watch?v=O-OqgFE9SD4&list=PLUMWjy5jgHK3j74Z5Tq6Tso1fSfVWZC8L )
 
-- [Vim Tutorial - Beginner's Guide,](https://www.youtube.com/watch?v=_yS_WCiIRbo&list=PLy7nqAGjMx2m5EVJQP_l_qdvbpeZHndu3 )
+* [Vim Tutorial - Beginner's Guide,](https://www.youtube.com/watch?v=_yS_WCiIRbo&list=PLy7nqAGjMx2m5EVJQP_l_qdvbpeZHndu3 )
 
-- [Vim Tutorials,](https://www.youtube.com/watch?v=5givLEMcINQ&list=PL13bz4SHGmRxlZVmWQ9DvXo1fEg4UdGkr )
+* [Vim Tutorials,](https://www.youtube.com/watch?v=5givLEMcINQ&list=PL13bz4SHGmRxlZVmWQ9DvXo1fEg4UdGkr )
 
-- [Algorithm,](https://www.youtube.com/watch?v=vOEN65nm4YU&list=PLG6ePePp5vvYVEjRanyndt7ZSqTzillom )
+* [Algorithm,](https://www.youtube.com/watch?v=vOEN65nm4YU&list=PLG6ePePp5vvYVEjRanyndt7ZSqTzillom )
 
-- [Intro to Algorithms (Udacity),](https://www.youtube.com/watch?v=JtzIGTXesrE&list=PLgIPpm6tJZoQkiZm-zFgfFfe5vGAbnA4D )
+* [Intro to Algorithms (Udacity),](https://www.youtube.com/watch?v=JtzIGTXesrE&list=PLgIPpm6tJZoQkiZm-zFgfFfe5vGAbnA4D )
 
-- [TensorFlow,](https://www.youtube.com/watch?v=_ODQ-mV3H9Q&list=PLFxrZqbLojdJ3dR-PknO11y6t6aZ6J-r1 )
+* [TensorFlow,](https://www.youtube.com/watch?v=_ODQ-mV3H9Q&list=PLFxrZqbLojdJ3dR-PknO11y6t6aZ6J-r1 )
 
-- [Machine Learning con TensorFlow,](https://www.youtube.com/watch?v=Nv67i-agXWU&list=PLU7xOyzCkMDR2F3P5QbzLIbavfpuSmDOb )
+* [Machine Learning con TensorFlow,](https://www.youtube.com/watch?v=Nv67i-agXWU&list=PLU7xOyzCkMDR2F3P5QbzLIbavfpuSmDOb )
 
-- [Python machine learning,](https://www.youtube.com/watch?v=v_L9jR8P-54&list=PLBZg2jkNCS2I1kY1x_sLDP-hrYC5-uEqd )
+* [Python machine learning,](https://www.youtube.com/watch?v=v_L9jR8P-54&list=PLBZg2jkNCS2I1kY1x_sLDP-hrYC5-uEqd )
 
-- [Practical machine learning,](https://www.youtube.com/watch?v=elojMnjn4kk&list=PLjrJnVAw-oxDjrRlm4oDZlWJsFF6HwjdI )
+* [Practical machine learning,](https://www.youtube.com/watch?v=elojMnjn4kk&list=PLjrJnVAw-oxDjrRlm4oDZlWJsFF6HwjdI )
 
-- [Machine Learning Tutorial,](https://www.youtube.com/watch?v=k890Dr5OkZg&list=PLRJx8WOUx5XdosSIpI34ijGVAxCSG_jjT )
+* [Machine Learning Tutorial,](https://www.youtube.com/watch?v=k890Dr5OkZg&list=PLRJx8WOUx5XdosSIpI34ijGVAxCSG_jjT )
 
-- [Data structures,](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P )
+* [Data structures,](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P )
 
-- [Calculus Single Variable - 04. Applications,](https://www.youtube.com/watch?v=PTD3cX9A-S8&list=PLrRb7vGHDXHrDqOGXx-ZDxgPjAQMl3zuW )
+* [Calculus Single Variable - 04. Applications,](https://www.youtube.com/watch?v=PTD3cX9A-S8&list=PLrRb7vGHDXHrDqOGXx-ZDxgPjAQMl3zuW )
 
-- [Calculus Single Variable - 03. Integration,](https://www.youtube.com/watch?v=V5Da4Vu0YyA&list=PLrRb7vGHDXHrBij-7eRl16gPT2MHo2qmb )
+* [Calculus Single Variable - 03. Integration,](https://www.youtube.com/watch?v=V5Da4Vu0YyA&list=PLrRb7vGHDXHrBij-7eRl16gPT2MHo2qmb )
 
-- [Calculus Single Variable - 02. Differentiation,](https://www.youtube.com/watch?v=_uawGmAOVok&list=PLrRb7vGHDXHrcoMLcQkqRy3qdz6MW6x0C )
+* [Calculus Single Variable - 02. Differentiation,](https://www.youtube.com/watch?v=_uawGmAOVok&list=PLrRb7vGHDXHrcoMLcQkqRy3qdz6MW6x0C )
 
-- [Calculus Single Variable - 01. Functions,](https://www.youtube.com/watch?v=mf4khmMJdrE&list=PLrRb7vGHDXHp9zM-T_82a_ARvQ0Eh6ACc )
+* [Calculus Single Variable - 01. Functions,](https://www.youtube.com/watch?v=mf4khmMJdrE&list=PLrRb7vGHDXHp9zM-T_82a_ARvQ0Eh6ACc )
 
-- [Delft University-Aerospace Engineering\Introduction to Aerospace Engineering II,](https://www.youtube.com/watch?v=VgHifFVbEOU&list=PLrwuNGSwGLHfcFOIzgTFmR61grEAIN9In )
+* [Delft University-Aerospace Engineering\Introduction to Aerospace Engineering II,](https://www.youtube.com/watch?v=VgHifFVbEOU&list=PLrwuNGSwGLHfcFOIzgTFmR61grEAIN9In )
 
-- [Delft University-Aerospace Engineering\Introduction to Aerospace Engineering I,](https://www.youtube.com/watch?v=BCIblMKf2vI&list=PLrwuNGSwGLHfEZNPUuKRuv0WvUH7ZJF9H )
+* [Delft University-Aerospace Engineering\Introduction to Aerospace Engineering I,](https://www.youtube.com/watch?v=BCIblMKf2vI&list=PLrwuNGSwGLHfEZNPUuKRuv0WvUH7ZJF9H )
 
-- [Probability Theory Lectures,](https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_ )
+* [Probability Theory Lectures,](https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_ )
 
-- [Happy Learn Haskell Tutorial,](https://www.youtube.com/watch?v=8dPTG_bxvSI&list=PL9vLihThaTvQ_6AkEewgymuzf9sMMIhQd )
+* [Happy Learn Haskell Tutorial,](https://www.youtube.com/watch?v=8dPTG_bxvSI&list=PL9vLihThaTvQ_6AkEewgymuzf9sMMIhQd )
 
-- [Becoming a Data Scientist Podcast Interviews,](https://www.youtube.com/watch?v=eN9anxiRJRY&list=PLTnOXzOljuWZJo1IlaBcGM74P9vE0Uauc )
+* [Becoming a Data Scientist Podcast Interviews,](https://www.youtube.com/watch?v=eN9anxiRJRY&list=PLTnOXzOljuWZJo1IlaBcGM74P9vE0Uauc )
 
-- [Optimization Techniques in Engineering,](https://www.youtube.com/watch?v=uOTdLfvgYHU&list=PLLBUgWXdTBDjVLQVMnT80y6m_97XNhBZv )
+* [Optimization Techniques in Engineering,](https://www.youtube.com/watch?v=uOTdLfvgYHU&list=PLLBUgWXdTBDjVLQVMnT80y6m_97XNhBZv )
 
-- [Optimization MATLAB,](https://www.youtube.com/watch?v=WCTTY4baYLk&list=PLXktF0L8ZlEPQYfLuI42WWFChvm8XtdtI )
+* [Optimization MATLAB,](https://www.youtube.com/watch?v=WCTTY4baYLk&list=PLXktF0L8ZlEPQYfLuI42WWFChvm8XtdtI )
 
-- [Getting Started with Simulink,](https://www.youtube.com/watch?v=b74SiHQRYIU&list=PL484BA2AD3AE4C2D0 )
+* [Getting Started with Simulink,](https://www.youtube.com/watch?v=b74SiHQRYIU&list=PL484BA2AD3AE4C2D0 )
 
-- [Math,](https://www.youtube.com/watch?v=nEGD0JFyk1c&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah )
+* [Math,](https://www.youtube.com/watch?v=nEGD0JFyk1c&list=PLn8PRpmsu08o4ORuYFy0JPfSg5dFIKpah )
 
-- [Control System Design and Analysis,](https://www.youtube.com/watch?v=2tKe0caUv1I&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7 )
+* [Control System Design and Analysis,](https://www.youtube.com/watch?v=2tKe0caUv1I&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7 )
 
-- [MATLAB Tutorial for Beginners Full,](https://www.youtube.com/watch?v=QOJCvHUkJSs&list=PL2_ZBQcQ1dYjFW9GTAM7iamzSS6bIB2x0 )
+* [MATLAB Tutorial for Beginners Full,](https://www.youtube.com/watch?v=QOJCvHUkJSs&list=PL2_ZBQcQ1dYjFW9GTAM7iamzSS6bIB2x0 )
 
-- [Ansys Tutorial for Beginners,](https://www.youtube.com/watch?v=dj-nHRM9hC8&list=PL2_ZBQcQ1dYhhF-awa5Y0lHRBwVJxnb6C )
+* [Ansys Tutorial for Beginners,](https://www.youtube.com/watch?v=dj-nHRM9hC8&list=PL2_ZBQcQ1dYhhF-awa5Y0lHRBwVJxnb6C )
 
-- [JavaScript Video Tutorial,](https://www.youtube.com/watch?v=_cLvpJY2deo&list=PLBA965A22D89CF13B )
+* [JavaScript Video Tutorial,](https://www.youtube.com/watch?v=_cLvpJY2deo&list=PLBA965A22D89CF13B )
 
-- [Git Video Tutorial,](https://www.youtube.com/watch?v=r63f51ce84A&list=PLGLfVvz_LVvQHO1PfyscjIPkNJjgHsLyH )
+* [Git Video Tutorial,](https://www.youtube.com/watch?v=r63f51ce84A&list=PLGLfVvz_LVvQHO1PfyscjIPkNJjgHsLyH )
 
-- [Python 2.7 Tutorial,](https://www.youtube.com/watch?v=UQi-L-_chcc&list=PLA175E8A1816CD64B )
+* [Python 2.7 Tutorial,](https://www.youtube.com/watch?v=UQi-L-_chcc&list=PLA175E8A1816CD64B )
 
-- [Regex Tutorial,](https://www.youtube.com/watch?v=DRR9fOXkfRE&list=PLFA4F2FDD28D0C40E )
+* [Regex Tutorial,](https://www.youtube.com/watch?v=DRR9fOXkfRE&list=PLFA4F2FDD28D0C40E )
 
-- [Computer Science,](https://www.youtube.com/watch?v=husPzLE6sZc&list=PL36E7A2B75028A3D6 )
+* [Computer Science,](https://www.youtube.com/watch?v=husPzLE6sZc&list=PL36E7A2B75028A3D6 )
 
-- [Linear Algebra,](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0 )
+* [Linear Algebra,](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0 )
 
-- [Statistics,](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566 )
+* [Statistics,](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566 )
 
-- [Perl Tutorials,](https://www.youtube.com/watch?v=OVP-CqefrZY&list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC )
+* [Perl Tutorials,](https://www.youtube.com/watch?v=OVP-CqefrZY&list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC )
 
-- [Scikit learn python,](https://www.youtube.com/watch?v=r4bRUvvlaBw&list=PLf-b1aZmvU5Dab_i1tdVbAXzEq57USDv7 )
+* [Scikit learn python,](https://www.youtube.com/watch?v=r4bRUvvlaBw&list=PLf-b1aZmvU5Dab_i1tdVbAXzEq57USDv7 )
 
-- [scikit-learn,](https://www.youtube.com/watch?v=cHZONQ2-x7I&list=PLgOdFcABLIAWYKrz17cOivv8oWAlbHYoT )
+* [scikit-learn,](https://www.youtube.com/watch?v=cHZONQ2-x7I&list=PLgOdFcABLIAWYKrz17cOivv8oWAlbHYoT )
 
-- [Version control with Git and GitHub,](https://www.youtube.com/watch?v=xKVlZ3wFVKA&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD )
+* [Version control with Git and GitHub,](https://www.youtube.com/watch?v=xKVlZ3wFVKA&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD )
 
-- [Meetups,](https://www.youtube.com/watch?v=BepRRHgbuJU&list=PLB2SCq-tZtVlx1tfrrvKYPznmQ563LV1n )
+* [Meetups,](https://www.youtube.com/watch?v=BepRRHgbuJU&list=PLB2SCq-tZtVlx1tfrrvKYPznmQ563LV1n )
 
-- [Learning Git,](https://www.youtube.com/watch?v=K7yfYtgEDQs&list=PLtNErhYMkHnF97FS7C3LM7W5jeo2-Qsc5 )
+* [Learning Git,](https://www.youtube.com/watch?v=K7yfYtgEDQs&list=PLtNErhYMkHnF97FS7C3LM7W5jeo2-Qsc5 )
 
-- [Windows PowerShell,](https://www.youtube.com/watch?v=hSJ2RKmyhnM&list=PLtNErhYMkHnGP4TLQHZlzlTWt8rn7cONS )
+* [Windows PowerShell,](https://www.youtube.com/watch?v=hSJ2RKmyhnM&list=PLtNErhYMkHnGP4TLQHZlzlTWt8rn7cONS )
 
-- [Python Best Practices,](https://www.youtube.com/watch?v=H8Yt85uDfYY&list=PLtNErhYMkHnH0HyNG1esdNll0UW18g3jH )
+* [Python Best Practices,](https://www.youtube.com/watch?v=H8Yt85uDfYY&list=PLtNErhYMkHnH0HyNG1esdNll0UW18g3jH )
 
-- [SolidWorks - Animation,](https://www.youtube.com/watch?v=HPCJjBarPmM&list=PLtNErhYMkHnElS9kLNmXKzv4LVIycP1j2 )
+* [SolidWorks - Animation,](https://www.youtube.com/watch?v=HPCJjBarPmM&list=PLtNErhYMkHnElS9kLNmXKzv4LVIycP1j2 )
 
-- [SolidWorks - Rendering and Visualization,](https://www.youtube.com/watch?v=fSPz8R-evno&list=PLtNErhYMkHnGOBsa26dJjzctyEhNAGkIp )
+* [SolidWorks - Rendering and Visualization,](https://www.youtube.com/watch?v=fSPz8R-evno&list=PLtNErhYMkHnGOBsa26dJjzctyEhNAGkIp )
 
-- [Simulation Xpress and Flow Xpress in SolidWorks,](https://www.youtube.com/watch?v=lJrRF8RQpZE&list=PLtNErhYMkHnHd2QlMeJSplL-M9S_VHc0y )
+* [Simulation Xpress and Flow Xpress in SolidWorks,](https://www.youtube.com/watch?v=lJrRF8RQpZE&list=PLtNErhYMkHnHd2QlMeJSplL-M9S_VHc0y )
 
-- [iPython Notebook,](https://www.youtube.com/watch?v=IEhSDfwwxeI&list=PLtNErhYMkHnGpF60uJzXmVNRe8UerHtnx )
+* [iPython Notebook,](https://www.youtube.com/watch?v=IEhSDfwwxeI&list=PLtNErhYMkHnGpF60uJzXmVNRe8UerHtnx )
 
-- [IPython Notebook Tutorial,](https://www.youtube.com/watch?v=lmoNmY-cmSI&list=PLRJx8WOUx5Xd3_dgw5xRmABUd8MWdsA_C )
+* [IPython Notebook Tutorial,](https://www.youtube.com/watch?v=lmoNmY-cmSI&list=PLRJx8WOUx5Xd3_dgw5xRmABUd8MWdsA_C )
 
-- [Mastering Python Tutorials,](https://www.youtube.com/watch?v=EYLbwbsKMQk&list=PLTgRMOcmRb3PLrmIblW3Xj_wPiJbSHoXb )
+* [Mastering Python Tutorials,](https://www.youtube.com/watch?v=EYLbwbsKMQk&list=PLTgRMOcmRb3PLrmIblW3Xj_wPiJbSHoXb )
 
-- [Learning Git Tutorials,](https://www.youtube.com/watch?v=NW46XmvJh5Q&list=PLTgRMOcmRb3NeFdWsbv8dOMmCSTcc71W0 )
+* [Learning Git Tutorials,](https://www.youtube.com/watch?v=NW46XmvJh5Q&list=PLTgRMOcmRb3NeFdWsbv8dOMmCSTcc71W0 )
 
-- [Mastering Prezi Tutorials,](https://www.youtube.com/watch?v=tWnGXLXjhRs&list=PLTgRMOcmRb3MBhAVykOFrFR20M1_4impr )
+* [Mastering Prezi Tutorials,](https://www.youtube.com/watch?v=tWnGXLXjhRs&list=PLTgRMOcmRb3MBhAVykOFrFR20M1_4impr )
 
-- [Mastering Git Tutorials,](https://www.youtube.com/watch?v=clkDENcltN4&list=PLTgRMOcmRb3MdUwwF0j-bpFZuJt0kpmgp )
+* [Mastering Git Tutorials,](https://www.youtube.com/watch?v=clkDENcltN4&list=PLTgRMOcmRb3MdUwwF0j-bpFZuJt0kpmgp )
 
-- [OpenCV Programming with Python on 64bit Linux Ubuntu 13.04,](https://www.youtube.com/watch?v=ubOa_tJDM_U&list=PLS1lqxOwNjObDAH-ymnep3XLljhb2pUL- )
+* [OpenCV Programming with Python on 64bit Linux Ubuntu 13.04,](https://www.youtube.com/watch?v=ubOa_tJDM_U&list=PLS1lqxOwNjObDAH-ymnep3XLljhb2pUL- )
 
-- [Mastering JavaScript Tutorial,](https://www.youtube.com/watch?v=e3ms5HKvtZ8&list=PLTgRMOcmRb3PN9kK-NhSZek4xWZD-81cz )
+* [Mastering JavaScript Tutorial,](https://www.youtube.com/watch?v=e3ms5HKvtZ8&list=PLTgRMOcmRb3PN9kK-NhSZek4xWZD-81cz )
 
-- [Learning R for Data Visualization Tutorial,](https://www.youtube.com/watch?v=8iMVxyPY6ss&list=PLTgRMOcmRb3OoY3UMr8ANCT2RxmpEb0dA )
+* [Learning R for Data Visualization Tutorial,](https://www.youtube.com/watch?v=8iMVxyPY6ss&list=PLTgRMOcmRb3OoY3UMr8ANCT2RxmpEb0dA )
 
-- [OpenCV Computer Vision Application Programming Tutorials,](https://www.youtube.com/watch?v=IwsHuSITs3c&list=PLTgRMOcmRb3PvUZpNTRsdkzVuZ4z_s444 )
+* [OpenCV Computer Vision Application Programming Tutorials,](https://www.youtube.com/watch?v=IwsHuSITs3c&list=PLTgRMOcmRb3PvUZpNTRsdkzVuZ4z_s444 )
 
-- [[Coursera] Neural Networks for Machine Learning — Geoffrey Hinton 2016,](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9 )
+* [[Coursera] Neural Networks for Machine Learning — Geoffrey Hinton 2016,](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9 )
 
-- [Understanding Machine Learning - Shai Ben-David,](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLFze15KrfxbH8SE4FgOHpMSY1h5HiRLMm )
+* [Understanding Machine Learning - Shai Ben-David,](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLFze15KrfxbH8SE4FgOHpMSY1h5HiRLMm )
 
-- [Machine learning coursera,](https://www.youtube.com/watch?v=qeHZOdmJvFU&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW )
+* [Machine learning coursera,](https://www.youtube.com/watch?v=qeHZOdmJvFU&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW )
 
-- [Machine Learning Course - CS 156,](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A )
+* [Machine Learning Course - CS 156,](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A )
 
-- [Linear Algebra Vignettes,](https://www.youtube.com/watch?v=dHigwV6Xljs&list=PLlXfTHzgMRUK3L-agzrAC1mYMX8iflZn1 )
+* [Linear Algebra Vignettes,](https://www.youtube.com/watch?v=dHigwV6Xljs&list=PLlXfTHzgMRUK3L-agzrAC1mYMX8iflZn1 )
 
-- [Tensor Calculus and the Calculus of Moving Surfaces,](https://www.youtube.com/watch?v=e0eJXttPRZI&list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq )
+* [Tensor Calculus and the Calculus of Moving Surfaces,](https://www.youtube.com/watch?v=e0eJXttPRZI&list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq )
 
-- [Part 3 Linear Algebra: An In-Depth Introduction with a Focus on Applications,](https://www.youtube.com/watch?v=odV3oJOpE8s&list=PLlXfTHzgMRUIqYrutsFXCOmiqKUgOgGJ5 )
+* [Part 3 Linear Algebra: An In-Depth Introduction with a Focus on Applications,](https://www.youtube.com/watch?v=odV3oJOpE8s&list=PLlXfTHzgMRUIqYrutsFXCOmiqKUgOgGJ5 )
 
-- [Part 2 Linear Algebra: An In-Depth Course with a Focus on Applications,](https://www.youtube.com/watch?v=I04GHpKc-WQ&list=PLlXfTHzgMRULWJYthculb2QWEiZOkwTSU )
+* [Part 2 Linear Algebra: An In-Depth Course with a Focus on Applications,](https://www.youtube.com/watch?v=I04GHpKc-WQ&list=PLlXfTHzgMRULWJYthculb2QWEiZOkwTSU )
 
-- [Part 1 Linear Algebra: An In-Depth Introduction with a Focus on Applications,](https://www.youtube.com/watch?v=Fnfh8jNqBlg&list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv )
+* [Part 1 Linear Algebra: An In-Depth Introduction with a Focus on Applications,](https://www.youtube.com/watch?v=Fnfh8jNqBlg&list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv )
 
-- [Statistical Rethinking Winter 2015,](https://www.youtube.com/watch?v=WFv2vS8ESkk&list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z )
+* [Statistical Rethinking Winter 2015,](https://www.youtube.com/watch?v=WFv2vS8ESkk&list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z )
 
-- [Mechanical - Engineering Fracture Mechanics,](https://www.youtube.com/watch?v=-eBRqhfdGrU&list=PLA218B83235A4AD5C )
+* [Mechanical - Engineering Fracture Mechanics,](https://www.youtube.com/watch?v=-eBRqhfdGrU&list=PLA218B83235A4AD5C )
 
-- [HyperMesh & Optistruct Solved Tutorials AOC-2016 Contest,](https://www.youtube.com/watch?v=85nV-Wmokmg&list=PL1u26y75SCrBpe7SWbMEgOe0Ty3O7gPGS )
+* [HyperMesh & Optistruct Solved Tutorials AOC-2016 Contest,](https://www.youtube.com/watch?v=85nV-Wmokmg&list=PL1u26y75SCrBpe7SWbMEgOe0Ty3O7gPGS )
 
-- [Optistruct for Optimization AOC-2016 Contest,](https://www.youtube.com/watch?v=p6YtfVsPzTw&list=PL1u26y75SCrBHdDPaA2Thry6qwuSu2Uf_ )
+* [Optistruct for Optimization AOC-2016 Contest,](https://www.youtube.com/watch?v=p6YtfVsPzTw&list=PL1u26y75SCrBHdDPaA2Thry6qwuSu2Uf_ )
 
-- [Optistruct,](https://www.youtube.com/watch?v=6PJeW3cVpsM&list=PLrXG4nKgafb8IWo7q4fTXH5SX4TjsV0Pp )
+* [Optistruct,](https://www.youtube.com/watch?v=6PJeW3cVpsM&list=PLrXG4nKgafb8IWo7q4fTXH5SX4TjsV0Pp )
 
-- [Hyperworks Optistruct Tutorials,](https://www.youtube.com/watch?v=mfpDHfM4svQ&list=PLE4jpqcRJiBpJvHgHDmTZxi0J_RiXAz-6 )
+* [Hyperworks Optistruct Tutorials,](https://www.youtube.com/watch?v=mfpDHfM4svQ&list=PLE4jpqcRJiBpJvHgHDmTZxi0J_RiXAz-6 )
 
-- [HyperWorks Tips & Tricks,](https://www.youtube.com/watch?v=UiZyou8uz6o&list=PLRqUDK2aqvkDi21dCVdT0uJFTzslg67gz )
+* [HyperWorks Tips & Tricks,](https://www.youtube.com/watch?v=UiZyou8uz6o&list=PLRqUDK2aqvkDi21dCVdT0uJFTzslg67gz )
 
-- [Hypermesh basics,](https://www.youtube.com/watch?v=8euY10iD-9g&list=PLAsvHPJrmoWZNrnXYYLkvV2ElNe2g3zxX )
+* [Hypermesh basics,](https://www.youtube.com/watch?v=8euY10iD-9g&list=PLAsvHPJrmoWZNrnXYYLkvV2ElNe2g3zxX )
 
-- [Hypermesh Tutorial,](https://www.youtube.com/watch?v=BueeQiwc0JY&list=PL86AF55AB0D9AA70C )
+* [Hypermesh Tutorial,](https://www.youtube.com/watch?v=BueeQiwc0JY&list=PL86AF55AB0D9AA70C )
 
-- [Hypermesh,](https://www.youtube.com/watch?v=8euY10iD-9g&list=PLvVR-5zpzf0HQVpv3gs58U620ekf--IsJ )
+* [Hypermesh,](https://www.youtube.com/watch?v=8euY10iD-9g&list=PLvVR-5zpzf0HQVpv3gs58U620ekf--IsJ )
 
-- [ANSA Tutorials - How To Guides,](https://www.youtube.com/watch?v=jI-zUgn3zT4&list=PL4Kh_GLK2cUd2NdRPHfL_tn1ScXU5cwKc )
+* [ANSA Tutorials - How To Guides,](https://www.youtube.com/watch?v=jI-zUgn3zT4&list=PL4Kh_GLK2cUd2NdRPHfL_tn1ScXU5cwKc )
 
-- [30 Days to Learn HTML & CSS (Full Course),](https://www.youtube.com/watch?v=yTHTo28hwTQ&list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F )
+* [30 Days to Learn HTML & CSS (Full Course),](https://www.youtube.com/watch?v=yTHTo28hwTQ&list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F )
 
-- [ Richard Hamming: ""Learning to Learn""",](https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30 )
+* [ Richard Hamming: ""Learning to Learn""",](https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30 )
 
-- [Prealgebra (Full Length Videos),](https://www.youtube.com/watch?v=cC7n_ZyVUns&list=PL4C9296DF81B9EF13 )
+* [Prealgebra (Full Length Videos),](https://www.youtube.com/watch?v=cC7n_ZyVUns&list=PL4C9296DF81B9EF13 )
 
-- [Intermediate Algebra (Full Length Videos),](https://www.youtube.com/watch?v=0EnklHkVKXI&list=PLC292123722B1B450 )
+* [Intermediate Algebra (Full Length Videos),](https://www.youtube.com/watch?v=0EnklHkVKXI&list=PLC292123722B1B450 )
 
-- [Statistics (Full Length Videos),](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0 )
+* [Statistics (Full Length Videos),](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0 )
 
-- [Calculus 3 (Full Length Videos),](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7 )
+* [Calculus 3 (Full Length Videos),](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7 )
 
-- [Calculus 2 (Full Length Videos),](https://www.youtube.com/watch?v=H9eCT6f_Ftw&list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw- )
+* [Calculus 2 (Full Length Videos),](https://www.youtube.com/watch?v=H9eCT6f_Ftw&list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw- )
 
-- [Calculus 1 (Full Length Videos),](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5 )
+* [Calculus 1 (Full Length Videos),](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5 )
 
-- [Inkscape - basics of game art creation,](https://www.youtube.com/watch?v=caCxR7Kl3iw&list=PLEuVieGawK9RWYoLci3myIuabFAg6_WTs )
+* [Inkscape - basics of game art creation,](https://www.youtube.com/watch?v=caCxR7Kl3iw&list=PLEuVieGawK9RWYoLci3myIuabFAg6_WTs )
 
-- [Inkscape - creating seamless patterns,](https://www.youtube.com/watch?v=mOflL7B-fOw&list=PLEuVieGawK9T5sRr38BRW7t8aHDgC-Y2O )
+* [Inkscape - creating seamless patterns,](https://www.youtube.com/watch?v=mOflL7B-fOw&list=PLEuVieGawK9T5sRr38BRW7t8aHDgC-Y2O )
 
-- [Python Tutorial,](https://www.youtube.com/watch?v=fdv1NlEZWro&list=PL3072C720775B213E )
+* [Python Tutorial,](https://www.youtube.com/watch?v=fdv1NlEZWro&list=PL3072C720775B213E )
 
-- [Inkscape Video Tutorial,](https://www.youtube.com/watch?v=zUIOEXssTSE&list=PLGLfVvz_LVvTSi9bKrvGR2_DBg0Tv8Dxo )
+* [Inkscape Video Tutorial,](https://www.youtube.com/watch?v=zUIOEXssTSE&list=PLGLfVvz_LVvTSi9bKrvGR2_DBg0Tv8Dxo )
 
-- [Learn in One Video,](https://www.youtube.com/watch?v=Rub-JsjMhWY&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY )
+* [Learn in One Video,](https://www.youtube.com/watch?v=Rub-JsjMhWY&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY )
 
-- [Machine Learning Recipes with Josh Gordon,](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal )
+* [Machine Learning Recipes with Josh Gordon,](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal )
 
-- [Learn R by Intensive Practice,](https://www.youtube.com/watch?v=p3i7Kz6C_-4&list=PLFAYD0dt5xCwDNFdrqeNoU9t-nhAWkbKe )
+* [Learn R by Intensive Practice,](https://www.youtube.com/watch?v=p3i7Kz6C_-4&list=PLFAYD0dt5xCwDNFdrqeNoU9t-nhAWkbKe )
 
-- [Intro to Data Science,](https://www.youtube.com/watch?v=Cgm3r-G0cMQ&list=PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x )
+* [Intro to Data Science,](https://www.youtube.com/watch?v=Cgm3r-G0cMQ&list=PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x )
 
-- [Data Analysis with R,](https://www.youtube.com/watch?v=YbVuN2KOlt4&list=PLAwxTw4SYaPlSFCDRaseIGGxlGn81Adjs )
+* [Data Analysis with R,](https://www.youtube.com/watch?v=YbVuN2KOlt4&list=PLAwxTw4SYaPlSFCDRaseIGGxlGn81Adjs )
 
-- [Intro to Machine Learning,](https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH )
+* [Intro to Machine Learning,](https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH )
 
-- [How to Use Git and GitHub,](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p )
+* [How to Use Git and GitHub,](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p )
 
-- [Javascript Basics,](https://www.youtube.com/watch?v=ODgLHqCAJTw&list=PLAwxTw4SYaPmtf5v3hefG5seVynUtV9T8 )
+* [Javascript Basics,](https://www.youtube.com/watch?v=ODgLHqCAJTw&list=PLAwxTw4SYaPmtf5v3hefG5seVynUtV9T8 )
 
-- [Intro to HTML and CSS,](https://www.youtube.com/watch?v=1cZtdKNB9jo&list=PLAwxTw4SYaPmd5v7c9i883AwqVZquegHM )
+* [Intro to HTML and CSS,](https://www.youtube.com/watch?v=1cZtdKNB9jo&list=PLAwxTw4SYaPmd5v7c9i883AwqVZquegHM )
 
-- [Computability,](https://www.youtube.com/watch?v=0OuLdNq3ONo&list=PLAwxTw4SYaPkbWSEj_1iO7rILlWDJImW4 )
+* [Computability,](https://www.youtube.com/watch?v=0OuLdNq3ONo&list=PLAwxTw4SYaPkbWSEj_1iO7rILlWDJImW4 )
 
-- [Computability,](https://www.youtube.com/watch?v=tCs87wwHIyI&list=PLAwxTw4SYaPmdtCSyH7lMfm75KSpWMj8K )
+* [Computability,](https://www.youtube.com/watch?v=tCs87wwHIyI&list=PLAwxTw4SYaPmdtCSyH7lMfm75KSpWMj8K )
 
-- [Computability,](https://www.youtube.com/watch?v=1PVt-iZBIto&list=PLAwxTw4SYaPnOLuiqtLyKu08FyKdX7Dut )
+* [Computability,](https://www.youtube.com/watch?v=1PVt-iZBIto&list=PLAwxTw4SYaPnOLuiqtLyKu08FyKdX7Dut )
 
-- [MIT Python Course,](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL57FCE46F714A03BC )
+* [MIT Python Course,](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL57FCE46F714A03BC )
 
-- [Learn Python: CodeCademy,](https://www.youtube.com/watch?v=Ubtld2PGUhk&list=PLHdCowjFIBmI1UV60W1TVa7l91Psnw73E )
+* [Learn Python: CodeCademy,](https://www.youtube.com/watch?v=Ubtld2PGUhk&list=PLHdCowjFIBmI1UV60W1TVa7l91Psnw73E )
 
-- [Google Python Class - ALL,](https://www.youtube.com/watch?v=tKTZoB2Vjuk&list=PLC8825D0450647509 )
+* [Google Python Class - ALL,](https://www.youtube.com/watch?v=tKTZoB2Vjuk&list=PLC8825D0450647509 )
 
-- [Python 3.4 Programming Tutorials,](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_ )
+* [Python 3.4 Programming Tutorials,](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_ )
 
-- [The Complete Visual Guide to Sublime Text 3,](https://www.youtube.com/watch?v=Sxkrp9iTgZ8&list=PLIM28v8sWGUcz6LKXlxTn0m1OFCKarKM- )
+* [The Complete Visual Guide to Sublime Text 3,](https://www.youtube.com/watch?v=Sxkrp9iTgZ8&list=PLIM28v8sWGUcz6LKXlxTn0m1OFCKarKM- )
 
-- [Survival Vim,](https://www.youtube.com/watch?v=sKLit8FwTCg&list=PLGBpqdBGSRhEUi1Q3wUou7xtlTHkWefyl )
+* [Survival Vim,](https://www.youtube.com/watch?v=sKLit8FwTCg&list=PLGBpqdBGSRhEUi1Q3wUou7xtlTHkWefyl )
 
-- [Statistics 110: Probability,](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo )
+* [Statistics 110: Probability,](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo )
 
-- [MIT 18.086 Mathematical Methods for Engineers II,](https://www.youtube.com/watch?v=gv-AB35V2k8&list=PL3A13781649466805 )
+* [MIT 18.086 Mathematical Methods for Engineers II,](https://www.youtube.com/watch?v=gv-AB35V2k8&list=PL3A13781649466805 )
 
-- [MIT 6.001 Structure and Interpretation,](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLE18841CABEA24090 )
+* [MIT 6.001 Structure and Interpretation,](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLE18841CABEA24090 )
 
-- [MIT 18.06 Linear Algebra,](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8 )
+* [MIT 18.06 Linear Algebra,](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8 )
 
-- [MIT Calculus Revisited: Single Variable Calculus,](https://www.youtube.com/watch?v=MFRWDuduuSw&list=PL3B08AE665AB9002A )
+* [MIT Calculus Revisited: Single Variable Calculus,](https://www.youtube.com/watch?v=MFRWDuduuSw&list=PL3B08AE665AB9002A )
 
-- [MIT 18.01 Single Variable Calculus,](https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1 )
+* [MIT 18.01 Single Variable Calculus,](https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1 )
 
-- [MIT 6.01SC Introduction to EECS I,](https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PL9B24A6A9D5754E70 )
+* [MIT 6.01SC Introduction to EECS I,](https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PL9B24A6A9D5754E70 )
 
-- [MIT 18.085 Computational Science & Engineering I,](https://www.youtube.com/watch?v=CgfkEUOFAj0&list=PLF706B428FB7BD52C )
+* [MIT 18.085 Computational Science & Engineering I,](https://www.youtube.com/watch?v=CgfkEUOFAj0&list=PLF706B428FB7BD52C )
 
-- [MIT RES.6.007 Signals and Systems,](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B )
+* [MIT RES.6.007 Signals and Systems,](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B )
 
-- [MIT 18.03SC Differential Equations,](https://www.youtube.com/watch?v=76WdBlGpxVw&list=PL64BDFBDA2AF24F7E )
+* [MIT 18.03SC Differential Equations,](https://www.youtube.com/watch?v=76WdBlGpxVw&list=PL64BDFBDA2AF24F7E )
 
-- [MIT 6.042J Mathematics for Computer Science,](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B )
+* [MIT 6.042J Mathematics for Computer Science,](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B )
 
-- [MIT Calculus Revisited: Calculus of Complex Variables,](https://www.youtube.com/watch?v=BOx8LRyr8mU&list=PLD971E94905A70448 )
+* [MIT Calculus Revisited: Calculus of Complex Variables,](https://www.youtube.com/watch?v=BOx8LRyr8mU&list=PLD971E94905A70448 )
 
-- [MIT Calculus Revisited: Multivariable Calculus,](https://www.youtube.com/watch?v=wsOoClvZmic&list=PL1C22D4DED943EF7B )
+* [MIT Calculus Revisited: Multivariable Calculus,](https://www.youtube.com/watch?v=wsOoClvZmic&list=PL1C22D4DED943EF7B )
 
-- [MIT 18.03 Differential Equations,](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980 )
+* [MIT 18.03 Differential Equations,](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980 )
 
-- [MIT 6.006 Introduction to Algorithms,](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb )
+* [MIT 6.006 Introduction to Algorithms,](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb )
 
-- [MIT 2.003SC Engineering Dynamics,](https://www.youtube.com/watch?v=GUvoVvXwoOQ&list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC )
+* [MIT 2.003SC Engineering Dynamics,](https://www.youtube.com/watch?v=GUvoVvXwoOQ&list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC )
 
-- [MIT 3.021J Introduction to Modeling and Simulation,](https://www.youtube.com/watch?v=d3ChB1tDMyI&list=PLUl4u3cNGP63eWjy1orBicyAXrunfs2jT )
+* [MIT 3.021J Introduction to Modeling and Simulation,](https://www.youtube.com/watch?v=d3ChB1tDMyI&list=PLUl4u3cNGP63eWjy1orBicyAXrunfs2jT )
 
-- [MIT 2.003J Dynamics and Control I,](https://www.youtube.com/watch?v=K_6tRupDxF4&list=PLUl4u3cNGP625kC6m4A452AAK35yvDXha )
+* [MIT 2.003J Dynamics and Control I,](https://www.youtube.com/watch?v=K_6tRupDxF4&list=PLUl4u3cNGP625kC6m4A452AAK35yvDXha )
 
-- [MIT 6.041SC Probabilistic Systems Analysis and Applied Probability,](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe )
+* [MIT 6.041SC Probabilistic Systems Analysis and Applied Probability,](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe )
 
-- [MIT 9.04 Sensory Systems,](https://www.youtube.com/watch?v=g1ka1MXpo3s&list=PLUl4u3cNGP63Wy1oqQW2oD2HBdDSY8Ghi )
+* [MIT 9.04 Sensory Systems,](https://www.youtube.com/watch?v=g1ka1MXpo3s&list=PLUl4u3cNGP63Wy1oqQW2oD2HBdDSY8Ghi )
 
-- [MIT 2.087 Engineering Mathematics: Linear Algebra and ODEs,](https://www.youtube.com/watch?v=4X0SGGrXDiI&list=PLUl4u3cNGP63w3DE9izYp_3fpAdi0Wkga )
+* [MIT 2.087 Engineering Mathematics: Linear Algebra and ODEs,](https://www.youtube.com/watch?v=4X0SGGrXDiI&list=PLUl4u3cNGP63w3DE9izYp_3fpAdi0Wkga )
 
-- [MIT 6.046J Design and Analysis of Algorithms,](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp )
+* [MIT 6.046J Design and Analysis of Algorithms,](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp )
 
-- [Celebrating Marvin Minsky,](https://www.youtube.com/watch?v=8EY4PoWrXpY&list=PLj62-wQeg_DhYOt0gcMmlBsXaxrioJr-e )
+* [Celebrating Marvin Minsky,](https://www.youtube.com/watch?v=8EY4PoWrXpY&list=PLj62-wQeg_DhYOt0gcMmlBsXaxrioJr-e )
 
-- [Unix terminals and shells,](https://www.youtube.com/watch?v=07Q9oqNLXB4&list=PLFAC320731F539902 )
+* [Unix terminals and shells,](https://www.youtube.com/watch?v=07Q9oqNLXB4&list=PLFAC320731F539902 )
 
-- [Command Line Power User,](https://www.youtube.com/watch?v=rl7PzPAZDyY&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf )
+* [Command Line Power User,](https://www.youtube.com/watch?v=rl7PzPAZDyY&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf )
 
-- [Sublime Text Tutorial,](https://www.youtube.com/watch?v=SVkR1ZkNusI&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK )
+* [Sublime Text Tutorial,](https://www.youtube.com/watch?v=SVkR1ZkNusI&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK )
 
-- [Sublime Text 2 tutorial,](https://www.youtube.com/watch?v=5AV9zJH2n_Y&list=PLmJpVU-TdmVtTLooKvX3jcrOziPjlWrD4 )
+* [Sublime Text 2 tutorial,](https://www.youtube.com/watch?v=5AV9zJH2n_Y&list=PLmJpVU-TdmVtTLooKvX3jcrOziPjlWrD4 )
 
-- [EuroSciPy 2014,](https://www.youtube.com/watch?v=DObmPAtuNw0&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi )
+* [EuroSciPy 2014,](https://www.youtube.com/watch?v=DObmPAtuNw0&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi )
 
-- [Graduate Artificial Intelligence - Zico Kolter - CMU,](https://www.youtube.com/watch?v=p0Piq03ZKTw&list=PLOxR6w3fIHWyOa1Guwjl-oNNfvZ4yQUuD )
+* [Graduate Artificial Intelligence - Zico Kolter - CMU,](https://www.youtube.com/watch?v=p0Piq03ZKTw&list=PLOxR6w3fIHWyOa1Guwjl-oNNfvZ4yQUuD )
 
-- [Machine Learning Summer School 2013 Tübingen,](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E )
+* [Machine Learning Summer School 2013 Tübingen,](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E )
 
-- [SLAM Course - WS13/14,](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_ )
+* [SLAM Course - WS13/14,](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_ )
 
-- [Machine Learning for Computer Vision,](https://www.youtube.com/watch?v=QZmZFeZxEKI&list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl )
+* [Machine Learning for Computer Vision,](https://www.youtube.com/watch?v=QZmZFeZxEKI&list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl )
 
-- [Lecture: Variational Methods for Computer Vision (Prof. D. Cremers),](https://www.youtube.com/watch?v=fpw26tpHGr8&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI )
+* [Lecture: Variational Methods for Computer Vision (Prof. D. Cremers),](https://www.youtube.com/watch?v=fpw26tpHGr8&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI )
 
-- [MOOC: Autonomous Navigation for Flying Robots (EdX course),](https://www.youtube.com/watch?v=YT8pnN8lwxA&list=PLTBdjV_4f-EKBCUs1HmMtsnXv4JUoFrzg )
+* [MOOC: Autonomous Navigation for Flying Robots (EdX course),](https://www.youtube.com/watch?v=YT8pnN8lwxA&list=PLTBdjV_4f-EKBCUs1HmMtsnXv4JUoFrzg )
 
-- [Lecture: Visual Navigation for Flying Robots,](https://www.youtube.com/watch?v=f5khDPUMYmQ&list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha )
+* [Lecture: Visual Navigation for Flying Robots,](https://www.youtube.com/watch?v=f5khDPUMYmQ&list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha )
 
-- [Simple Ros Tutorials,](https://www.youtube.com/watch?v=HVQ4ckfKcK4&list=PLPOGg2XAz18G685Dkn-0PmsecGvVg3RWJ )
+* [Simple Ros Tutorials,](https://www.youtube.com/watch?v=HVQ4ckfKcK4&list=PLPOGg2XAz18G685Dkn-0PmsecGvVg3RWJ )
 
-- [ROS Tutorial (Robot Operating System),](https://www.youtube.com/watch?v=9IJDmd0DGe0&list=PL304B5A-5ithiiSxX2YOJRvWlBqZQe_pK )
+* [ROS Tutorial (Robot Operating System),](https://www.youtube.com/watch?v=9IJDmd0DGe0&list=PL304B5A-5ithiiSxX2YOJRvWlBqZQe_pK )
 
-- [ACM Learning Webinars,](https://www.youtube.com/watch?v=rHYq1Git6U8&list=PLn0nrSd4xjjZa4KDqFBCMOnk52CItWqyU )
+* [ACM Learning Webinars,](https://www.youtube.com/watch?v=rHYq1Git6U8&list=PLn0nrSd4xjjZa4KDqFBCMOnk52CItWqyU )
 
-- [SIGGRAPH University,](https://www.youtube.com/watch?v=KJv1N8akoUs&list=PLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy )
+* [SIGGRAPH University,](https://www.youtube.com/watch?v=KJv1N8akoUs&list=PLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy )
 
-- [C++ 14 Tutorials,](https://www.youtube.com/watch?v=Kb4wpbcXaUw&list=PLYxzS__5yYQkcMuLFihmFoFWUd06uCBBM )
+* [C++ 14 Tutorials,](https://www.youtube.com/watch?v=Kb4wpbcXaUw&list=PLYxzS__5yYQkcMuLFihmFoFWUd06uCBBM )
 
-- [C Video Tutorial,](https://www.youtube.com/watch?v=8Ib7nwc33uA&list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7 )
+* [C Video Tutorial,](https://www.youtube.com/watch?v=8Ib7nwc33uA&list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7 )
 
-- [Sublime Text Tutorials,](https://www.youtube.com/watch?v=k01udDD-UwI&list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP )
+* [Sublime Text Tutorials,](https://www.youtube.com/watch?v=k01udDD-UwI&list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP )
 
-- [Command Line Basics,](https://www.youtube.com/watch?v=yreJBmV4_6c&list=PLLnpHn493BHGmEYzbjWPJsnRMhvs-PSYG )
+* [Command Line Basics,](https://www.youtube.com/watch?v=yreJBmV4_6c&list=PLLnpHn493BHGmEYzbjWPJsnRMhvs-PSYG )
 
-- [Making Sublime Awesome,](https://www.youtube.com/watch?v=CDw_NRuOqEQ&list=PLfdtiltiRHWEuNHKuIheLV8efTxDm3EII )
+* [Making Sublime Awesome,](https://www.youtube.com/watch?v=CDw_NRuOqEQ&list=PLfdtiltiRHWEuNHKuIheLV8efTxDm3EII )
 
-- [Sublime Text,](https://www.youtube.com/watch?v=izk7yzcb-rE&list=PL95C08DF910D1B62C )
+* [Sublime Text,](https://www.youtube.com/watch?v=izk7yzcb-rE&list=PL95C08DF910D1B62C )
 
-- [GitHub for Noobs,](https://www.youtube.com/watch?v=1h9_cB9mPT8&list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw )
+* [GitHub for Noobs,](https://www.youtube.com/watch?v=1h9_cB9mPT8&list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw )
 
-- [Intro to R,](https://www.youtube.com/watch?v=iffR3fWv4xw&list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP )
+* [Intro to R,](https://www.youtube.com/watch?v=iffR3fWv4xw&list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP )
 
-- [Totally Tooling Tips,](https://www.youtube.com/watch?v=6LQJtH90-aA&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ )
+* [Totally Tooling Tips,](https://www.youtube.com/watch?v=6LQJtH90-aA&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ )
 
-- [Introduction to Robotics,](https://www.youtube.com/watch?v=QdHO_9M8-UI&list=PLJafQ8U0gQVXkQJLtIY-FvhreZEU6JliN )
+* [Introduction to Robotics,](https://www.youtube.com/watch?v=QdHO_9M8-UI&list=PLJafQ8U0gQVXkQJLtIY-FvhreZEU6JliN )
 
-- [Monte Carlo Simulation with Python,](https://www.youtube.com/watch?v=9M_KPXwnrlE&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0 )
+* [Monte Carlo Simulation with Python,](https://www.youtube.com/watch?v=9M_KPXwnrlE&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0 )
 
-- [3D Graphing with Matplotlib,](https://www.youtube.com/watch?v=ZlpFQNVhB7I&list=PLQVvvaa0QuDe60TfxLrJzdQEacMEItxl- )
+* [3D Graphing with Matplotlib,](https://www.youtube.com/watch?v=ZlpFQNVhB7I&list=PLQVvvaa0QuDe60TfxLrJzdQEacMEItxl- )
 
-- [Graphing in Matplotlib (chart generation) in Python,](https://www.youtube.com/watch?v=wAwQ-noyB98&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1 )
+* [Graphing in Matplotlib (chart generation) in Python,](https://www.youtube.com/watch?v=wAwQ-noyB98&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1 )
 
-- [Live Matplotlib Graphs,](https://www.youtube.com/watch?v=ge6DAaJ-leM&list=PLQVvvaa0QuDdZO64qRXReimsOIogR-nLT )
+* [Live Matplotlib Graphs,](https://www.youtube.com/watch?v=ge6DAaJ-leM&list=PLQVvvaa0QuDdZO64qRXReimsOIogR-nLT )
 
-- [OpenCV with Python for Image and Video Analysis,](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq )
+* [OpenCV with Python for Image and Video Analysis,](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq )
 
-- [C Programming Tutorials,](https://www.youtube.com/watch?v=iXEw_0hlM9A&list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P )
+* [C Programming Tutorials,](https://www.youtube.com/watch?v=iXEw_0hlM9A&list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P )
 
-- [Python Programming Tutorials,](https://www.youtube.com/watch?v=GE3IHS1wAZI&list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR )
+* [Python Programming Tutorials,](https://www.youtube.com/watch?v=GE3IHS1wAZI&list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR )
 
-- [R Programming Language - Practice Exercises,](https://www.youtube.com/watch?v=qibju4XJZ_U&list=PLFAYD0dt5xCzHFjE45hiWj9yDuo-RwaFO )
+* [R Programming Language - Practice Exercises,](https://www.youtube.com/watch?v=qibju4XJZ_U&list=PLFAYD0dt5xCzHFjE45hiWj9yDuo-RwaFO )
 
-- [Power Shell,](https://www.youtube.com/watch?v=q3GW24HVKYI&list=PLZDgss2aFWnhvQaLk9g4koelknHf1O2he )
+* [Power Shell,](https://www.youtube.com/watch?v=q3GW24HVKYI&list=PLZDgss2aFWnhvQaLk9g4koelknHf1O2he )
 
-- [Git,](https://www.youtube.com/watch?v=OFkgSjRnay4&list=PLZDgss2aFWnhfHtV9j5oKM6uR0yhQ7eaO )
+* [Git,](https://www.youtube.com/watch?v=OFkgSjRnay4&list=PLZDgss2aFWnhfHtV9j5oKM6uR0yhQ7eaO )
 
-- [Learn Batch File Programming,](https://www.youtube.com/watch?v=WxUTfpREE0g&list=PLZDgss2aFWnglo8EyPjbPl6Bys-cfVGwD )
+* [Learn Batch File Programming,](https://www.youtube.com/watch?v=WxUTfpREE0g&list=PLZDgss2aFWnglo8EyPjbPl6Bys-cfVGwD )
 
-- [Batch Programming,](https://www.youtube.com/watch?v=7J-dRirlUvY&list=PLZDgss2aFWnj1mKqcufxXvNIwqOL5qzXn )
+* [Batch Programming,](https://www.youtube.com/watch?v=7J-dRirlUvY&list=PLZDgss2aFWnj1mKqcufxXvNIwqOL5qzXn )
 
-- [Getting Started with Python Development using Visual Studio,](https://www.youtube.com/watch?v=_okUV47eM5c&list=PLReL099Y5nRdLgGAdrb_YeTdEnd23s6Ff )
+* [Getting Started with Python Development using Visual Studio,](https://www.youtube.com/watch?v=_okUV47eM5c&list=PLReL099Y5nRdLgGAdrb_YeTdEnd23s6Ff )
 
-- [Microsoft® Excel® 2010 Step by Step Videos,](https://www.youtube.com/watch?v=r-M_gy82qVU&list=PLBB8F203F33525925 )
+* [Microsoft® Excel® 2010 Step by Step Videos,](https://www.youtube.com/watch?v=r-M_gy82qVU&list=PLBB8F203F33525925 )
 
-- [Microsoft® Word 2010 Step by Step Courses Videos,](https://www.youtube.com/watch?v=cO5ENzF_VrE&list=PLEC59ED056A5F1C58 )
+* [Microsoft® Word 2010 Step by Step Courses Videos,](https://www.youtube.com/watch?v=cO5ENzF_VrE&list=PLEC59ED056A5F1C58 )
 
-- [Core Science - Numerical Methods and Programing,](https://www.youtube.com/watch?v=zjyR9e-N1D4&list=PLCA944605A8EDE42A )
+* [Core Science - Numerical Methods and Programing,](https://www.youtube.com/watch?v=zjyR9e-N1D4&list=PLCA944605A8EDE42A )
 
-- [Introduction to Machine Vision,](https://www.youtube.com/watch?v=N_a6IP6KUSE&list=PL1pxneANaikCO1-Z0XTaljLR3SE8tgRXY )
+* [Introduction to Machine Vision,](https://www.youtube.com/watch?v=N_a6IP6KUSE&list=PL1pxneANaikCO1-Z0XTaljLR3SE8tgRXY )
 
-- [MIT 6.832 (Underactuated Robotics) 2015,](https://www.youtube.com/watch?v=2inIBRmDXWk&list=PLnWkMhyDLp1CGlkfJqFBLmTs5Nf2RWWGe )
+* [MIT 6.832 (Underactuated Robotics) 2015,](https://www.youtube.com/watch?v=2inIBRmDXWk&list=PLnWkMhyDLp1CGlkfJqFBLmTs5Nf2RWWGe )
 
-- [Part 8: Numerical Methods: Partial Differential Equations,](https://www.youtube.com/watch?v=y3dHKNl-q-k&list=PLYdroRCLMg5MLOnfJMyu4nLxtKOD7gGpz )
+* [Part 8: Numerical Methods: Partial Differential Equations,](https://www.youtube.com/watch?v=y3dHKNl-q-k&list=PLYdroRCLMg5MLOnfJMyu4nLxtKOD7gGpz )
 
-- [Part 7: Numerical Methods: Ordinary Differential Equations,](https://www.youtube.com/watch?v=bP2Ug7Mm5RE&list=PLYdroRCLMg5PhZqzEJJlyLo55-1Vdd4Bd )
+* [Part 7: Numerical Methods: Ordinary Differential Equations,](https://www.youtube.com/watch?v=bP2Ug7Mm5RE&list=PLYdroRCLMg5PhZqzEJJlyLo55-1Vdd4Bd )
 
-- [Part 6: Numerical Methods: Integration and Differentiation,](https://www.youtube.com/watch?v=GEr3Y1Sda-k&list=PLYdroRCLMg5OvLx1EtY1ByvveJeTEXQd_ )
+* [Part 6: Numerical Methods: Integration and Differentiation,](https://www.youtube.com/watch?v=GEr3Y1Sda-k&list=PLYdroRCLMg5OvLx1EtY1ByvveJeTEXQd_ )
 
-- [Part 5: Numerical Methods: Curve Fitting,](https://www.youtube.com/watch?v=yQsDxOdn1hk&list=PLYdroRCLMg5NTT00m-7ituVGdtY1X680M )
+* [Part 5: Numerical Methods: Curve Fitting,](https://www.youtube.com/watch?v=yQsDxOdn1hk&list=PLYdroRCLMg5NTT00m-7ituVGdtY1X680M )
 
-- [Part 3: Numerical Methods: Linear Algebra,](https://www.youtube.com/watch?v=rsfYOK65zHA&list=PLYdroRCLMg5MgczmIkeY_XVJiJ5LVDFuh )
+* [Part 3: Numerical Methods: Linear Algebra,](https://www.youtube.com/watch?v=rsfYOK65zHA&list=PLYdroRCLMg5MgczmIkeY_XVJiJ5LVDFuh )
 
-- [Part 2: Numerical Methods: Roots of Equations,](https://www.youtube.com/watch?v=PXSLcEGkXkU&list=PLYdroRCLMg5OqW6VJsdJi4K2j_yLWNHKY )
+* [Part 2: Numerical Methods: Roots of Equations,](https://www.youtube.com/watch?v=PXSLcEGkXkU&list=PLYdroRCLMg5OqW6VJsdJi4K2j_yLWNHKY )
 
-- [Part 1: Numerical Methods: Modeling & Error,](https://www.youtube.com/watch?v=KjBCjVAobVs&list=PLYdroRCLMg5O-SZZL8kqFkcjWllPVpmXc )
+* [Part 1: Numerical Methods: Modeling & Error,](https://www.youtube.com/watch?v=KjBCjVAobVs&list=PLYdroRCLMg5O-SZZL8kqFkcjWllPVpmXc )
 
-- [CS50 Lectures 2015,](https://www.youtube.com/watch?v=zFenJJtAEzE&list=PLhQjrBD2T383Xfn0zECHrOTpfOSlptPAB )
+* [CS50 Lectures 2015,](https://www.youtube.com/watch?v=zFenJJtAEzE&list=PLhQjrBD2T383Xfn0zECHrOTpfOSlptPAB )
 
-- [Summer 2012,](https://www.youtube.com/watch?v=REnObjZ4QcQ&list=PL2puWTN1tf6LPXcpXx3WDcBMhcFM8sW2O )
+* [Summer 2012,](https://www.youtube.com/watch?v=REnObjZ4QcQ&list=PL2puWTN1tf6LPXcpXx3WDcBMhcFM8sW2O )
 
-- [COMP300E - Programming Challenges - 2009 HKUST,](https://www.youtube.com/watch?v=3dkbFf82_b8&list=PL07B3F10B48592010 )
+* [COMP300E - Programming Challenges - 2009 HKUST,](https://www.youtube.com/watch?v=3dkbFf82_b8&list=PL07B3F10B48592010 )
 
-- [MIT 6.00SC Introduction to Computer Science and Programming,](https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7 )
+* [MIT 6.00SC Introduction to Computer Science and Programming,](https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7 )
 
-- [Finite Elements Simulations by ABAQUS,](https://www.youtube.com/watch?v=JlTfeRy0CCw&list=PLOv4wCzYv3nrRNwH9v3iAn1t3658PpPtL )
+* [Finite Elements Simulations by ABAQUS,](https://www.youtube.com/watch?v=JlTfeRy0CCw&list=PLOv4wCzYv3nrRNwH9v3iAn1t3658PpPtL )
 
-- [Robotics Institute Seminar Series,](https://www.youtube.com/watch?v=t2OSqw6uXHc&list=PLCFD85BC79FE703DF )
+* [Robotics Institute Seminar Series,](https://www.youtube.com/watch?v=t2OSqw6uXHc&list=PLCFD85BC79FE703DF )
 
-- [Dynamic Walking 2013 Conference,](https://www.youtube.com/watch?v=UOtsEo3AtzE&list=PLVqaARCrz-m9aFEsen8fkW4ZjdaFqRoGL )
+* [Dynamic Walking 2013 Conference,](https://www.youtube.com/watch?v=UOtsEo3AtzE&list=PLVqaARCrz-m9aFEsen8fkW4ZjdaFqRoGL )
 
-- [Robotics & Machine Vision Toolbox videos,](https://www.youtube.com/watch?v=ImPBVQJRSwY&list=PLF58C18380E9B356F )
+* [Robotics & Machine Vision Toolbox videos,](https://www.youtube.com/watch?v=ImPBVQJRSwY&list=PLF58C18380E9B356F )
 
-- [Theory videos for Introduction to Robotics ENB339,](https://www.youtube.com/watch?v=I7Xvchh0L_4&list=PLB46C8B9857C32201 )
+* [Theory videos for Introduction to Robotics ENB339,](https://www.youtube.com/watch?v=I7Xvchh0L_4&list=PLB46C8B9857C32201 )
 
-- [Ted Talks: Robotics,](https://www.youtube.com/watch?v=V_LurJfOSiA&list=PL2ssQ-r2WERA8Lb92xVhmsxbn6TATGwpw )
+* [Ted Talks: Robotics,](https://www.youtube.com/watch?v=V_LurJfOSiA&list=PL2ssQ-r2WERA8Lb92xVhmsxbn6TATGwpw )
 
-- [MIT 6.832 Underactuated Robotics,](https://www.youtube.com/watch?v=Z8oMbOj9IWM&list=PL58F1D0056F04CF8C )
+* [MIT 6.832 Underactuated Robotics,](https://www.youtube.com/watch?v=Z8oMbOj9IWM&list=PL58F1D0056F04CF8C )
 
-- [ROSCon 2013,](https://www.youtube.com/watch?v=ZE74D91QLwc&list=PL-hltDQ7qfyW1KAPf8T091NjH9FiGXPht )
+* [ROSCon 2013,](https://www.youtube.com/watch?v=ZE74D91QLwc&list=PL-hltDQ7qfyW1KAPf8T091NjH9FiGXPht )
 
-- [ROSCon 2015,](https://www.youtube.com/watch?v=30MQkuKFUys&list=PL-hltDQ7qfyXhLcfRqLcXWrTLkvUR3GdR )
+* [ROSCon 2015,](https://www.youtube.com/watch?v=30MQkuKFUys&list=PL-hltDQ7qfyXhLcfRqLcXWrTLkvUR3GdR )
 
-- [ROSCon 2014,](https://www.youtube.com/watch?v=viXbPu3ievo&list=PL-hltDQ7qfyXtCO9SYTIwVyhAkAQO5Tna )
+* [ROSCon 2014,](https://www.youtube.com/watch?v=viXbPu3ievo&list=PL-hltDQ7qfyXtCO9SYTIwVyhAkAQO5Tna )
 
-- [ROSCon 2012,](https://www.youtube.com/watch?v=1vKv7qXOpBc&list=PL-hltDQ7qfyUb9vEixcafWRBd7VevMAfT )
+* [ROSCon 2012,](https://www.youtube.com/watch?v=1vKv7qXOpBc&list=PL-hltDQ7qfyUb9vEixcafWRBd7VevMAfT )
 
-- [ROS Video Tutorials,](https://www.youtube.com/watch?v=_WyuAZ1SuTI&list=PL3064BF19A4F4CD1F )
+* [ROS Video Tutorials,](https://www.youtube.com/watch?v=_WyuAZ1SuTI&list=PL3064BF19A4F4CD1F )
 
-- [ROS Tutorial (Robot Operating System),](https://www.youtube.com/watch?v=9IJDmd0DGe0&list=PLDC89965A56E6A8D6 )
+* [ROS Tutorial (Robot Operating System),](https://www.youtube.com/watch?v=9IJDmd0DGe0&list=PLDC89965A56E6A8D6 )
 
-- [Erle Robotics - Learning ROS,](https://www.youtube.com/watch?v=d5YAJh6Z2B0&list=PL39WpgKDjDfVfiNVG47DBi93wsh2XHKVO )
+* [Erle Robotics - Learning ROS,](https://www.youtube.com/watch?v=d5YAJh6Z2B0&list=PL39WpgKDjDfVfiNVG47DBi93wsh2XHKVO )
 
-- [Erle Robotics - Gazebo simulation,](https://www.youtube.com/watch?v=2HN-W8qLb6g&list=PL39WpgKDjDfU9bmeoYeoUkeGk8VLKxSBq )
+* [Erle Robotics - Gazebo simulation,](https://www.youtube.com/watch?v=2HN-W8qLb6g&list=PL39WpgKDjDfU9bmeoYeoUkeGk8VLKxSBq )
 
-- [Software Carpentry - SciPy2015 - Bash,](https://www.youtube.com/watch?v=LqKS_TFxjTY&list=PL3eYwc6vt-hLcGGF2ROvzr4BZ-KiBAB23 )
+* [Software Carpentry - SciPy2015 - Bash,](https://www.youtube.com/watch?v=LqKS_TFxjTY&list=PL3eYwc6vt-hLcGGF2ROvzr4BZ-KiBAB23 )
 
-- [The UNIX shell - Software Carpentry,](https://www.youtube.com/watch?v=U3iNcBtycaQ&list=PLUQy4zfrctjH-FsjpIZDZ0NBznvF4FdNP )
+* [The UNIX shell - Software Carpentry,](https://www.youtube.com/watch?v=U3iNcBtycaQ&list=PLUQy4zfrctjH-FsjpIZDZ0NBznvF4FdNP )
 
-- [SciPy 2015 - Software Carpentry Scientific Python Course,](https://www.youtube.com/watch?v=hAHJ0xGKMBk&list=PLKv_-MzOukpR7pK9wzP9fwsGCOGk-XW_C )
+* [SciPy 2015 - Software Carpentry Scientific Python Course,](https://www.youtube.com/watch?v=hAHJ0xGKMBk&list=PLKv_-MzOukpR7pK9wzP9fwsGCOGk-XW_C )
 
-- [Scikit-learn Machine Learning with Python and SKlearn,](https://www.youtube.com/watch?v=URTZ2jKCgBc&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3 )
+* [Scikit-learn Machine Learning with Python and SKlearn,](https://www.youtube.com/watch?v=URTZ2jKCgBc&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3 )
 
-- [Customizing Matplotlib Graphs and Charts,](https://www.youtube.com/watch?v=u6Xd3kRHhJI&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ )
+* [Customizing Matplotlib Graphs and Charts,](https://www.youtube.com/watch?v=u6Xd3kRHhJI&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ )
 
-- [Matplotlib Tutorial Series - Graphing in Python,](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF )
+* [Matplotlib Tutorial Series - Graphing in Python,](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF )
 
-- [Shell Scripting Tutorials,](https://www.youtube.com/watch?v=nVt3Rst-2H8&list=PL7B7FA4E693D8E790 )
+* [Shell Scripting Tutorials,](https://www.youtube.com/watch?v=nVt3Rst-2H8&list=PL7B7FA4E693D8E790 )
 
-- [Introduction to Programming using Python,](https://www.youtube.com/watch?v=uzSrnySaSQI&list=PL0845FEB57E5894C2 )
+* [Introduction to Programming using Python,](https://www.youtube.com/watch?v=uzSrnySaSQI&list=PL0845FEB57E5894C2 )
 
-- [Introduction to Computer Science,](https://www.youtube.com/watch?v=9nkR2LLPiYo&list=PLAwxTw4SYaPmjFQ2w9j05WDX8Jtg5RXWW )
+* [Introduction to Computer Science,](https://www.youtube.com/watch?v=9nkR2LLPiYo&list=PLAwxTw4SYaPmjFQ2w9j05WDX8Jtg5RXWW )
 
-- [Differential Equations in Action,](https://www.youtube.com/watch?v=8cLXVG2Q6D4&list=PLAwxTw4SYaPlT4WYwf_SzNA9FV0qpGE5A )
+* [Differential Equations in Action,](https://www.youtube.com/watch?v=8cLXVG2Q6D4&list=PLAwxTw4SYaPlT4WYwf_SzNA9FV0qpGE5A )
 
-- [Intro Algebra Review,](https://www.youtube.com/watch?v=OyK86reBnJE&list=PLAwxTw4SYaPnliQD_WPvjTZcE9fOJER9W )
+* [Intro Algebra Review,](https://www.youtube.com/watch?v=OyK86reBnJE&list=PLAwxTw4SYaPnliQD_WPvjTZcE9fOJER9W )
 
-- [Visualizing Algebra,](https://www.youtube.com/watch?v=f_NzMzX4FFo&list=PLAwxTw4SYaPlSLRIPSeloeFkkwEnnl6d4 )
+* [Visualizing Algebra,](https://www.youtube.com/watch?v=f_NzMzX4FFo&list=PLAwxTw4SYaPlSLRIPSeloeFkkwEnnl6d4 )
 
-- [College Algebra,](https://www.youtube.com/watch?v=vNRtAKV_h-g&list=PLAwxTw4SYaPnJnimTSBr-6Q_xX-P-PwvF )
+* [College Algebra,](https://www.youtube.com/watch?v=vNRtAKV_h-g&list=PLAwxTw4SYaPnJnimTSBr-6Q_xX-P-PwvF )
 
-- [Artificial Intelligence for Robotics,](https://www.youtube.com/watch?v=Uqt_pRbR8rI&list=PLAwxTw4SYaPkCSYXw6-a_aAoXVKLDwnHK )
+* [Artificial Intelligence for Robotics,](https://www.youtube.com/watch?v=Uqt_pRbR8rI&list=PLAwxTw4SYaPkCSYXw6-a_aAoXVKLDwnHK )
 
-- [Machine Learning:Reinforcement Learning - Part 3 of 3,](https://www.youtube.com/watch?v=_ocNerSvh5Y&list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp )
+* [Machine Learning:Reinforcement Learning - Part 3 of 3,](https://www.youtube.com/watch?v=_ocNerSvh5Y&list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp )
 
-- [Machine Learning:Unsupervised Learning Part 2 of 3,](https://www.youtube.com/watch?v=ZIuXdAOhiEg&list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7 )
+* [Machine Learning:Unsupervised Learning Part 2 of 3,](https://www.youtube.com/watch?v=ZIuXdAOhiEg&list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7 )
 
-- [Machine Learning - Supervised Learning Part 1b of 3,](https://www.youtube.com/watch?v=5yzSv4jYMyI&list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O )
+* [Machine Learning - Supervised Learning Part 1b of 3,](https://www.youtube.com/watch?v=5yzSv4jYMyI&list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O )
 
-- [Machine Learning:Supervised Learning Part 1a of 3,](https://www.youtube.com/watch?v=Ki2iHgKxRBo&list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo )
+* [Machine Learning:Supervised Learning Part 1a of 3,](https://www.youtube.com/watch?v=Ki2iHgKxRBo&list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo )
 
-- [Automate the Boring Stuff with Python,](https://www.youtube.com/watch?v=1F_OgqRuSdI&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW )
+* [Automate the Boring Stuff with Python,](https://www.youtube.com/watch?v=1F_OgqRuSdI&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW )
 
-- [Programming Foundations with Python,](https://www.youtube.com/watch?v=X0FoelOIZM0&list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW )
+* [Programming Foundations with Python,](https://www.youtube.com/watch?v=X0FoelOIZM0&list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW )
 
-- [Python Programming Tutorials,](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA )
+* [Python Programming Tutorials,](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA )
 
-- [UCF Computer Vision Video Lectures 2012,](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm )
+* [UCF Computer Vision Video Lectures 2012,](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm )
 
-- [Make: Inventions,](https://www.youtube.com/watch?v=edeLOgkXno4&list=PLwhkA66li5vBikE8RFzHz9zvZbfsKcwmh )
+* [Make: Inventions,](https://www.youtube.com/watch?v=edeLOgkXno4&list=PLwhkA66li5vBikE8RFzHz9zvZbfsKcwmh )
 
-- [Dynamic Analysis of Roll Cage,](https://www.youtube.com/watch?v=tapWpLxOvYg&list=PLJRDa46CU8JIch9nYk54DzrcyoRJgkQDl )
+* [Dynamic Analysis of Roll Cage,](https://www.youtube.com/watch?v=tapWpLxOvYg&list=PLJRDa46CU8JIch9nYk54DzrcyoRJgkQDl )
 
-- [SAEINDIA BAJA 2016 Online Training Session,](https://www.youtube.com/watch?v=udeRH86M6DY&list=PLJRDa46CU8JKZyLbEOxuACCbHi0_jk03X )
+* [SAEINDIA BAJA 2016 Online Training Session,](https://www.youtube.com/watch?v=udeRH86M6DY&list=PLJRDa46CU8JKZyLbEOxuACCbHi0_jk03X )
 
-- [SUPRA SAE India 2016 Pre-virtual online Training Session,](https://www.youtube.com/watch?v=vBtCAkJn1W8&list=PLJRDa46CU8JLDsfzy0ZB06KLeIBKVi6Aw )
+* [SUPRA SAE India 2016 Pre-virtual online Training Session,](https://www.youtube.com/watch?v=vBtCAkJn1W8&list=PLJRDa46CU8JLDsfzy0ZB06KLeIBKVi6Aw )
 
-- [Formula Student India Online Training Series,](https://www.youtube.com/watch?v=vPHcr96Sztw&list=PLJRDa46CU8JLaBjaiwbePkUKJeSqQyA-P )
+* [Formula Student India Online Training Series,](https://www.youtube.com/watch?v=vPHcr96Sztw&list=PLJRDa46CU8JLaBjaiwbePkUKJeSqQyA-P )
 
-- [BAJA Student India Online Training Series,](https://www.youtube.com/watch?v=69EB1sYt624&list=PLJRDa46CU8JLLiGpLtlhkMSMDjTVzW_1r )
+* [BAJA Student India Online Training Series,](https://www.youtube.com/watch?v=69EB1sYt624&list=PLJRDa46CU8JLLiGpLtlhkMSMDjTVzW_1r )
 
-- [Altair HyperWorks Online Training series - Meshing,](https://www.youtube.com/watch?v=8euY10iD-9g&list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ )
+* [Altair HyperWorks Online Training series - Meshing,](https://www.youtube.com/watch?v=8euY10iD-9g&list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ )
 
-- [NASA Fastener Design Course,](https://www.youtube.com/watch?v=D6zaVhQkwnY&list=PL-JRZM8KyQ_66_S3NFHg97wXhfaRghuM5 )
+* [NASA Fastener Design Course,](https://www.youtube.com/watch?v=D6zaVhQkwnY&list=PL-JRZM8KyQ_66_S3NFHg97wXhfaRghuM5 )
 
-- [MIT 6.034 Artificial Intelligence,](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi )
+* [MIT 6.034 Artificial Intelligence,](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi )
 
-- [NX CAD Quick Tips,](https://www.youtube.com/watch?v=_OhBZJaUQYM&list=PL1m1vu8_quoDWpA9-_MFw1xpCQMjwICp5 )
+* [NX CAD Quick Tips,](https://www.youtube.com/watch?v=_OhBZJaUQYM&list=PL1m1vu8_quoDWpA9-_MFw1xpCQMjwICp5 )
 
-- [Siemens NX Solutions,](https://www.youtube.com/watch?v=OsNV7EPxhmc&list=PLxjT0tvxdxbkegHslevjc2hyIHEKyOt1R )
+* [Siemens NX Solutions,](https://www.youtube.com/watch?v=OsNV7EPxhmc&list=PLxjT0tvxdxbkegHslevjc2hyIHEKyOt1R )
 
-- [OneNote 2013 Tutorial Teachucomp,](https://www.youtube.com/watch?v=O3oobWAa6Ow&list=PLLKylDijudXTDGsASd0HchHtN_LGei2Od )
+* [OneNote 2013 Tutorial Teachucomp,](https://www.youtube.com/watch?v=O3oobWAa6Ow&list=PLLKylDijudXTDGsASd0HchHtN_LGei2Od )
 
-- [OneNote Training,](https://www.youtube.com/watch?v=LKz8wEEhSwA&list=PLXPr7gfUMmKzWVahN8n_hbpaKSi8OhYxF )
+* [OneNote Training,](https://www.youtube.com/watch?v=LKz8wEEhSwA&list=PLXPr7gfUMmKzWVahN8n_hbpaKSi8OhYxF )
 
-- [STATS 250 Introduction to Statistics and Data Analysis,](https://www.youtube.com/watch?v=NEEneOjBYR0&list=PL432AB57AF9F43D4F )
+* [STATS 250 Introduction to Statistics and Data Analysis,](https://www.youtube.com/watch?v=NEEneOjBYR0&list=PL432AB57AF9F43D4F )
 
-- [Introduction to Finite Element Methods,](https://www.youtube.com/watch?v=U65GK1vVw4o&list=PLJhG_d-Sp_JHKVRhfTgDqbic_4MHpltXZ )
+* [Introduction to Finite Element Methods,](https://www.youtube.com/watch?v=U65GK1vVw4o&list=PLJhG_d-Sp_JHKVRhfTgDqbic_4MHpltXZ )
 
-- [Data Science Training Videos,](https://www.youtube.com/watch?v=S-T2-ir6TPA&list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX )
+* [Data Science Training Videos,](https://www.youtube.com/watch?v=S-T2-ir6TPA&list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX )
 
-- [Learn C programming,](https://www.youtube.com/watch?v=SGvc-NC0hQo&list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9 )
+* [Learn C programming,](https://www.youtube.com/watch?v=SGvc-NC0hQo&list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9 )
 
-- [Python Tutorial Videos,](https://www.youtube.com/watch?v=N0lxfilGfak&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu )
+* [Python Tutorial Videos,](https://www.youtube.com/watch?v=N0lxfilGfak&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu )
 
-- [Advanced Predictive Modelling in R Tutorial Videos,](https://www.youtube.com/watch?v=ThyJ8siKs4o&list=PL9ooVrP1hQOHzmrfK-baAi5GgKfaqY3og )
+* [Advanced Predictive Modelling in R Tutorial Videos,](https://www.youtube.com/watch?v=ThyJ8siKs4o&list=PL9ooVrP1hQOHzmrfK-baAi5GgKfaqY3og )
 
-- [Statistics with R: Courtney Brown,](https://www.youtube.com/watch?v=2-kw1MlOS1U&list=PL7mT7MDlWGhXS54yIGEjmck7Rmqp_WBBR )
+* [Statistics with R: Courtney Brown,](https://www.youtube.com/watch?v=2-kw1MlOS1U&list=PL7mT7MDlWGhXS54yIGEjmck7Rmqp_WBBR )
 
-- [Google Developers R Programming,](https://www.youtube.com/watch?v=iffR3fWv4xw&list=PLyYlLs02rgBYRWBzYpoHz7m2SE8mEZ68w )
+* [Google Developers R Programming,](https://www.youtube.com/watch?v=iffR3fWv4xw&list=PLyYlLs02rgBYRWBzYpoHz7m2SE8mEZ68w )
 
-- [Intro to Data Science with R,](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF )
+* [Intro to Data Science with R,](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF )
 
-- [R Tutorials for Non-Programmer Datascientists - Full Course,](https://www.youtube.com/watch?v=tCjns0EpAo8&list=PLFAYD0dt5xCzTQHDhMPZwBoaAXWeVhZzg )
+* [R Tutorials for Non-Programmer Datascientists - Full Course,](https://www.youtube.com/watch?v=tCjns0EpAo8&list=PLFAYD0dt5xCzTQHDhMPZwBoaAXWeVhZzg )
 
-- [C++ Tutorial for Beginners,](https://www.youtube.com/watch?v=1MKhigIml3E&list=PLmpc3xvYSk4wDCP5zjt2QQXe8-JGHa4Kt )
+* [C++ Tutorial for Beginners,](https://www.youtube.com/watch?v=1MKhigIml3E&list=PLmpc3xvYSk4wDCP5zjt2QQXe8-JGHa4Kt )
 
-- [ANSYS | Workbench | Classic | Multiphysics | Examples | Tutorial |,](https://www.youtube.com/watch?v=DK6E1Ck1LAU&list=PLOahOE6DpL4qojPO7_GkgkVC-cB8KFMeC )
+* [ANSYS | Workbench | Classic | Multiphysics | Examples | Tutorial |,](https://www.youtube.com/watch?v=DK6E1Ck1LAU&list=PLOahOE6DpL4qojPO7_GkgkVC-cB8KFMeC )
 
-- [ANSYS Workbench Tutorial Video Lessons & Training for Beginners and Professionals | GRS |,](https://www.youtube.com/watch?v=FIi9_8eFTTg&list=PLOahOE6DpL4qq_QxPHieAeVejzDP1yIYW )
+* [ANSYS Workbench Tutorial Video Lessons & Training for Beginners and Professionals | GRS |,](https://www.youtube.com/watch?v=FIi9_8eFTTg&list=PLOahOE6DpL4qq_QxPHieAeVejzDP1yIYW )
 
-- [2011 Research Tools Screencasts,](https://www.youtube.com/watch?v=16Rd46SE-20&list=PL7E11B34616530F5E )
+* [2011 Research Tools Screencasts,](https://www.youtube.com/watch?v=16Rd46SE-20&list=PL7E11B34616530F5E )
 
-- [Early Mathematics,](https://www.youtube.com/watch?v=ojvdPjMhnKI&list=PL2601EEB8114DC8D7 )
+* [Early Mathematics,](https://www.youtube.com/watch?v=ojvdPjMhnKI&list=PL2601EEB8114DC8D7 )
 
-- [Frontiers of Biomedical Engineering with W. Mark Saltzman,](https://www.youtube.com/watch?v=Sn0bOX5Hau4&list=PL27E877E8206F196B )
+* [Frontiers of Biomedical Engineering with W. Mark Saltzman,](https://www.youtube.com/watch?v=Sn0bOX5Hau4&list=PL27E877E8206F196B )
 
-- [Fundamentals of Physics with Ramamurti Shankar,](https://www.youtube.com/watch?v=KOKnWaLiL8w&list=PLFE3074A4CB751B2B )
+* [Fundamentals of Physics with Ramamurti Shankar,](https://www.youtube.com/watch?v=KOKnWaLiL8w&list=PLFE3074A4CB751B2B )
 
-- [Fundamentals of Physics II with Ramamurti Shankar,](https://www.youtube.com/watch?v=NK-BxowMIfg&list=PLD07B2225BB40E582 )
+* [Fundamentals of Physics II with Ramamurti Shankar,](https://www.youtube.com/watch?v=NK-BxowMIfg&list=PLD07B2225BB40E582 )
 
-- [ANSYS Tutorials,](https://www.youtube.com/watch?v=VKRGtG_hpig&list=PLQVMpQ7G7XvGz9PUEuO4aZVcjh9UrYZYg )
+* [ANSYS Tutorials,](https://www.youtube.com/watch?v=VKRGtG_hpig&list=PLQVMpQ7G7XvGz9PUEuO4aZVcjh9UrYZYg )
 
-- [Full MATLAB Tutorial collection,](https://www.youtube.com/watch?v=z-ivYCrom-k&list=PLG4WfqoDFRvkPdujlErCsGjjvKTfOyF0A )
+* [Full MATLAB Tutorial collection,](https://www.youtube.com/watch?v=z-ivYCrom-k&list=PLG4WfqoDFRvkPdujlErCsGjjvKTfOyF0A )
 
-- [ANSYS e-Learning Series - Structural Topics,](https://www.youtube.com/watch?v=xJYCbrYRbf8&list=PLfCzEd_HA_LZsbMB8ve2nv2Unz2ajcq02 )
+* [ANSYS e-Learning Series - Structural Topics,](https://www.youtube.com/watch?v=xJYCbrYRbf8&list=PLfCzEd_HA_LZsbMB8ve2nv2Unz2ajcq02 )
 
-- [Probability Primer,](https://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4 )
+* [Probability Primer,](https://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4 )
 
-- [Machine Learning,](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA )
+* [Machine Learning,](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA )
 
-- [Computer Musings - Donald Knuth,](https://www.youtube.com/watch?v=LftaV1XLvrE&list=PLoROMvodv4rNMsVRnSJ44WuwbminUqXX2 )
+* [Computer Musings - Donald Knuth,](https://www.youtube.com/watch?v=LftaV1XLvrE&list=PLoROMvodv4rNMsVRnSJ44WuwbminUqXX2 )
