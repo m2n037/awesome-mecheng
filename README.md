@@ -169,12 +169,69 @@ I got inspiration from the countless awesome lists in github.
 
 ## Thermal Engineering
 ### Thermodynamics
+* [NASA's Introductory Thermodynamics Notes](https://www.grc.nasa.gov/www/k-12/airplane/thermo.html)
+* [MIT OpenCourseWare: Thermodynamics & Kinematics Lecture Series](https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/)
+* [Wikibooks: Engineering Thermodynamics](https://en.wikibooks.org/wiki/Engineering_Thermodynamics)
+* Moran, Michael J., Shapiro, Howard N.  *Fundamentals of Engineering Thermodynamics*.  5th Edition.  John Wiley & Sons.  Hoboken, NJ.  2004.  ISBN: 978-0471274711.
+```
+@book{Moran2004,
+    title     = {{Fundamentals of Engineering Thermodynamics}},
+    author    = {Michael J. Moran and Howard N. Shapiro},
+    edition   = {5},
+    publisher = {John Wiley & Sons},
+    address   = {Hoboken, NJ},
+    year      = {2004},
+    ISBN      = {978-0471274711}
+}
+```
 * Thermodynamics: An Engineering Approach by Yunus A. Cengel, Michael A. Boles
 
 ### Heat Transfer
-
+* [MIT OpenCourseWare: Introduction to Heat Transfer](https://ocw.mit.edu/courses/mechanical-engineering/2-051-introduction-to-heat-transfer-fall-2015/)
+* [Wikibooks: Heat Transfer](https://en.wikibooks.org/wiki/Heat_Transfer)
+* Incropera, Frank P., DeWitt, David P.  *Fundamentals of Heat and Mass Transfer*.  5th Edition.  John Wiley & Sons.  Hoboken, NJ.  2002.  ISBN: 978-0471386506.
+```
+@book{Incropera2002,
+    title     = {{Fundamentals of Heat and Mass Transfer}},
+    author    = {Frank P. Incropera and David P. DeWitt},
+    edition   = {5},
+    publisher = {John Wiley & Sons},
+    address   = {Hoboken, NJ},
+    year      = {2002},
+    ISBN      = {978-0471386506}
+}
+```
 ### Fluid Mechanics
-
+* [NASA's Basic Fluid Mechanics Notes](https://www.grc.nasa.gov/www/k-12/airplane/mass.html)
+* [MIT OpenCourseWare: Fluid Dynamics](https://ocw.mit.edu/courses/mechanical-engineering/2-06-fluid-dynamics-spring-2013/)
+* [Wikibooks: Fluid Mechanics](https://en.wikibooks.org/wiki/Fluid_Mechanics)
+* Thermophysical properties of water and steam: [International Association for the Properties of Water and Steam](http://iapws.org/relguide/IAPWS-95.html)
+* Munson, Bruce R., Young, Donald F., Okiishi, Theodore H.  *Fundamentals of Fluid Mechanics*.  4th Edition.  John Wiley & Sons.  Hoboken, NJ.  2001.  ISBN: 978-0471442509.
+```
+@book{Munson2001,
+    title     = {{Fundamentals of Fluid Mechanics}},
+    author    = {Bruce R. Munson and Donald F. Young and Theodore H. Okiishi},
+    edition   = {4},
+    publisher = {John Wiley & Sons},
+    address   = {Hoboken, NJ},
+    year      = {2004},
+    ISBN      = {978-0471442509}
+}
+```
+### Gas Dynamics
+* [NASA's Compressible Fluids/Aerodynamics Notes](https://www.grc.nasa.gov/www/k-12/airplane/shortc.html)
+* Anderson, John D.  *Modern Compressible Flow: With Historical Perspective*.  3rd Edition.  McGraw-Hill.  New York, NY.  2003.  ISBN: 978-0072424430.
+```
+@book{Anderson2003,
+    title     = {{Modern Compressible Flow: With Historical Perspective}},
+    author    = {John D. Anderson, Jr.},
+    edition   = {3},
+    publisher = {McGraw-Hill},
+    address   = {New York, NY},
+    year      = {2003},
+    ISBN      = {978-0072424430}
+}
+```
 ---
 
 ## Manufacturing
