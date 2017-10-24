@@ -1,8 +1,51 @@
-* [LAFF Numerical Linear Algebra (Fall 2014) ](https://www.youtube.com/watch?v=UYfEMVNYYFU&list=PLiVOwJ-acxpc1_wqs7s2cVnYF6UeixEjg)
+# YouTube Playlists
 
+## Engineering
+### Units and Measurements
+### Material Properties
+
+## Mathematics and Programming
+### Applied Mathematics
+#### Linear Algebra
+* [LAFF Numerical Linear Algebra (Fall 2014) ](https://www.youtube.com/watch?v=UYfEMVNYYFU&list=PLiVOwJ-acxpc1_wqs7s2cVnYF6UeixEjg)
+### Programming
+#### Python
+* [Basic Python for Beginners,](https://www.youtube.com/watch?v=rxSyXBq9zq0&list=PLlEgNdBJEO-nQkFDah-gm6UX7CI6rCdB- )
+#### Wordpress
+* [Wordpress Basics](https://www.youtube.com/playlist?list=PLC5E59DD6D84D34DC)
+
+## Mechanics & Theory of Machines
+### Statics and Dynamics
+### Strength of Materials
+### Advanced Strength of Materials/Continuum Mechanics
+### Theory of Machines
+
+## Thermal Engineering
+### Thermodynamics
+### Heat Transfer
+### Fluid Mechanics
+
+## Manufacturing
+### Conventional Manufacturing
+### Non-traditional Machining
+### Additive Machining (Rapid Prototyping, 3D Printing)
+
+## Specialized Fields
+### Robotics
+### Finite Element Analysis
+### Computational Fluid Dynamics
+### Engineering Optimization
+### MEMS/NEMS/Nanotechnology/BioEngineering
+### Machine Learning
+#### Deep Learning
 * [DeepLearningBook,](https://www.youtube.com/watch?v=vi7lACKOUao&list=PLkISDyMVw2Htm42P0eTVEKyz7scxZ4V-O )
 
-* [Basic Python for Beginners,](https://www.youtube.com/watch?v=rxSyXBq9zq0&list=PLlEgNdBJEO-nQkFDah-gm6UX7CI6rCdB- )
+## Software Packages
+### Finite Element Analysis
+### Fatigue Analysis
+### Control Engineering
+### Robotics
+
 
 * [Engineering Mechanics (Statics,](https://www.youtube.com/watch?v=-hMfpDY6WFk&list=PLZOZfX_TaWAEzhyvNT1e9jbmTt4Eqo8C0 )
 
@@ -1316,398 +1359,4 @@
 
 * [Machine Learning Course - CS 156,](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A )
 
-* [Linear Algebra Vignettes,](https://www.youtube.com/watch?v=dHigwV6Xljs&list=PLlXfTHzgMRUK3L-agzrAC1mYMX8iflZn1 )
-
-* [Tensor Calculus and the Calculus of Moving Surfaces,](https://www.youtube.com/watch?v=e0eJXttPRZI&list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq )
-
-* [Part 3 Linear Algebra: An In-Depth Introduction with a Focus on Applications,](https://www.youtube.com/watch?v=odV3oJOpE8s&list=PLlXfTHzgMRUIqYrutsFXCOmiqKUgOgGJ5 )
-
-* [Part 2 Linear Algebra: An In-Depth Course with a Focus on Applications,](https://www.youtube.com/watch?v=I04GHpKc-WQ&list=PLlXfTHzgMRULWJYthculb2QWEiZOkwTSU )
-
-* [Part 1 Linear Algebra: An In-Depth Introduction with a Focus on Applications,](https://www.youtube.com/watch?v=Fnfh8jNqBlg&list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv )
-
-* [Statistical Rethinking Winter 2015,](https://www.youtube.com/watch?v=WFv2vS8ESkk&list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z )
-
-* [Mechanical - Engineering Fracture Mechanics,](https://www.youtube.com/watch?v=-eBRqhfdGrU&list=PLA218B83235A4AD5C )
-
-* [HyperMesh & Optistruct Solved Tutorials AOC-2016 Contest,](https://www.youtube.com/watch?v=85nV-Wmokmg&list=PL1u26y75SCrBpe7SWbMEgOe0Ty3O7gPGS )
-
-* [Optistruct for Optimization AOC-2016 Contest,](https://www.youtube.com/watch?v=p6YtfVsPzTw&list=PL1u26y75SCrBHdDPaA2Thry6qwuSu2Uf_ )
-
-* [Optistruct,](https://www.youtube.com/watch?v=6PJeW3cVpsM&list=PLrXG4nKgafb8IWo7q4fTXH5SX4TjsV0Pp )
-
-* [Hyperworks Optistruct Tutorials,](https://www.youtube.com/watch?v=mfpDHfM4svQ&list=PLE4jpqcRJiBpJvHgHDmTZxi0J_RiXAz-6 )
-
-* [HyperWorks Tips & Tricks,](https://www.youtube.com/watch?v=UiZyou8uz6o&list=PLRqUDK2aqvkDi21dCVdT0uJFTzslg67gz )
-
-* [Hypermesh basics,](https://www.youtube.com/watch?v=8euY10iD-9g&list=PLAsvHPJrmoWZNrnXYYLkvV2ElNe2g3zxX )
-
-* [Hypermesh Tutorial,](https://www.youtube.com/watch?v=BueeQiwc0JY&list=PL86AF55AB0D9AA70C )
-
-* [Hypermesh,](https://www.youtube.com/watch?v=8euY10iD-9g&list=PLvVR-5zpzf0HQVpv3gs58U620ekf--IsJ )
-
-* [ANSA Tutorials - How To Guides,](https://www.youtube.com/watch?v=jI-zUgn3zT4&list=PL4Kh_GLK2cUd2NdRPHfL_tn1ScXU5cwKc )
-
-* [30 Days to Learn HTML & CSS (Full Course),](https://www.youtube.com/watch?v=yTHTo28hwTQ&list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F )
-
-* [ Richard Hamming: ""Learning to Learn""",](https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30 )
-
-* [Prealgebra (Full Length Videos),](https://www.youtube.com/watch?v=cC7n_ZyVUns&list=PL4C9296DF81B9EF13 )
-
-* [Intermediate Algebra (Full Length Videos),](https://www.youtube.com/watch?v=0EnklHkVKXI&list=PLC292123722B1B450 )
-
-* [Statistics (Full Length Videos),](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0 )
-
-* [Calculus 3 (Full Length Videos),](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7 )
-
-* [Calculus 2 (Full Length Videos),](https://www.youtube.com/watch?v=H9eCT6f_Ftw&list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw- )
-
-* [Calculus 1 (Full Length Videos),](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5 )
-
-* [Inkscape - basics of game art creation,](https://www.youtube.com/watch?v=caCxR7Kl3iw&list=PLEuVieGawK9RWYoLci3myIuabFAg6_WTs )
-
-* [Inkscape - creating seamless patterns,](https://www.youtube.com/watch?v=mOflL7B-fOw&list=PLEuVieGawK9T5sRr38BRW7t8aHDgC-Y2O )
-
-* [Python Tutorial,](https://www.youtube.com/watch?v=fdv1NlEZWro&list=PL3072C720775B213E )
-
-* [Inkscape Video Tutorial,](https://www.youtube.com/watch?v=zUIOEXssTSE&list=PLGLfVvz_LVvTSi9bKrvGR2_DBg0Tv8Dxo )
-
-* [Learn in One Video,](https://www.youtube.com/watch?v=Rub-JsjMhWY&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY )
-
-* [Machine Learning Recipes with Josh Gordon,](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal )
-
-* [Learn R by Intensive Practice,](https://www.youtube.com/watch?v=p3i7Kz6C_-4&list=PLFAYD0dt5xCwDNFdrqeNoU9t-nhAWkbKe )
-
-* [Intro to Data Science,](https://www.youtube.com/watch?v=Cgm3r-G0cMQ&list=PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x )
-
-* [Data Analysis with R,](https://www.youtube.com/watch?v=YbVuN2KOlt4&list=PLAwxTw4SYaPlSFCDRaseIGGxlGn81Adjs )
-
-* [Intro to Machine Learning,](https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH )
-
-* [How to Use Git and GitHub,](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p )
-
-* [Javascript Basics,](https://www.youtube.com/watch?v=ODgLHqCAJTw&list=PLAwxTw4SYaPmtf5v3hefG5seVynUtV9T8 )
-
-* [Intro to HTML and CSS,](https://www.youtube.com/watch?v=1cZtdKNB9jo&list=PLAwxTw4SYaPmd5v7c9i883AwqVZquegHM )
-
-* [Computability,](https://www.youtube.com/watch?v=0OuLdNq3ONo&list=PLAwxTw4SYaPkbWSEj_1iO7rILlWDJImW4 )
-
-* [Computability,](https://www.youtube.com/watch?v=tCs87wwHIyI&list=PLAwxTw4SYaPmdtCSyH7lMfm75KSpWMj8K )
-
-* [Computability,](https://www.youtube.com/watch?v=1PVt-iZBIto&list=PLAwxTw4SYaPnOLuiqtLyKu08FyKdX7Dut )
-
-* [MIT Python Course,](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL57FCE46F714A03BC )
-
-* [Learn Python: CodeCademy,](https://www.youtube.com/watch?v=Ubtld2PGUhk&list=PLHdCowjFIBmI1UV60W1TVa7l91Psnw73E )
-
-* [Google Python Class - ALL,](https://www.youtube.com/watch?v=tKTZoB2Vjuk&list=PLC8825D0450647509 )
-
-* [Python 3.4 Programming Tutorials,](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_ )
-
-* [The Complete Visual Guide to Sublime Text 3,](https://www.youtube.com/watch?v=Sxkrp9iTgZ8&list=PLIM28v8sWGUcz6LKXlxTn0m1OFCKarKM- )
-
-* [Survival Vim,](https://www.youtube.com/watch?v=sKLit8FwTCg&list=PLGBpqdBGSRhEUi1Q3wUou7xtlTHkWefyl )
-
-* [Statistics 110: Probability,](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo )
-
-* [MIT 18.086 Mathematical Methods for Engineers II,](https://www.youtube.com/watch?v=gv-AB35V2k8&list=PL3A13781649466805 )
-
-* [MIT 6.001 Structure and Interpretation,](https://www.youtube.com/watch?v=2Op3QLzMgSY&list=PLE18841CABEA24090 )
-
-* [MIT 18.06 Linear Algebra,](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8 )
-
-* [MIT Calculus Revisited: Single Variable Calculus,](https://www.youtube.com/watch?v=MFRWDuduuSw&list=PL3B08AE665AB9002A )
-
-* [MIT 18.01 Single Variable Calculus,](https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1 )
-
-* [MIT 6.01SC Introduction to EECS I,](https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PL9B24A6A9D5754E70 )
-
-* [MIT 18.085 Computational Science & Engineering I,](https://www.youtube.com/watch?v=CgfkEUOFAj0&list=PLF706B428FB7BD52C )
-
-* [MIT RES.6.007 Signals and Systems,](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B )
-
-* [MIT 18.03SC Differential Equations,](https://www.youtube.com/watch?v=76WdBlGpxVw&list=PL64BDFBDA2AF24F7E )
-
-* [MIT 6.042J Mathematics for Computer Science,](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B )
-
-* [MIT Calculus Revisited: Calculus of Complex Variables,](https://www.youtube.com/watch?v=BOx8LRyr8mU&list=PLD971E94905A70448 )
-
-* [MIT Calculus Revisited: Multivariable Calculus,](https://www.youtube.com/watch?v=wsOoClvZmic&list=PL1C22D4DED943EF7B )
-
-* [MIT 18.03 Differential Equations,](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980 )
-
-* [MIT 6.006 Introduction to Algorithms,](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb )
-
-* [MIT 2.003SC Engineering Dynamics,](https://www.youtube.com/watch?v=GUvoVvXwoOQ&list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC )
-
-* [MIT 3.021J Introduction to Modeling and Simulation,](https://www.youtube.com/watch?v=d3ChB1tDMyI&list=PLUl4u3cNGP63eWjy1orBicyAXrunfs2jT )
-
-* [MIT 2.003J Dynamics and Control I,](https://www.youtube.com/watch?v=K_6tRupDxF4&list=PLUl4u3cNGP625kC6m4A452AAK35yvDXha )
-
-* [MIT 6.041SC Probabilistic Systems Analysis and Applied Probability,](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe )
-
-* [MIT 9.04 Sensory Systems,](https://www.youtube.com/watch?v=g1ka1MXpo3s&list=PLUl4u3cNGP63Wy1oqQW2oD2HBdDSY8Ghi )
-
-* [MIT 2.087 Engineering Mathematics: Linear Algebra and ODEs,](https://www.youtube.com/watch?v=4X0SGGrXDiI&list=PLUl4u3cNGP63w3DE9izYp_3fpAdi0Wkga )
-
-* [MIT 6.046J Design and Analysis of Algorithms,](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp )
-
-* [Celebrating Marvin Minsky,](https://www.youtube.com/watch?v=8EY4PoWrXpY&list=PLj62-wQeg_DhYOt0gcMmlBsXaxrioJr-e )
-
-* [Unix terminals and shells,](https://www.youtube.com/watch?v=07Q9oqNLXB4&list=PLFAC320731F539902 )
-
-* [Command Line Power User,](https://www.youtube.com/watch?v=rl7PzPAZDyY&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf )
-
-* [Sublime Text Tutorial,](https://www.youtube.com/watch?v=SVkR1ZkNusI&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK )
-
-* [Sublime Text 2 tutorial,](https://www.youtube.com/watch?v=5AV9zJH2n_Y&list=PLmJpVU-TdmVtTLooKvX3jcrOziPjlWrD4 )
-
-* [EuroSciPy 2014,](https://www.youtube.com/watch?v=DObmPAtuNw0&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi )
-
-* [Graduate Artificial Intelligence - Zico Kolter - CMU,](https://www.youtube.com/watch?v=p0Piq03ZKTw&list=PLOxR6w3fIHWyOa1Guwjl-oNNfvZ4yQUuD )
-
-* [Machine Learning Summer School 2013 Tübingen,](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E )
-
-* [SLAM Course - WS13/14,](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_ )
-
-* [Machine Learning for Computer Vision,](https://www.youtube.com/watch?v=QZmZFeZxEKI&list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl )
-
-* [Lecture: Variational Methods for Computer Vision (Prof. D. Cremers),](https://www.youtube.com/watch?v=fpw26tpHGr8&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI )
-
-* [MOOC: Autonomous Navigation for Flying Robots (EdX course),](https://www.youtube.com/watch?v=YT8pnN8lwxA&list=PLTBdjV_4f-EKBCUs1HmMtsnXv4JUoFrzg )
-
-* [Lecture: Visual Navigation for Flying Robots,](https://www.youtube.com/watch?v=f5khDPUMYmQ&list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha )
-
-* [Simple Ros Tutorials,](https://www.youtube.com/watch?v=HVQ4ckfKcK4&list=PLPOGg2XAz18G685Dkn-0PmsecGvVg3RWJ )
-
-* [ROS Tutorial (Robot Operating System),](https://www.youtube.com/watch?v=9IJDmd0DGe0&list=PL304B5A-5ithiiSxX2YOJRvWlBqZQe_pK )
-
-* [ACM Learning Webinars,](https://www.youtube.com/watch?v=rHYq1Git6U8&list=PLn0nrSd4xjjZa4KDqFBCMOnk52CItWqyU )
-
-* [SIGGRAPH University,](https://www.youtube.com/watch?v=KJv1N8akoUs&list=PLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy )
-
-* [C++ 14 Tutorials,](https://www.youtube.com/watch?v=Kb4wpbcXaUw&list=PLYxzS__5yYQkcMuLFihmFoFWUd06uCBBM )
-
-* [C Video Tutorial,](https://www.youtube.com/watch?v=8Ib7nwc33uA&list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7 )
-
-* [Sublime Text Tutorials,](https://www.youtube.com/watch?v=k01udDD-UwI&list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP )
-
-* [Command Line Basics,](https://www.youtube.com/watch?v=yreJBmV4_6c&list=PLLnpHn493BHGmEYzbjWPJsnRMhvs-PSYG )
-
-* [Making Sublime Awesome,](https://www.youtube.com/watch?v=CDw_NRuOqEQ&list=PLfdtiltiRHWEuNHKuIheLV8efTxDm3EII )
-
-* [Sublime Text,](https://www.youtube.com/watch?v=izk7yzcb-rE&list=PL95C08DF910D1B62C )
-
-* [GitHub for Noobs,](https://www.youtube.com/watch?v=1h9_cB9mPT8&list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw )
-
-* [Intro to R,](https://www.youtube.com/watch?v=iffR3fWv4xw&list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP )
-
-* [Totally Tooling Tips,](https://www.youtube.com/watch?v=6LQJtH90-aA&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ )
-
-* [Introduction to Robotics,](https://www.youtube.com/watch?v=QdHO_9M8-UI&list=PLJafQ8U0gQVXkQJLtIY-FvhreZEU6JliN )
-
-* [Monte Carlo Simulation with Python,](https://www.youtube.com/watch?v=9M_KPXwnrlE&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0 )
-
-* [3D Graphing with Matplotlib,](https://www.youtube.com/watch?v=ZlpFQNVhB7I&list=PLQVvvaa0QuDe60TfxLrJzdQEacMEItxl- )
-
-* [Graphing in Matplotlib (chart generation) in Python,](https://www.youtube.com/watch?v=wAwQ-noyB98&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1 )
-
-* [Live Matplotlib Graphs,](https://www.youtube.com/watch?v=ge6DAaJ-leM&list=PLQVvvaa0QuDdZO64qRXReimsOIogR-nLT )
-
-* [OpenCV with Python for Image and Video Analysis,](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq )
-
-* [C Programming Tutorials,](https://www.youtube.com/watch?v=iXEw_0hlM9A&list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P )
-
-* [Python Programming Tutorials,](https://www.youtube.com/watch?v=GE3IHS1wAZI&list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR )
-
-* [R Programming Language - Practice Exercises,](https://www.youtube.com/watch?v=qibju4XJZ_U&list=PLFAYD0dt5xCzHFjE45hiWj9yDuo-RwaFO )
-
-* [Power Shell,](https://www.youtube.com/watch?v=q3GW24HVKYI&list=PLZDgss2aFWnhvQaLk9g4koelknHf1O2he )
-
-* [Git,](https://www.youtube.com/watch?v=OFkgSjRnay4&list=PLZDgss2aFWnhfHtV9j5oKM6uR0yhQ7eaO )
-
-* [Learn Batch File Programming,](https://www.youtube.com/watch?v=WxUTfpREE0g&list=PLZDgss2aFWnglo8EyPjbPl6Bys-cfVGwD )
-
-* [Batch Programming,](https://www.youtube.com/watch?v=7J-dRirlUvY&list=PLZDgss2aFWnj1mKqcufxXvNIwqOL5qzXn )
-
-* [Getting Started with Python Development using Visual Studio,](https://www.youtube.com/watch?v=_okUV47eM5c&list=PLReL099Y5nRdLgGAdrb_YeTdEnd23s6Ff )
-
-* [Microsoft® Excel® 2010 Step by Step Videos,](https://www.youtube.com/watch?v=r-M_gy82qVU&list=PLBB8F203F33525925 )
-
-* [Microsoft® Word 2010 Step by Step Courses Videos,](https://www.youtube.com/watch?v=cO5ENzF_VrE&list=PLEC59ED056A5F1C58 )
-
-* [Core Science - Numerical Methods and Programing,](https://www.youtube.com/watch?v=zjyR9e-N1D4&list=PLCA944605A8EDE42A )
-
-* [Introduction to Machine Vision,](https://www.youtube.com/watch?v=N_a6IP6KUSE&list=PL1pxneANaikCO1-Z0XTaljLR3SE8tgRXY )
-
-* [MIT 6.832 (Underactuated Robotics) 2015,](https://www.youtube.com/watch?v=2inIBRmDXWk&list=PLnWkMhyDLp1CGlkfJqFBLmTs5Nf2RWWGe )
-
-* [Part 8: Numerical Methods: Partial Differential Equations,](https://www.youtube.com/watch?v=y3dHKNl-q-k&list=PLYdroRCLMg5MLOnfJMyu4nLxtKOD7gGpz )
-
-* [Part 7: Numerical Methods: Ordinary Differential Equations,](https://www.youtube.com/watch?v=bP2Ug7Mm5RE&list=PLYdroRCLMg5PhZqzEJJlyLo55-1Vdd4Bd )
-
-* [Part 6: Numerical Methods: Integration and Differentiation,](https://www.youtube.com/watch?v=GEr3Y1Sda-k&list=PLYdroRCLMg5OvLx1EtY1ByvveJeTEXQd_ )
-
-* [Part 5: Numerical Methods: Curve Fitting,](https://www.youtube.com/watch?v=yQsDxOdn1hk&list=PLYdroRCLMg5NTT00m-7ituVGdtY1X680M )
-
-* [Part 3: Numerical Methods: Linear Algebra,](https://www.youtube.com/watch?v=rsfYOK65zHA&list=PLYdroRCLMg5MgczmIkeY_XVJiJ5LVDFuh )
-
-* [Part 2: Numerical Methods: Roots of Equations,](https://www.youtube.com/watch?v=PXSLcEGkXkU&list=PLYdroRCLMg5OqW6VJsdJi4K2j_yLWNHKY )
-
-* [Part 1: Numerical Methods: Modeling & Error,](https://www.youtube.com/watch?v=KjBCjVAobVs&list=PLYdroRCLMg5O-SZZL8kqFkcjWllPVpmXc )
-
-* [CS50 Lectures 2015,](https://www.youtube.com/watch?v=zFenJJtAEzE&list=PLhQjrBD2T383Xfn0zECHrOTpfOSlptPAB )
-
-* [Summer 2012,](https://www.youtube.com/watch?v=REnObjZ4QcQ&list=PL2puWTN1tf6LPXcpXx3WDcBMhcFM8sW2O )
-
-* [COMP300E - Programming Challenges - 2009 HKUST,](https://www.youtube.com/watch?v=3dkbFf82_b8&list=PL07B3F10B48592010 )
-
-* [MIT 6.00SC Introduction to Computer Science and Programming,](https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7 )
-
-* [Finite Elements Simulations by ABAQUS,](https://www.youtube.com/watch?v=JlTfeRy0CCw&list=PLOv4wCzYv3nrRNwH9v3iAn1t3658PpPtL )
-
-* [Robotics Institute Seminar Series,](https://www.youtube.com/watch?v=t2OSqw6uXHc&list=PLCFD85BC79FE703DF )
-
-* [Dynamic Walking 2013 Conference,](https://www.youtube.com/watch?v=UOtsEo3AtzE&list=PLVqaARCrz-m9aFEsen8fkW4ZjdaFqRoGL )
-
-* [Robotics & Machine Vision Toolbox videos,](https://www.youtube.com/watch?v=ImPBVQJRSwY&list=PLF58C18380E9B356F )
-
-* [Theory videos for Introduction to Robotics ENB339,](https://www.youtube.com/watch?v=I7Xvchh0L_4&list=PLB46C8B9857C32201 )
-
-* [Ted Talks: Robotics,](https://www.youtube.com/watch?v=V_LurJfOSiA&list=PL2ssQ-r2WERA8Lb92xVhmsxbn6TATGwpw )
-
-* [MIT 6.832 Underactuated Robotics,](https://www.youtube.com/watch?v=Z8oMbOj9IWM&list=PL58F1D0056F04CF8C )
-
-* [ROSCon 2013,](https://www.youtube.com/watch?v=ZE74D91QLwc&list=PL-hltDQ7qfyW1KAPf8T091NjH9FiGXPht )
-
-* [ROSCon 2015,](https://www.youtube.com/watch?v=30MQkuKFUys&list=PL-hltDQ7qfyXhLcfRqLcXWrTLkvUR3GdR )
-
-* [ROSCon 2014,](https://www.youtube.com/watch?v=viXbPu3ievo&list=PL-hltDQ7qfyXtCO9SYTIwVyhAkAQO5Tna )
-
-* [ROSCon 2012,](https://www.youtube.com/watch?v=1vKv7qXOpBc&list=PL-hltDQ7qfyUb9vEixcafWRBd7VevMAfT )
-
-* [ROS Video Tutorials,](https://www.youtube.com/watch?v=_WyuAZ1SuTI&list=PL3064BF19A4F4CD1F )
-
-* [ROS Tutorial (Robot Operating System),](https://www.youtube.com/watch?v=9IJDmd0DGe0&list=PLDC89965A56E6A8D6 )
-
-* [Erle Robotics - Learning ROS,](https://www.youtube.com/watch?v=d5YAJh6Z2B0&list=PL39WpgKDjDfVfiNVG47DBi93wsh2XHKVO )
-
-* [Erle Robotics - Gazebo simulation,](https://www.youtube.com/watch?v=2HN-W8qLb6g&list=PL39WpgKDjDfU9bmeoYeoUkeGk8VLKxSBq )
-
-* [Software Carpentry - SciPy2015 - Bash,](https://www.youtube.com/watch?v=LqKS_TFxjTY&list=PL3eYwc6vt-hLcGGF2ROvzr4BZ-KiBAB23 )
-
-* [The UNIX shell - Software Carpentry,](https://www.youtube.com/watch?v=U3iNcBtycaQ&list=PLUQy4zfrctjH-FsjpIZDZ0NBznvF4FdNP )
-
-* [SciPy 2015 - Software Carpentry Scientific Python Course,](https://www.youtube.com/watch?v=hAHJ0xGKMBk&list=PLKv_-MzOukpR7pK9wzP9fwsGCOGk-XW_C )
-
-* [Scikit-learn Machine Learning with Python and SKlearn,](https://www.youtube.com/watch?v=URTZ2jKCgBc&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3 )
-
-* [Customizing Matplotlib Graphs and Charts,](https://www.youtube.com/watch?v=u6Xd3kRHhJI&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ )
-
-* [Matplotlib Tutorial Series - Graphing in Python,](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF )
-
-* [Shell Scripting Tutorials,](https://www.youtube.com/watch?v=nVt3Rst-2H8&list=PL7B7FA4E693D8E790 )
-
-* [Introduction to Programming using Python,](https://www.youtube.com/watch?v=uzSrnySaSQI&list=PL0845FEB57E5894C2 )
-
-* [Introduction to Computer Science,](https://www.youtube.com/watch?v=9nkR2LLPiYo&list=PLAwxTw4SYaPmjFQ2w9j05WDX8Jtg5RXWW )
-
-* [Differential Equations in Action,](https://www.youtube.com/watch?v=8cLXVG2Q6D4&list=PLAwxTw4SYaPlT4WYwf_SzNA9FV0qpGE5A )
-
-* [Intro Algebra Review,](https://www.youtube.com/watch?v=OyK86reBnJE&list=PLAwxTw4SYaPnliQD_WPvjTZcE9fOJER9W )
-
-* [Visualizing Algebra,](https://www.youtube.com/watch?v=f_NzMzX4FFo&list=PLAwxTw4SYaPlSLRIPSeloeFkkwEnnl6d4 )
-
-* [College Algebra,](https://www.youtube.com/watch?v=vNRtAKV_h-g&list=PLAwxTw4SYaPnJnimTSBr-6Q_xX-P-PwvF )
-
-* [Artificial Intelligence for Robotics,](https://www.youtube.com/watch?v=Uqt_pRbR8rI&list=PLAwxTw4SYaPkCSYXw6-a_aAoXVKLDwnHK )
-
-* [Machine Learning:Reinforcement Learning - Part 3 of 3,](https://www.youtube.com/watch?v=_ocNerSvh5Y&list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp )
-
-* [Machine Learning:Unsupervised Learning Part 2 of 3,](https://www.youtube.com/watch?v=ZIuXdAOhiEg&list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7 )
-
-* [Machine Learning - Supervised Learning Part 1b of 3,](https://www.youtube.com/watch?v=5yzSv4jYMyI&list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O )
-
-* [Machine Learning:Supervised Learning Part 1a of 3,](https://www.youtube.com/watch?v=Ki2iHgKxRBo&list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo )
-
-* [Automate the Boring Stuff with Python,](https://www.youtube.com/watch?v=1F_OgqRuSdI&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW )
-
-* [Programming Foundations with Python,](https://www.youtube.com/watch?v=X0FoelOIZM0&list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW )
-
-* [Python Programming Tutorials,](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA )
-
-* [UCF Computer Vision Video Lectures 2012,](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm )
-
-* [Make: Inventions,](https://www.youtube.com/watch?v=edeLOgkXno4&list=PLwhkA66li5vBikE8RFzHz9zvZbfsKcwmh )
-
-* [Dynamic Analysis of Roll Cage,](https://www.youtube.com/watch?v=tapWpLxOvYg&list=PLJRDa46CU8JIch9nYk54DzrcyoRJgkQDl )
-
-* [SAEINDIA BAJA 2016 Online Training Session,](https://www.youtube.com/watch?v=udeRH86M6DY&list=PLJRDa46CU8JKZyLbEOxuACCbHi0_jk03X )
-
-* [SUPRA SAE India 2016 Pre-virtual online Training Session,](https://www.youtube.com/watch?v=vBtCAkJn1W8&list=PLJRDa46CU8JLDsfzy0ZB06KLeIBKVi6Aw )
-
-* [Formula Student India Online Training Series,](https://www.youtube.com/watch?v=vPHcr96Sztw&list=PLJRDa46CU8JLaBjaiwbePkUKJeSqQyA-P )
-
-* [BAJA Student India Online Training Series,](https://www.youtube.com/watch?v=69EB1sYt624&list=PLJRDa46CU8JLLiGpLtlhkMSMDjTVzW_1r )
-
-* [Altair HyperWorks Online Training series - Meshing,](https://www.youtube.com/watch?v=8euY10iD-9g&list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ )
-
-* [NASA Fastener Design Course,](https://www.youtube.com/watch?v=D6zaVhQkwnY&list=PL-JRZM8KyQ_66_S3NFHg97wXhfaRghuM5 )
-
-* [MIT 6.034 Artificial Intelligence,](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi )
-
-* [NX CAD Quick Tips,](https://www.youtube.com/watch?v=_OhBZJaUQYM&list=PL1m1vu8_quoDWpA9-_MFw1xpCQMjwICp5 )
-
-* [Siemens NX Solutions,](https://www.youtube.com/watch?v=OsNV7EPxhmc&list=PLxjT0tvxdxbkegHslevjc2hyIHEKyOt1R )
-
-* [OneNote 2013 Tutorial Teachucomp,](https://www.youtube.com/watch?v=O3oobWAa6Ow&list=PLLKylDijudXTDGsASd0HchHtN_LGei2Od )
-
-* [OneNote Training,](https://www.youtube.com/watch?v=LKz8wEEhSwA&list=PLXPr7gfUMmKzWVahN8n_hbpaKSi8OhYxF )
-
-* [STATS 250 Introduction to Statistics and Data Analysis,](https://www.youtube.com/watch?v=NEEneOjBYR0&list=PL432AB57AF9F43D4F )
-
-* [Introduction to Finite Element Methods,](https://www.youtube.com/watch?v=U65GK1vVw4o&list=PLJhG_d-Sp_JHKVRhfTgDqbic_4MHpltXZ )
-
-* [Data Science Training Videos,](https://www.youtube.com/watch?v=S-T2-ir6TPA&list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX )
-
-* [Learn C programming,](https://www.youtube.com/watch?v=SGvc-NC0hQo&list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9 )
-
-* [Python Tutorial Videos,](https://www.youtube.com/watch?v=N0lxfilGfak&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu )
-
-* [Advanced Predictive Modelling in R Tutorial Videos,](https://www.youtube.com/watch?v=ThyJ8siKs4o&list=PL9ooVrP1hQOHzmrfK-baAi5GgKfaqY3og )
-
-* [Statistics with R: Courtney Brown,](https://www.youtube.com/watch?v=2-kw1MlOS1U&list=PL7mT7MDlWGhXS54yIGEjmck7Rmqp_WBBR )
-
-* [Google Developers R Programming,](https://www.youtube.com/watch?v=iffR3fWv4xw&list=PLyYlLs02rgBYRWBzYpoHz7m2SE8mEZ68w )
-
-* [Intro to Data Science with R,](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF )
-
-* [R Tutorials for Non-Programmer Datascientists - Full Course,](https://www.youtube.com/watch?v=tCjns0EpAo8&list=PLFAYD0dt5xCzTQHDhMPZwBoaAXWeVhZzg )
-
-* [C++ Tutorial for Beginners,](https://www.youtube.com/watch?v=1MKhigIml3E&list=PLmpc3xvYSk4wDCP5zjt2QQXe8-JGHa4Kt )
-
-* [ANSYS | Workbench | Classic | Multiphysics | Examples | Tutorial |,](https://www.youtube.com/watch?v=DK6E1Ck1LAU&list=PLOahOE6DpL4qojPO7_GkgkVC-cB8KFMeC )
-
-* [ANSYS Workbench Tutorial Video Lessons & Training for Beginners and Professionals | GRS |,](https://www.youtube.com/watch?v=FIi9_8eFTTg&list=PLOahOE6DpL4qq_QxPHieAeVejzDP1yIYW )
-
-* [2011 Research Tools Screencasts,](https://www.youtube.com/watch?v=16Rd46SE-20&list=PL7E11B34616530F5E )
-
-* [Early Mathematics,](https://www.youtube.com/watch?v=ojvdPjMhnKI&list=PL2601EEB8114DC8D7 )
-
-* [Frontiers of Biomedical Engineering with W. Mark Saltzman,](https://www.youtube.com/watch?v=Sn0bOX5Hau4&list=PL27E877E8206F196B )
-
-* [Fundamentals of Physics with Ramamurti Shankar,](https://www.youtube.com/watch?v=KOKnWaLiL8w&list=PLFE3074A4CB751B2B )
-
-* [Fundamentals of Physics II with Ramamurti Shankar,](https://www.youtube.com/watch?v=NK-BxowMIfg&list=PLD07B2225BB40E582 )
-
-* [ANSYS Tutorials,](https://www.youtube.com/watch?v=VKRGtG_hpig&list=PLQVMpQ7G7XvGz9PUEuO4aZVcjh9UrYZYg )
-
-* [Full MATLAB Tutorial collection,](https://www.youtube.com/watch?v=z-ivYCrom-k&list=PLG4WfqoDFRvkPdujlErCsGjjvKTfOyF0A )
-
-* [ANSYS e-Learning Series - Structural Topics,](https://www.youtube.com/watch?v=xJYCbrYRbf8&list=PLfCzEd_HA_LZsbMB8ve2nv2Unz2ajcq02 )
-
-* [Probability Primer,](https://www.youtube.com/watch?v=Tk4ubu7BlSk&list=PL17567A1A3F5DB5E4 )
-
-* [Machine Learning,](https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA )
-
-* [Computer Musings - Donald Knuth,](https://www.youtube.com/watch?v=LftaV1XLvrE&list=PLoROMvodv4rNMsVRnSJ44WuwbminUqXX2 )
+* [Linear Algebra Vignettes,](https://www.youtube.com/watch?v=dHigwV6Xljs&list=PLlXfTHzgMRUK3L
