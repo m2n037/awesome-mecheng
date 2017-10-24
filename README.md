@@ -8,6 +8,8 @@ Check the [contributions guideline](https://github.com/m2n037/awesome-mecheng/bl
 
 Discuss this list in [Hacker News](https://news.ycombinator.com/item?id=15337556)
 
+Discuss this list in [Reddit r/engineering](https://redd.it/78dqn5) - *500+ upvotes*
+
 Licensed under [GNU General Public License v3.0](https://github.com/m2n037/awesome-mecheng/blob/master/LICENSE.MD)
 
 ---
