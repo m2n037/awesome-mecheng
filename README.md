@@ -71,7 +71,6 @@ I got inspiration from the countless awesome lists in github.
 * [Survival guide for mechanical engineers on the journey to create astonishing engineering](https://nutsandbolts.quora.com/Survival-guide-for-mechanical-engineers-on-the-journey-to-create-astonishing-engineering)
  _This was not written by me. An anonymous user wrote this in Quora and later deleted it. I kept an offline copy of the same and then later posted it as I found it awesome_
 * To be added
-*
 
 ---
 
@@ -79,13 +78,11 @@ I got inspiration from the countless awesome lists in github.
 ### Units and measurements
 
 * [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/)
-* 
 * [Creative Problem-Solving and Decision Making](https://www.edx.org/course/creative-problem-solving-decision-making-delftx-tpm1x-0)
 
 ### Material Properties 
 
 * [Mat-Web](http://www.matweb.com/)
-* 
 * [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
 
 ---
@@ -96,20 +93,16 @@ I got inspiration from the countless awesome lists in github.
 * [Numerical Recipes in C, by W.H. Press, B.P. Flannery, S.A. TEukolsky and W.T. Vetterly](http://www.nrbook.com/a/bookcpdf.html) (1992) Free for personal use.
 * [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by G. Cain.
 * [What is it like to understand advanced mathematics?](http://qr.ae/1tpuVn)
-* 
 * [Essentials of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Numerical Methods for PDEs, by Qiqi Wang](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos)
 
 ### Programming
 * [Free programming books](https://github.com/vhf/free-programming-books)
-* 
 
 #### Shell
 
-
 #### C++
 * [Stackoverflow - The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-
 
 #### Python
 * [A Byte of Python](https://python.swaroopch.com/)
@@ -123,9 +116,7 @@ I got inspiration from the countless awesome lists in github.
   * Julia's official learning resources
 * [Learn X in Y minutes, where X=Julia](https://learnxinyminutes.com/docs/julia/)
 
-
 #### Microsoft Excel VBA
-
 
 #### MATLAB
 * [Awesome MATLAB List by](https://github.com/mikecroucher/awesome-MATLAB) [@mikecroucher](https://github.com/mikecroucher/)
@@ -179,9 +170,8 @@ I got inspiration from the countless awesome lists in github.
 ## Thermal Engineering
 ### Thermodynamics
 * Thermodynamics: An Engineering Approach by Yunus A. Cengel, Michael A. Boles
-* 
-### Heat Transfer
 
+### Heat Transfer
 
 ### Fluid Mechanics
 
@@ -192,18 +182,14 @@ I got inspiration from the countless awesome lists in github.
 
 ### Non-traditional Machining
 
-
 ### Additive Machining (Rapid Prototyping, 3D Printing)
-
 
 ---
 
 ## Specialized Fields
 ### Robotics
 * [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux :+1: 
-* 
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
-* 
 
 ### Finite Element Analysis
 * [Finite Element Procedures by KJ Bathe](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf)
@@ -217,6 +203,7 @@ I got inspiration from the countless awesome lists in github.
 ### Engineering Optimization
 
 ### MEMS/NEMS/Nanotechnology/BioEngineering
+
 #### MEMS/NEMS - Micro/Nano Electro Mechanical Systems
 
 #### Nanotechnology
@@ -230,6 +217,7 @@ I got inspiration from the countless awesome lists in github.
 * [deal.II](https://www.dealii.org/) (C++ library)
 * [FEniCS Project](https://fenicsproject.org/) (C++ and Python library)
 * [List of FE packages](https://en.wikipedia.org/wiki/List_of_finite_element_software_packages) (Wikipedia)
+
 #### OpenFoam
 
 #### ANSYS
@@ -244,12 +232,9 @@ I got inspiration from the countless awesome lists in github.
 
 Student/Free version: 
 
-
-
 #### Abaqus
 
 [Student/Free version](https://academy.3ds.com/en/software/abaqus-student-edition): Available, 1000 nodes limit.
-
 
 #### LS Dyna
 
@@ -431,7 +416,6 @@ Student/Free version: Available only for students with limited capability
 
 ### Other Competitions
 * [Elsevier 3D Printing Grand Challenge](http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
-*
 
 ---
 ## Qualifying/Certification Examinations
