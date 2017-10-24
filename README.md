@@ -110,6 +110,8 @@ I got inspiration from the countless awesome lists in github.
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
   * Great cheat sheet format, gives a brief but comprehensive overview of Python
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+  * A great book for getting a handle on writing python scripts
 
 ### Julia
 * [Learning Julia](https://julialang.org/learning/)
