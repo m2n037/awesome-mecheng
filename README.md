@@ -512,13 +512,17 @@ A PE license is probably the most useful certification that a mechanical enginee
 
 GATE or [Graduate Aptitute Test in Engineering](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) is a qualifying examination conducted by a consortium of [Indian Institutes of Technology](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology) and [Indian Institute of Science Bangalore](http://www.iisc.ac.in/). Even though the official reason to conduct GATE is for post-graduate admissions only, PSUs and Govt. research entities often recruit students on the basis of GATE score.
 
-###### Information about the Exam
+#### Information about the Exam
 
-###### Topper's Story or How to Prepare
+#### Topper's Story or How to Prepare
+* [GATE 2015 Topper Interview: Ravi Shankar Mishra AIR 1 in CSE](https://engineering.careers360.com/articles/gate-2015-topper-interview-ravi-shankar-mishra-air-1-in-computer-science-engineering) 
+Although this interview is from a CSE topper, who happens to be a mechanical engineer by education, it shows the power of strategy in clearing an examination like GATE.
 
-###### GATE specific Books
+#### GATE specific Books
+* [GATE yearwise and topicwise solved papers from 2003](https://www.nodia.co.in/gate-previous-year-solved-papers)
 
-###### GATE specific Tutorials/MOOCs
+#### GATE specific Websites
+* [Mechanical - GATE Overflow](http://me.gateoverflow.in/)
 
 ###### PSU & Govt Entities Recruiting Through GATE
 These companies recruit engineering and management trainees using GATE score as qualifier. They are ordered alphabeticallly. Not all of them recruit every year which is indicated by Y/N
