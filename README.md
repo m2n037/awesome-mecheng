@@ -121,6 +121,7 @@ I got inspiration from the countless awesome lists in github.
 * [Learn X in Y minutes, where X=Julia](https://learnxinyminutes.com/docs/julia/)
 
 #### Microsoft Excel VBA
+* [Excel VBA Programming for Dummies](https://michaelaustinfu.files.wordpress.com/2013/03/excel-vba-for-dummies-3rd-edition.pdf)
 
 #### MATLAB
 * [Awesome MATLAB List by](https://github.com/mikecroucher/awesome-MATLAB) [@mikecroucher](https://github.com/mikecroucher/)
