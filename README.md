@@ -132,6 +132,7 @@ I got inspiration from the countless awesome lists in github.
 * [Intro to R for data science - edX Microsoft](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0)
 
 #### Fortran
+* [Introduction to Programming with Fortran 95](https://www.fortrantutorial.com/documents/IntroductionToFTN95.pdf)
 
 ---
 
