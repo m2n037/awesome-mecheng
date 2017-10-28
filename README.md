@@ -158,6 +158,7 @@ I got inspiration from the countless awesome lists in github.
 * Many lecture notes links available [from iMechanica](http://imechanica.org/node/1551)
 * [Applied Mechanics of Solids, A.F.Bower](http://solidmechanics.org/contents.php) (2012)
 	* Online version of the book available also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 400 practice problems and sample FEA code in Maple, Matlab and Fortran.
+* [Continuum Mechanics, B. McGinty](http://www.continuummechanics.org/index.html) (2012)
 
 ### Theory of Machines
 #### Mechanism Design
