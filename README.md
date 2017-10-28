@@ -218,6 +218,7 @@ _This section contains some rules to be followed while adding resources to this 
 * [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired.
 * [Applied Mechanics of Solids, A.F.Bower](http://solidmechanics.org/contents.php) (2012)
 	* Online version of the book available also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 400 practice problems and sample FEA code in Maple, Matlab and Fortran.
+* [Continuum Mechanics, B. McGinty](http://www.continuummechanics.org/index.html)
 ###### Articles
 
 ###### Tutorials/MOOCs/Lectures
