@@ -156,6 +156,8 @@ I got inspiration from the countless awesome lists in github.
 ### Advanced Strength of Materials/Continuum Mechanics
 * [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired.
 * Many lecture notes links available [from iMechanica](http://imechanica.org/node/1551)
+* [Applied Mechanics of Solids, A.F.Bower](http://solidmechanics.org/contents.php) (2012)
+	* Online version of the book available also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 400 practice problems and sample FEA code in Maple, Matlab and Fortran.
 
 ### Theory of Machines
 #### Mechanism Design
