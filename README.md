@@ -1,16 +1,16 @@
 # Awesome Mechanical Engineering Resources
 
-![Banner Image](https://github.com/m2n037/awesome-mecheng/blob/master/img/open-end-wrench-2452245_1920.jpg)
+![Banner Image](../master/img/open-end-wrench-2452245_1920.jpg)
 
 _So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice._
 
-Check the [contributions guideline](https://github.com/m2n037/awesome-mecheng/blob/master/contributions.md)
+Check the [contributions guideline](../master/contributions.md)
 
 Discuss this list in [Hacker News](https://news.ycombinator.com/item?id=15337556)
 
 Discuss this list in [Reddit r/engineering](https://redd.it/78dqn5) - *500+ upvotes*
 
-Licensed under [GNU General Public License v3.0](https://github.com/m2n037/awesome-mecheng/blob/master/LICENSE.MD)
+Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
 ---
 
