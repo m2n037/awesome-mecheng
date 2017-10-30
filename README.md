@@ -1,16 +1,16 @@
 # Awesome Mechanical Engineering Resources
 
-![Banner Image](https://github.com/m2n037/awesome-mecheng/blob/master/img/open-end-wrench-2452245_1920.jpg)
+![Banner Image](../master/img/open-end-wrench-2452245_1920.jpg)
 
 _So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice._
 
-Check the [contributions guideline](https://github.com/m2n037/awesome-mecheng/blob/master/contributions.md)
+Check the [contributions guideline](../master/contributions.md)
 
 Discuss this list in [Hacker News](https://news.ycombinator.com/item?id=15337556)
 
 Discuss this list in [Reddit r/engineering](https://redd.it/78dqn5) - *500+ upvotes*
 
-Licensed under [GNU General Public License v3.0](https://github.com/m2n037/awesome-mecheng/blob/master/LICENSE.MD)
+Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
 ---
 
@@ -156,6 +156,9 @@ I got inspiration from the countless awesome lists in github.
 ### Advanced Strength of Materials/Continuum Mechanics
 * [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired.
 * Many lecture notes links available [from iMechanica](http://imechanica.org/node/1551)
+* [Applied Mechanics of Solids, A.F.Bower](http://solidmechanics.org/contents.php) (2012)
+	* Online version of the book available also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 400 practice problems and sample FEA code in Maple, Matlab and Fortran.
+* [Continuum Mechanics, B. McGinty](http://www.continuummechanics.org/index.html) (2012)
 
 ### Theory of Machines
 #### Mechanism Design
