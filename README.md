@@ -17,55 +17,56 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 Table of Contents
 -----------------
 
-#### [Preamble](#preamble)
+[Preamble](#preamble)
   * To-Do List
   * Overview List
   * Rules and Regulations
   * Advice
 
-#### [Engineering](#engineering)
+[Engineering](#engineering)
   * Units and Measurements
   * Material Properties
 
-#### [Mathematics and Programming](#math)
+[Mathematics and Programming](#math)
   * Applied Mathematics
   * Programming
 
-#### [Mechanics & Theory of Machines](#machine)
+[Mechanics & Theory of Machines](#machine)
   * Statics and Dynamics
   * Strength of Materials
   * Advanced Strength of Materials/Continuum Mechanics
   * Theory of Machines
 
-#### [Thermal Engineering](#thermo)
+[Thermal Engineering](#thermo)
   * Thermodynamics
   * Heat Transfer
   * Fluid Mechanics
 
-#### [Manufacturing](#manufacturing)
+[Manufacturing](#manufacturing)
   * Conventional Manufacturing
   * Non-traditional Machining
   * Additive Machining (Rapid Prototyping, 3D Printing)
 
-#### [Specialized Fields](#special)
+[Specialized Fields](#special)
   * Robotics
   * Finite Element Analysis
   * Computational Fluid Dynamics
   * Engineering Optimization
   * MEMS/NEMS/Nanotechnology/BioEngineering
 
-#### [Software Packages](#software)
+[Software Packages](#software)
   * Finite Element Analysis
   * Fatigue Analysis
   * Control Engineering
   * Robotics
 
-#### [Blogs/Forums for Mechanical Engineers](#blog)
-#### [Useful Websites](#useful)
-#### [Online Calculators](#calculator)
-#### [Top Publication Venues for Different Fields](#publication)
-#### [Competitions for MechE students/enthusiasts](#competition)
-#### [Qualifying/Certification Examinations](#certification)
+[Blogs/Forums for Mechanical Engineers](#blog)
+[Useful Websites](#useful)
+[Online Calculators](#calculator)
+[Top Publication Venues for Different Fields](#publication)
+[Competitions for MechE students/enthusiasts](#competition)
+[Qualifying/Certification Examinations](#certification)
+
 ---
 
 ## Preamble
