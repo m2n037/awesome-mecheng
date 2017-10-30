@@ -61,10 +61,15 @@ Table of Contents
   * Robotics
 
 [Blogs/Forums for Mechanical Engineers](#blog)
+
 [Useful Websites](#useful)
+
 [Online Calculators](#calculator)
+
 [Top Publication Venues for Different Fields](#publication)
+
 [Competitions for MechE students/enthusiasts](#competition)
+
 [Qualifying/Certification Examinations](#certification)
 
 ---
