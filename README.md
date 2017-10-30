@@ -14,56 +14,58 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
 ---
 
-## Table of Contents
-###### Preamble
-* To-Do List
-* Overview List
-* Rules and Regulations
-* Advice
+Table of Contents
+-----------------
 
-###### Engineering
-* Units and Measurements
-* Material Properties
+#### [Preamble](#preamble)
+  * To-Do List
+  * Overview List
+  * Rules and Regulations
+  * Advice
 
-###### Mathematics and Programming
-* Applied Mathematics
-* Programming
+#### [Engineering](#engineering)
+  * Units and Measurements
+  * Material Properties
 
-###### Mechanics & Theory of Machines
-* Statics and Dynamics
-* Strength of Materials
-* Advanced Strength of Materials/Continuum Mechanics
-* Theory of Machines
+#### [Mathematics and Programming](#math)
+  * Applied Mathematics
+  * Programming
 
-###### Thermal Engineering
-* Thermodynamics
-* Heat Transfer
-* Fluid Mechanics
+#### [Mechanics & Theory of Machines](#machine)
+  * Statics and Dynamics
+  * Strength of Materials
+  * Advanced Strength of Materials/Continuum Mechanics
+  * Theory of Machines
 
-###### Manufacturing
-* Conventional Manufacturing
-* Non-traditional Machining
-* Additive Machining (Rapid Prototyping, 3D Printing)
+#### [Thermal Engineering](#thermo)
+  * Thermodynamics
+  * Heat Transfer
+  * Fluid Mechanics
 
-###### Specialized Fields
-* Robotics
-* Finite Element Analysis
-* Computational Fluid Dynamics
-* Engineering Optimization
-* MEMS/NEMS/Nanotechnology/BioEngineering
+#### [Manufacturing](#manufacturing)
+  * Conventional Manufacturing
+  * Non-traditional Machining
+  * Additive Machining (Rapid Prototyping, 3D Printing)
 
-###### Software Packages
-* Finite Element Analysis
-* Fatigue Analysis
-* Control Engineering
-* Robotics
+#### [Specialized Fields](#special)
+  * Robotics
+  * Finite Element Analysis
+  * Computational Fluid Dynamics
+  * Engineering Optimization
+  * MEMS/NEMS/Nanotechnology/BioEngineering
 
-###### Blogs/Forums for Mechanical Engineers
-###### Useful Websites
-###### Online Calculators
-###### Top Publication Venues for Different Fields
-###### Competitions for MechE students/enthusiasts
+#### [Software Packages](#software)
+  * Finite Element Analysis
+  * Fatigue Analysis
+  * Control Engineering
+  * Robotics
 
+#### [Blogs/Forums for Mechanical Engineers](#blog)
+#### [Useful Websites](#useful)
+#### [Online Calculators](#calculator)
+#### [Top Publication Venues for Different Fields](#publication)
+#### [Competitions for MechE students/enthusiasts](#competition)
+#### [Qualifying/Certification Examinations](#certification)
 ---
 
 ## Preamble
@@ -89,7 +91,7 @@ I got inspiration from the countless awesome lists in github.
 
 ---
 
-## Mathematics and Programming
+## <a name="math"></a>Mathematics and Programming
 ### Applied Mathematics
 * [Numerical Anlysis for Engineering, by D.W. Harder and R. Khoury](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/)
 * [Numerical Recipes in C, by W.H. Press, B.P. Flannery, S.A. TEukolsky and W.T. Vetterly](http://www.nrbook.com/a/bookcpdf.html) (1992) Free for personal use.
@@ -137,7 +139,7 @@ I got inspiration from the countless awesome lists in github.
 
 ---
 
-## Mechanics & Theory of Machines
+## <a name="machine"></a>Mechanics & Theory of Machines
 ### Statics and Dynamics
 * [Introduction to Statics and Dynamics (Free PDF)](http://ruina.tam.cornell.edu/Book/)
 * [Bolted Joint Analysis](https://www.mechanicalc.com/reference/bolted-joint-analysis)
@@ -176,7 +178,7 @@ I got inspiration from the countless awesome lists in github.
 
 ---
 
-## Thermal Engineering
+## <a name="thermo"></a>Thermal Engineering
 ### Thermodynamics
 * [NASA's Introductory Thermodynamics Notes](https://www.grc.nasa.gov/www/k-12/airplane/thermo.html)
 * [MIT OpenCourseWare: Thermodynamics & Kinematics Lecture Series](https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/)
@@ -252,7 +254,7 @@ I got inspiration from the countless awesome lists in github.
 
 ---
 
-## Specialized Fields
+## <a name="special"></a>Specialized Fields
 ### Robotics
 * [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux :+1: 
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
@@ -278,7 +280,7 @@ I got inspiration from the countless awesome lists in github.
 
 ---
 
-## Software Packages
+## <a name="software"></a>Software Packages
 ### For Finite Element Analysis
 * [deal.II](https://www.dealii.org/) (C++ library)
 * [FEniCS Project](https://fenicsproject.org/) (C++ and Python library)
@@ -374,7 +376,7 @@ Student/Free version: Available only for students with limited capability
 
 ---
 
-## Blogs/Forums for Mechanical Engineers
+## <a name="blog"></a>Blogs/Forums for Mechanical Engineers
 * [Engineering StackExchange](https://engineering.stackexchange.com/)
 * [iMechanica](https://imechanica.org)
 * [Eng-Tips Forums](http://www.eng-tips.com/threadarea.cfm)
@@ -384,7 +386,7 @@ Student/Free version: Available only for students with limited capability
 
 ---
 
-## Useful Websites
+## <a name="useful"></a>Useful Websites
 
 * [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
 * [McMaster-Carr](https://www.mcmaster.com/)
@@ -418,7 +420,7 @@ Student/Free version: Available only for students with limited capability
    * Animated engines.
 ---
 
-## Online Calculators
+## <a name="calculator"></a>Online Calculators
 
 * [MechaniCalc](https://mechanicalc.com/)
   * provides calculators for mechanical engineers with extensive documentation on methodology used
@@ -430,7 +432,7 @@ Student/Free version: Available only for students with limited capability
 
 ---
 
-## Top Publication Venues for Different Fields
+## <a name="publication"></a>Top Publication Venues for Different Fields
 
 #### General
 
@@ -460,7 +462,7 @@ Student/Free version: Available only for students with limited capability
 
 ---
 
-## Competitions for MechE students/enthusiasts
+## <a name="competition"></a>Competitions for MechE students/enthusiasts
 ### SAE Competitions
 
 #### Altair Contests
@@ -484,7 +486,7 @@ Student/Free version: Available only for students with limited capability
 * [Elsevier 3D Printing Grand Challenge](http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
 
 ---
-## Qualifying/Certification Examinations
+## <a name="certification"></a>Qualifying/Certification Examinations
 Qualifying examinations are a kind of certification to engineers - PE in USA, GATE in India
 
 **Note: If you're from another country than USA or India, feel free to add a section relavant to your country's professional certification or equivalent examination. If you're not sure how to do that in Github, send me an [email](mailto:m2n037@gmail.com)**
