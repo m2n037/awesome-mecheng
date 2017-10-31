@@ -6,8 +6,15 @@
 
 ## Mathematics and Programming
 ### Applied Mathematics
+#### Calculus
+* [Math 2B: Calculus,](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7mxsWrqTwndCBFXAKC0Xho9 )
+
 #### Linear Algebra
 * [LAFF Numerical Linear Algebra (Fall 2014) ](https://www.youtube.com/watch?v=UYfEMVNYYFU&list=PLiVOwJ-acxpc1_wqs7s2cVnYF6UeixEjg)
+* [Linear Algebra Vignettes](https://www.youtube.com/watch?v=dHigwV6Xljs&list=PLlXfTHzgMRUK3L)
+
+#### Probability and Statistics
+
 ### Programming
 #### Git
 * [GitHub Professional Guides,](https://www.youtube.com/watch?v=xSv_m3KhUO8&list=PLg7s6cbtAD15mfk2YVHy2U8Ileig_yEZW )
@@ -20,7 +27,20 @@
 #### Python
 * [Basic Python for Beginners,](https://www.youtube.com/watch?v=rxSyXBq9zq0&list=PLlEgNdBJEO-nQkFDah-gm6UX7CI6rCdB- )
 #### R
+* [R Shiny Tutorial - Building Interactive Web Apps in R using Shiny,](https://www.youtube.com/watch?v=_0ORRJqctHE&list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB )
+* [R Statistics Programming - Bioinformatics - Lectures,](https://www.youtube.com/watch?v=IYpGxUI9bxk&list=PL5rRb2J7OCT5N7kVJ4dehW1MDZe_hWeqh )
+* [Introduction to Programming in R Statistical Software,](https://www.youtube.com/watch?v=riONFzJdXcs&list=PLqzoL9-eJTNATicffatWXTEjwMq6N0Sf3 )
+* [R Statistics Essential Training,](https://www.youtube.com/watch?v=zNuzNo1pKPw&list=PL3aKe7XwdM8VybLmUrYU_m-JEn5F-4IDB )
+* [R Tutorial Videos,](https://www.youtube.com/watch?v=eDrhZb2onWY&list=PL9ooVrP1hQOEIUTpxRf4infBJnquwaTME )
+* [R Programming Tutorials Playlist,](https://www.youtube.com/watch?v=X67No4239Ys&list=PL6gx4Cwl9DGCzVMGCPi1kwvABu7eWv08P )
+* [R tutorial - Learn R Programming,](https://www.youtube.com/watch?v=SWxoJqTqo08&list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg )
+* [R Programming Software and Statistics Tutorials (All Videos),](https://www.youtube.com/watch?v=riONFzJdXcs&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU )
 
+* [YaRrr! Course,](https://www.youtube.com/watch?v=dpPwdjorpg0&list=PL9tt3I41HFS8-A8V82yicRIl0uSb9mwEU )
+
+#### Unix
+* [BASH Shell Scripting Tutorial in Linux,](https://www.youtube.com/watch?v=vcXlnGK8GMc&list=PLypxmOPCOkHWHrSfAFgzHA1Y0iSbxXVOt )
+* [Linux Command-Line Interface Tutorials (CLI),](https://www.youtube.com/watch?v=UfUn9c6Tmvo&list=PLypxmOPCOkHV4vnWkQCasSjBOI8ZpkmMY )
 #### Wordpress
 * [Wordpress Basics](https://www.youtube.com/playlist?list=PLC5E59DD6D84D34DC)
 
@@ -60,6 +80,13 @@
 ### Engineering Optimization
 ### MEMS/NEMS/Nanotechnology/BioEngineering
 ### Machine Learning
+### Generic
+* [D& R for the Analysis of Big Data by William S. Cleveland,](https://www.youtube.com/watch?v=DKKN0BOBMxA&list=PLA9BB8D82FDB6565A )
+* [Introduction to Machine Learning by Dale Schuurmans,](https://www.youtube.com/watch?v=tdfZm-_Ru3c&list=PL2425D47C1B5A57C0 )
+* [PURDUE Machine Learning Summer School 2011,](https://www.youtube.com/watch?v=tdfZm-_Ru3c&list=PL2A65507F7D725EFB )
+* [Large-scale ML and Stochastic Algorithms by Leon Bottou,](https://www.youtube.com/watch?v=A3Q5SpB7Lns&list=PL2100D4EB6EB12BDC )
+* [Optimization for Machine Learning by S.V.N Vishwanathan,](https://www.youtube.com/watch?v=wycjmwaunBQ&list=PL09B0E8AFC69BE108 )
+* [Reinforcement Learning by Satinder Singh Baveja,](https://www.youtube.com/watch?v=hx9o49Zt-us&list=PLEC4A69C404BDA578 )
 #### Deep Learning
 * [DeepLearningBook,](https://www.youtube.com/watch?v=vi7lACKOUao&list=PLkISDyMVw2Htm42P0eTVEKyz7scxZ4V-O )
 * [Deep Learning,](https://www.youtube.com/watch?v=jpmGxOB2YPo&list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz )
@@ -497,7 +524,6 @@
 
 * [Computational Tools for Engineers,](https://www.youtube.com/watch?v=gY0sEokk2h0&list=PLLBUgWXdTBDi-E--rwBujaNkTejLNI6ap )
 
-* [Math 2B: Calculus,](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7mxsWrqTwndCBFXAKC0Xho9 )
 
 * [Computer Science,](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo )
 
@@ -625,9 +651,7 @@
 
 * [Intermediate Python Programming,](https://www.youtube.com/watch?v=YSe9Tu_iNQQ&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_ )
 
-* [BASH Shell Scripting Tutorial in Linux,](https://www.youtube.com/watch?v=vcXlnGK8GMc&list=PLypxmOPCOkHWHrSfAFgzHA1Y0iSbxXVOt )
 
-* [Linux Command-Line Interface Tutorials (CLI),](https://www.youtube.com/watch?v=UfUn9c6Tmvo&list=PLypxmOPCOkHV4vnWkQCasSjBOI8ZpkmMY )
 
 * [Python Programming Tutorial in Linux,](https://www.youtube.com/watch?v=RjNnCMwaw4E&list=PLypxmOPCOkHVzhKRcWzEkQXCnmHezGVeB )
 
@@ -695,19 +719,7 @@
 
 * [NLTK with Python 3 for Natural Language Processing,](https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL )
 
-* [R Shiny Tutorial - Building Interactive Web Apps in R using Shiny,](https://www.youtube.com/watch?v=_0ORRJqctHE&list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB )
 
-* [R Statistics Programming - Bioinformatics - Lectures,](https://www.youtube.com/watch?v=IYpGxUI9bxk&list=PL5rRb2J7OCT5N7kVJ4dehW1MDZe_hWeqh )
-
-* [Introduction to Programming in R Statistical Software,](https://www.youtube.com/watch?v=riONFzJdXcs&list=PLqzoL9-eJTNATicffatWXTEjwMq6N0Sf3 )
-
-* [R Statistics Essential Training,](https://www.youtube.com/watch?v=zNuzNo1pKPw&list=PL3aKe7XwdM8VybLmUrYU_m-JEn5F-4IDB )
-
-* [R Tutorial Videos,](https://www.youtube.com/watch?v=eDrhZb2onWY&list=PL9ooVrP1hQOEIUTpxRf4infBJnquwaTME )
-
-* [R Programming Tutorials Playlist,](https://www.youtube.com/watch?v=X67No4239Ys&list=PL6gx4Cwl9DGCzVMGCPi1kwvABu7eWv08P )
-
-* [R tutorial - Learn R Programming,](https://www.youtube.com/watch?v=SWxoJqTqo08&list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg )
 
 * [Episodes,](https://www.youtube.com/watch?v=ES7BtEOYY9Q&list=PLwMNlhB9pzRqLAt2FVpoRVxpB7XUX2kIz )
 
@@ -733,9 +745,7 @@
 
 * [Making Control System Development Easier with MATLAB and Simulink,](https://www.youtube.com/watch?v=c8Fjk9TF6Y8&list=PLgh4hIUyrYyfonJjF22rheuJuV-znNXG3 )
 
-* [R Programming Software and Statistics Tutorials (All Videos),](https://www.youtube.com/watch?v=riONFzJdXcs&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU )
 
-* [YaRrr! Course,](https://www.youtube.com/watch?v=dpPwdjorpg0&list=PL9tt3I41HFS8-A8V82yicRIl0uSb9mwEU )
 
 * [GIMP 2.8 Tutorials,](https://www.youtube.com/watch?v=RV03FZzobyU&list=PL6lxxT7IdTxFLGnbrViK4EA580xVVdT4y )
 
@@ -745,17 +755,7 @@
 
 * [Python Programming,](https://www.youtube.com/watch?v=wqPzyszZrQc&list=PL6lxxT7IdTxFKo9DguLxGM2dhgb8-u976 )
 
-* [D& R for the Analysis of Big Data by William S. Cleveland,](https://www.youtube.com/watch?v=DKKN0BOBMxA&list=PLA9BB8D82FDB6565A )
 
-* [Introduction to Machine Learning by Dale Schuurmans,](https://www.youtube.com/watch?v=tdfZm-_Ru3c&list=PL2425D47C1B5A57C0 )
-
-* [PURDUE Machine Learning Summer School 2011,](https://www.youtube.com/watch?v=tdfZm-_Ru3c&list=PL2A65507F7D725EFB )
-
-* [Large-scale ML and Stochastic Algorithms by Leon Bottou,](https://www.youtube.com/watch?v=A3Q5SpB7Lns&list=PL2100D4EB6EB12BDC )
-
-* [Optimization for Machine Learning by S.V.N Vishwanathan,](https://www.youtube.com/watch?v=wycjmwaunBQ&list=PL09B0E8AFC69BE108 )
-
-* [Reinforcement Learning by Satinder Singh Baveja,](https://www.youtube.com/watch?v=hx9o49Zt-us&list=PLEC4A69C404BDA578 )
 
 * [Mechatronics with MATLAB and Simulink,](https://www.youtube.com/watch?v=qJV393TOJAA&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt )
 
@@ -1369,4 +1369,4 @@
 
 * [Machine Learning Course - CS 156,](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A )
 
-* [Linear Algebra Vignettes,](https://www.youtube.com/watch?v=dHigwV6Xljs&list=PLlXfTHzgMRUK3L
+
