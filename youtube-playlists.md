@@ -9,8 +9,14 @@
 #### Linear Algebra
 * [LAFF Numerical Linear Algebra (Fall 2014) ](https://www.youtube.com/watch?v=UYfEMVNYYFU&list=PLiVOwJ-acxpc1_wqs7s2cVnYF6UeixEjg)
 ### Programming
+#### Git
+#### MATLAB
+#### OpenGL
+
 #### Python
 * [Basic Python for Beginners,](https://www.youtube.com/watch?v=rxSyXBq9zq0&list=PLlEgNdBJEO-nQkFDah-gm6UX7CI6rCdB- )
+#### R
+
 #### Wordpress
 * [Wordpress Basics](https://www.youtube.com/playlist?list=PLC5E59DD6D84D34DC)
 
@@ -41,10 +47,7 @@
 * [DeepLearningBook,](https://www.youtube.com/watch?v=vi7lACKOUao&list=PLkISDyMVw2Htm42P0eTVEKyz7scxZ4V-O )
 
 ## Software Packages
-### Finite Element Analysis
-### Fatigue Analysis
-### Control Engineering
-### Robotics
+
 
 
 * [Engineering Mechanics (Statics,](https://www.youtube.com/watch?v=-hMfpDY6WFk&list=PLZOZfX_TaWAEzhyvNT1e9jbmTt4Eqo8C0 )
