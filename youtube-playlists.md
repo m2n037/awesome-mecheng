@@ -10,9 +10,13 @@
 * [LAFF Numerical Linear Algebra (Fall 2014) ](https://www.youtube.com/watch?v=UYfEMVNYYFU&list=PLiVOwJ-acxpc1_wqs7s2cVnYF6UeixEjg)
 ### Programming
 #### Git
+* [GitHub Professional Guides,](https://www.youtube.com/watch?v=xSv_m3KhUO8&list=PLg7s6cbtAD15mfk2YVHy2U8Ileig_yEZW )
+* [Git and GitHub with Briana Swift,](https://www.youtube.com/watch?v=47E-jcuQz5c&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4 )
 #### MATLAB
+* [Matlab,](https://www.youtube.com/watch?v=-UR18HN78r4&list=PLIx9QCwIhuRTi0LzH-kijlSb8rbj5fys4 )
 #### OpenGL
-
+* [OpenGL Animation Tutorials,](https://www.youtube.com/watch?v=f3Cr8Yx3GGA&list=PLRIWtICgwaX2tKWCxdeB7Wv_rTET9JtWW )
+* [OpenGL 3D Game Tutorials,](https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP )
 #### Python
 * [Basic Python for Beginners,](https://www.youtube.com/watch?v=rxSyXBq9zq0&list=PLlEgNdBJEO-nQkFDah-gm6UX7CI6rCdB- )
 #### R
@@ -22,7 +26,10 @@
 
 ## Mechanics & Theory of Machines
 ### Statics and Dynamics
+* [MIT 8.01 Classical Mechanics, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV)
+* [Engineering Mechanics (Statics,](https://www.youtube.com/watch?v=-hMfpDY6WFk&list=PLZOZfX_TaWAEzhyvNT1e9jbmTt4Eqo8C0 )
 ### Strength of Materials
+* [Strength of Materials for GATE,](https://www.youtube.com/watch?v=vkn9aY8DWcA&list=PLRJTmEvFf-OOI_6XiF_z3lJTCTDrId9O7 )
 ### Advanced Strength of Materials/Continuum Mechanics
 ### Theory of Machines
 
@@ -33,11 +40,21 @@
 
 ## Manufacturing
 ### Conventional Manufacturing
+* [Design for Manufacturing Course,](https://www.youtube.com/watch?v=84VxN9K_PMM&list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a )
 ### Non-traditional Machining
 ### Additive Machining (Rapid Prototyping, 3D Printing)
 
 ## Specialized Fields
 ### Robotics
+#### Generic
+* [Robotics,](https://www.youtube.com/watch?v=ykMN3ZsGKM0&list=PLh2tx2yot8hlcMg6lAZqNi6ENxsMigRfe )
+
+#### Locomotion
+#### Manipulation
+#### Computer Vision
+* [Python Computer Vision](https://www.youtube.com/playlist?list=PLGKQkV4guDKG6NH26S6fMdKuZM39ICFxj)
+#### Artificial Intellgence/Machine Learning
+
 ### Finite Element Analysis
 ### Computational Fluid Dynamics
 ### Engineering Optimization
@@ -45,26 +62,20 @@
 ### Machine Learning
 #### Deep Learning
 * [DeepLearningBook,](https://www.youtube.com/watch?v=vi7lACKOUao&list=PLkISDyMVw2Htm42P0eTVEKyz7scxZ4V-O )
+* [Deep Learning,](https://www.youtube.com/watch?v=jpmGxOB2YPo&list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz )
+
 
 ## Software Packages
 
-
-
-* [Engineering Mechanics (Statics,](https://www.youtube.com/watch?v=-hMfpDY6WFk&list=PLZOZfX_TaWAEzhyvNT1e9jbmTt4Eqo8C0 )
-
+* [Symposium on Modeling and Optimization](https://www.youtube.com/playlist?list=PLLBUgWXdTBDjhBUNyTPIYCJsH4CAkpKzP)
 * [Numerical Modeling (EGR 511),](https://www.youtube.com/watch?v=vOr0xex-1H0&list=PLZOZfX_TaWAFYQOeG6h3l9Nej0K8cPDdA )
-
-* [Design for Manufacturing Course,](https://www.youtube.com/watch?v=84VxN9K_PMM&list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a )
-
-* [GitHub Professional Guides,](https://www.youtube.com/watch?v=xSv_m3KhUO8&list=PLg7s6cbtAD15mfk2YVHy2U8Ileig_yEZW )
-
 * [Free Classes,](https://www.youtube.com/watch?v=RaKX4A5EiQo&list=PLg7s6cbtAD17uAwaZwiykDci_q3te3CTY )
 
 * [Get Up and Running,](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB- )
 
-* [Git and GitHub with Briana Swift,](https://www.youtube.com/watch?v=47E-jcuQz5c&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4 )
 
-* [Strength of Materials for GATE,](https://www.youtube.com/watch?v=vkn9aY8DWcA&list=PLRJTmEvFf-OOI_6XiF_z3lJTCTDrId9O7 )
+
+
 
 * [Whiteboard Wednesday,](https://www.youtube.com/watch?v=4HfDrisG3MQ&list=PLs2vRLhtciEt46Fg-uz1LQxb4xSW-KMGa )
 
@@ -82,15 +93,13 @@
 
 * [Full Webinars,](https://www.youtube.com/watch?v=VZD7vu6-0to&list=PLbEyNOJ4QXBoxYrBznFoCB_XbJGsGgCG0 )
 
-* [Robotics,](https://www.youtube.com/watch?v=ykMN3ZsGKM0&list=PLh2tx2yot8hlcMg6lAZqNi6ENxsMigRfe )
 
 * [Statistics and Data Analysis in MATLAB,](https://www.youtube.com/watch?v=l1mqJFQHcfI&list=PLmUd5Zvaz17QSCaB0b4tLwmTBzFIHKQFO )
 
 * [Algorithms,](https://www.youtube.com/watch?v=iRv6wKRCybA&list=PLo_wesNOyQTOwEuTh1Pd61U8x3GvgT-OS )
 
-* [Matlab,](https://www.youtube.com/watch?v=-UR18HN78r4&list=PLIx9QCwIhuRTi0LzH-kijlSb8rbj5fys4 )
 
-* [Deep Learning,](https://www.youtube.com/watch?v=jpmGxOB2YPo&list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz )
+
 
 * [Graph Algorithms,](https://www.youtube.com/watch?v=ddTC4Zovtbc&list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j )
 
@@ -136,9 +145,7 @@
 
 * [Python Fundamentals Training,](https://www.youtube.com/watch?v=B9MvjMFokLc&list=PL26BA8B9FC33789FF )
 
-* [OpenGL Animation Tutorials,](https://www.youtube.com/watch?v=f3Cr8Yx3GGA&list=PLRIWtICgwaX2tKWCxdeB7Wv_rTET9JtWW )
 
-* [OpenGL 3D Game Tutorials,](https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP )
 
 * [Computer Aided Analysis / C,](https://www.youtube.com/watch?v=N-JXeyUw7zw&list=PLFnx8Vsp0KYkCjzT-gTucuWtLbJKbZZlc )
 
