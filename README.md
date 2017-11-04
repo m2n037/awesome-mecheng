@@ -129,13 +129,13 @@ I got inspiration from the countless awesome lists in github.
 ### Numerical Analysis
 * [Numerical Analysis for Engineering](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/), by D.W. Harder and R. Khoury `UWaterloo.ca`
 * [Numerical Recipes in C](http://www.nrbook.com/a/bookcpdf.html), by W.H. Press, B.P. Flannery, S.A. TEukolsky and W.T. Vetterly (1992) `Cambridge University Press` - `free for personal use`
-* [Numerical Methods for PDEs](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos), by Qiqi Wang `MIT.edu`
+* [Numerical Methods for PDEs](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos), by Qiqi Wang `MIT.edu` `youtube`
 
 ## Programming
-* [Free programming books](https://github.com/vhf/free-programming-books)
+* [Free programming books](https://github.com/vhf/free-programming-books) `github`
 
 #### C++
-* [Stackoverflow - The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+* [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
 
 #### Python
 * [A Byte of Python](https://python.swaroopch.com/)
@@ -170,33 +170,33 @@ I got inspiration from the countless awesome lists in github.
 
 ## <a name="machine"></a>Mechanics & Theory of Machines
 ### Continuum Mechanics
-* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired.
-* Many lecture notes links available [from iMechanica](http://imechanica.org/node/1551)
-* [Applied Mechanics of Solids, A.F.Bower](http://solidmechanics.org/contents.php) (2012)
-	* Online version of the book available also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 400 practice problems and sample FEA code in Maple, Matlab and Fortran.
-* [Continuum Mechanics, B. McGinty](http://www.continuummechanics.org/index.html) (2012)
+* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired `archive.org`
+* Many lecture notes links available from [iMechanica](http://imechanica.org/node/1551) (2007)
+* [Applied Mechanics of Solids](http://solidmechanics.org/contents.php), by A.F.Bower (2012) also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 
+400 practice problems and sample FEA code in Maple, Matlab and Fortran.
+* [Continuum Mechanics](http://www.continuummechanics.org/index.html), by B. McGinty (2012)
 
 ### Statics and Dynamics
-* [Introduction to Statics and Dynamics (Free PDF)](http://ruina.tam.cornell.edu/Book/)
+* [Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/) `Cornell.edu`
 * [Bolted Joint Analysis](https://www.mechanicalc.com/reference/bolted-joint-analysis)
 * [Lug Analysis](https://www.mechanicalc.com/reference/lug-analysis)
 
 ### Strength of Materials
-* [Gere, Mechanics of Materials](https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1)
-* [Dowling, Mechanical Behavior of Materials](https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1)
-* [Roark's Formulas for Stress and Strain](https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1)
+* [Mechanics of Materials](https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1), by J.M. Gere and B.J. Goodno (2012) `Amazon`
+* [Mechanical Behavior of Materials](https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1), by N.E. Dowling (2012) `Amazon`
+* [Roark's Formulas for Stress and Strain](https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1), by W.C. Young and R.G. Budynas (2001) `Amazon`
 * [Strength of Materials](https://www.mechanicalc.com/reference/strength-of-materials)
 * [Beam Stress and Deflection](https://www.mechanicalc.com/reference/beam-analysis)
 * [Column Buckling](https://www.mechanicalc.com/reference/column-buckling)
-* [The Engineering of Structures Around Us - edX Dartmouth](https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x)
-* [Elements of Structures - edX MIT](https://www.edx.org/course/elements-structures-mitx-2-01x-1)
+* [The Engineering of Structures Around Us](https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x) `edX Dartmouth`
+* [Elements of Structures](https://www.edx.org/course/elements-structures-mitx-2-01x-1) `edX MIT`
 * [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
 
 
 
 ### Theory of Machines
 #### Mechanism Design
-* [Shigley's Mechanical Engineering Design](https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2)
+* [Shigley's Mechanical Engineering Design](https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2), by R.G.Budynas and J.K. Nisbett (2014) `Amazon`
 
 #### Control Engineering
 * Modern Control Engineering by Katsuhiko Ogata
