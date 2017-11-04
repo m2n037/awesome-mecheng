@@ -244,16 +244,21 @@ I got inspiration from the countless awesome lists in github.
 * [Finite Element Method](http://hyfem.com/HyFem/fem.pdf), by C.S. Jog
 
 ###### General Topics
-* [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `Stackexchange`
+* [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `stackexchange`
 * [What Is a Good Linear Finite Element?](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf) by [J.R. Shewchuk](http://people.eecs.berkeley.edu/~jrs/) (2002) `Berkeley.edu`
+
+#### Code
+* [deal.II](https://www.dealii.org/) (C++ library)
+* [FEniCS Project](https://fenicsproject.org/) (C++ and Python library)
+* [List of FE packages](https://en.wikipedia.org/wiki/List_of_finite_element_software_packages) `wikipedia`
 
 ---
 
 ## <a name="software"></a>Software Packages
 ### For Finite Element Analysis
-* [deal.II](https://www.dealii.org/) (C++ library)
-* [FEniCS Project](https://fenicsproject.org/) (C++ and Python library)
-* [List of FE packages](https://en.wikipedia.org/wiki/List_of_finite_element_software_packages) (Wikipedia)
+* [Code_Aster](https://www.code-aster.org/)
+* [CalculiX](http://www.calculix.de/)
+* [Elmer](https://www.csc.fi/web/elmer)
 
 #### ANSYS
 [Student/Free version](http://www.ansys.com/academic/free-student-products): Available for anyone with limited capability and usage for learning purpose. This is a video explaining how to [download and install ANSYS Student Release 17.2 from Ansys How To official channel](https://www.youtube.com/watch?v=rV-xr_D18hM)
