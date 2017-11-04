@@ -19,19 +19,37 @@ Table of Contents
 
 [Preamble](#preamble)
 
-[Engineering](#engineering)
-  * Units and Measurements
-  * Material Properties
+[Open Courses](#opencourse)
 
-[Mathematics and Programming](#math)
-  * Applied Mathematics
-  * Programming
+[General](#general)
+  * [Databases](#database)
+  * [Online Calculators](#calculator)
+  * [Tools and Programs](#tool)
+  * [Useful Websites](#useful)
+  * [Blog and Forums](#blog)
 
-[Mechanics & Theory of Machines](#machine)
+[Mathematics](#math)
+  * [Calculus and Linear Algebra](#calculus)
+  * [Numerical Analysis](#numerical)
+
+[Programming](#programming)
+  * [C++](#cpp)
+  * [Python](#python)
+  * [Julia](#julia)
+  * [Microsoft Excel](#excel)
+  * [Matlab](#matlab)
+  * [R](#r)
+  * [Fortran](#fortran)
+
+[Mechanics](#mechanics)
+  * [Continuum Mechanics](#continuum)
   * Statics and Dynamics
   * Strength of Materials
-  * Advanced Strength of Materials/Continuum Mechanics
-  * Theory of Machines
+
+[Theory of Machines]
+  * Mechanism Design
+  * Control Engineering
+  * Robotics
 
 [Thermal Engineering](#thermo)
   * Thermodynamics
@@ -39,32 +57,17 @@ Table of Contents
   * Fluid Mechanics
 
 [Manufacturing](#manufacturing)
-  * Conventional Manufacturing
-  * Non-traditional Machining
-  * Additive Machining (Rapid Prototyping, 3D Printing)
 
-[Specialized Fields](#special)
-  * Robotics
-  * Finite Element Analysis
-  * Computational Fluid Dynamics
-  * Engineering Optimization
-  * MEMS/NEMS/Nanotechnology/BioEngineering
+[Finite Element Analysis](#fea)
 
 [Software Packages](#software)
-  * Finite Element Analysis
-  * Fatigue Analysis
-  * Control Engineering
-  * Robotics
-
-[Blogs/Forums for Mechanical Engineers](#blog)
-
-[Useful Websites](#useful)
-
-[Online Calculators](#calculator)
+  * for Finite Element Analysis
 
 [Top Publication Venues for Different Fields](#publication)
+  * Journals
+  * Magazines
 
-[Competitions for MechE students/enthusiasts](#competition)
+[Competitions](#competition)
 
 [Qualifying/Certification Examinations](#certification)
 
@@ -83,7 +86,7 @@ I got inspiration from the countless awesome lists in github.
 ## General
 * [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/) `UNC.edu`
 
-#### Databases
+#### <a name="database"></a>Databases
 * [MatWeb](http://www.matweb.com/), database of material properties
 * [McMaster-Carr](https://www.mcmaster.com/), components supplier with 3D models and drawings
 * [Traceparts online](https://www.tracepartsonline.net/), CAD parts library
@@ -95,7 +98,7 @@ I got inspiration from the countless awesome lists in github.
 * [MechaniCalc](https://mechanicalc.com/) mechanical calculator with extensive documentation
 * [WolframAlpha](https://www.wolframalpha.com/)
 
-#### Tools/Programs
+#### <a name="tool"></a>Tools and Programs
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/), quick prototyping of linkage mechanism
 * [LyX](http://www.lyx.org/), document processor based on LaTeX
 * [SumatraPDF](https://www.sumatrapdfreader.org/), lightweight pdf reader
@@ -108,7 +111,7 @@ I got inspiration from the countless awesome lists in github.
 * [507 Mechanical Movements](http://507movements.com/), animated movements
 * [Animated Engines](http://www.animatedengines.com/), animated engines
 
-#### <a name="blog"></a>Blogs/Forums
+#### <a name="blog"></a>Blogs and Forums
 * [Engineering StackExchange](https://engineering.stackexchange.com/)
 * [iMechanica](https://imechanica.org)
 * [Eng-Tips Forums](http://www.eng-tips.com/threadarea.cfm)
@@ -132,7 +135,7 @@ I got inspiration from the countless awesome lists in github.
 ## Programming
 * [Free programming books](https://github.com/vhf/free-programming-books) `github`
 
-### C++
+### <a name="cpp"></a>C++
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
 
 ### Python
@@ -146,7 +149,7 @@ I got inspiration from the countless awesome lists in github.
 * [Learning Julia](https://julialang.org/learning/), official learning resources
 * [Learn X in Y minutes, where X=Julia](https://learnxinyminutes.com/docs/julia/)
 
-### Microsoft Excel VBA
+### <a name="excel"></a>Microsoft Excel VBA
 * [Excel VBA Programming for Dummies](https://michaelaustinfu.files.wordpress.com/2013/03/excel-vba-for-dummies-3rd-edition.pdf)
 
 ### MATLAB
@@ -155,7 +158,7 @@ I got inspiration from the countless awesome lists in github.
 * [MATLAB Toolbox tutorials](http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
-### R (statistics)
+### <a name="r"></a>R (statistics)
 * [Intro to R for data science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0) `edX Microsoft`
 
 ### Fortran
@@ -164,7 +167,7 @@ I got inspiration from the countless awesome lists in github.
 ---
 
 ## Mechanics
-### Continuum Mechanics
+### <a name="continuum"></a>Continuum Mechanics
 * [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired `Archive.org`
 * Many lecture notes links available from [iMechanica](http://imechanica.org/node/1551) (2007)
 * [Applied Mechanics of Solids](http://solidmechanics.org/contents.php), by A.F. Bower (2012) also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 
