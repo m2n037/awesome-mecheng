@@ -83,7 +83,7 @@ I got inspiration from the countless awesome lists in github.
 ## General
 * [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/) `UNC.edu`
 
-### Databases
+#### Databases
 * [MatWeb](http://www.matweb.com/), database of material properties
 * [McMaster-Carr](https://www.mcmaster.com/), components supplier with 3D models and drawings
 * [Traceparts online](https://www.tracepartsonline.net/), CAD parts library
@@ -134,10 +134,10 @@ I got inspiration from the countless awesome lists in github.
 ## Programming
 * [Free programming books](https://github.com/vhf/free-programming-books) `github`
 
-#### C++
+### C++
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
 
-#### Python
+### Python
 * [A Byte of Python](https://python.swaroopch.com/)
   * Excellent introductory book, also available as a free .pdf from the site
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
@@ -151,19 +151,19 @@ I got inspiration from the countless awesome lists in github.
   * Julia's official learning resources
 * [Learn X in Y minutes, where X=Julia](https://learnxinyminutes.com/docs/julia/)
 
-#### Microsoft Excel VBA
+### Microsoft Excel VBA
 * [Excel VBA Programming for Dummies](https://michaelaustinfu.files.wordpress.com/2013/03/excel-vba-for-dummies-3rd-edition.pdf)
 
-#### MATLAB
+### MATLAB
 * [Awesome MATLAB List](https://github.com/mikecroucher/awesome-MATLAB), by [@mikecroucher](https://github.com/mikecroucher/)
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/matlab/)
 * [MATLAB Toolbox tutorials](http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
-#### R (statistics)
+### R (statistics)
 * [Intro to R for data science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0) `edX Microsoft`
 
-#### Fortran
+### Fortran
 * [Introduction to Programming with Fortran 95](https://www.fortrantutorial.com/documents/IntroductionToFTN95.pdf)
 
 ---
