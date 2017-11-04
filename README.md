@@ -70,54 +70,47 @@ Table of Contents
 
 ---
 
-## Preamble
-I got inspiration from the countless awesome lists in github. 
-### General Resources
+
+
+### Preamble
+I got inspiration from the countless awesome lists in github.
+
+## <a name="opencourse"></a>Open Courses
+* [MIT OpenCourseWare](https://ocw.mit.edu/courses/find-by-topic/#?cat=engineering&subcat=mechanicalengineering)
+* [edX](https://www.edx.org/)
+* [InTech](https://www.intechopen.com/books/subject/mechanical-engineering), Open Acess book publisher
+
+## General
 * [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/) `UNC.edu`
-* [Mat-Web](http://www.matweb.com/), database of material properties
+
+### Databases
+* [MatWeb](http://www.matweb.com/), database of material properties
+* [McMaster-Carr](https://www.mcmaster.com/), components supplier with 3D models and drawings
+* [Traceparts online](https://www.tracepartsonline.net/), CAD parts library
+* [Thingiverse](https://www.thingiverse.com/), CAD parts, especially for 3D printing
 
 #### <a name="calculator"></a>Online Calculators
-* [MechaniCalc](https://mechanicalc.com/)
-  * provides calculators for mechanical engineers with extensive documentation on methodology used
-* [Desmos](https://www.desmos.com/calculator)
-  * online graphing calculator
+* [Desmos](https://www.desmos.com/calculator), online graphing calculator
+* [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
+* [MechaniCalc](https://mechanicalc.com/) mechanical calculator with extensive documentation
 * [WolframAlpha](https://www.wolframalpha.com/)
-* [fxSolver](https://www.fxsolver.com/)
-  * Solver for engineering and scientific equations. 
+
+#### Tools/Programs
+* [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/), quick prototyping of linkage mechanism
+* [LyX](http://www.lyx.org/), document processor based on TeX
+* [SumatraPDF](https://www.sumatrapdfreader.org/) lightweight pdf reader
 
 #### <a name="useful"></a>Useful Websites
 * [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
-* [McMaster-Carr](https://www.mcmaster.com/)
-  * for finding components
-* [Ryerson Stock List](https://www.ryerson.com/stocklist)
-  * for structural profiles
-* [How Stuff Works](http://www.howstuffworks.com/)
-  * good articles explaining how everyday things work
-* [MatWeb](http://www.matweb.com/index.aspx)
-  * Database of material properties
-* [MechaniCalc](https://mechanicalc.com/)
-  * provides calculators and reference material for mechanical engineers
-* [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
-  * free online courses
-* [edX](https://www.edx.org/)
-  * more free online courses
+* [Ryerson Stock List](https://www.ryerson.com/stocklist) for structural profiles
+* [How Stuff Works](http://www.howstuffworks.com/) articles explaining how everyday things work
 * [Google Scholar Classic Papers](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
-* [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/)
-   * Quick prototyping of linkage mechanism
-* [SCIRP, Modern Mechanical Engineering](http://www.scirp.org/journal/mme/)
-   * Open Journal.
-* [InTech](https://www.intechopen.com/books/subject/mechanical-engineering)
-   * Open Acess book publisher.
-* [traceparts online](https://www.tracepartsonline.net/)
-   * CAD part library
-* [Thingiverse](https://www.thingiverse.com/)
-   * CAD parts, especially for 3D printing
 * [507 Mechanical Movements](http://507movements.com/)
    * Animated movements.
 * [Animated Engines](http://www.animatedengines.com/)
    * Animated engines.
 
-### <a name="blog"></a>Blogs/Forums
+#### <a name="blog"></a>Blogs/Forums
 * [Engineering StackExchange](https://engineering.stackexchange.com/)
 * [iMechanica](https://imechanica.org)
 * [Eng-Tips Forums](http://www.eng-tips.com/threadarea.cfm)
