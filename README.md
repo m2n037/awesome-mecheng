@@ -199,14 +199,14 @@ I got inspiration from the countless awesome lists in github.
 * [Shigley's Mechanical Engineering Design](https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2), by R.G.Budynas and J.K. Nisbett (2014) `Amazon`
 
 #### Control Engineering
-* Modern Control Engineering by Katsuhiko Ogata
-* Automatic Control Systems by Golnaraghi and Kuo
-* Control Systems Engineering by Norman Nise
-* Linear Robust Control by Green and Limebeer
-* Essentials of Robust Control by Zhou with Doyle
-* Feedback Control Theory by Doyle, Francis, and Tannenbaum
-* [Feedback Systems by Karl Johan Åström and Richard Murray](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf)
-* [Classical Control Theory, by Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
+* [Modern Control Engineering](https://www.amazon.com/Modern-Control-Engineering-Katsuhiko-Ogata/dp/0136156738/ref=sr_1_cc_4), by K. Ogata (2009) `Amazon`
+* [Automatic Control Systems](https://www.amazon.com/Automatic-Control-Systems-Tenth-Golnaraghi/dp/1259643832/ref=sr_1_1), by F. Golnaraghi and B.C. Kuo (2017) `Amazon`
+* [Control Systems Engineering](https://www.amazon.com/Control-Systems-Engineering-Norman-Nise/dp/1118170512/ref=sr_1_1), by N.S. Nise (2015) `Amazon`
+* [Linear Robust Control](https://www.amazon.com/Linear-Control-Prentice-Information-Sciences/dp/0131022784/ref=sr_1_), by M. Green and D.J.N. Limebeer (1994) `Amazon`
+* [Essentials of Robust Control](https://www.amazon.com/Essentials-Robust-Control-Kemin-Zhou/dp/0135258332/ref=sr_1_1), by K. Zhou with J.C. Doyle (1997) `Amazon`
+* [Feedback Control Theory](https://www.amazon.com/Feedback-Control-Theory-Electrical-Engineering/dp/0486469336/ref=sr_1_1), by J.C. Doyle, B.A. Francis and A.R. Tannenbaum (2009) `Amazon`
+* [Feedback Systems](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf) by K.J. Åström and R. Murray (2011) `CalTech.edu`
+* [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), by Brian Douglas `youtube`
 
 ---
 
