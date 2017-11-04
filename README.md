@@ -208,6 +208,10 @@ I got inspiration from the countless awesome lists in github.
 * [Feedback Systems](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf) by K.J. Åström and R. Murray (2011) `CalTech.edu`
 * [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), by Brian Douglas `youtube`
 
+#### Robotics
+* [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux :+1: 
+* [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
+
 ---
 
 ## <a name="thermo"></a>Thermal Engineering
@@ -241,9 +245,6 @@ I got inspiration from the countless awesome lists in github.
 ---
 
 ## <a name="special"></a>Specialized Fields
-### Robotics
-* [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux :+1: 
-* [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
 
 ### Finite Element Analysis
 * [Finite Element Procedures by KJ Bathe](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf)
