@@ -97,18 +97,16 @@ I got inspiration from the countless awesome lists in github.
 
 #### Tools/Programs
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/), quick prototyping of linkage mechanism
-* [LyX](http://www.lyx.org/), document processor based on TeX
-* [SumatraPDF](https://www.sumatrapdfreader.org/) lightweight pdf reader
+* [LyX](http://www.lyx.org/), document processor based on LaTeX
+* [SumatraPDF](https://www.sumatrapdfreader.org/), lightweight pdf reader
 
 #### <a name="useful"></a>Useful Websites
 * [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
 * [Ryerson Stock List](https://www.ryerson.com/stocklist) for structural profiles
 * [How Stuff Works](http://www.howstuffworks.com/) articles explaining how everyday things work
 * [Google Scholar Classic Papers](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
-* [507 Mechanical Movements](http://507movements.com/)
-   * Animated movements.
-* [Animated Engines](http://www.animatedengines.com/)
-   * Animated engines.
+* [507 Mechanical Movements](http://507movements.com/), animated movements
+* [Animated Engines](http://www.animatedengines.com/), animated engines
 
 #### <a name="blog"></a>Blogs/Forums
 * [Engineering StackExchange](https://engineering.stackexchange.com/)
@@ -124,7 +122,7 @@ I got inspiration from the countless awesome lists in github.
 ### Calculus and Linear Algebra
 * [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), by G. Strang. [Direct download](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) `MIT.edu` 
 * [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by G. Cain
-* [Essentials of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), by 3Blue1Brown
+* [Essentials of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) `youtube`
 
 ### Numerical Analysis
 * [Numerical Analysis for Engineering](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/), by D.W. Harder and R. Khoury `UWaterloo.ca`
@@ -139,7 +137,7 @@ I got inspiration from the countless awesome lists in github.
 
 ### Python
 * [A Byte of Python](https://python.swaroopch.com/) by [C.H. Swaroop](https://www.swaroopch.com/about/) (2013)
- [Free Copy](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python) [Hard Copy](https://www.swaroopch.com/buybook/)
+ [Free Copy](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python) - [Hard Copy](https://www.swaroopch.com/buybook/)
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
 * [Learn X in Y minutes, where X=Python](https://learnxinyminutes.com/docs/python/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com), a great book for getting a handle on writing python scripts
@@ -205,8 +203,8 @@ I got inspiration from the countless awesome lists in github.
 * [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), by Brian Douglas `youtube`
 
 ### Robotics
-* [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux :+1: 
-* [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
+* [Awesome Robotics List,](https://github.com/Kiloreux/awesome-robotics) by [@Kiloreux](https://github.com/kiloreux) `github`
+* [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) `Caltech.edu`
 
 ---
 
