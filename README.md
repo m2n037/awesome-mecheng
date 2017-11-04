@@ -18,10 +18,6 @@ Table of Contents
 -----------------
 
 [Preamble](#preamble)
-  * To-Do List
-  * Overview List
-  * Rules and Regulations
-  * Advice
 
 [Engineering](#engineering)
   * Units and Measurements
@@ -76,24 +72,9 @@ Table of Contents
 
 ## Preamble
 I got inspiration from the countless awesome lists in github. 
-
-### Overview Resources
-* [Survival guide for mechanical engineers on the journey to create astonishing engineering](https://nutsandbolts.quora.com/Survival-guide-for-mechanical-engineers-on-the-journey-to-create-astonishing-engineering)
- _This was not written by me. An anonymous user wrote this in Quora and later deleted it. I kept an offline copy of the same and then later posted it as I found it awesome_
-* To be added
-
----
-
-## Engineering 
-### Units and measurements
-
-* [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/)
-* [Creative Problem-Solving and Decision Making](https://www.edx.org/course/creative-problem-solving-decision-making-delftx-tpm1x-0)
-
-### Material Properties 
-
-* [Mat-Web](http://www.matweb.com/)
-* [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
+### General Resources
+* [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/) `UNC.edu`
+* [Mat-Web](http://www.matweb.com/), database of material properties
 
 ---
 
@@ -146,6 +127,13 @@ I got inspiration from the countless awesome lists in github.
 ---
 
 ## <a name="machine"></a>Mechanics & Theory of Machines
+### Continuum Mechanics
+* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired.
+* Many lecture notes links available [from iMechanica](http://imechanica.org/node/1551)
+* [Applied Mechanics of Solids, A.F.Bower](http://solidmechanics.org/contents.php) (2012)
+	* Online version of the book available also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 400 practice problems and sample FEA code in Maple, Matlab and Fortran.
+* [Continuum Mechanics, B. McGinty](http://www.continuummechanics.org/index.html) (2012)
+
 ### Statics and Dynamics
 * [Introduction to Statics and Dynamics (Free PDF)](http://ruina.tam.cornell.edu/Book/)
 * [Bolted Joint Analysis](https://www.mechanicalc.com/reference/bolted-joint-analysis)
@@ -160,13 +148,9 @@ I got inspiration from the countless awesome lists in github.
 * [Column Buckling](https://www.mechanicalc.com/reference/column-buckling)
 * [The Engineering of Structures Around Us - edX Dartmouth](https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x)
 * [Elements of Structures - edX MIT](https://www.edx.org/course/elements-structures-mitx-2-01x-1)
+* [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
 
-### Advanced Strength of Materials/Continuum Mechanics
-* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired.
-* Many lecture notes links available [from iMechanica](http://imechanica.org/node/1551)
-* [Applied Mechanics of Solids, A.F.Bower](http://solidmechanics.org/contents.php) (2012)
-	* Online version of the book available also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 400 practice problems and sample FEA code in Maple, Matlab and Fortran.
-* [Continuum Mechanics, B. McGinty](http://www.continuummechanics.org/index.html) (2012)
+
 
 ### Theory of Machines
 #### Mechanism Design
