@@ -168,7 +168,7 @@ I got inspiration from the countless awesome lists in github.
 
 ---
 
-## <a name="machine"></a>Mechanics & Theory of Machines
+## Mechanics
 ### Continuum Mechanics
 * [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired `archive.org`
 * Many lecture notes links available from [iMechanica](http://imechanica.org/node/1551) (2007)
@@ -193,12 +193,11 @@ I got inspiration from the countless awesome lists in github.
 * [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
 
 
-
-### Theory of Machines
-#### Mechanism Design
+## <a name="machine"></a>Theory of Machines
+### Mechanism Design
 * [Shigley's Mechanical Engineering Design](https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2), by R.G.Budynas and J.K. Nisbett (2014) `Amazon`
 
-#### Control Engineering
+### Control Engineering
 * [Modern Control Engineering](https://www.amazon.com/Modern-Control-Engineering-Katsuhiko-Ogata/dp/0136156738/ref=sr_1_cc_4), by K. Ogata (2009) `Amazon`
 * [Automatic Control Systems](https://www.amazon.com/Automatic-Control-Systems-Tenth-Golnaraghi/dp/1259643832/ref=sr_1_1), by F. Golnaraghi and B.C. Kuo (2017) `Amazon`
 * [Control Systems Engineering](https://www.amazon.com/Control-Systems-Engineering-Norman-Nise/dp/1118170512/ref=sr_1_1), by N.S. Nise (2015) `Amazon`
@@ -208,7 +207,7 @@ I got inspiration from the countless awesome lists in github.
 * [Feedback Systems](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf) by K.J. Åström and R. Murray (2011) `CalTech.edu`
 * [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), by Brian Douglas `youtube`
 
-#### Robotics
+### Robotics
 * [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux :+1: 
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
 
