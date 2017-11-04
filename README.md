@@ -236,11 +236,7 @@ I got inspiration from the countless awesome lists in github.
 ---
 
 ## Manufacturing
-### Conventional Manufacturing
-
-### Non-traditional Machining
-
-### Additive Machining (Rapid Prototyping, 3D Printing)
+...
 
 ---
 
@@ -256,17 +252,6 @@ I got inspiration from the countless awesome lists in github.
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
 * [What Is a Good Linear Finite Element? by J R Shewchuk](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf)
 
-### Computational Fluid Dynamics
-
-### Engineering Optimization
-
-### MEMS/NEMS/Nanotechnology/BioEngineering
-
-#### MEMS/NEMS - Micro/Nano Electro Mechanical Systems
-
-#### Nanotechnology
-
-#### Bio-engineering
 
 ---
 
