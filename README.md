@@ -153,7 +153,7 @@ I got inspiration from the countless awesome lists in github.
 * [Excel VBA Programming for Dummies](https://michaelaustinfu.files.wordpress.com/2013/03/excel-vba-for-dummies-3rd-edition.pdf)
 
 ### MATLAB
-* [Awesome MATLAB List](https://github.com/mikecroucher/awesome-MATLAB), by [@mikecroucher](https://github.com/mikecroucher/)
+* [Awesome MATLAB List](https://github.com/mikecroucher/awesome-MATLAB), by [@mikecroucher](https://github.com/mikecroucher/) `github`
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/matlab/)
 * [MATLAB Toolbox tutorials](http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
@@ -244,7 +244,7 @@ I got inspiration from the countless awesome lists in github.
 
 ## <a name="fea"></a>Finite Element Analysis
 * [Finite Element Procedures](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf), by KJ Bathe (2014) `MIT.edu`
-* [Finite Element Method](http://hyfem.com/HyFem/fem.pdf), by C.S. Jog
+* [Introduction to the Finite Element Method](http://hyfem.com/HyFem/fem.pdf), by C.S. Jog
 
 ###### General Topics
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `stackexchange`
