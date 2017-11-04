@@ -141,7 +141,7 @@ I got inspiration from the countless awesome lists in github.
 * [A Byte of Python](https://python.swaroopch.com/)
   * Excellent introductory book, also available as a free .pdf from the site
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
-* [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
+* [Learn X in Y minutes, where X=Python](https://learnxinyminutes.com/docs/python/)
   * Great cheat sheet format, gives a brief but comprehensive overview of Python
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
   * A great book for getting a handle on writing python scripts
