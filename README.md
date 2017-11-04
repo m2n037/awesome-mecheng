@@ -138,17 +138,14 @@ I got inspiration from the countless awesome lists in github.
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
 
 ### Python
-* [A Byte of Python](https://python.swaroopch.com/)
-  * Excellent introductory book, also available as a free .pdf from the site
+* [A Byte of Python](https://python.swaroopch.com/) by [C.H. Swaroop](https://www.swaroopch.com/about/) (2013)
+ [Free Copy](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python) [Hard Copy](https://www.swaroopch.com/buybook/)
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
 * [Learn X in Y minutes, where X=Python](https://learnxinyminutes.com/docs/python/)
-  * Great cheat sheet format, gives a brief but comprehensive overview of Python
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
-  * A great book for getting a handle on writing python scripts
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com), a great book for getting a handle on writing python scripts
 
 ### Julia
-* [Learning Julia](https://julialang.org/learning/)
-  * Julia's official learning resources
+* [Learning Julia](https://julialang.org/learning/), official learning resources
 * [Learn X in Y minutes, where X=Julia](https://learnxinyminutes.com/docs/julia/)
 
 ### Microsoft Excel VBA
@@ -170,7 +167,7 @@ I got inspiration from the countless awesome lists in github.
 
 ## Mechanics
 ### Continuum Mechanics
-* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired `archive.org`
+* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired `Archive.org`
 * Many lecture notes links available from [iMechanica](http://imechanica.org/node/1551) (2007)
 * [Applied Mechanics of Solids](http://solidmechanics.org/contents.php), by A.F.Bower (2012) also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 
 400 practice problems and sample FEA code in Maple, Matlab and Fortran.
