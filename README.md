@@ -78,16 +78,16 @@ I got inspiration from the countless awesome lists in github.
 
 ---
 
-## <a name="math"></a>Mathematics and Programming
+## <a name="math"></a>Mathematics
+### Calculus and Linear Algebra
+* [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by G. Cain
+* [Essentials of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), by 3Blue1Brown
 ### Applied Mathematics
-* [Numerical Anlysis for Engineering, by D.W. Harder and R. Khoury](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/)
-* [Numerical Recipes in C, by W.H. Press, B.P. Flannery, S.A. TEukolsky and W.T. Vetterly](http://www.nrbook.com/a/bookcpdf.html) (1992) Free for personal use.
-* [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by G. Cain.
-* [What is it like to understand advanced mathematics?](http://qr.ae/1tpuVn)
-* [Essentials of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-* [Numerical Methods for PDEs, by Qiqi Wang](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos)
+* [Numerical Analysis for Engineering](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/), by D.W. Harder and R. Khoury `UWaterloo.ca`
+* [Numerical Recipes in C](http://www.nrbook.com/a/bookcpdf.html), by W.H. Press, B.P. Flannery, S.A. TEukolsky and W.T. Vetterly (1992) `Cambridge University Press` - `free for personal use`
+* [Numerical Methods for PDEs](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos), by Qiqi Wang `MIT.edu`
 
-### Programming
+## Programming
 * [Free programming books](https://github.com/vhf/free-programming-books)
 
 #### Shell
