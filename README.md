@@ -320,13 +320,9 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 
 * [Altair HyperWorks Online Training series - Meshing, Analysis & Post-processing](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
 
-### For Fatigue Analysis
-
 ### For Control Engineering
 #### MATLAB
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
-
-#### LabView
 
 ### For Robotics
 #### ROS
@@ -341,35 +337,20 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 
 ## <a name="publication"></a>Top Publication Venues for Different Fields
 
-#### General
+### Journals
 
-###### Journals/Magazines
-* [Popular Science](http://www.popsci.com/)
+#### Open Access
+* [SCIRP, Modern Mechanical Engineering](http://www.scirp.org/journal/mme/)
 
-#### Mechanics, FEA, CFD
-
-###### Journals/Magazines
+### Magazines
 * [Machine Design](http://machinedesign.com/)
-* [Popular Mechanics](http://www.popularmechanics.com/)
 * [Mechanical Engineering Magazine](https://www.asme.org/about-asme/mechanical-engineering-magazine)
-
-###### Conferences
-
-#### Dynamics, Theory of Machines
-###### Journals
-###### Conferences
-
-#### Manufacturing Engineering, Industrial Engineering
-###### Journals
-###### Conferences
-
-#### Robotics
-###### Journals
-###### Conferences
+* [Popular Mechanics](http://www.popularmechanics.com/)
+* [Popular Science](http://www.popsci.com/)
 
 ---
 
-## <a name="competition"></a>Competitions for MechE students/enthusiasts
+## <a name="competition"></a>Competitions
 ### SAE Competitions
 
 #### Altair Contests
