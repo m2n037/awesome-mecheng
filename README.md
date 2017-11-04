@@ -242,7 +242,7 @@ I got inspiration from the countless awesome lists in github.
 * [Finite Element Procedures](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf), by KJ Bathe (2014) `MIT.edu`
 * [Finite Element Method](http://hyfem.com/HyFem/fem.pdf), by C.S. Jog
 
-###### General
+###### General Topics
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `Stackexchange`
 * [What Is a Good Linear Finite Element?](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf) by [J.R. Shewchuk](http://people.eecs.berkeley.edu/~jrs/) (2002) `Berkeley.edu`
 
@@ -316,16 +316,15 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [Altair HyperWorks Online Training series - Meshing, Analysis & Post-processing](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
 
 ### For Control Engineering
-#### MATLAB
+###### MATLAB
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 ### For Robotics
-#### ROS
+###### ROS
 * [Learning ROS for Robotics Programming ](https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming-second-edition)
 * [Mastering ROS for Robotics Programming ](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming)
 * [Learning Robotics Using Python ](https://www.packtpub.com/application-development/learning-robotics-using-python)
 * [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
-* 
 
 ---
 
