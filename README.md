@@ -90,8 +90,6 @@ I got inspiration from the countless awesome lists in github.
 ## Programming
 * [Free programming books](https://github.com/vhf/free-programming-books)
 
-#### Shell
-
 #### C++
 * [Stackoverflow - The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
