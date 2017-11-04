@@ -243,15 +243,13 @@ I got inspiration from the countless awesome lists in github.
 
 ---
 
-## <a name="special"></a>Specialized Fields
+## <a name="fea"></a>Finite Element Analysis
+* [Finite Element Procedures](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf), by KJ Bathe (2014) `MIT.edu`
+* [Finite Element Method](http://hyfem.com/HyFem/fem.pdf), by C.S. Jog
 
-### Finite Element Analysis
-* [Finite Element Procedures by KJ Bathe](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf)
-* [Finite Element Method by C S Jog](http://hyfem.com/HyFem/fem.pdf)
-* [Finite Element Analysis Theory and Application with ANSYS](https://www.amazon.com/Finite-Element-Analysis-Theory-Application/dp/0131890808/ref=sr_1_1)
-* [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
-* [What Is a Good Linear Finite Element? by J R Shewchuk](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf)
-
+###### General
+* [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `Stackexchange`
+* [What Is a Good Linear Finite Element?](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf) by [J.R. Shewchuk](http://people.eecs.berkeley.edu/~jrs/) (2002) `Berkeley.edu`
 
 ---
 
@@ -261,47 +259,36 @@ I got inspiration from the countless awesome lists in github.
 * [FEniCS Project](https://fenicsproject.org/) (C++ and Python library)
 * [List of FE packages](https://en.wikipedia.org/wiki/List_of_finite_element_software_packages) (Wikipedia)
 
-#### OpenFoam
-
 #### ANSYS
-
 [Student/Free version](http://www.ansys.com/academic/free-student-products): Available for anyone with limited capability and usage for learning purpose. This is a video explaining how to [download and install ANSYS Student Release 17.2 from Ansys How To official channel](https://www.youtube.com/watch?v=rV-xr_D18hM)
+
 * [EdX MOOC A Hands-on Introduction to Engineering Simulations](https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x)
 * [University of Alberta - ANSYS Tutorials](http://www.mece.ualberta.ca/tutorials/ansys/)
 * [Cornell University- ANSYS Tutorials](https://confluence.cornell.edu/display/SIMULATION/ANSYS+Learning+Modules)
 * [Ansys Support Resources](http://www.ansys.com/products/academic/support-resources)
 
-#### NEi Nastran
-
-Student/Free version: 
-
-#### Abaqus
-
+#### ABAQUS
 [Student/Free version](https://academy.3ds.com/en/software/abaqus-student-edition): Available, 1000 nodes limit.
 
 #### LS Dyna
-
-Student/Free version: Not available but a student license can be obtained for less than $150 AFAIK.
+Student/Free version: **Not available** but a student license can be obtained for less than $150 AFAIK.
 
 * [LS Dyna Official Examples Site](http://www.dynaexamples.com/)
 * [LS Prepost Tutorials](http://www.lstc.com/lspp/content/tutorials.shtml)
 
-#### Comsol
-
+#### COMSOL
 Comsol was known as FEMLAB before and is a academic spin-off from Stanford University. Comsol integrated multiphysics simulation capability for the first time in a commercial package and is pretty popular in many unconventional industry.
 
-Student/Free version: Not available.
+Student/Free version: **Not available**.
 
 * [Comsol Blog](https://www.comsol.com/blogs/)
 * [Comsol Technical Papers and Presentations](https://www.comsol.com/papers-presentations)
 
 
 #### Hyperworks (Radioss, Optistruct)
-
 Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postprocessing tools for FEA by Altair Engineering. The flagship product is Hypermesh - a meshing software widely popular in CAE industry only challenged by ANSA, a new entrant from Beta CAE Systems. Hyperworks includes many software for different purposes though the mostly used ones are Optistruct and Radioss solvers besides Hypermesh.
 
-Student/Free version: Available only for students with limited capability
-[Link to student's version download](http://www.altairuniversity.com/hyperworks-licensing/)
+[Student/Free version](http://www.altairuniversity.com/hyperworks-licensing/): Available only for students with limited capability.
 
 * [HyperMesh | Pre processing | 2D | 3D | Meshing | ANSYS | Tutorial |](https://www.youtube.com/playlist?list=PLOahOE6DpL4puVylWdpHWRoGhIfswDc6T)
 
