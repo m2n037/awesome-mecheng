@@ -46,7 +46,7 @@ Table of Contents
   * Statics and Dynamics
   * Strength of Materials
 
-[Theory of Machines]
+[Theory of Machines](#machine)
   * Mechanism Design
   * Control Engineering
   * Robotics
