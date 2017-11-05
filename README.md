@@ -63,6 +63,8 @@ Table of Contents
 [Software Packages](#software)
   * for Finite Element Analysis
 
+[Sub Reddits](#subreddits)
+
 [Top Publication Venues for Different Fields](#publication)
   * Journals
   * Magazines
@@ -246,7 +248,7 @@ I got inspiration from the countless awesome lists in github.
 * [Finite Element Procedures](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf), by KJ Bathe (2014) `MIT.edu`
 * [Introduction to the Finite Element Method](http://hyfem.com/HyFem/fem.pdf), by C.S. Jog
 
-###### General Topics
+###### Good Reads
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `stackexchange`
 * [What Is a Good Linear Finite Element?](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf) by [J.R. Shewchuk](http://people.eecs.berkeley.edu/~jrs/) (2002) `Berkeley.edu`
 
@@ -336,6 +338,44 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
 
 ---
+
+### <a name="subreddits"></a> SubReddits Related to Mechanical Engineering
+* [Engineering Fields](https://www.reddit.com/r/engineering/)
+* [Aerospace: Aerospace](ttps://www.reddit.com/r/aerospace/)
+* [AskEngineers: Non-school Q&A](https://www.reddit.com/r/AskEngineers/)
+* [AskElectronics: CE/EE Q&A](https://www.reddit.com/r/AskElectronics/)
+* [BioEngineering: Biological](https://www.reddit.com/r/BioEngineering/)
+* [Biotech: Biotechnology](https://www.reddit.com/r/biotech/)
+* [Chem E: Chemical](https://www.reddit.com/r/chemicalengineering/)
+* [Civil Engineering: Civil](https://www.reddit.com/r/civilengineering/)
+* [Construction: Construction](https://www.reddit.com/r/construction/)
+* [ECE: General EE & CE discussion](https://www.reddit.com/r/ECE/)
+* [EE: Electrical](https://www.reddit.com/r/electricalengineering/)
+* [EngineeringStudents: For wee engineerlings](https://www.reddit.com/r/EngineeringStudents/)
+* [Manufacturing: Manufacturing Industry](https://www.reddit.com/r/Manufacturing/)
+* [Materials: Materials Engineering](https://www.reddit.com/r/materials/)
+* [Mech E: Mechanical Engineering](https://www.reddit.com/r/mechanicalengineering/)
+* [CAD: Computer Aided Design](https://www.reddit.com/r/CAD/)
+* [CFD: Fluid Dynamics](https://www.reddit.com/r/CFD/)
+* [FEA: Finite Element Analysis](https://www.reddit.com/r/fea/)
+* [PLC: Programmable Logic Controllers](https://www.reddit.com/r/PLC/)
+* [AskScience: No-nonsense science Q&A](https://www.reddit.com/r/AskScience/)
+* [Biology](https://www.reddit.com/r/biology/)
+* [Chemistry](https://www.reddit.com/r/chemistry/)
+* [Coding](https://www.reddit.com/r/coding/)
+* [Computer Science](https://www.reddit.com/r/ComputerScience/)
+* [Electronics](https://www.reddit.com/r/electronics/)
+* [Lectures](https://www.reddit.com/r/lectures/)
+* [Math](https://www.reddit.com/r/math/)
+* [Physics](https://www.reddit.com/r/physics/)
+* [Programming](https://www.reddit.com/r/programming/)
+* [Science](https://www.reddit.com/r/science/)
+* [Fluid Mechanics](https://www.reddit.com/r/FluidMechanics/)
+* [CSBooks: Computer Science](https://www.reddit.com/r/csbooks/)
+* [EEBooks: Electrical Engineering](https://www.reddit.com/r/eebooks/)
+* [MathBooks: Mathematics](https://www.reddit.com/r/mathbooks/)
+* [PhysicsBooks: Physics](https://www.reddit.com/r/physicsbooks/)
+* [ECEComponentExchange: Parts swap](https://www.reddit.com/r/ECEComponentExchange/)
 
 
 ## <a name="publication"></a>Top Publication Venues for Different Fields
