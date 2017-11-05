@@ -251,6 +251,7 @@ I got inspiration from the countless awesome lists in github.
 ###### Good Reads
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `stackexchange`
 * [What Is a Good Linear Finite Element?](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf) by [J.R. Shewchuk](http://people.eecs.berkeley.edu/~jrs/) (2002) `Berkeley.edu`
+* [How Can I learn Finite Element Analysis?](https://www.simscale.com/blog/2016/11/learn-finite-element-analysis-fea/) `simscale`
 
 #### Code
 * [deal.II](https://www.dealii.org/) (C++ library)
