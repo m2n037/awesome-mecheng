@@ -18,24 +18,38 @@ Table of Contents
 -----------------
 
 [Preamble](#preamble)
-  * To-Do List
-  * Overview List
-  * Rules and Regulations
-  * Advice
 
-[Engineering](#engineering)
-  * Units and Measurements
-  * Material Properties
+[Open Courses](#opencourse)
 
-[Mathematics and Programming](#math)
-  * Applied Mathematics
-  * Programming
+[General](#general)
+  * [Databases](#database)
+  * [Online Calculators](#calculator)
+  * [Tools and Programs](#tool)
+  * [Useful Websites](#useful)
+  * [Blog and Forums](#blog)
 
-[Mechanics & Theory of Machines](#machine)
+[Mathematics](#math)
+  * [Calculus and Linear Algebra](#calculus)
+  * [Numerical Analysis](#numerical)
+
+[Programming](#programming)
+  * [C++](#cpp)
+  * [Python](#python)
+  * [Julia](#julia)
+  * [Microsoft Excel](#excel)
+  * [Matlab](#matlab)
+  * [R](#r)
+  * [Fortran](#fortran)
+
+[Mechanics](#mechanics)
+  * [Continuum Mechanics](#continuum)
   * Statics and Dynamics
   * Strength of Materials
-  * Advanced Strength of Materials/Continuum Mechanics
-  * Theory of Machines
+
+[Theory of Machines](#machine)
+  * Mechanism Design
+  * Control Engineering
+  * Robotics
 
 [Thermal Engineering](#thermo)
   * Thermodynamics
@@ -43,296 +57,242 @@ Table of Contents
   * Fluid Mechanics
 
 [Manufacturing](#manufacturing)
-  * Conventional Manufacturing
-  * Non-traditional Machining
-  * Additive Machining (Rapid Prototyping, 3D Printing)
 
-[Specialized Fields](#special)
-  * Robotics
-  * Finite Element Analysis
-  * Computational Fluid Dynamics
-  * Engineering Optimization
-  * MEMS/NEMS/Nanotechnology/BioEngineering
+[Finite Element Analysis](#fea)
 
 [Software Packages](#software)
-  * Finite Element Analysis
-  * Fatigue Analysis
-  * Control Engineering
-  * Robotics
-
-[Blogs/Forums for Mechanical Engineers](#blog)
-
-[Useful Websites](#useful)
-
-[Online Calculators](#calculator)
+  * for Finite Element Analysis
 
 [Top Publication Venues for Different Fields](#publication)
+  * Journals
+  * Magazines
 
-[Competitions for MechE students/enthusiasts](#competition)
+[Competitions](#competition)
 
 [Qualifying/Certification Examinations](#certification)
 
 ---
 
-## Preamble
-I got inspiration from the countless awesome lists in github. 
 
-### Overview Resources
-* [Survival guide for mechanical engineers on the journey to create astonishing engineering](https://nutsandbolts.quora.com/Survival-guide-for-mechanical-engineers-on-the-journey-to-create-astonishing-engineering)
- _This was not written by me. An anonymous user wrote this in Quora and later deleted it. I kept an offline copy of the same and then later posted it as I found it awesome_
-* To be added
+
+### Preamble
+I got inspiration from the countless awesome lists in github.
+
+## <a name="opencourse"></a>Open Courses
+* [MIT OpenCourseWare](https://ocw.mit.edu/courses/find-by-topic/#?cat=engineering&subcat=mechanicalengineering)
+* [edX](https://www.edx.org/)
+* [InTech](https://www.intechopen.com/books/subject/mechanical-engineering), Open Acess book publisher
+
+## General
+* [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/) `UNC.edu`
+
+#### <a name="database"></a>Databases
+* [MatWeb](http://www.matweb.com/), database of material properties
+* [McMaster-Carr](https://www.mcmaster.com/), components supplier with 3D models and drawings
+* [Traceparts online](https://www.tracepartsonline.net/), CAD parts library
+* [Thingiverse](https://www.thingiverse.com/), CAD parts, especially for 3D printing
+
+#### <a name="calculator"></a>Online Calculators
+* [Desmos](https://www.desmos.com/calculator), online graphing calculator
+* [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
+* [MechaniCalc](https://mechanicalc.com/), mechanical calculator with extensive documentation
+* [WolframAlpha](https://www.wolframalpha.com/)
+
+#### <a name="tool"></a>Tools and Programs
+* [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/), quick prototyping of linkage mechanism
+* [LyX](http://www.lyx.org/), document processor based on LaTeX
+* [SumatraPDF](https://www.sumatrapdfreader.org/), lightweight pdf reader
+
+#### <a name="useful"></a>Useful Websites
+* [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
+* [Ryerson Stock List](https://www.ryerson.com/stocklist) for structural profiles
+* [How Stuff Works](http://www.howstuffworks.com/) articles explaining how everyday things work
+* [Google Scholar Classic Papers](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
+* [507 Mechanical Movements](http://507movements.com/), animated movements
+* [Animated Engines](http://www.animatedengines.com/), animated engines
+
+#### <a name="blog"></a>Blogs and Forums
+* [Engineering StackExchange](https://engineering.stackexchange.com/)
+* [iMechanica](https://imechanica.org)
+* [Eng-Tips Forums](http://www.eng-tips.com/threadarea.cfm)
+* [Physics Forums](https://www.physicsforums.com/forums/mechanical-engineering.101/)
+* [IEEE Spectrum](https://spectrum.ieee.org/)
+* [ScarbsTech](http://scarbsf1.com/), everything technical in F1
 
 ---
 
-## Engineering 
-### Units and measurements
+## <a name="math"></a>Mathematics
+### Calculus and Linear Algebra
+* [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), by G. Strang. [Direct download](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) `MIT.edu` 
+* [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by G. Cain
+* [Essentials of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) `youtube`
 
-* [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/)
-* [Creative Problem-Solving and Decision Making](https://www.edx.org/course/creative-problem-solving-decision-making-delftx-tpm1x-0)
+### Numerical Analysis
+* [Numerical Analysis for Engineering](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/), by D.W. Harder and R. Khoury `UWaterloo.ca`
+* [Numerical Recipes in C](http://www.nrbook.com/a/bookcpdf.html), by W.H. Press, B.P. Flannery, S.A. TEukolsky and W.T. Vetterly (1992) `Cambridge University Press` - `free for personal use`
+* [Numerical Methods for PDEs](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos), by Qiqi Wang `MIT.edu` `youtube`
 
-### Material Properties 
+## Programming
+* [Free programming books](https://github.com/vhf/free-programming-books) `github`
 
-* [Mat-Web](http://www.matweb.com/)
-* [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
+### <a name="cpp"></a>C++
+* [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
 
----
-
-## <a name="math"></a>Mathematics and Programming
-### Applied Mathematics
-* [Numerical Anlysis for Engineering, by D.W. Harder and R. Khoury](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/)
-* [Numerical Recipes in C, by W.H. Press, B.P. Flannery, S.A. TEukolsky and W.T. Vetterly](http://www.nrbook.com/a/bookcpdf.html) (1992) Free for personal use.
-* [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by G. Cain.
-* [What is it like to understand advanced mathematics?](http://qr.ae/1tpuVn)
-* [Essentials of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-* [Numerical Methods for PDEs, by Qiqi Wang](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos)
-
-### Programming
-* [Free programming books](https://github.com/vhf/free-programming-books)
-
-#### Shell
-
-#### C++
-* [Stackoverflow - The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-
-#### Python
-* [A Byte of Python](https://python.swaroopch.com/)
-  * Excellent introductory book, also available as a free .pdf from the site
+### Python
+* [A Byte of Python](https://python.swaroopch.com/) by [C.H. Swaroop](https://www.swaroopch.com/about/) (2013)
+ [Free Copy](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python) - [Hard Copy](https://www.swaroopch.com/buybook/)
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
-* [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
-  * Great cheat sheet format, gives a brief but comprehensive overview of Python
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
-  * A great book for getting a handle on writing python scripts
+* [Learn X in Y minutes, where X=Python](https://learnxinyminutes.com/docs/python/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com), a great book for getting a handle on writing python scripts
 
 ### Julia
-* [Learning Julia](https://julialang.org/learning/)
-  * Julia's official learning resources
+* [Learning Julia](https://julialang.org/learning/), official learning resources
 * [Learn X in Y minutes, where X=Julia](https://learnxinyminutes.com/docs/julia/)
 
-#### Microsoft Excel VBA
+### <a name="excel"></a>Microsoft Excel VBA
 * [Excel VBA Programming for Dummies](https://michaelaustinfu.files.wordpress.com/2013/03/excel-vba-for-dummies-3rd-edition.pdf)
 
-#### MATLAB
-* [Awesome MATLAB List by](https://github.com/mikecroucher/awesome-MATLAB) [@mikecroucher](https://github.com/mikecroucher/)
+### MATLAB
+* [Awesome MATLAB List](https://github.com/mikecroucher/awesome-MATLAB), by [@mikecroucher](https://github.com/mikecroucher/) `github`
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/matlab/)
 * [MATLAB Toolbox tutorials](http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
-#### R (statistics)
-* [Intro to R for data science - edX Microsoft](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0)
+### <a name="r"></a>R (statistics)
+* [Intro to R for data science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0) `edX Microsoft`
 
-#### Fortran
+### Fortran
 * [Introduction to Programming with Fortran 95](https://www.fortrantutorial.com/documents/IntroductionToFTN95.pdf)
 
 ---
 
-## <a name="machine"></a>Mechanics & Theory of Machines
+## Mechanics
+### <a name="continuum"></a>Continuum Mechanics
+* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired `Archive.org`
+* Many lecture notes links available from [iMechanica](http://imechanica.org/node/1551) (2007)
+* [Applied Mechanics of Solids](http://solidmechanics.org/contents.php), by A.F. Bower (2012) also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 
+400 practice problems and sample FEA code.
+* [Continuum Mechanics](http://www.continuummechanics.org/index.html), by B. McGinty (2012)
+* [Introduction to Continuum Mechanics for Engineers](http://oaktrust.library.tamu.edu/bitstream/handle/1969.1/2501/IntroductionToContinuumMechanicsRevisedEdition.pdf?sequence=6&isAllowed=y), by R.M. Bowen (1989) `Tamu.edu`
+
 ### Statics and Dynamics
-* [Introduction to Statics and Dynamics (Free PDF)](http://ruina.tam.cornell.edu/Book/)
+* [Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/) `Cornell.edu`
 * [Bolted Joint Analysis](https://www.mechanicalc.com/reference/bolted-joint-analysis)
 * [Lug Analysis](https://www.mechanicalc.com/reference/lug-analysis)
 
 ### Strength of Materials
-* [Gere, Mechanics of Materials](https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1)
-* [Dowling, Mechanical Behavior of Materials](https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1)
-* [Roark's Formulas for Stress and Strain](https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1)
+* [Mechanics of Materials](https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1), by J.M. Gere and B.J. Goodno (2012) `Amazon`
+* [Mechanical Behavior of Materials](https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1), by N.E. Dowling (2012) `Amazon`
+* [Roark's Formulas for Stress and Strain](https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1), by W.C. Young and R.G. Budynas (2001) `Amazon`
 * [Strength of Materials](https://www.mechanicalc.com/reference/strength-of-materials)
 * [Beam Stress and Deflection](https://www.mechanicalc.com/reference/beam-analysis)
 * [Column Buckling](https://www.mechanicalc.com/reference/column-buckling)
-* [The Engineering of Structures Around Us - edX Dartmouth](https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x)
-* [Elements of Structures - edX MIT](https://www.edx.org/course/elements-structures-mitx-2-01x-1)
+* [The Engineering of Structures Around Us](https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x) `edX Dartmouth`
+* [Elements of Structures](https://www.edx.org/course/elements-structures-mitx-2-01x-1) `edX MIT`
+* [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
 
-### Advanced Strength of Materials/Continuum Mechanics
-* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired.
-* Many lecture notes links available [from iMechanica](http://imechanica.org/node/1551)
-* [Applied Mechanics of Solids, A.F.Bower](http://solidmechanics.org/contents.php) (2012)
-	* Online version of the book available also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 400 practice problems and sample FEA code in Maple, Matlab and Fortran.
-* [Continuum Mechanics, B. McGinty](http://www.continuummechanics.org/index.html) (2012)
 
-### Theory of Machines
-#### Mechanism Design
-* [Shigley's Mechanical Engineering Design](https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2)
+## <a name="machine"></a>Theory of Machines
+### Mechanism Design
+* [Shigley's Mechanical Engineering Design](https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2), by R.G.Budynas and J.K. Nisbett (2014) `Amazon`
 
-#### Control Engineering
-* Modern Control Engineering by Katsuhiko Ogata
-* Automatic Control Systems by Golnaraghi and Kuo
-* Control Systems Engineering by Norman Nise
-* Linear Robust Control by Green and Limebeer
-* Essentials of Robust Control by Zhou with Doyle
-* Feedback Control Theory by Doyle, Francis, and Tannenbaum
-* [Feedback Systems by Karl Johan Åström and Richard Murray](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf)
-* [Classical Control Theory, by Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
+### Control Engineering
+* [Modern Control Engineering](https://www.amazon.com/Modern-Control-Engineering-Katsuhiko-Ogata/dp/0136156738/ref=sr_1_cc_4), by K. Ogata (2009) `Amazon`
+* [Automatic Control Systems](https://www.amazon.com/Automatic-Control-Systems-Tenth-Golnaraghi/dp/1259643832/ref=sr_1_1), by F. Golnaraghi and B.C. Kuo (2017) `Amazon`
+* [Control Systems Engineering](https://www.amazon.com/Control-Systems-Engineering-Norman-Nise/dp/1118170512/ref=sr_1_1), by N.S. Nise (2015) `Amazon`
+* [Linear Robust Control](https://www.amazon.com/Linear-Control-Prentice-Information-Sciences/dp/0131022784/ref=sr_1_), by M. Green and D.J.N. Limebeer (1994) `Amazon`
+* [Essentials of Robust Control](https://www.amazon.com/Essentials-Robust-Control-Kemin-Zhou/dp/0135258332/ref=sr_1_1), by K. Zhou with J.C. Doyle (1997) `Amazon`
+* [Feedback Control Theory](https://www.amazon.com/Feedback-Control-Theory-Electrical-Engineering/dp/0486469336/ref=sr_1_1), by J.C. Doyle, B.A. Francis and A.R. Tannenbaum (2009) `Amazon`
+* [Feedback Systems](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf) by K.J. Åström and R. Murray (2011) `CalTech.edu`
+* [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), by Brian Douglas `youtube`
+
+### Robotics
+* [Awesome Robotics List,](https://github.com/Kiloreux/awesome-robotics) by [@Kiloreux](https://github.com/kiloreux) `github`
+* [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) `Caltech.edu`
 
 ---
 
 ## <a name="thermo"></a>Thermal Engineering
 ### Thermodynamics
-* [NASA's Introductory Thermodynamics Notes](https://www.grc.nasa.gov/www/k-12/airplane/thermo.html)
-* [MIT OpenCourseWare: Thermodynamics & Kinematics Lecture Series](https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/)
-* [Wikibooks: Engineering Thermodynamics](https://en.wikibooks.org/wiki/Engineering_Thermodynamics)
+* [NASA's Introductory Thermodynamics Notes](https://www.grc.nasa.gov/www/k-12/airplane/thermo.html) `NASA`
+* [MIT OpenCourseWare: Thermodynamics & Kinematics Lecture Series](https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/) `MIT.edu`
+* [Wikibooks: Engineering Thermodynamics](https://en.wikibooks.org/wiki/Engineering_Thermodynamics) `Wikibooks`
 * Moran, Michael J., Shapiro, Howard N.  *Fundamentals of Engineering Thermodynamics*.  5th Edition.  John Wiley & Sons.  Hoboken, NJ.  2004.  ISBN: 978-0471274711.
-```
-@book{Moran2004,
-    title     = {{Fundamentals of Engineering Thermodynamics}},
-    author    = {Michael J. Moran and Howard N. Shapiro},
-    edition   = {5},
-    publisher = {John Wiley & Sons},
-    address   = {Hoboken, NJ},
-    year      = {2004},
-    ISBN      = {978-0471274711}
-}
-```
 * Thermodynamics: An Engineering Approach by Yunus A. Cengel, Michael A. Boles
 
 ### Heat Transfer
-* [MIT OpenCourseWare: Introduction to Heat Transfer](https://ocw.mit.edu/courses/mechanical-engineering/2-051-introduction-to-heat-transfer-fall-2015/)
-* [Wikibooks: Heat Transfer](https://en.wikibooks.org/wiki/Heat_Transfer)
+* [MIT OpenCourseWare: Introduction to Heat Transfer](https://ocw.mit.edu/courses/mechanical-engineering/2-051-introduction-to-heat-transfer-fall-2015/) `MIT.edu`
+* [Wikibooks: Heat Transfer](https://en.wikibooks.org/wiki/Heat_Transfer) `Wikibooks`
 * Incropera, Frank P., DeWitt, David P.  *Fundamentals of Heat and Mass Transfer*.  5th Edition.  John Wiley & Sons.  Hoboken, NJ.  2002.  ISBN: 978-0471386506.
-```
-@book{Incropera2002,
-    title     = {{Fundamentals of Heat and Mass Transfer}},
-    author    = {Frank P. Incropera and David P. DeWitt},
-    edition   = {5},
-    publisher = {John Wiley & Sons},
-    address   = {Hoboken, NJ},
-    year      = {2002},
-    ISBN      = {978-0471386506}
-}
-```
 ### Fluid Mechanics
-* [NASA's Basic Fluid Mechanics Notes](https://www.grc.nasa.gov/www/k-12/airplane/mass.html)
-* [MIT OpenCourseWare: Fluid Dynamics](https://ocw.mit.edu/courses/mechanical-engineering/2-06-fluid-dynamics-spring-2013/)
-* [Wikibooks: Fluid Mechanics](https://en.wikibooks.org/wiki/Fluid_Mechanics)
+* [NASA's Basic Fluid Mechanics Notes](https://www.grc.nasa.gov/www/k-12/airplane/mass.html) `NASA`
+* [MIT OpenCourseWare: Fluid Dynamics](https://ocw.mit.edu/courses/mechanical-engineering/2-06-fluid-dynamics-spring-2013/) `MIT.edu`
+* [Wikibooks: Fluid Mechanics](https://en.wikibooks.org/wiki/Fluid_Mechanics) `Wikibooks`
 * Thermophysical properties of water and steam: [International Association for the Properties of Water and Steam](http://iapws.org/relguide/IAPWS-95.html)
 * Munson, Bruce R., Young, Donald F., Okiishi, Theodore H.  *Fundamentals of Fluid Mechanics*.  4th Edition.  John Wiley & Sons.  Hoboken, NJ.  2001.  ISBN: 978-0471442509.
-```
-@book{Munson2001,
-    title     = {{Fundamentals of Fluid Mechanics}},
-    author    = {Bruce R. Munson and Donald F. Young and Theodore H. Okiishi},
-    edition   = {4},
-    publisher = {John Wiley & Sons},
-    address   = {Hoboken, NJ},
-    year      = {2004},
-    ISBN      = {978-0471442509}
-}
-```
+
 ### Gas Dynamics
-* [NASA's Compressible Fluids/Aerodynamics Notes](https://www.grc.nasa.gov/www/k-12/airplane/shortc.html)
+* [NASA's Compressible Fluids/Aerodynamics Notes](https://www.grc.nasa.gov/www/k-12/airplane/shortc.html) `NASA`
 * Anderson, John D.  *Modern Compressible Flow: With Historical Perspective*.  3rd Edition.  McGraw-Hill.  New York, NY.  2003.  ISBN: 978-0072424430.
-```
-@book{Anderson2003,
-    title     = {{Modern Compressible Flow: With Historical Perspective}},
-    author    = {John D. Anderson, Jr.},
-    edition   = {3},
-    publisher = {McGraw-Hill},
-    address   = {New York, NY},
-    year      = {2003},
-    ISBN      = {978-0072424430}
-}
-```
+
 ---
 
 ## Manufacturing
-### Conventional Manufacturing
-
-### Non-traditional Machining
-
-### Additive Machining (Rapid Prototyping, 3D Printing)
+...
 
 ---
 
-## <a name="special"></a>Specialized Fields
-### Robotics
-* [Awesome Robotics List.](https://github.com/Kiloreux/awesome-robotics) Thanks @Kiloreux :+1: 
-* [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
+## <a name="fea"></a>Finite Element Analysis
+* [Finite Element Procedures](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf), by KJ Bathe (2014) `MIT.edu`
+* [Introduction to the Finite Element Method](http://hyfem.com/HyFem/fem.pdf), by C.S. Jog
 
-### Finite Element Analysis
-* [Finite Element Procedures by KJ Bathe](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf)
-* [Finite Element Method by C S Jog](http://hyfem.com/HyFem/fem.pdf)
-* [Finite Element Analysis Theory and Application with ANSYS](https://www.amazon.com/Finite-Element-Analysis-Theory-Application/dp/0131890808/ref=sr_1_1)
-* [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918)
-* [What Is a Good Linear Finite Element? by J R Shewchuk](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf)
+###### General Topics
+* [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `stackexchange`
+* [What Is a Good Linear Finite Element?](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf) by [J.R. Shewchuk](http://people.eecs.berkeley.edu/~jrs/) (2002) `Berkeley.edu`
 
-### Computational Fluid Dynamics
-
-### Engineering Optimization
-
-### MEMS/NEMS/Nanotechnology/BioEngineering
-
-#### MEMS/NEMS - Micro/Nano Electro Mechanical Systems
-
-#### Nanotechnology
-
-#### Bio-engineering
+#### Code
+* [deal.II](https://www.dealii.org/) (C++ library)
+* [FEniCS Project](https://fenicsproject.org/) (C++ and Python library)
+* [List of FE packages](https://en.wikipedia.org/wiki/List_of_finite_element_software_packages) `wikipedia`
 
 ---
 
 ## <a name="software"></a>Software Packages
 ### For Finite Element Analysis
-* [deal.II](https://www.dealii.org/) (C++ library)
-* [FEniCS Project](https://fenicsproject.org/) (C++ and Python library)
-* [List of FE packages](https://en.wikipedia.org/wiki/List_of_finite_element_software_packages) (Wikipedia)
-
-#### OpenFoam
+* [Code_Aster](https://www.code-aster.org/)
+* [CalculiX](http://www.calculix.de/)
+* [Elmer](https://www.csc.fi/web/elmer)
 
 #### ANSYS
-
 [Student/Free version](http://www.ansys.com/academic/free-student-products): Available for anyone with limited capability and usage for learning purpose. This is a video explaining how to [download and install ANSYS Student Release 17.2 from Ansys How To official channel](https://www.youtube.com/watch?v=rV-xr_D18hM)
+
 * [EdX MOOC A Hands-on Introduction to Engineering Simulations](https://www.edx.org/course/hands-introduction-engineering-cornellx-engr2000x)
 * [University of Alberta - ANSYS Tutorials](http://www.mece.ualberta.ca/tutorials/ansys/)
 * [Cornell University- ANSYS Tutorials](https://confluence.cornell.edu/display/SIMULATION/ANSYS+Learning+Modules)
 * [Ansys Support Resources](http://www.ansys.com/products/academic/support-resources)
 
-#### NEi Nastran
-
-Student/Free version: 
-
-#### Abaqus
-
+#### ABAQUS
 [Student/Free version](https://academy.3ds.com/en/software/abaqus-student-edition): Available, 1000 nodes limit.
 
 #### LS Dyna
-
-Student/Free version: Not available but a student license can be obtained for less than $150 AFAIK.
+Student/Free version: **Not available** but a student license can be obtained for less than $150 AFAIK.
 
 * [LS Dyna Official Examples Site](http://www.dynaexamples.com/)
 * [LS Prepost Tutorials](http://www.lstc.com/lspp/content/tutorials.shtml)
 
-#### Comsol
-
+#### COMSOL
 Comsol was known as FEMLAB before and is a academic spin-off from Stanford University. Comsol integrated multiphysics simulation capability for the first time in a commercial package and is pretty popular in many unconventional industry.
 
-Student/Free version: Not available.
+Student/Free version: **Not available**.
 
 * [Comsol Blog](https://www.comsol.com/blogs/)
 * [Comsol Technical Papers and Presentations](https://www.comsol.com/papers-presentations)
 
 
 #### Hyperworks (Radioss, Optistruct)
-
 Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postprocessing tools for FEA by Altair Engineering. The flagship product is Hypermesh - a meshing software widely popular in CAE industry only challenged by ANSA, a new entrant from Beta CAE Systems. Hyperworks includes many software for different purposes though the mostly used ones are Optistruct and Radioss solvers besides Hypermesh.
 
-Student/Free version: Available only for students with limited capability
-[Link to student's version download](http://www.altairuniversity.com/hyperworks-licensing/)
+[Student/Free version](http://www.altairuniversity.com/hyperworks-licensing/): Available only for students with limited capability.
 
 * [HyperMesh | Pre processing | 2D | 3D | Meshing | ANSYS | Tutorial |](https://www.youtube.com/playlist?list=PLOahOE6DpL4puVylWdpHWRoGhIfswDc6T)
 
@@ -364,111 +324,36 @@ Student/Free version: Available only for students with limited capability
 
 * [Altair HyperWorks Online Training series - Meshing, Analysis & Post-processing](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
 
-### For Fatigue Analysis
-
 ### For Control Engineering
-#### MATLAB
+###### MATLAB
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
-#### LabView
-
 ### For Robotics
-#### ROS
+###### ROS
 * [Learning ROS for Robotics Programming ](https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming-second-edition)
 * [Mastering ROS for Robotics Programming ](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming)
 * [Learning Robotics Using Python ](https://www.packtpub.com/application-development/learning-robotics-using-python)
 * [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
-* 
 
 ---
 
-## <a name="blog"></a>Blogs/Forums for Mechanical Engineers
-* [Engineering StackExchange](https://engineering.stackexchange.com/)
-* [iMechanica](https://imechanica.org)
-* [Eng-Tips Forums](http://www.eng-tips.com/threadarea.cfm)
-* [Physics Forums](https://www.physicsforums.com/forums/mechanical-engineering.101/)
-* [IEEE Spectrum](https://spectrum.ieee.org/)
-* [ScarbsTech](http://scarbsf1.com/), everything technical in F1
-
----
-
-## <a name="useful"></a>Useful Websites
-
-* [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
-* [McMaster-Carr](https://www.mcmaster.com/)
-  * for finding components
-* [Ryerson Stock List](https://www.ryerson.com/stocklist)
-  * for structural profiles
-* [How Stuff Works](http://www.howstuffworks.com/)
-  * good articles explaining how everyday things work
-* [MatWeb](http://www.matweb.com/index.aspx)
-  * Database of material properties
-* [MechaniCalc](https://mechanicalc.com/)
-  * provides calculators and reference material for mechanical engineers
-* [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
-  * free online courses
-* [edX](https://www.edx.org/)
-  * more free online courses
-* [Google Scholar Classic Papers](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
-* [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/)
-   * Quick prototyping of linkage mechanism
-* [SCIRP, Modern Mechanical Engineering](http://www.scirp.org/journal/mme/)
-   * Open Journal.
-* [InTech](https://www.intechopen.com/books/subject/mechanical-engineering)
-   * Open Acess book publisher.
-* [traceparts online](https://www.tracepartsonline.net/)
-   * CAD part library
-* [Thingiverse](https://www.thingiverse.com/)
-   * CAD parts, especially for 3D printing
-* [507 Mechanical Movements](http://507movements.com/)
-   * Animated movements.
-* [Animated Engines](http://www.animatedengines.com/)
-   * Animated engines.
----
-
-## <a name="calculator"></a>Online Calculators
-
-* [MechaniCalc](https://mechanicalc.com/)
-  * provides calculators for mechanical engineers with extensive documentation on methodology used
-* [Desmos](https://www.desmos.com/calculator)
-  * online graphing calculator
-* [WolframAlpha](https://www.wolframalpha.com/)
-* [fxSolver](https://www.fxsolver.com/)
-  * Solver for engineering and scientific equations. 
-
----
 
 ## <a name="publication"></a>Top Publication Venues for Different Fields
 
-#### General
+### Journals
 
-###### Journals/Magazines
-* [Popular Science](http://www.popsci.com/)
+#### Open Access
+* [SCIRP, Modern Mechanical Engineering](http://www.scirp.org/journal/mme/)
 
-#### Mechanics, FEA, CFD
-
-###### Journals/Magazines
+### Magazines
 * [Machine Design](http://machinedesign.com/)
-* [Popular Mechanics](http://www.popularmechanics.com/)
 * [Mechanical Engineering Magazine](https://www.asme.org/about-asme/mechanical-engineering-magazine)
-
-###### Conferences
-
-#### Dynamics, Theory of Machines
-###### Journals
-###### Conferences
-
-#### Manufacturing Engineering, Industrial Engineering
-###### Journals
-###### Conferences
-
-#### Robotics
-###### Journals
-###### Conferences
+* [Popular Mechanics](http://www.popularmechanics.com/)
+* [Popular Science](http://www.popsci.com/)
 
 ---
 
-## <a name="competition"></a>Competitions for MechE students/enthusiasts
+## <a name="competition"></a>Competitions
 ### SAE Competitions
 
 #### Altair Contests
