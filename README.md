@@ -341,7 +341,7 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 
 ### <a name="subreddits"></a> SubReddits Related to Mechanical Engineering
 * [r/Engineering Fields](https://www.reddit.com/r/engineering/): About all things related to engineering
-* [r/Aerospace](ttps://www.reddit.com/r/aerospace/): Aerospace Engineering
+* [r/Aerospace](https://www.reddit.com/r/aerospace/): Aerospace Engineering
 * [r/AskEngineers](https://www.reddit.com/r/AskEngineers/): Non-school Q&A
 * [r/AskElectronics](https://www.reddit.com/r/AskElectronics/): CE/EE Q&A
 * [r/BioEngineering](https://www.reddit.com/r/BioEngineering/): Biological
