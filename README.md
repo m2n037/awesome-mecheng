@@ -62,6 +62,9 @@ Table of Contents
 
 [Software Packages](#software)
   * for Finite Element Analysis
+  * for Control Engineering
+  * for Robotics
+  * [for CAD](#cad)
 
 [Sub Reddits](#subreddits)
 
@@ -338,7 +341,7 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [Learning Robotics Using Python ](https://www.packtpub.com/application-development/learning-robotics-using-python)
 * [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
 
-### CAD
+### <a name="cad"></a>for CAD
 #### CATIA
 [Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 12th. `Promo code: CATIA4FREE17`
 
