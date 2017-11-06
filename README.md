@@ -62,6 +62,9 @@ Table of Contents
 
 [Software Packages](#software)
   * for Finite Element Analysis
+  * for Control Engineering
+  * for Robotics
+  * [for CAD](#cad)
 
 [Sub Reddits](#subreddits)
 
@@ -131,7 +134,7 @@ I got inspiration from the countless awesome lists in github.
 
 ### Numerical Analysis
 * [Numerical Analysis for Engineering](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/), by D.W. Harder and R. Khoury `UWaterloo.ca`
-* [Numerical Recipes in C](http://www.nrbook.com/a/bookcpdf.html), by W.H. Press, B.P. Flannery, S.A. TEukolsky and W.T. Vetterly (1992) `Cambridge University Press` - `free for personal use`
+* [Numerical Recipes in C](http://www.nrbook.com/a/bookcpdf.html), by W.H. Press, B.P. Flannery, S.A. Teukolsky and W.T. Vetterly (1992) `Cambridge University Press` - `free for personal use`
 * [Numerical Methods for PDEs](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos), by Qiqi Wang `MIT.edu` `youtube`
 
 ## Programming
@@ -141,7 +144,7 @@ I got inspiration from the countless awesome lists in github.
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
 
 ### Python
-* [A Byte of Python](https://python.swaroopch.com/) by [C.H. Swaroop](https://www.swaroopch.com/about/) (2013)
+* [A Byte of Python](https://python.swaroopch.com/), by [C.H. Swaroop](https://www.swaroopch.com/about/) (2013)
  [Free Copy](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python) - [Hard Copy](https://www.swaroopch.com/buybook/)
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
 * [Learn X in Y minutes, where X=Python](https://learnxinyminutes.com/docs/python/)
@@ -156,7 +159,7 @@ I got inspiration from the countless awesome lists in github.
 
 ### MATLAB
 * [Awesome MATLAB List](https://github.com/mikecroucher/awesome-MATLAB), by [@mikecroucher](https://github.com/mikecroucher/) `github`
-* [Learn X in Y minutes](https://learnxinyminutes.com/docs/matlab/)
+* [Learn X in Y minutes, where X=MATLAB](https://learnxinyminutes.com/docs/matlab/)
 * [MATLAB Toolbox tutorials](http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
@@ -209,7 +212,7 @@ I got inspiration from the countless awesome lists in github.
 * [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), by Brian Douglas `youtube`
 
 ### Robotics
-* [Awesome Robotics List,](https://github.com/Kiloreux/awesome-robotics) by [@Kiloreux](https://github.com/kiloreux) `github`
+* [Awesome Robotics List](https://github.com/Kiloreux/awesome-robotics), by [@Kiloreux](https://github.com/kiloreux) `github`
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) `Caltech.edu`
 
 ---
@@ -251,6 +254,7 @@ I got inspiration from the countless awesome lists in github.
 ###### Good Reads
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `stackexchange`
 * [What Is a Good Linear Finite Element?](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf) by [J.R. Shewchuk](http://people.eecs.berkeley.edu/~jrs/) (2002) `Berkeley.edu`
+* [How Can I learn Finite Element Analysis?](https://www.simscale.com/blog/2016/11/learn-finite-element-analysis-fea/) `simscale`
 
 #### Code
 * [deal.II](https://www.dealii.org/) (C++ library)
@@ -336,6 +340,10 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [Mastering ROS for Robotics Programming ](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming)
 * [Learning Robotics Using Python ](https://www.packtpub.com/application-development/learning-robotics-using-python)
 * [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
+
+### <a name="cad"></a>for CAD
+#### CATIA
+[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 12th. `Promo code: CATIA4FREE17`
 
 ---
 
