@@ -1,11 +1,15 @@
 # YouTube Playlists
 
 ## Engineering
+
 ### Units and Measurements
+
 ### Material Properties
 
 ## Mathematics and Programming
+
 ### Applied Mathematics
+
 #### Calculus
 * [Math 2B: Calculus,](https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7mxsWrqTwndCBFXAKC0Xho9 )
 
@@ -16,16 +20,21 @@
 #### Probability and Statistics
 
 ### Programming
+
 #### Git
 * [GitHub Professional Guides,](https://www.youtube.com/watch?v=xSv_m3KhUO8&list=PLg7s6cbtAD15mfk2YVHy2U8Ileig_yEZW )
 * [Git and GitHub with Briana Swift,](https://www.youtube.com/watch?v=47E-jcuQz5c&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4 )
+
 #### MATLAB
 * [Matlab,](https://www.youtube.com/watch?v=-UR18HN78r4&list=PLIx9QCwIhuRTi0LzH-kijlSb8rbj5fys4 )
+
 #### OpenGL
 * [OpenGL Animation Tutorials,](https://www.youtube.com/watch?v=f3Cr8Yx3GGA&list=PLRIWtICgwaX2tKWCxdeB7Wv_rTET9JtWW )
 * [OpenGL 3D Game Tutorials,](https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP )
+
 #### Python
 * [Basic Python for Beginners,](https://www.youtube.com/watch?v=rxSyXBq9zq0&list=PLlEgNdBJEO-nQkFDah-gm6UX7CI6rCdB- )
+
 #### R
 * [R Shiny Tutorial - Building Interactive Web Apps in R using Shiny,](https://www.youtube.com/watch?v=_0ORRJqctHE&list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB )
 * [R Statistics Programming - Bioinformatics - Lectures,](https://www.youtube.com/watch?v=IYpGxUI9bxk&list=PL5rRb2J7OCT5N7kVJ4dehW1MDZe_hWeqh )
@@ -35,75 +44,100 @@
 * [R Programming Tutorials Playlist,](https://www.youtube.com/watch?v=X67No4239Ys&list=PL6gx4Cwl9DGCzVMGCPi1kwvABu7eWv08P )
 * [R tutorial - Learn R Programming,](https://www.youtube.com/watch?v=SWxoJqTqo08&list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg )
 * [R Programming Software and Statistics Tutorials (All Videos),](https://www.youtube.com/watch?v=riONFzJdXcs&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU )
-
 * [YaRrr! Course,](https://www.youtube.com/watch?v=dpPwdjorpg0&list=PL9tt3I41HFS8-A8V82yicRIl0uSb9mwEU )
 
 #### Unix
 * [BASH Shell Scripting Tutorial in Linux,](https://www.youtube.com/watch?v=vcXlnGK8GMc&list=PLypxmOPCOkHWHrSfAFgzHA1Y0iSbxXVOt )
 * [Linux Command-Line Interface Tutorials (CLI),](https://www.youtube.com/watch?v=UfUn9c6Tmvo&list=PLypxmOPCOkHV4vnWkQCasSjBOI8ZpkmMY )
+
 #### Wordpress
 * [Wordpress Basics](https://www.youtube.com/playlist?list=PLC5E59DD6D84D34DC)
 
 ## Mechanics & Theory of Machines
+
 ### Statics and Dynamics
 * [MIT 8.01 Classical Mechanics, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV)
 * [Engineering Mechanics (Statics,](https://www.youtube.com/watch?v=-hMfpDY6WFk&list=PLZOZfX_TaWAEzhyvNT1e9jbmTt4Eqo8C0 )
+
 ### Strength of Materials
 * [Strength of Materials for GATE,](https://www.youtube.com/watch?v=vkn9aY8DWcA&list=PLRJTmEvFf-OOI_6XiF_z3lJTCTDrId9O7 )
+
 ### Advanced Strength of Materials/Continuum Mechanics
+
 ### Theory of Machines
 
 ## Thermal Engineering
+
 ### Thermodynamics
+
 ### Heat Transfer
+
 ### Fluid Mechanics
 
 ## Manufacturing
+
 ### Conventional Manufacturing
 * [Design for Manufacturing Course,](https://www.youtube.com/watch?v=84VxN9K_PMM&list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a )
+
 ### Non-traditional Machining
+
 ### Additive Machining (Rapid Prototyping, 3D Printing)
 
 ## Specialized Fields
+
 ### Robotics
+
 #### Generic
 * [Robotics,](https://www.youtube.com/watch?v=ykMN3ZsGKM0&list=PLh2tx2yot8hlcMg6lAZqNi6ENxsMigRfe )
 
 #### Locomotion
+
 #### Manipulation
+
 #### Computer Vision
 * [Python Computer Vision](https://www.youtube.com/playlist?list=PLGKQkV4guDKG6NH26S6fMdKuZM39ICFxj)
-#### Artificial Intellgence/Machine Learning
 
-### Finite Element Analysis
-### Computational Fluid Dynamics
-### Engineering Optimization
-### MEMS/NEMS/Nanotechnology/BioEngineering
-### Machine Learning
-### Generic
+#### Artificial Intellgence/Machine Learning
 * [D& R for the Analysis of Big Data by William S. Cleveland,](https://www.youtube.com/watch?v=DKKN0BOBMxA&list=PLA9BB8D82FDB6565A )
 * [Introduction to Machine Learning by Dale Schuurmans,](https://www.youtube.com/watch?v=tdfZm-_Ru3c&list=PL2425D47C1B5A57C0 )
 * [PURDUE Machine Learning Summer School 2011,](https://www.youtube.com/watch?v=tdfZm-_Ru3c&list=PL2A65507F7D725EFB )
 * [Large-scale ML and Stochastic Algorithms by Leon Bottou,](https://www.youtube.com/watch?v=A3Q5SpB7Lns&list=PL2100D4EB6EB12BDC )
 * [Optimization for Machine Learning by S.V.N Vishwanathan,](https://www.youtube.com/watch?v=wycjmwaunBQ&list=PL09B0E8AFC69BE108 )
 * [Reinforcement Learning by Satinder Singh Baveja,](https://www.youtube.com/watch?v=hx9o49Zt-us&list=PLEC4A69C404BDA578 )
-#### Deep Learning
 * [DeepLearningBook,](https://www.youtube.com/watch?v=vi7lACKOUao&list=PLkISDyMVw2Htm42P0eTVEKyz7scxZ4V-O )
 * [Deep Learning,](https://www.youtube.com/watch?v=jpmGxOB2YPo&list=PLIx9QCwIhuRS1SPS9LHF7VjvZyM1g2Swz )
 
+### Finite Element Analysis
+
+### Computational Fluid Dynamics
+
+### Engineering Optimization
+
+### MEMS/NEMS/Nanotechnology/BioEngineering
 
 ## Software Packages
 
+---
+
+## To Be Segregated
+* []()
+* [8.01 Classical Mechanics](https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV)
+* [Python Computer Vision](https://www.youtube.com/playlist?list=PLGKQkV4guDKG6NH26S6fMdKuZM39ICFxj)
+* [Mathematics - Advanced Matrix Theory and Linear Algebra for Engineers](https://www.youtube.com/playlist?list=PL05CD03A43A56AE66)
+* [Differential & Integral Calculus 2 Technion](https://www.youtube.com/playlist?list=PLW3u28VuDAHLWNxKyfoBQSVBp-fhWrDr0)
+* [Leveraging Computer Vision and MATLAB for Advanced Driver Assistance Systems (ADAS)](https://www.youtube.com/playlist?list=PLn8PRpmsu08ogTiaJ_PFRRvzJwzuE3DA-)
+* [All Tutorials LinuxTV](https://www.youtube.com/playlist?list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN)
+* [Neural Network by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* [Intro to Programming](https://www.youtube.com/playlist?list=PL3wErD7ZIp_Ah6d4--3JWQZ_x5lwrBQZi)
+* [Marc - Nonlinear Material Modeling: Back to the Basics](https://www.youtube.com/playlist?list=PL6BEB829AA48166CE)
+* [Advanced Engineering Mathematics](https://www.youtube.com/playlist?list=PLwV-9DG53NDzJ32JwfCQLpbdK5Ys4bM4P)
+* [Differential Equations](https://www.youtube.com/playlist?list=PLwV-9DG53NDz3o_g5QS3s9QWJX2wtAYPH)
+* [Visual Group Theory](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
+* [Mechanics of Materials by Engineer4FRee](https://www.youtube.com/playlist?list=PLOAuB8dR35oft2ZLc1sHseypNMAiG_TeJ)
 * [Symposium on Modeling and Optimization](https://www.youtube.com/playlist?list=PLLBUgWXdTBDjhBUNyTPIYCJsH4CAkpKzP)
 * [Numerical Modeling (EGR 511),](https://www.youtube.com/watch?v=vOr0xex-1H0&list=PLZOZfX_TaWAFYQOeG6h3l9Nej0K8cPDdA )
 * [Free Classes,](https://www.youtube.com/watch?v=RaKX4A5EiQo&list=PLg7s6cbtAD17uAwaZwiykDci_q3te3CTY )
-
 * [Get Up and Running,](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB- )
-
-
-
-
-
 * [Whiteboard Wednesday,](https://www.youtube.com/watch?v=4HfDrisG3MQ&list=PLs2vRLhtciEt46Fg-uz1LQxb4xSW-KMGa )
 
 * [MATLAB and Simulink Robotics Arena,](https://www.youtube.com/watch?v=GyJeZ1_Lni8&list=PLn8PRpmsu08oLufaYWEvcuez8Rq7q4O7D )
@@ -120,13 +154,9 @@
 
 * [Full Webinars,](https://www.youtube.com/watch?v=VZD7vu6-0to&list=PLbEyNOJ4QXBoxYrBznFoCB_XbJGsGgCG0 )
 
-
 * [Statistics and Data Analysis in MATLAB,](https://www.youtube.com/watch?v=l1mqJFQHcfI&list=PLmUd5Zvaz17QSCaB0b4tLwmTBzFIHKQFO )
 
 * [Algorithms,](https://www.youtube.com/watch?v=iRv6wKRCybA&list=PLo_wesNOyQTOwEuTh1Pd61U8x3GvgT-OS )
-
-
-
 
 * [Graph Algorithms,](https://www.youtube.com/watch?v=ddTC4Zovtbc&list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j )
 
@@ -171,8 +201,6 @@
 * [Sublime Text,](https://www.youtube.com/watch?v=zVLJfrIwEP8&list=PL-osiE80TeTtHH8BZngXEsLPGotQxZa6z )
 
 * [Python Fundamentals Training,](https://www.youtube.com/watch?v=B9MvjMFokLc&list=PL26BA8B9FC33789FF )
-
-
 
 * [Computer Aided Analysis / C,](https://www.youtube.com/watch?v=N-JXeyUw7zw&list=PLFnx8Vsp0KYkCjzT-gTucuWtLbJKbZZlc )
 
@@ -745,8 +773,6 @@
 
 * [Making Control System Development Easier with MATLAB and Simulink,](https://www.youtube.com/watch?v=c8Fjk9TF6Y8&list=PLgh4hIUyrYyfonJjF22rheuJuV-znNXG3 )
 
-
-
 * [GIMP 2.8 Tutorials,](https://www.youtube.com/watch?v=RV03FZzobyU&list=PL6lxxT7IdTxFLGnbrViK4EA580xVVdT4y )
 
 * [Logic Gates and Combinational Logic Circuits,](https://www.youtube.com/watch?v=zc59TXKAPio&list=PL7EF5F145E6CAF84E )
@@ -754,8 +780,6 @@
 * [Boolean Algebra and Combinational Logic Circuit Design,](https://www.youtube.com/watch?v=bWyo3zNaSm4&list=PL6ACA763210093905 )
 
 * [Python Programming,](https://www.youtube.com/watch?v=wqPzyszZrQc&list=PL6lxxT7IdTxFKo9DguLxGM2dhgb8-u976 )
-
-
 
 * [Mechatronics with MATLAB and Simulink,](https://www.youtube.com/watch?v=qJV393TOJAA&list=PLn8PRpmsu08qFTItUTfJYklhQDEbBpoLt )
 
