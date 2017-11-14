@@ -45,6 +45,8 @@
 * [R tutorial - Learn R Programming,](https://www.youtube.com/watch?v=SWxoJqTqo08&list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg )
 * [R Programming Software and Statistics Tutorials (All Videos),](https://www.youtube.com/watch?v=riONFzJdXcs&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU )
 * [YaRrr! Course,](https://www.youtube.com/watch?v=dpPwdjorpg0&list=PL9tt3I41HFS8-A8V82yicRIl0uSb9mwEU )
+* [Introduction to R Programming,](https://www.youtube.com/watch?v=Lphv0VIR7sY&list=PLUgZaFoyJafjGP_3w9dk7Jy8GPaGFFYd_ )
+* [Analytics on R,](https://www.youtube.com/watch?v=RdR1lRQ_WQc&list=PLUgZaFoyJafgYrEycCrpnB008E9mxxli5 )
 
 #### Unix
 * [BASH Shell Scripting Tutorial in Linux,](https://www.youtube.com/watch?v=vcXlnGK8GMc&list=PLypxmOPCOkHWHrSfAFgzHA1Y0iSbxXVOt )
@@ -172,11 +174,11 @@
 
 * [Python – Intermediate and Advanced Features,](https://www.youtube.com/watch?v=gllUwQnYVww&list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx )
 
-* [Introduction to R Programming,](https://www.youtube.com/watch?v=Lphv0VIR7sY&list=PLUgZaFoyJafjGP_3w9dk7Jy8GPaGFFYd_ )
+
 
 * [Descriptive Statistics,](https://www.youtube.com/watch?v=N5hvv1XIV10&list=PLUgZaFoyJafhQFvdthEK6mbgvp6oG_KR8 )
 
-* [Analytics on R,](https://www.youtube.com/watch?v=RdR1lRQ_WQc&list=PLUgZaFoyJafgYrEycCrpnB008E9mxxli5 )
+
 
 * [Probability Distribution,](https://www.youtube.com/watch?v=hG6eS7LcRQs&list=PLUgZaFoyJafjaw-5lb9AmIH3aoGgsxkJ7 )
 
