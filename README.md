@@ -134,6 +134,7 @@ I got inspiration from the countless awesome lists in github.
 * [IEEE Spectrum](https://spectrum.ieee.org/)
 * [ScarbsTech](http://scarbsf1.com/), everything technical in F1
 * [GlobalSpec](http://insights.globalspec.com/)
+* [Hackaday](https://hackaday.com/)
 
 ---
 
