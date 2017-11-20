@@ -121,6 +121,7 @@ I got inspiration from the countless awesome lists in github.
 * [Google Scholar Classic Papers](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
 * [507 Mechanical Movements](http://507movements.com/), animated movements
 * [Animated Engines](http://www.animatedengines.com/), animated engines
+* [thang010146](https://www.youtube.com/user/thang010146/videos), 2100+ animated mechanisms (downloadable) `youtube`
 
 #### Patents
 * [Google Patents](https://www.google.com/patents/)
