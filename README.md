@@ -100,6 +100,7 @@ I got inspiration from the countless awesome lists in github.
 * [3D Cad Browser](https://www.3dcadbrowser.com/), 3D models
 * [GrabCAD](https://grabcad.com/), models' library and tutorials
 * [Thingiverse](https://www.thingiverse.com/), CAD parts, especially for 3D printing
+* [Direct Industry](http://pdf.directindustry.com/), online catalogs
 
 #### <a name="calculator"></a>Online Calculators
 * [Desmos](https://www.desmos.com/calculator), online graphing calculator
