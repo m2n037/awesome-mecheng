@@ -203,6 +203,7 @@ I got inspiration from the countless awesome lists in github.
 * [Lug Analysis](https://www.mechanicalc.com/reference/lug-analysis)
 
 ### <a name="strength"></a>Strength of Materials
+* [Mechanical Metallurgy]https://archive.org/details/mechanicalmetall00diet), by G.E. Dieter (1961). `Archive.org`
 * [Mechanics of Materials](https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1), by J.M. Gere and B.J. Goodno (2012) `Amazon`
 * [Mechanical Behavior of Materials](https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1), by N.E. Dowling (2012) `Amazon`
 * [Roark's Formulas for Stress and Strain](https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1), by W.C. Young and R.G. Budynas (2001) `Amazon`
