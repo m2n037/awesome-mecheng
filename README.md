@@ -204,7 +204,7 @@ I got inspiration from the countless awesome lists in github.
 * [Lug Analysis](https://www.mechanicalc.com/reference/lug-analysis)
 
 ### <a name="strength"></a>Strength of Materials
-* [Mechanical Metallurgy]https://archive.org/details/mechanicalmetall00diet), by G.E. Dieter (1961) `Archive.org`
+* [Mechanical Metallurgy](https://archive.org/details/mechanicalmetall00diet), by G.E. Dieter (1961) `Archive.org`
 * [Applied Strength of Materials for Engineering Technology](http://www.etcs.ipfw.edu/~dupenb/ET_200/Applied%20Str%20of%20Mat%20for%20ET%20v12%20Jun%202017.pdf), by [B. Dupen](http://www.etcs.ipfw.edu/~dupenb/) (2017) `IPFW.edu`
 * [Mechanics of Materials](https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1), by J.M. Gere and B.J. Goodno (2012) `Amazon`
 * [Mechanical Behavior of Materials](https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1), by N.E. Dowling (2012) `Amazon`
