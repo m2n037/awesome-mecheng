@@ -44,8 +44,8 @@ Table of Contents
 
 [Mechanics](#mechanics)
   * [Continuum Mechanics](#continuum)
-  * Statics and Dynamics
-  * Strength of Materials
+  * [Statics and Dynamics](#statics&dynamics)
+  * [Strength of Materials](#strength)
 
 [Theory of Machines](#machine)
   * [Mechanism Design](#mechanism-design)
@@ -197,12 +197,12 @@ I got inspiration from the countless awesome lists in github.
 * [Continuum Mechanics](http://www.continuummechanics.org/index.html), by B. McGinty (2012)
 * [Introduction to Continuum Mechanics for Engineers](http://oaktrust.library.tamu.edu/bitstream/handle/1969.1/2501/IntroductionToContinuumMechanicsRevisedEdition.pdf?sequence=6&isAllowed=y), by R.M. Bowen (1989) `Tamu.edu`
 
-### Statics and Dynamics
+### <a name="statics&dynamics"></a>Statics and Dynamics
 * [Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/) `Cornell.edu`
 * [Bolted Joint Analysis](https://www.mechanicalc.com/reference/bolted-joint-analysis)
 * [Lug Analysis](https://www.mechanicalc.com/reference/lug-analysis)
 
-### Strength of Materials
+### <a name="strength"></a>Strength of Materials
 * [Mechanics of Materials](https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1), by J.M. Gere and B.J. Goodno (2012) `Amazon`
 * [Mechanical Behavior of Materials](https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1), by N.E. Dowling (2012) `Amazon`
 * [Roark's Formulas for Stress and Strain](https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1), by W.C. Young and R.G. Budynas (2001) `Amazon`
