@@ -342,8 +342,8 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [Learning Robotics Using Python ](https://www.packtpub.com/application-development/learning-robotics-using-python)
 * [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
 
-### <a name="cad"></a>for CAD Modeling
-#### <a name="#catia"></a>CATIA
+### <a name="cad"></a>For CAD Modeling
+#### CATIA
 [Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 12th. `Promo code: CATIA4FREE17`
 
 #### <a name="#nx"></a>Siemens NX Unigraphics
