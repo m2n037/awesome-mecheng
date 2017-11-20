@@ -48,24 +48,25 @@ Table of Contents
   * Strength of Materials
 
 [Theory of Machines](#machine)
-  * Mechanism Design
-  * Control Engineering
-  * Robotics
+  * [Mechanism Design](#mechanism-design)
+  * [Control Engineering](#control-engineering)
+  * [Robotics](#robotics)
 
 [Thermal Engineering](#thermo)
-  * Thermodynamics
-  * Heat Transfer
-  * Fluid Mechanics
+  * [Thermodynamics](#thermodynamics)
+  * [Heat Transfer](#heat-transfer)
+  * [Fluid Mechanics](#fluid-mechanics)
+  * [Gas Dynamics](#gas-dynamics)
 
 [Manufacturing](#manufacturing)
 
 [Finite Element Analysis](#fea)
 
 [Software Packages](#software)
-  * for Finite Element Analysis
-  * for Control Engineering
-  * for Robotics
-  * [for CAD](#cad)
+  * [for Finite Element Analysis](#for-fea)
+  * [for Control Engineering](#for-control)
+  * [for Robotics](#for-robotics)
+  * [for CAD](#for-cad)
 
 [Sub Reddits](#subreddits)
 
@@ -280,7 +281,7 @@ I got inspiration from the countless awesome lists in github.
 ---
 
 ## <a name="software"></a>Software Packages
-### For Finite Element Analysis
+### <a name="for-fea"></a>For Finite Element Analysis
 * [Code_Aster](https://www.code-aster.org/)
 * [CalculiX](http://www.calculix.de/)
 * [Elmer](https://www.csc.fi/web/elmer)
@@ -347,7 +348,7 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 
 * [Altair HyperWorks Online Training series - Meshing, Analysis & Post-processing](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
 
-### For Control Engineering
+### <a name="for-control"></a>For Control Engineering
 ###### MATLAB
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
@@ -358,7 +359,7 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [Learning Robotics Using Python ](https://www.packtpub.com/application-development/learning-robotics-using-python)
 * [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
 
-### <a name="cad"></a>For CAD Modeling
+### <a name="for-cad"></a>For CAD Modeling
 #### CATIA
 [Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
 
