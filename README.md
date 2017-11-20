@@ -344,7 +344,7 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 
 ### <a name="cad"></a>For CAD Modeling
 #### CATIA
-[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 12th. `Promo code: CATIA4FREE17`
+[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
 
 #### <a name="#nx"></a>Siemens NX Unigraphics
 
