@@ -262,7 +262,8 @@ I got inspiration from the countless awesome lists in github.
 ---
 
 ## Manufacturing
-...
+### CAD Theory
+* [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu`
 
 ---
 
