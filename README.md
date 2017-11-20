@@ -110,6 +110,7 @@ I got inspiration from the countless awesome lists in github.
 
 #### <a name="useful"></a>Useful Websites
 * [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
+* [eFunda](http://www.efunda.com/home.cfm), engineering fundamentals
 * [Ryerson Stock List](https://www.ryerson.com/stocklist) for structural profiles
 * [How Stuff Works](http://www.howstuffworks.com/) articles explaining how everyday things work
 * [Google Scholar Classic Papers](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
