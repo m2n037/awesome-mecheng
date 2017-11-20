@@ -219,7 +219,7 @@ I got inspiration from the countless awesome lists in github.
 
 ## <a name="machine"></a>Theory of Machines
 ### Mechanism Design
-* [Mechanisms/Machines], by L. Teel (1972) `Archive.org`
+* [Mechanisms/Machines](https://archive.org/details/MechanismsMachines), by L. Teel (1972) `Archive.org`
 * [Shigley's Mechanical Engineering Design](https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2), by R.G.Budynas and J.K. Nisbett (2014) `Amazon`
 
 ### Control Engineering
