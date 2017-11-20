@@ -268,6 +268,7 @@ I got inspiration from the countless awesome lists in github.
 * [Code_Aster](https://www.code-aster.org/)
 * [CalculiX](http://www.calculix.de/)
 * [Elmer](https://www.csc.fi/web/elmer)
+* [awesome-cae](https://github.com/qd-cae/awesome-CAE)
 
 #### ANSYS
 [Student/Free version](http://www.ansys.com/academic/free-student-products): Available for anyone with limited capability and usage for learning purpose. This is a video explaining how to [download and install ANSYS Student Release 17.2 from Ansys How To official channel](https://www.youtube.com/watch?v=rV-xr_D18hM)
@@ -341,49 +342,70 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [Learning Robotics Using Python ](https://www.packtpub.com/application-development/learning-robotics-using-python)
 * [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
 
-### <a name="cad"></a>for CAD
-#### CATIA
+### <a name="cad"></a>for CAD Modeling
+#### <a name="#catia"></a>CATIA
 [Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 12th. `Promo code: CATIA4FREE17`
+
+#### <a name="#nx"></a>Siemens NX Unigraphics
+
+#### <a name="#solidworks"></a>SolidWorks
+
+#### <a name="#autocad"></a>AutoCAD
+
+#### <a name="#blender"></a>Blender
+
+#### <a name="#solidedge"></a>Siemens Solid Edge
+
+#### <a name="#proe"></a>PTC PTC Creo (formerly known as Pro/ENGINEER)
+
+#### <a name="#spaceclaim"></a>SpaceClaim
+
+#### <a name="#rhino"></a>Rhinoceros 3D
+
+#### <a name="#sketchup"></a>SketchUp
+
+#### <a name="#freecad"></a>FreeCAD
+
+#### <a name="#brlcad"></a>BRL-CAD
 
 ---
 
 ### <a name="subreddits"></a> SubReddits Related to Mechanical Engineering
-* [Engineering Fields](https://www.reddit.com/r/engineering/)
-* [Aerospace: Aerospace](ttps://www.reddit.com/r/aerospace/)
-* [AskEngineers: Non-school Q&A](https://www.reddit.com/r/AskEngineers/)
-* [AskElectronics: CE/EE Q&A](https://www.reddit.com/r/AskElectronics/)
-* [BioEngineering: Biological](https://www.reddit.com/r/BioEngineering/)
-* [Biotech: Biotechnology](https://www.reddit.com/r/biotech/)
-* [Chem E: Chemical](https://www.reddit.com/r/chemicalengineering/)
-* [Civil Engineering: Civil](https://www.reddit.com/r/civilengineering/)
-* [Construction: Construction](https://www.reddit.com/r/construction/)
-* [ECE: General EE & CE discussion](https://www.reddit.com/r/ECE/)
-* [EE: Electrical](https://www.reddit.com/r/electricalengineering/)
-* [EngineeringStudents: For wee engineerlings](https://www.reddit.com/r/EngineeringStudents/)
-* [Manufacturing: Manufacturing Industry](https://www.reddit.com/r/Manufacturing/)
-* [Materials: Materials Engineering](https://www.reddit.com/r/materials/)
-* [Mech E: Mechanical Engineering](https://www.reddit.com/r/mechanicalengineering/)
-* [CAD: Computer Aided Design](https://www.reddit.com/r/CAD/)
-* [CFD: Fluid Dynamics](https://www.reddit.com/r/CFD/)
-* [FEA: Finite Element Analysis](https://www.reddit.com/r/fea/)
-* [PLC: Programmable Logic Controllers](https://www.reddit.com/r/PLC/)
-* [AskScience: No-nonsense science Q&A](https://www.reddit.com/r/AskScience/)
-* [Biology](https://www.reddit.com/r/biology/)
-* [Chemistry](https://www.reddit.com/r/chemistry/)
-* [Coding](https://www.reddit.com/r/coding/)
-* [Computer Science](https://www.reddit.com/r/ComputerScience/)
-* [Electronics](https://www.reddit.com/r/electronics/)
-* [Lectures](https://www.reddit.com/r/lectures/)
-* [Math](https://www.reddit.com/r/math/)
-* [Physics](https://www.reddit.com/r/physics/)
-* [Programming](https://www.reddit.com/r/programming/)
-* [Science](https://www.reddit.com/r/science/)
-* [Fluid Mechanics](https://www.reddit.com/r/FluidMechanics/)
-* [CSBooks: Computer Science](https://www.reddit.com/r/csbooks/)
-* [EEBooks: Electrical Engineering](https://www.reddit.com/r/eebooks/)
-* [MathBooks: Mathematics](https://www.reddit.com/r/mathbooks/)
-* [PhysicsBooks: Physics](https://www.reddit.com/r/physicsbooks/)
-* [ECEComponentExchange: Parts swap](https://www.reddit.com/r/ECEComponentExchange/)
+* [r/Engineering Fields](https://www.reddit.com/r/engineering/): About all things related to engineering
+* [r/Aerospace](https://www.reddit.com/r/aerospace/): Aerospace Engineering
+* [r/AskEngineers](https://www.reddit.com/r/AskEngineers/): Non-school Q&A
+* [r/AskElectronics](https://www.reddit.com/r/AskElectronics/): CE/EE Q&A
+* [r/BioEngineering](https://www.reddit.com/r/BioEngineering/): Biological
+* [r/Biotech](https://www.reddit.com/r/biotech/): Biotechnology
+* [r/ChemE](https://www.reddit.com/r/chemicalengineering/): Chemical Engineering
+* [r/Civil Engineering](https://www.reddit.com/r/civilengineering/): Civil Engineering
+* [r/Construction](https://www.reddit.com/r/construction/): Construction
+* [r/ECE](https://www.reddit.com/r/ECE/): General EE & CE discussion
+* [r/EE](https://www.reddit.com/r/electricalengineering/): Electrical Engineering
+* [r/EngineeringStudents](https://www.reddit.com/r/EngineeringStudents/): For wee engineerlings
+* [r/Manufacturing](https://www.reddit.com/r/Manufacturing/): Manufacturing Industry
+* [r/Materials](https://www.reddit.com/r/materials/): Materials Engineering
+* [r/MechE](https://www.reddit.com/r/mechanicalengineering/): Mechanical Engineering
+* [r/CAD](https://www.reddit.com/r/CAD/): Computer Aided Design
+* [r/CFD](https://www.reddit.com/r/CFD/): Computational Fluid Dynamics
+* [r/FEA](https://www.reddit.com/r/fea/): Finite Element Analysis
+* [r/AskScience](https://www.reddit.com/r/AskScience/): No-nonsense science Q&A
+* [r/Biology](https://www.reddit.com/r/biology/)
+* [r/Chemistry](https://www.reddit.com/r/chemistry/)
+* [r/Coding](https://www.reddit.com/r/coding/)
+* [r/Computer Science](https://www.reddit.com/r/ComputerScience/)
+* [r/Electronics](https://www.reddit.com/r/electronics/)
+* [r/Lectures](https://www.reddit.com/r/lectures/)
+* [r/Math](https://www.reddit.com/r/math/)
+* [r/Physics](https://www.reddit.com/r/physics/)
+* [r/Programming](https://www.reddit.com/r/programming/)
+* [r/Science](https://www.reddit.com/r/science/)
+* [r/Fluid Mechanics](https://www.reddit.com/r/FluidMechanics/)
+* [r/CSBooks](https://www.reddit.com/r/csbooks/): Computer Science
+* [r/EEBooks](https://www.reddit.com/r/eebooks/): Electrical Engineering
+* [r/MathBooks](https://www.reddit.com/r/mathbooks/): Mathematics
+* [r/PhysicsBooks: Physics](https://www.reddit.com/r/physicsbooks/)
+* [r/ECEComponentExchange: Parts swap](https://www.reddit.com/r/ECEComponentExchange/)
 
 
 ## <a name="publication"></a>Top Publication Venues for Different Fields
