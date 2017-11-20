@@ -405,19 +405,21 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [r/Biology](https://www.reddit.com/r/biology/)
 * [r/Chemistry](https://www.reddit.com/r/chemistry/)
 * [r/Coding](https://www.reddit.com/r/coding/)
-* [r/Computer Science](https://www.reddit.com/r/ComputerScience/)
+* [r/ComputerScience](https://www.reddit.com/r/ComputerScience/)
 * [r/Electronics](https://www.reddit.com/r/electronics/)
 * [r/Lectures](https://www.reddit.com/r/lectures/)
 * [r/Math](https://www.reddit.com/r/math/)
 * [r/Physics](https://www.reddit.com/r/physics/)
 * [r/Programming](https://www.reddit.com/r/programming/)
 * [r/Science](https://www.reddit.com/r/science/)
-* [r/Fluid Mechanics](https://www.reddit.com/r/FluidMechanics/)
+* [r/FluidMechanics](https://www.reddit.com/r/FluidMechanics/)
 * [r/CSBooks](https://www.reddit.com/r/csbooks/): Computer Science
 * [r/EEBooks](https://www.reddit.com/r/eebooks/): Electrical Engineering
 * [r/MathBooks](https://www.reddit.com/r/mathbooks/): Mathematics
-* [r/PhysicsBooks: Physics](https://www.reddit.com/r/physicsbooks/)
-* [r/ECEComponentExchange: Parts swap](https://www.reddit.com/r/ECEComponentExchange/)
+* [r/PhysicsBooks](https://www.reddit.com/r/physicsbooks/): Physics
+* [r/ECEComponentExchange](https://www.reddit.com/r/ECEComponentExchange/): Parts swap
+* [r/Mechanical_gifs](https://www.reddit.com/r/mechanical_gifs/): perfect loops of mechanical things
+* [r/EngineeringPorn](https://www.reddit.com/r/EngineeringPorn/): porn for engineers (*safe for work*)
 
 
 ## <a name="publication"></a>Top Publication Venues for Different Fields
