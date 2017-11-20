@@ -93,6 +93,8 @@ I got inspiration from the countless awesome lists in github.
 
 #### <a name="database"></a>Databases
 * [MatWeb](http://www.matweb.com/), database of material properties
+* [MatBase](https://www.matbase.com/), database of material properties
+
 * [McMaster-Carr](https://www.mcmaster.com/), components supplier with 3D models and drawings
 * [Traceparts online](https://www.tracepartsonline.net/), CAD parts library
 * [Thingiverse](https://www.thingiverse.com/), CAD parts, especially for 3D printing
