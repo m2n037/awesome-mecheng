@@ -227,6 +227,7 @@ I got inspiration from the countless awesome lists in github.
 * [Feedback Control Theory](https://www.amazon.com/Feedback-Control-Theory-Electrical-Engineering/dp/0486469336/ref=sr_1_1), by J.C. Doyle, B.A. Francis and A.R. Tannenbaum (2009) `Amazon`
 * [Feedback Systems](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf) by K.J. Åström and R. Murray (2011) `CalTech.edu`
 * [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), by Brian Douglas `youtube`
+* [Control Systems](https://en.wikibooks.org/wiki/Control_Systems) `wikibooks`
 
 ### Robotics
 * [Awesome Robotics List](https://github.com/Kiloreux/awesome-robotics), by [@Kiloreux](https://github.com/kiloreux) `github`
