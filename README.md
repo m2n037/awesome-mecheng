@@ -26,6 +26,7 @@ Table of Contents
   * [Online Calculators](#calculator)
   * [Tools and Programs](#tool)
   * [Useful Websites](#useful)
+  * [Patents](#patents)
   * [Blog and Forums](#blog)
 
 [Mathematics](#math)
@@ -118,6 +119,11 @@ I got inspiration from the countless awesome lists in github.
 * [Google Scholar Classic Papers](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
 * [507 Mechanical Movements](http://507movements.com/), animated movements
 * [Animated Engines](http://www.animatedengines.com/), animated engines
+
+#### Patents
+* [Google Patents](https://www.google.com/patents/)
+* [European Pantent Office](https://worldwide.espacenet.com/)
+* [United States Patent and Trademark Office](https://www.uspto.gov/)
 
 #### <a name="blog"></a>Blogs and Forums
 * [Engineering StackExchange](https://engineering.stackexchange.com/)
