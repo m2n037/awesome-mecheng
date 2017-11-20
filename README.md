@@ -86,6 +86,7 @@ I got inspiration from the countless awesome lists in github.
 
 ## <a name="opencourse"></a>Open Courses
 * [MIT OpenCourseWare](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=mechanicalengineering)
+* [MIT Online Textbooks](https://ocw.mit.edu/courses/online-textbooks/#mechanical-engineering)
 * [edX](https://www.edx.org/)
 * [InTech](https://www.intechopen.com/books/subject/mechanical-engineering), Open Acess book publisher
 
