@@ -15,8 +15,9 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 ---
 
 <details open>
-<summary>Table of Contents</summary>
------------------
+<summary><h1>Table of Contents</h1></summary>
+
+***
 
 [Preamble](#preamble)
 
