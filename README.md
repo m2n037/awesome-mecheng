@@ -14,7 +14,8 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
 ---
 
-Table of Contents
+<details open>
+<summary>Table of Contents</summary>
 -----------------
 
 [Preamble](#preamble)
@@ -77,6 +78,7 @@ Table of Contents
 [Competitions](#competition)
 
 [Qualifying/Certification Examinations](#certification)
+</details>
 
 ---
 
