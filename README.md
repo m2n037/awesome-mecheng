@@ -14,10 +14,10 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
 ---
 
-<details open>
-<summary><h1>Table of Contents</h1></summary>
+Table of Contents
+-----------------
+<details open><summary>Hide</summary>
 
-***
 
 [Preamble](#preamble)
 
