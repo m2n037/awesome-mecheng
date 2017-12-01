@@ -26,6 +26,7 @@ Table of Contents
   * [Online Calculators](#calculator)
   * [Tools and Programs](#tool)
   * [Useful Websites](#useful)
+  * [Patents](#patents)
   * [Blog and Forums](#blog)
 
 [Mathematics](#math)
@@ -43,28 +44,29 @@ Table of Contents
 
 [Mechanics](#mechanics)
   * [Continuum Mechanics](#continuum)
-  * Statics and Dynamics
-  * Strength of Materials
+  * [Statics and Dynamics](#statics&dynamics)
+  * [Strength of Materials](#strength)
 
 [Theory of Machines](#machine)
-  * Mechanism Design
-  * Control Engineering
-  * Robotics
+  * [Mechanism Design](#mechanism-design)
+  * [Control Engineering](#control-engineering)
+  * [Robotics](#robotics)
 
 [Thermal Engineering](#thermo)
-  * Thermodynamics
-  * Heat Transfer
-  * Fluid Mechanics
+  * [Thermodynamics](#thermodynamics)
+  * [Heat Transfer](#heat-transfer)
+  * [Fluid Mechanics](#fluid-mechanics)
+  * [Gas Dynamics](#gas-dynamics)
 
 [Manufacturing](#manufacturing)
 
 [Finite Element Analysis](#fea)
 
 [Software Packages](#software)
-  * for Finite Element Analysis
-  * for Control Engineering
-  * for Robotics
-  * [for CAD](#cad)
+  * [for Finite Element Analysis](#for-fea)
+  * [for Control Engineering](#for-control)
+  * [for Robotics](#for-robotics)
+  * [for CAD](#for-cad)
 
 [Sub Reddits](#subreddits)
 
@@ -84,7 +86,8 @@ Table of Contents
 I got inspiration from the countless awesome lists in github.
 
 ## <a name="opencourse"></a>Open Courses
-* [MIT OpenCourseWare](https://ocw.mit.edu/courses/find-by-topic/#?cat=engineering&subcat=mechanicalengineering)
+* [MIT OpenCourseWare](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=mechanicalengineering)
+* [MIT Online Textbooks](https://ocw.mit.edu/courses/online-textbooks/#mechanical-engineering)
 * [edX](https://www.edx.org/)
 * [InTech](https://www.intechopen.com/books/subject/mechanical-engineering), Open Acess book publisher
 
@@ -93,9 +96,13 @@ I got inspiration from the countless awesome lists in github.
 
 #### <a name="database"></a>Databases
 * [MatWeb](http://www.matweb.com/), database of material properties
+* [MatBase](https://www.matbase.com/), database of material properties
 * [McMaster-Carr](https://www.mcmaster.com/), components supplier with 3D models and drawings
 * [Traceparts online](https://www.tracepartsonline.net/), CAD parts library
+* [3D Cad Browser](https://www.3dcadbrowser.com/), 3D models
+* [GrabCAD](https://grabcad.com/), models' library and tutorials
 * [Thingiverse](https://www.thingiverse.com/), CAD parts, especially for 3D printing
+* [Direct Industry](http://pdf.directindustry.com/), online catalogs
 
 #### <a name="calculator"></a>Online Calculators
 * [Desmos](https://www.desmos.com/calculator), online graphing calculator
@@ -110,11 +117,18 @@ I got inspiration from the countless awesome lists in github.
 
 #### <a name="useful"></a>Useful Websites
 * [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
+* [eFunda](http://www.efunda.com/home.cfm), engineering fundamentals
 * [Ryerson Stock List](https://www.ryerson.com/stocklist) for structural profiles
 * [How Stuff Works](http://www.howstuffworks.com/) articles explaining how everyday things work
 * [Google Scholar Classic Papers](https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006)
 * [507 Mechanical Movements](http://507movements.com/), animated movements
 * [Animated Engines](http://www.animatedengines.com/), animated engines
+* [thang010146](https://www.youtube.com/user/thang010146/videos), 2100+ animated mechanisms (downloadable) `youtube`
+
+#### Patents
+* [Google Patents](https://www.google.com/patents/)
+* [European Pantent Office](https://worldwide.espacenet.com/)
+* [United States Patent and Trademark Office](https://www.uspto.gov/)
 
 #### <a name="blog"></a>Blogs and Forums
 * [Engineering StackExchange](https://engineering.stackexchange.com/)
@@ -123,6 +137,8 @@ I got inspiration from the countless awesome lists in github.
 * [Physics Forums](https://www.physicsforums.com/forums/mechanical-engineering.101/)
 * [IEEE Spectrum](https://spectrum.ieee.org/)
 * [ScarbsTech](http://scarbsf1.com/), everything technical in F1
+* [GlobalSpec](http://insights.globalspec.com/)
+* [Hackaday](https://hackaday.com/)
 
 ---
 
@@ -131,6 +147,8 @@ I got inspiration from the countless awesome lists in github.
 * [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), by G. Strang. [Direct download](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) `MIT.edu` 
 * [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by G. Cain
 * [Essentials of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) `youtube`
+* [Introduction to Tensor Analysis](http://ruina.mae.cornell.edu/Courses/ME6700/references/block_tensor_analysis.pdf), by H.D. Block. Out of print. `Cornell.edu`
+* [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=3274), by K.B. Petersen, M.S. Pedersen (2012) `DTU.dk`
 
 ### Numerical Analysis
 * [Numerical Analysis for Engineering](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/), by D.W. Harder and R. Khoury `UWaterloo.ca`
@@ -162,6 +180,7 @@ I got inspiration from the countless awesome lists in github.
 * [Learn X in Y minutes, where X=MATLAB](https://learnxinyminutes.com/docs/matlab/)
 * [MATLAB Toolbox tutorials](http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
+* [A Brief Introduction to Engineering Computation with MATLAB](https://open.bccampus.ca/find-open-textbooks/?uuid=e12e3911-8a06-497e-b8c9-99e347092af0&contributor=&keyword=&subject=) `BCcampus.ca`
 
 ### <a name="r"></a>R (statistics)
 * [Intro to R for data science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0) `edX Microsoft`
@@ -180,12 +199,14 @@ I got inspiration from the countless awesome lists in github.
 * [Continuum Mechanics](http://www.continuummechanics.org/index.html), by B. McGinty (2012)
 * [Introduction to Continuum Mechanics for Engineers](http://oaktrust.library.tamu.edu/bitstream/handle/1969.1/2501/IntroductionToContinuumMechanicsRevisedEdition.pdf?sequence=6&isAllowed=y), by R.M. Bowen (1989) `Tamu.edu`
 
-### Statics and Dynamics
+### <a name="statics&dynamics"></a>Statics and Dynamics
 * [Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/) `Cornell.edu`
 * [Bolted Joint Analysis](https://www.mechanicalc.com/reference/bolted-joint-analysis)
 * [Lug Analysis](https://www.mechanicalc.com/reference/lug-analysis)
 
-### Strength of Materials
+### <a name="strength"></a>Strength of Materials
+* [Mechanical Metallurgy](https://archive.org/details/mechanicalmetall00diet), by G.E. Dieter (1961) `Archive.org`
+* [Applied Strength of Materials for Engineering Technology](http://www.etcs.ipfw.edu/~dupenb/ET_200/Applied%20Str%20of%20Mat%20for%20ET%20v12%20Jun%202017.pdf), by [B. Dupen](http://www.etcs.ipfw.edu/~dupenb/) (2017) `IPFW.edu`
 * [Mechanics of Materials](https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1), by J.M. Gere and B.J. Goodno (2012) `Amazon`
 * [Mechanical Behavior of Materials](https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1), by N.E. Dowling (2012) `Amazon`
 * [Roark's Formulas for Stress and Strain](https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1), by W.C. Young and R.G. Budynas (2001) `Amazon`
@@ -199,6 +220,7 @@ I got inspiration from the countless awesome lists in github.
 
 ## <a name="machine"></a>Theory of Machines
 ### Mechanism Design
+* [Mechanisms/Machines](https://archive.org/details/MechanismsMachines), by L. Teel (1972) `Archive.org`
 * [Shigley's Mechanical Engineering Design](https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2), by R.G.Budynas and J.K. Nisbett (2014) `Amazon`
 
 ### Control Engineering
@@ -210,6 +232,7 @@ I got inspiration from the countless awesome lists in github.
 * [Feedback Control Theory](https://www.amazon.com/Feedback-Control-Theory-Electrical-Engineering/dp/0486469336/ref=sr_1_1), by J.C. Doyle, B.A. Francis and A.R. Tannenbaum (2009) `Amazon`
 * [Feedback Systems](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf) by K.J. Åström and R. Murray (2011) `CalTech.edu`
 * [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), by Brian Douglas `youtube`
+* [Control Systems](https://en.wikibooks.org/wiki/Control_Systems) `wikibooks`
 
 ### Robotics
 * [Awesome Robotics List](https://github.com/Kiloreux/awesome-robotics), by [@Kiloreux](https://github.com/kiloreux) `github`
@@ -243,7 +266,8 @@ I got inspiration from the countless awesome lists in github.
 ---
 
 ## Manufacturing
-...
+### CAD/CAM Theory
+* [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
 
 ---
 
@@ -264,7 +288,7 @@ I got inspiration from the countless awesome lists in github.
 ---
 
 ## <a name="software"></a>Software Packages
-### For Finite Element Analysis
+### <a name="for-fea"></a>For Finite Element Analysis
 * [Code_Aster](https://www.code-aster.org/)
 * [CalculiX](http://www.calculix.de/)
 * [Elmer](https://www.csc.fi/web/elmer)
@@ -331,7 +355,7 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 
 * [Altair HyperWorks Online Training series - Meshing, Analysis & Post-processing](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
 
-### For Control Engineering
+### <a name="for-control"></a>For Control Engineering
 ###### MATLAB
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
@@ -342,9 +366,9 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [Learning Robotics Using Python ](https://www.packtpub.com/application-development/learning-robotics-using-python)
 * [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
 
-### <a name="cad"></a>for CAD Modeling
-#### <a name="#catia"></a>CATIA
-[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 12th. `Promo code: CATIA4FREE17`
+### <a name="for-cad"></a>For CAD Modeling
+#### CATIA
+[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
 
 #### <a name="#nx"></a>Siemens NX Unigraphics
 
@@ -393,19 +417,21 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [r/Biology](https://www.reddit.com/r/biology/)
 * [r/Chemistry](https://www.reddit.com/r/chemistry/)
 * [r/Coding](https://www.reddit.com/r/coding/)
-* [r/Computer Science](https://www.reddit.com/r/ComputerScience/)
+* [r/ComputerScience](https://www.reddit.com/r/ComputerScience/)
 * [r/Electronics](https://www.reddit.com/r/electronics/)
 * [r/Lectures](https://www.reddit.com/r/lectures/)
 * [r/Math](https://www.reddit.com/r/math/)
 * [r/Physics](https://www.reddit.com/r/physics/)
 * [r/Programming](https://www.reddit.com/r/programming/)
 * [r/Science](https://www.reddit.com/r/science/)
-* [r/Fluid Mechanics](https://www.reddit.com/r/FluidMechanics/)
+* [r/FluidMechanics](https://www.reddit.com/r/FluidMechanics/)
 * [r/CSBooks](https://www.reddit.com/r/csbooks/): Computer Science
 * [r/EEBooks](https://www.reddit.com/r/eebooks/): Electrical Engineering
 * [r/MathBooks](https://www.reddit.com/r/mathbooks/): Mathematics
-* [r/PhysicsBooks: Physics](https://www.reddit.com/r/physicsbooks/)
-* [r/ECEComponentExchange: Parts swap](https://www.reddit.com/r/ECEComponentExchange/)
+* [r/PhysicsBooks](https://www.reddit.com/r/physicsbooks/): Physics
+* [r/ECEComponentExchange](https://www.reddit.com/r/ECEComponentExchange/): Parts swap
+* [r/Mechanical_gifs](https://www.reddit.com/r/mechanical_gifs/): perfect loops of mechanical things
+* [r/EngineeringPorn](https://www.reddit.com/r/EngineeringPorn/): porn for engineers (*safe for work*)
 
 
 ## <a name="publication"></a>Top Publication Venues for Different Fields
