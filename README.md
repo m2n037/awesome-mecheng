@@ -440,6 +440,7 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 ### Journals
 
 #### Open Access
+* [DOAJ, Directory of Open Acess Journals](https://doaj.org/)
 * [SCIRP, Modern Mechanical Engineering](http://www.scirp.org/journal/mme/)
 * [SAGE journals, Advances in MEchanical Engineering](http://journals.sagepub.com/loi/adea)
 
