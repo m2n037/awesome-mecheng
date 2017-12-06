@@ -124,7 +124,7 @@ I got inspiration from the countless awesome lists in github.
 * [507 Mechanical Movements](http://507movements.com/), animated movements
 * [Animated Engines](http://www.animatedengines.com/), animated engines
 * [thang010146](https://www.youtube.com/user/thang010146/videos), 2100+ animated mechanisms (downloadable) `youtube`
-* [DMG Lib, Digital Mechanism and Gear Library](http://www.dmg-lib.org/dmglib/main/portal.jsp)
+* [DMG Lib](http://www.dmg-lib.org/dmglib/main/portal.jsp), Digital Mechanism and Gear Library
 * [KMODDL](http://kmoddl.library.cornell.edu/e-books.php), collection of mechanism and machines `Cornell.edu`
 
 #### Patents
