@@ -216,6 +216,7 @@ I got inspiration from the countless awesome lists in github.
 * [The Engineering of Structures Around Us](https://www.edx.org/course/engineering-structures-around-us-dartmouthx-dart-engs-02-x) `edX Dartmouth`
 * [Elements of Structures](https://www.edx.org/course/elements-structures-mitx-2-01x-1) `edX MIT`
 * [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
+* [Mechanics of Materials](http://madhuvable.org/books-2/introduction/), by [M. Vable](http://pages.mtu.edu/~mavable/) (2009) `MTU.edu` 
 
 
 ## <a name="machine"></a>Theory of Machines
