@@ -220,7 +220,8 @@ I got inspiration from the countless awesome lists in github.
 * [Elements of Structures](https://www.edx.org/course/elements-structures-mitx-2-01x-1) `edX MIT`
 * [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
 * [Mechanics of Materials](http://madhuvable.org/books-2/introduction/), by [M. Vable](http://pages.mtu.edu/~mavable/) (2009) `MTU.edu` 
-
+### Plasticity
+* [The Mathematical Theory of Plasticity](https://archive.org/details/in.ernet.dli.2015.84513), by R. Hill (1950) `Archive.org`
 
 ## <a name="machine"></a>Theory of Machines
 ### Mechanism Design
