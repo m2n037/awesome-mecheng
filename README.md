@@ -183,6 +183,7 @@ I got inspiration from the countless awesome lists in github.
 * [MATLAB Toolbox tutorials](http://www.tech.plym.ac.uk/spmc/links/matlab/matlab_toolbox.html)
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 * [A Brief Introduction to Engineering Computation with MATLAB](https://open.bccampus.ca/find-open-textbooks/?uuid=e12e3911-8a06-497e-b8c9-99e347092af0&contributor=&keyword=&subject=) `BCcampus.ca`
+* [Stuart’s MATLAB Videos](https://blogs.mathworks.com/videos/) (Blog) `MathWorks.com`
 
 ### <a name="r"></a>R (statistics)
 * [Intro to R for data science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0) `edX Microsoft`
