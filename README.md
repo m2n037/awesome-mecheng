@@ -336,33 +336,19 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 [Student/Free version](http://www.altairuniversity.com/hyperworks-licensing/): Available only for students with limited capability.
 
 * [HyperMesh | Pre processing | 2D | 3D | Meshing | ANSYS | Tutorial |](https://www.youtube.com/playlist?list=PLOahOE6DpL4puVylWdpHWRoGhIfswDc6T)
-
 * [HyperMesh & Optistruct Solved Tutorials AOC-2016 Contest](https://www.youtube.com/playlist?list=PL1u26y75SCrBpe7SWbMEgOe0Ty3O7gPGS)
-
 * [Optistruct for Optimization AOC-2016 Contest](https://www.youtube.com/playlist?list=PL1u26y75SCrBHdDPaA2Thry6qwuSu2Uf_)
-
 * [Optistruct by Anil Kumar](https://www.youtube.com/playlist?list=PLrXG4nKgafb8IWo7q4fTXH5SX4TjsV0Pp)
-
 * [Hyperworks Optistruct Tutorials by Manuel Ramsaier](https://www.youtube.com/playlist?list=PLE4jpqcRJiBpJvHgHDmTZxi0J_RiXAz-6)
-
 * [HyperWorks Tips & Tricks by Altair](https://www.youtube.com/playlist?list=PLRqUDK2aqvkDi21dCVdT0uJFTzslg67gz)
-
 * [Hypermesh basics by Apoorv Bapat](https://www.youtube.com/playlist?list=PLAsvHPJrmoWZNrnXYYLkvV2ElNe2g3zxX)
-
 * [Hypermesh Tutorial by TheScientifica](https://www.youtube.com/playlist?list=PL86AF55AB0D9AA70C)
-
 * [Hypermesh Tutorials Collections by Fazle ahad](https://www.youtube.com/playlist?list=PLvVR-5zpzf0HQVpv3gs58U620ekf--IsJ)
-
 * [SAEINDIA BAJA 2016 Online Training Session](https://www.youtube.com/playlist?list=PLJRDa46CU8JKZyLbEOxuACCbHi0_jk03X)
-
 * [Dynamic Analysis of Roll Cage](https://www.youtube.com/playlist?list=PLJRDa46CU8JIch9nYk54DzrcyoRJgkQDl)
-
 * [SUPRA SAE India 2016 Pre-virtual online Training Session](https://www.youtube.com/playlist?list=PLJRDa46CU8JLDsfzy0ZB06KLeIBKVi6Aw)
-
 * [Formula Student India Online Training Series](https://www.youtube.com/playlist?list=PLJRDa46CU8JLaBjaiwbePkUKJeSqQyA-P)
-
 * [BAJA Student India Online Training Series](https://www.youtube.com/playlist?list=PLJRDa46CU8JLLiGpLtlhkMSMDjTVzW_1r)
-
 * [Altair HyperWorks Online Training series - Meshing, Analysis & Post-processing](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
 
 ### <a name="for-control"></a>For Control Engineering
