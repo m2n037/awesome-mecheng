@@ -403,7 +403,9 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [r/Manufacturing](https://www.reddit.com/r/Manufacturing/): Manufacturing Industry
 * [r/Materials](https://www.reddit.com/r/materials/): Materials Engineering
 * [r/MechanicalEngineering](https://www.reddit.com/r/mechanicalengineering/): Mechanical Engineering
+
 Misc
+
 * [r/EngineeringPorn](https://www.reddit.com/r/EngineeringPorn/): porn for engineers (*safe for work*)
 * [r/Mechanical_gifs](https://www.reddit.com/r/mechanical_gifs/): perfect loops of mechanical things
 <details><summary>Other</summary><br/>
