@@ -251,8 +251,8 @@ I got inspiration from the countless awesome lists in github.
 * [NASA's Introductory Thermodynamics Notes](https://www.grc.nasa.gov/www/k-12/airplane/thermo.html) `NASA`
 * [MIT OpenCourseWare: Thermodynamics & Kinematics Lecture Series](https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/) `MIT.edu`
 * [Wikibooks: Engineering Thermodynamics](https://en.wikibooks.org/wiki/Engineering_Thermodynamics) `Wikibooks`
-* [Fundamentals of Engineering Thermodynamics](https://www.amazon.com/Fundamentals-Engineering-Thermodynamics-Michael-Moran/dp/0471787353/), by M.J. Moran & H.N. Shapiro. <sub><sup>ISBN: 978-0471274711/sup></sub> `Amazon`
-* [Thermodynamics: An Engineering Approach](https://www.amazon.com/Thermodynamics-Engineering-Yunus-Cengel-Dr/dp/0073398179/), by Y.A. Cengel & M.A. Boles. <sub><sup>ISBN: 978-0073398174/sup></sub> `Amazon`
+* [Fundamentals of Engineering Thermodynamics](https://www.amazon.com/Fundamentals-Engineering-Thermodynamics-Michael-Moran/dp/0471787353/), by M.J. Moran & H.N. Shapiro. <sub><sup>ISBN: 978-0471274711</sup></sub> `Amazon`
+* [Thermodynamics: An Engineering Approach](https://www.amazon.com/Thermodynamics-Engineering-Yunus-Cengel-Dr/dp/0073398179/), by Y.A. Cengel & M.A. Boles. <sub><sup>ISBN: 978-0073398174</sup></sub> `Amazon`
 
 ### Heat Transfer
 * [MIT OpenCourseWare: Introduction to Heat Transfer](https://ocw.mit.edu/courses/mechanical-engineering/2-051-introduction-to-heat-transfer-fall-2015/) `MIT.edu`
@@ -264,11 +264,11 @@ I got inspiration from the countless awesome lists in github.
 * [MIT OpenCourseWare: Fluid Dynamics](https://ocw.mit.edu/courses/mechanical-engineering/2-06-fluid-dynamics-spring-2013/) `MIT.edu`
 * [Wikibooks: Fluid Mechanics](https://en.wikibooks.org/wiki/Fluid_Mechanics) `Wikibooks`
 * Thermophysical properties of water and steam: [International Association for the Properties of Water and Steam](http://iapws.org/relguide/IAPWS-95.html)
-* [Fundamentals of Fluid Mechanics](https://www.amazon.com/Fundamentals-Fluid-Mechanics-Bruce-Munson/dp/047144250X), by B.R. Munson, D.R. Young & T.H. Okiishi. <sub><sup>ISBN: 978-0471442509/sup></sub> `Amazon`
+* [Fundamentals of Fluid Mechanics](https://www.amazon.com/Fundamentals-Fluid-Mechanics-Bruce-Munson/dp/047144250X), by B.R. Munson, D.R. Young & T.H. Okiishi. <sub><sup>ISBN: 978-0471442509</sup></sub> `Amazon`
 
 ### Gas Dynamics
 * [NASA's Compressible Fluids/Aerodynamics Notes](https://www.grc.nasa.gov/www/k-12/airplane/shortc.html) `NASA`
-* [Modern Compressible Flow: With Historical Perspective](https://www.amazon.com/Modern-Compressible-Flow-Historical-Perspective/dp/0071241361/), by J.D. Anderson.  <sub><sup>ISBN: 978-0072424430/sup></sub> `Amazon`
+* [Modern Compressible Flow: With Historical Perspective](https://www.amazon.com/Modern-Compressible-Flow-Historical-Perspective/dp/0071241361/), by J.D. Anderson.  <sub><sup>ISBN: 978-0072424430</sup></sub> `Amazon`
 
 ---
 
