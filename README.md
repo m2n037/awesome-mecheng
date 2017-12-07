@@ -403,9 +403,8 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [r/Manufacturing](https://www.reddit.com/r/Manufacturing/): Manufacturing Industry
 * [r/Materials](https://www.reddit.com/r/materials/): Materials Engineering
 * [r/MechE](https://www.reddit.com/r/mechanicalengineering/): Mechanical Engineering
-###### Misc
+Misc
 * [r/EngineeringPorn](https://www.reddit.com/r/EngineeringPorn/): porn for engineers (*safe for work*)
-* [r/Lectures](https://www.reddit.com/r/lectures/)
 * [r/Mechanical_gifs](https://www.reddit.com/r/mechanical_gifs/): perfect loops of mechanical things
 <details><summary>Other</summary><br/>
 
@@ -426,6 +425,7 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
   * [r/EE](https://www.reddit.com/r/electricalengineering/): Electrical Engineering
   * [r/EEBooks](https://www.reddit.com/r/eebooks/): Electrical Engineering
   * [r/Electronics](https://www.reddit.com/r/electronics/)
+  * [r/Lectures](https://www.reddit.com/r/lectures/)
   * [r/Math](https://www.reddit.com/r/math/)
   * [r/MathBooks](https://www.reddit.com/r/mathbooks/): Mathematics
   * [r/Physics](https://www.reddit.com/r/physics/)
@@ -434,15 +434,16 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
   * [r/Science](https://www.reddit.com/r/science/)
 </details>
 
+---
 
 ## <a name="publication"></a>Top Publication Venues for Different Fields
 
 ### Journals
 
 #### Open Access
-* [DOAJ, Directory of Open Acess Journals](https://doaj.org/)
-* [SCIRP, Modern Mechanical Engineering](http://www.scirp.org/journal/mme/)
-* [SAGE journals, Advances in MEchanical Engineering](http://journals.sagepub.com/loi/adea)
+* [DOAJ](https://doaj.org/), Directory of Open Acess Journals
+* [SCIRP](http://www.scirp.org/journal/mme/), Modern Mechanical Engineering
+* [SAGE journals](http://journals.sagepub.com/loi/adea), Advances in Mechanical Engineering
 
 ### Magazines
 * [Machine Design](http://machinedesign.com/)
