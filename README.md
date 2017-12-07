@@ -395,14 +395,14 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [r/AskEngineers](https://www.reddit.com/r/AskEngineers/): Non-school Q&A
 * [r/CAD](https://www.reddit.com/r/CAD/): Computer Aided Design
 * [r/CFD](https://www.reddit.com/r/CFD/): Computational Fluid Dynamics
-* [r/Engineering Fields](https://www.reddit.com/r/engineering/): About all things related to engineering
+* [r/Engineering](https://www.reddit.com/r/engineering/): About all things related to engineering
 * [r/EngineeringStudents](https://www.reddit.com/r/EngineeringStudents/): For wee engineerlings
 * [r/FEA](https://www.reddit.com/r/fea/): Finite Element Analysis
 * [r/FluidMechanics](https://www.reddit.com/r/FluidMechanics/)
-* [r/Civil Engineering](https://www.reddit.com/r/civilengineering/): Civil Engineering
+* [r/CivilEngineering](https://www.reddit.com/r/civilengineering/): Civil Engineering
 * [r/Manufacturing](https://www.reddit.com/r/Manufacturing/): Manufacturing Industry
 * [r/Materials](https://www.reddit.com/r/materials/): Materials Engineering
-* [r/MechE](https://www.reddit.com/r/mechanicalengineering/): Mechanical Engineering
+* [r/MechanicalEngineering](https://www.reddit.com/r/mechanicalengineering/): Mechanical Engineering
 Misc
 * [r/EngineeringPorn](https://www.reddit.com/r/EngineeringPorn/): porn for engineers (*safe for work*)
 * [r/Mechanical_gifs](https://www.reddit.com/r/mechanical_gifs/): perfect loops of mechanical things
