@@ -223,7 +223,7 @@ I got inspiration from the countless awesome lists in github.
 
 ### Plasticity
 * [The Mathematical Theory of Plasticity](https://archive.org/details/in.ernet.dli.2015.84513), by R. Hill (1950) `Archive.org`
-* Computational Methods for Plasticity](https://www.amazon.com/Computational-Methods-Plasticity-Theory-Applications/dp/0470694521/), by E.A. de Souza Neto, D. Peric & D.R.J. Owen <sub><sup>ISBN: 978-0470694527</sup></sub> `Amazon`
+* [Computational Methods for Plasticity](https://www.amazon.com/Computational-Methods-Plasticity-Theory-Applications/dp/0470694521/), by E.A. de Souza Neto, D. Peric & D.R.J. Owen <sub><sup>ISBN: 978-0470694527</sup></sub> `Amazon`
 
 ## <a name="machine"></a>Theory of Machines
 ### Mechanism Design
