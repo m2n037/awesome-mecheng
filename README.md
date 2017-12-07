@@ -276,7 +276,7 @@ I got inspiration from the countless awesome lists in github.
 
 ## Manufacturing
 ### Sheet Metal Forming
-* Mechanics of Sheet Metal Forming, by Z. Marciniak J.L. Duncan and S.J. Hu (2002)
+* [Mechanics of Sheet Metal Forming](https://www.amazon.com/Mechanics-Sheet-Metal-Forming-Second/dp/0750653000), by Z. Marciniak J.L. Duncan and S.J. Hu (2002) <sub><sup>ISBN: 978-0750653008</sup></sub> `Amazon`
 * [SheetMetal.me](http://sheetmetal.me/)
 ### CAD/CAM Theory
 * [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
