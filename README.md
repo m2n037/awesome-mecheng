@@ -408,29 +408,30 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [r/Lectures](https://www.reddit.com/r/lectures/)
 * [r/Mechanical_gifs](https://www.reddit.com/r/mechanical_gifs/): perfect loops of mechanical things
 <details><summary>Other</summary><br/>
-* [r/Aerospace](https://www.reddit.com/r/aerospace/): Aerospace Engineering
-* [r/AskElectronics](https://www.reddit.com/r/AskElectronics/): CE/EE Q&A
-* [r/AskScience](https://www.reddit.com/r/AskScience/): No-nonsense science Q&A
-* [r/BioEngineering](https://www.reddit.com/r/BioEngineering/): Biological
-* [r/Biology](https://www.reddit.com/r/biology/)
-* [r/Biotech](https://www.reddit.com/r/biotech/): Biotechnology
-* [r/ChemE](https://www.reddit.com/r/chemicalengineering/): Chemical Engineering
-* [r/Chemistry](https://www.reddit.com/r/chemistry/)
-* [r/Coding](https://www.reddit.com/r/coding/)
-* [r/ComputerScience](https://www.reddit.com/r/ComputerScience/)
-* [r/Construction](https://www.reddit.com/r/construction/): Construction
-* [r/CSBooks](https://www.reddit.com/r/csbooks/): Computer Science
-* [r/ECE](https://www.reddit.com/r/ECE/): General EE & CE discussion
-* [r/ECEComponentExchange](https://www.reddit.com/r/ECEComponentExchange/): Parts swap
-* [r/EE](https://www.reddit.com/r/electricalengineering/): Electrical Engineering
-* [r/EEBooks](https://www.reddit.com/r/eebooks/): Electrical Engineering
-* [r/Electronics](https://www.reddit.com/r/electronics/)
-* [r/Math](https://www.reddit.com/r/math/)
-* [r/MathBooks](https://www.reddit.com/r/mathbooks/): Mathematics
-* [r/Physics](https://www.reddit.com/r/physics/)
-* [r/PhysicsBooks](https://www.reddit.com/r/physicsbooks/): Physics
-* [r/Programming](https://www.reddit.com/r/programming/)
-* [r/Science](https://www.reddit.com/r/science/)
+
+  * [r/Aerospace](https://www.reddit.com/r/aerospace/): Aerospace Engineering
+  * [r/AskElectronics](https://www.reddit.com/r/AskElectronics/): CE/EE Q&A
+  * [r/AskScience](https://www.reddit.com/r/AskScience/): No-nonsense science Q&A
+  * [r/BioEngineering](https://www.reddit.com/r/BioEngineering/): Biological
+  * [r/Biology](https://www.reddit.com/r/biology/)
+  * [r/Biotech](https://www.reddit.com/r/biotech/): Biotechnology
+  * [r/ChemE](https://www.reddit.com/r/chemicalengineering/): Chemical Engineering
+  * [r/Chemistry](https://www.reddit.com/r/chemistry/)
+  * [r/Coding](https://www.reddit.com/r/coding/)
+  * [r/ComputerScience](https://www.reddit.com/r/ComputerScience/)
+  * [r/Construction](https://www.reddit.com/r/construction/): Construction
+  * [r/CSBooks](https://www.reddit.com/r/csbooks/): Computer Science
+  * [r/ECE](https://www.reddit.com/r/ECE/): General EE & CE discussion
+  * [r/ECEComponentExchange](https://www.reddit.com/r/ECEComponentExchange/): Parts swap
+  * [r/EE](https://www.reddit.com/r/electricalengineering/): Electrical Engineering
+  * [r/EEBooks](https://www.reddit.com/r/eebooks/): Electrical Engineering
+  * [r/Electronics](https://www.reddit.com/r/electronics/)
+  * [r/Math](https://www.reddit.com/r/math/)
+  * [r/MathBooks](https://www.reddit.com/r/mathbooks/): Mathematics
+  * [r/Physics](https://www.reddit.com/r/physics/)
+  * [r/PhysicsBooks](https://www.reddit.com/r/physicsbooks/): Physics
+  * [r/Programming](https://www.reddit.com/r/programming/)
+  * [r/Science](https://www.reddit.com/r/science/)
 </details>
 
 
