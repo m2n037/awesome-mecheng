@@ -409,6 +409,8 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
 
+
+
 ###### OpenSource
 
 
@@ -419,6 +421,11 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 
 * [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), "python based language for building parametric models" [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
   * [CadQuery Documentation](http://dcowden.github.io/cadquery/)
+
+#### OnShape
+>Website: [https://www.onshape.com/](https://www.onshape.com/)
+
+Cloud Based CAD
 
 #### OpenSCAD
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
@@ -440,9 +447,6 @@ Script based modeller
 #### Creo 
 *Formerly known as* Pro/ENGINEER.
 
-#### OnShape
->Website: [https://www.onshape.com/](https://www.onshape.com/)
-Cloud Based CAD
 
 #### SpaceClaim
 
