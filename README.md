@@ -53,6 +53,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Continuum Mechanics](#continuum)
   * [Statics and Dynamics](#statics&dynamics)
   * [Strength of Materials](#strength)
+  * [Plasticity](#plasticity)
 
 [Theory of Machines](#machine)
   * [Mechanism Design](#mechanism-design)
@@ -78,8 +79,8 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 [Sub Reddits](#subreddits)
 
 [Top Publication Venues for Different Fields](#publication)
-  * Journals
-  * Magazines
+  * [Journals](#journals)
+  * [Magazines](#magazines)
 
 [Competitions](#competition)
 
