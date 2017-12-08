@@ -381,6 +381,8 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [BAJA Student India Online Training Series](https://www.youtube.com/playlist?list=PLJRDa46CU8JLLiGpLtlhkMSMDjTVzW_1r)
 * [Altair HyperWorks Online Training series - Meshing, Analysis & Post-processing](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
 
+#### Simscale
+
 ### <a name="for-control"></a>For Control Engineering
 ###### MATLAB
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
@@ -396,28 +398,44 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 #### CATIA
 [Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
 
-#### <a name="#nx"></a>Siemens NX Unigraphics
+#### NX
+*Formely known as* Unigraphics.
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
-#### <a name="#solidworks"></a>SolidWorks
+##### OpenSource
+#### FreeCAD
+Website: [http://www.openscad.org/](http://www.openscad.org/)
+*Geometric Kernel* [OpenCASCADE](https://github.com/tpaviot/oce)
 
-#### <a name="#autocad"></a>AutoCAD
+* [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), "python based language for building parametric models" [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
+  * [CadQuery Documentation](http://dcowden.github.io/cadquery/)
 
-#### <a name="#blender"></a>Blender
+#### OpenSCAD
+Website: [http://www.openscad.org/](http://www.openscad.org/)
+Script based modeller
+*Geometric Kernel* [OpenCSG](http://opencsg.org/) + [CGAL](https://www.cgal.org/)
 
-#### <a name="#solidedge"></a>Siemens Solid Edge
+#### BRL-CAD
+Website: [http://brlcad.org/](http://brlcad.org/)
 
-#### <a name="#proe"></a>PTC PTC Creo (formerly known as Pro/ENGINEER)
+<details><summary>Coming Soon</summary><br/>
+<!-- Empty sections Bloat: move out when ready  -->
+#### SolidWorks
+#### Solid Edge
+#### Creo 
+*Formerly known as* Pro/ENGINEER.
+#### OnShape
+Cloud Based CAD
+Website: [https://www.onshape.com/](https://www.onshape.com/)
 
-#### <a name="#spaceclaim"></a>SpaceClaim
-
+#### SpaceClaim
+#### AutoCAD
+</details>
+<details><summary>Surface Modelling</summary><br/>
+#### Blender
+#### SketchUp
 #### <a name="#rhino"></a>Rhinoceros 3D
-
-#### <a name="#sketchup"></a>SketchUp
-
-#### <a name="#freecad"></a>FreeCAD
-
-#### <a name="#brlcad"></a>BRL-CAD
+</details>
 
 ---
 <div align="right">
