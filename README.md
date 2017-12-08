@@ -83,8 +83,7 @@ Table of Contents
 ---
 
 
-
-### Preamble
+## Preamble
 I got inspiration from the countless awesome lists in github.
 
 ## <a name="opencourse"></a>Open Courses
@@ -145,6 +144,10 @@ I got inspiration from the countless awesome lists in github.
 * [Hackaday](https://hackaday.com/)
 
 ---
+<div align="right">
+
+<sup>[Back to Top](#top)</sup> &Hat;
+</div>
 
 ## <a name="math"></a>Mathematics
 ### Calculus and Linear Algebra
@@ -194,6 +197,10 @@ I got inspiration from the countless awesome lists in github.
 * [Introduction to Programming with Fortran 95](https://www.fortrantutorial.com/documents/IntroductionToFTN95.pdf)
 
 ---
+<div align="right">
+
+<sup>[Back to Top](#top)</sup> &Hat;
+</div>
 
 ## Mechanics
 ### <a name="continuum"></a>Continuum Mechanics
@@ -281,6 +288,10 @@ I got inspiration from the countless awesome lists in github.
 &emsp;&bull; <sup><sup>ISBN: 978-0072424430</sup></sup>
 
 ---
+<div align="right">
+
+<sup>[Back to Top](#top)</sup> &Hat;
+</div>
 
 ## Manufacturing
 ### Sheet Metal Forming
@@ -291,6 +302,10 @@ I got inspiration from the countless awesome lists in github.
 * [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
 
 ---
+<div align="right">
+
+<sup>[Back to Top](#top)</sup> &Hat;
+</div>
 
 ## <a name="fea"></a>Finite Element Analysis
 * [Finite Element Procedures](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf), by [K.J. Bathe](http://meche.mit.edu/people/faculty/kjb@mit.edu) (2014) `MIT.edu`
@@ -307,6 +322,10 @@ I got inspiration from the countless awesome lists in github.
 * [List of FE packages](https://en.wikipedia.org/wiki/List_of_finite_element_software_packages) `wikipedia`
 
 ---
+<div align="right">
+
+<sup>[Back to Top](#top)</sup> &Hat;
+</div>
 
 ## <a name="software"></a>Software Packages
 ### <a name="for-fea"></a>For Finite Element Analysis
@@ -401,8 +420,12 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 #### <a name="#brlcad"></a>BRL-CAD
 
 ---
+<div align="right">
 
-### <a name="subreddits"></a> SubReddits Related to Mechanical Engineering
+<sup>[Back to Top](#top)</sup> &Hat;
+</div>
+
+## <a name="subreddits"></a> SubReddits Related to Mechanical Engineering
 * [r/AskEngineers](https://www.reddit.com/r/AskEngineers/): Non-school Q&A
 * [r/CAD](https://www.reddit.com/r/CAD/): Computer Aided Design
 * [r/CFD](https://www.reddit.com/r/CFD/): Computational Fluid Dynamics
@@ -448,6 +471,10 @@ Misc
 </details>
 
 ---
+<div align="right">
+
+<sup>[Back to Top](#top)</sup> &Hat;
+</div>
 
 ## <a name="publication"></a>Top Publication Venues for Different Fields
 
@@ -465,6 +492,10 @@ Misc
 * [Popular Science](http://www.popsci.com/)
 
 ---
+<div align="right">
+
+<sup>[Back to Top](#top)</sup> &Hat;
+</div>
 
 ## <a name="competition"></a>Competitions
 ### SAE Competitions
@@ -490,6 +521,11 @@ Misc
 * [Elsevier 3D Printing Grand Challenge](http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
 
 ---
+<div align="right">
+
+<sup>[Back to Top](#top)</sup> &Hat;
+</div>
+
 ## <a name="certification"></a>Qualifying/Certification Examinations
 Qualifying examinations are a kind of certification to engineers - PE in USA, GATE in India
 
