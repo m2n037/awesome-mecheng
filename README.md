@@ -154,12 +154,12 @@ I got inspiration from the countless awesome lists in github.
 * [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), by G. Strang. [Direct download](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) `MIT.edu` 
 * [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by [G. Cain](http://people.math.gatech.edu/%7Ecain/index.html)
 * [Essentials of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) `youtube`
-* [Introduction to Tensor Analysis](http://ruina.mae.cornell.edu/Courses/ME6700/references/block_tensor_analysis.pdf), by H.D. Block. Out of print. `Cornell.edu`
+* [Introduction to Tensor Analysis](http://ruina.mae.cornell.edu/Courses/ME6700/references/block_tensor_analysis.pdf), by H.D. Block. *Out of print* `Cornell.edu`
 * [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=3274), by K.B. Petersen, M.S. Pedersen (2012) `DTU.dk`
 
 ### Numerical Analysis
 * [Numerical Analysis for Engineering](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/), by D.W. Harder and R. Khoury `UWaterloo.ca`
-* [Numerical Recipes in C](http://www.nrbook.com/a/bookcpdf.html), by W.H. Press, B.P. Flannery, S.A. Teukolsky and W.T. Vetterly (1992) `Cambridge University Press` - `free for personal use`
+* [Numerical Recipes in C](http://www.nrbook.com/a/bookcpdf.html), by W.H. Press, B.P. Flannery, S.A. Teukolsky and W.T. Vetterly (1992) *Free for personal use*
 * [Numerical Methods for PDEs](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos), by Qiqi Wang `MIT.edu` `youtube`
 
 ## Programming
@@ -170,7 +170,7 @@ I got inspiration from the countless awesome lists in github.
 
 ### Python
 * [A Byte of Python](https://python.swaroopch.com/), by [C.H. Swaroop](https://www.swaroopch.com/about/) (2013)
- [Free Copy](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python) - [Hard Copy](https://www.swaroopch.com/buybook/)
+ [[Free Copy](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)/[Hard Copy](https://www.swaroopch.com/buybook/)]
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
 * [Learn X in Y minutes, where X=Python](https://learnxinyminutes.com/docs/python/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com), a great book for getting a handle on writing python scripts
@@ -204,7 +204,7 @@ I got inspiration from the countless awesome lists in github.
 
 ## Mechanics
 ### <a name="continuum"></a>Continuum Mechanics
-* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired `Archive.org`
+* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) *Copyright expired* `Archive.org`
 * Many lecture notes links available from [iMechanica](http://imechanica.org/node/1551) (2007)
 * [Applied Mechanics of Solids](http://solidmechanics.org/contents.php), by A.F. Bower (2012) also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 
 400 practice problems and sample FEA code.
