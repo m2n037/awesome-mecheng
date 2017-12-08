@@ -425,20 +425,28 @@ Script based modeller
 
 <details><summary>Coming Soon</summary><br/>
 <!-- Empty sections Bloat: move out when ready  -->
+
 #### SolidWorks
+
 #### Solid Edge
+
 #### Creo 
 *Formerly known as* Pro/ENGINEER.
+
 #### OnShape
 Cloud Based CAD
 Website: [https://www.onshape.com/](https://www.onshape.com/)
 
 #### SpaceClaim
+
 #### AutoCAD
 </details>
 <details><summary>Surface Modelling</summary><br/>
+
 #### Blender
+
 #### SketchUp
+
 #### <a name="#rhino"></a>Rhinoceros 3D
 </details>
 
