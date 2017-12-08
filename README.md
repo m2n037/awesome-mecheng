@@ -289,7 +289,7 @@ I got inspiration from the countless awesome lists in github.
 <div align="right">
 
 <sup>[Back to Top](#toc)</sup> &Hat;
-</div> 
+</div>  
 ## Manufacturing
 ### Sheet Metal Forming
 * [Mechanics of Sheet Metal Forming](https://www.amazon.com/Mechanics-Sheet-Metal-Forming-Second/dp/0750653000), by Z. Marciniak, J.L. Duncan and S.J. Hu (2002) `Amazon`
