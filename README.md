@@ -146,9 +146,8 @@ I got inspiration from the countless awesome lists in github.
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
-
 ## <a name="math"></a>Mathematics
 ### Calculus and Linear Algebra
 * [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), by G. Strang. [Direct download](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) `MIT.edu` 
@@ -199,9 +198,8 @@ I got inspiration from the countless awesome lists in github.
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
-
 ## Mechanics
 ### <a name="continuum"></a>Continuum Mechanics
 * [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) Copyright Expired `Archive.org`
@@ -290,9 +288,8 @@ I got inspiration from the countless awesome lists in github.
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
-
 ## Manufacturing
 ### Sheet Metal Forming
 * [Mechanics of Sheet Metal Forming](https://www.amazon.com/Mechanics-Sheet-Metal-Forming-Second/dp/0750653000), by Z. Marciniak, J.L. Duncan and S.J. Hu (2002) `Amazon`
@@ -304,9 +301,8 @@ I got inspiration from the countless awesome lists in github.
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
-</div>
-
+<sup>[Back to Top](#toc)</sup> &Hat;
+</div
 ## <a name="fea"></a>Finite Element Analysis
 * [Finite Element Procedures](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf), by [K.J. Bathe](http://meche.mit.edu/people/faculty/kjb@mit.edu) (2014) `MIT.edu`
 * [Introduction to the Finite Element Method](http://hyfem.com/HyFem/fem.pdf), by C.S. Jog
@@ -324,9 +320,8 @@ I got inspiration from the countless awesome lists in github.
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
-
 ## <a name="software"></a>Software Packages
 ### <a name="for-fea"></a>For Finite Element Analysis
 * [Code_Aster](https://www.code-aster.org/)
@@ -422,9 +417,8 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
-
 ## <a name="subreddits"></a> SubReddits Related to Mechanical Engineering
 * [r/AskEngineers](https://www.reddit.com/r/AskEngineers/): Non-school Q&A
 * [r/CAD](https://www.reddit.com/r/CAD/): Computer Aided Design
@@ -473,9 +467,8 @@ Misc
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
-
 ## <a name="publication"></a>Top Publication Venues for Different Fields
 
 ### Journals
@@ -494,9 +487,8 @@ Misc
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
-
 ## <a name="competition"></a>Competitions
 ### SAE Competitions
 
@@ -523,9 +515,8 @@ Misc
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
-
 ## <a name="certification"></a>Qualifying/Certification Examinations
 Qualifying examinations are a kind of certification to engineers - PE in USA, GATE in India
 
