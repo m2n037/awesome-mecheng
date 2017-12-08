@@ -342,7 +342,9 @@ I got inspiration from the countless awesome lists in github.
 * [Code_Aster](https://www.code-aster.org/)
 * [CalculiX](http://www.calculix.de/)
 * [Elmer](https://www.csc.fi/web/elmer)
-* [awesome-cae](https://github.com/qd-cae/awesome-CAE)
+
+###### Further reading
+* [awesome-CAE](https://github.com/qd-cae/awesome-CAE) `github`
 
 #### ANSYS
 [Student/Free version](http://www.ansys.com/academic/free-student-products): Available for anyone with limited capability and usage for learning purpose. This is a video explaining how to [download and install ANSYS Student Release 17.2 from Ansys How To official channel](https://www.youtube.com/watch?v=rV-xr_D18hM)
