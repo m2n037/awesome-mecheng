@@ -146,7 +146,7 @@ I got inspiration from the countless awesome lists in github.
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
 
 ## <a name="math"></a>Mathematics
@@ -199,7 +199,7 @@ I got inspiration from the countless awesome lists in github.
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
 
 ## Mechanics
@@ -290,7 +290,7 @@ I got inspiration from the countless awesome lists in github.
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
 
 ## Manufacturing
@@ -304,7 +304,7 @@ I got inspiration from the countless awesome lists in github.
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
 
 ## <a name="fea"></a>Finite Element Analysis
@@ -324,7 +324,7 @@ I got inspiration from the countless awesome lists in github.
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
 
 ## <a name="software"></a>Software Packages
@@ -422,7 +422,7 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
 
 ## <a name="subreddits"></a> SubReddits Related to Mechanical Engineering
@@ -473,7 +473,7 @@ Misc
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
 
 ## <a name="publication"></a>Top Publication Venues for Different Fields
@@ -494,7 +494,7 @@ Misc
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
 
 ## <a name="competition"></a>Competitions
@@ -523,7 +523,7 @@ Misc
 ---
 <div align="right">
 
-<sup>[Back to Top](#top)</sup> &Hat;
+<sup>[Back to Top](#toc)</sup> &Hat;
 </div>
 
 ## <a name="certification"></a>Qualifying/Certification Examinations
