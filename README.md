@@ -4,7 +4,7 @@
 
 <div align="right">
 
-|&bigstar; **CTRL+D**|
+|&bigstar; **Ctrl+D**|
 |---|
 </div>
 
