@@ -14,7 +14,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
 ---
 
-Table of Contents
+<a name="toc"></a>Table of Contents
 -----------------
 <details open><summary>Hide/Show</summary><br/>
 
