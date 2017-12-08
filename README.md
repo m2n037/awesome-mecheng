@@ -423,8 +423,9 @@ Script based modeller
 #### BRL-CAD
 >Website: [http://brlcad.org/](http://brlcad.org/)
 
-<details><summary>Coming Soon</summary>
+<details><summary><b>Coming Soon</b></summary>
 <!-- Empty sections Bloat: move out when ready  -->
+
 #### SolidWorks
 
 #### Solid Edge
@@ -440,7 +441,8 @@ Website: [https://www.onshape.com/](https://www.onshape.com/)
 
 #### AutoCAD
 </details>
-<details><summary>Surface Modelling</summary>
+<details><summary><b>Surface Modelling</b></summary>
+
 #### Blender
 
 #### SketchUp
