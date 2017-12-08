@@ -2,6 +2,12 @@
 
 ![Banner Image](../master/img/open-end-wrench-2452245_1920.jpg)
 
+<div align="right">
+
+|&bigstar; **CTRL+D**|
+|---|
+</div>
+
 _So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice._
 
 Check the [contributions guideline](../master/contributions.md)
