@@ -226,7 +226,7 @@ I got inspiration from the countless awesome lists in github.
 ### Plasticity
 * [The Mathematical Theory of Plasticity](https://archive.org/details/in.ernet.dli.2015.84513), by R. Hill (1950) `Archive.org`
 * [Computational Methods for Plasticity](https://www.amazon.com/Computational-Methods-Plasticity-Theory-Applications/dp/0470694521/), by E.A. de Souza Neto, D. Peric & D.R.J. Owen  `Amazon`
-<sup>ISBN: 978-0470694527</sup>
+<br/><sup><sup>ISBN: 978-0470694527</sup></sup>
 
 ## <a name="machine"></a>Theory of Machines
 ### Mechanism Design
@@ -257,15 +257,15 @@ I got inspiration from the countless awesome lists in github.
 * [MIT OpenCourseWare: Thermodynamics & Kinematics Lecture Series](https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/) `MIT.edu`
 * [Wikibooks: Engineering Thermodynamics](https://en.wikibooks.org/wiki/Engineering_Thermodynamics) `Wikibooks`
 * [Fundamentals of Engineering Thermodynamics](https://www.amazon.com/Fundamentals-Engineering-Thermodynamics-Michael-Moran/dp/0471787353/), by M.J. Moran & H.N. Shapiro. `Amazon`
-<sup>ISBN: 978-0471274711</sup>
+<br/><sup><sup>ISBN: 978-0471274711</sup></sup>
 * [Thermodynamics: An Engineering Approach](https://www.amazon.com/Thermodynamics-Engineering-Yunus-Cengel-Dr/dp/0073398179/), by Y.A. Cengel & M.A. Boles. `Amazon`
-<sup>ISBN: 978-0073398174</sup>
+<br/><sup><sup>ISBN: 978-0073398174</sup></sup>
 
 ### Heat Transfer
 * [MIT OpenCourseWare: Introduction to Heat Transfer](https://ocw.mit.edu/courses/mechanical-engineering/2-051-introduction-to-heat-transfer-fall-2015/) `MIT.edu`
 * [Wikibooks: Heat Transfer](https://en.wikibooks.org/wiki/Heat_Transfer) `Wikibooks`
 * [Fundamentals of Heat and Mass Transfer](https://www.amazon.com/Fundamentals-Heat-Mass-Transfer-5th/dp/0471386502/) , by F.P. Incropera & D.P. DeWitt. `Amazon`
-<sup>ISBN: 978-0471386506</sup>
+<br/><sup><sup>ISBN: 978-0471386506</sup></sup>
 
 ### Fluid Mechanics
 * [NASA's Basic Fluid Mechanics Notes](https://www.grc.nasa.gov/www/k-12/airplane/mass.html) `NASA`
@@ -273,19 +273,19 @@ I got inspiration from the countless awesome lists in github.
 * [Wikibooks: Fluid Mechanics](https://en.wikibooks.org/wiki/Fluid_Mechanics) `Wikibooks`
 * Thermophysical properties of water and steam: [International Association for the Properties of Water and Steam](http://iapws.org/relguide/IAPWS-95.html)
 * [Fundamentals of Fluid Mechanics](https://www.amazon.com/Fundamentals-Fluid-Mechanics-Bruce-Munson/dp/047144250X), by B.R. Munson, D.R. Young & T.H. Okiishi. `Amazon`
-<sup>ISBN: 978-0471442509</sup>
+<br/><sup><sup>ISBN: 978-0471442509</sup></sup>
 
 ### Gas Dynamics
 * [NASA's Compressible Fluids/Aerodynamics Notes](https://www.grc.nasa.gov/www/k-12/airplane/shortc.html) `NASA`
 * [Modern Compressible Flow: With Historical Perspective](https://www.amazon.com/Modern-Compressible-Flow-Historical-Perspective/dp/0071241361/), by J.D. Anderson. `Amazon`
-<sup>ISBN: 978-0072424430</sup>
+<br/><sup><sup>ISBN: 978-0072424430</sup></sup>
 
 ---
 
 ## Manufacturing
 ### Sheet Metal Forming
 * [Mechanics of Sheet Metal Forming](https://www.amazon.com/Mechanics-Sheet-Metal-Forming-Second/dp/0750653000), by Z. Marciniak, J.L. Duncan and S.J. Hu (2002) `Amazon`
-<sup>ISBN: 978-0750653008</sup>
+<br/><sup><sup>ISBN: 978-0750653008</sup></sup>
 * [SheetMetal.me](http://sheetmetal.me/)
 ### CAD/CAM Theory
 * [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
