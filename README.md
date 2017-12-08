@@ -263,6 +263,10 @@ I got inspiration from the countless awesome lists in github.
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) `Caltech.edu`
 
 ---
+<div align="right">
+
+<sup>[Back to Top](#toc)</sup> &Hat;
+</div>
 
 ## <a name="thermo"></a>Thermal Engineering
 ### Thermodynamics
