@@ -402,21 +402,26 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 *Formely known as* Unigraphics.
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
-##### OpenSource
+OpenSource
+----------
+
 #### FreeCAD
-Website: [http://www.openscad.org/](http://www.openscad.org/)
+>Website: [http://www.openscad.org/](http://www.openscad.org/)
+
 *Geometric Kernel* [OpenCASCADE](https://github.com/tpaviot/oce)
 
 * [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), "python based language for building parametric models" [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
   * [CadQuery Documentation](http://dcowden.github.io/cadquery/)
 
 #### OpenSCAD
-Website: [http://www.openscad.org/](http://www.openscad.org/)
+>Website: [http://www.openscad.org/](http://www.openscad.org/)
+
 Script based modeller
+
 *Geometric Kernel* [OpenCSG](http://opencsg.org/) + [CGAL](https://www.cgal.org/)
 
 #### BRL-CAD
-Website: [http://brlcad.org/](http://brlcad.org/)
+>Website: [http://brlcad.org/](http://brlcad.org/)
 
 <details><summary>Coming Soon</summary><br/>
 <!-- Empty sections Bloat: move out when ready  -->
