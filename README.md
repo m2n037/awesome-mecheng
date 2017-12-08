@@ -408,9 +408,9 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 *Formely known as* Unigraphics.
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
-<br>
+
 ###### OpenSource
-<br>
+
 
 #### FreeCAD
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
