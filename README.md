@@ -149,6 +149,7 @@ I got inspiration from the countless awesome lists in github.
 * [ScarbsTech](http://scarbsf1.com/), everything technical in F1
 * [GlobalSpec](http://insights.globalspec.com/)
 * [Hackaday](https://hackaday.com/)
+* [Plastics Engineering Blog](https://plasticsengineeringblog.com/)
 
 ---
 <div align="right">
