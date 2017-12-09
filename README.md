@@ -327,6 +327,7 @@ I got inspiration from the countless awesome lists in github.
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `stackexchange`
 * [What Is a Good Linear Finite Element?](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf) by [J.R. Shewchuk](http://people.eecs.berkeley.edu/~jrs/) (2002) `Berkeley.edu`
 * [How Can I learn Finite Element Analysis?](https://www.simscale.com/blog/2016/11/learn-finite-element-analysis-fea/) `simscale`
+* [Why CAD Surface Geometry is Inexact](https://blog.pointwise.com/2017/11/29/why-cad-surface-geometry-is-inexact/) `pointwise`
 
 #### Code
 * [deal.II](https://www.dealii.org/) (C++ library)
