@@ -61,6 +61,8 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Gas Dynamics](#gas-dynamics)
 
 [Manufacturing](#manufacturing)
+  * [Sheet Metal Forming](#sheet-metal-forming)
+  * [CAD/CAM Theory](#cad-theory)
 
 [Finite Element Analysis](#fea)
 
