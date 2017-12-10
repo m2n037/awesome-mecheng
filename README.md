@@ -61,8 +61,8 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Gas Dynamics](#gas-dynamics)
 
 [Manufacturing](#manufacturing)
-  * [Sheet Metal Forming](#sheet-metal-forming)
   * [CAD/CAM Theory](#cad-theory)
+  * [Sheet Metal Forming](#sheet-metal-forming)
 
 [Finite Element Analysis](#fea)
 
@@ -302,12 +302,13 @@ I got inspiration from the countless awesome lists in github.
 </div>
 
 ## Manufacturing
+### CAD/CAM Theory
+* [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
+
 ### Sheet Metal Forming
 * [Mechanics of Sheet Metal Forming](https://www.amazon.com/Mechanics-Sheet-Metal-Forming-Second/dp/0750653000), by Z. Marciniak, J.L. Duncan and S.J. Hu (2002) `Amazon`
 &emsp;&bull; <sub><sup>ISBN: 978-0750653008</sup></sub>
 * [SheetMetal.me](http://sheetmetal.me/)
-### CAD/CAM Theory
-* [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
 
 ---
 <div align="right">
