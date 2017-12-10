@@ -211,8 +211,8 @@ I got inspiration from the countless awesome lists in github.
 ### <a name="continuum"></a>Continuum Mechanics
 * [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) *Copyright expired* `Archive.org`
 * Many lecture notes links available from [iMechanica](http://imechanica.org/node/1551) (2007)
-* [Applied Mechanics of Solids](http://solidmechanics.org/contents.php), by A.F. Bower (2012) also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 
-400 practice problems and sample FEA code.
+* [Applied Mechanics of Solids](http://solidmechanics.org/contents.php), by [A.F. Bower](https://vivo.brown.edu/display/albower) (2012) [[Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/)]
+&emsp;&bull; <sub><sup>ISBN: 978-1439802472</sup></sub>
 * [Continuum Mechanics](http://www.continuummechanics.org/index.html), by B. McGinty (2012)
 * [Introduction to Continuum Mechanics for Engineers](http://oaktrust.library.tamu.edu/bitstream/handle/1969.1/2501/IntroductionToContinuumMechanicsRevisedEdition.pdf?sequence=6&isAllowed=y), by R.M. Bowen (1989) `Tamu.edu`
 
