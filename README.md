@@ -146,6 +146,7 @@ I got inspiration from the countless awesome lists in github.
 * [GlobalSpec](http://insights.globalspec.com/)
 * [Hackaday](https://hackaday.com/)
 * [Plastics Engineering Blog](https://plasticsengineeringblog.com/)
+* [3D CAD World](http://www.3dcadworld.com/)
 
 ---
 <div align="right">
