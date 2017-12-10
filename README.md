@@ -61,7 +61,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Gas Dynamics](#gas-dynamics)
 
 [Manufacturing](#manufacturing)
-  * [CAD/CAM Theory](#cad-theory)
+  * [CAD/CAM](#cadcam)
   * [Sheet Metal Forming](#sheet-metal-forming)
 
 [Finite Element Analysis](#fea)
@@ -303,10 +303,27 @@ I got inspiration from the countless awesome lists in github.
 </div>
 
 ## Manufacturing
-### CAD/CAM Theory
+
+### CAD/CAM
+
+#### Theory
 * [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
 * [Geometric and Solid Modeling](https://www.cs.purdue.edu/homes/cmh/distribution/books/geo.html), by C.M. Hoffman (1992) *Out of Print* `Purdue.edu`
 * [Computer Aided Geometric Design](http://tom.cs.byu.edu/~557/text/cagd.pdf), by T.W. Sederberg (2006) `BYU.edu`
+
+#### Learning and Tutorials
+* [Vertanux1](http://www.vertanux1.com/), Training Guides: Creo, Solidworks, NX, Inventor, Rhino3d.
+  * [vertanux1's channel](https://www.youtube.com/user/vertanux1/) `youtube`
+
+##### Technique
+**Resilient Modeling Strategy (RMS)**
+  * [A Resilient Modeling Strategy](https://community.plm.automation.siemens.com/siemensplm/attachments/siemensplm/solid-edge-tkb/159/1/122%20-%20A%20Resilient%20Modeling%20Strategy%20%20-%20Richard%20Gebhard.pdf), by R. Gbebhard (Slides) `Siemens`
+    * [RMS Presentation](https://www.youtube.com/watch?v=QGj3hwtyZxQ) `youtube`
+  * [Learn RMS](http://learnrms.com/)
+**Horizontal Modeling**
+  * [Horizontally structured CAD/CAM modeling-vertical to horizontal conversion [US 7472044 B2]](https://www.google.com/patents/US7472044) `patent`
+  * [Product/Process Design using Horizontally Structured Modeling](www.dezignstuff.com/swparts/Delphi-Burke.pdf), by Delphi Automotive `dezignstuff.com`
+  * [Going Horizontal (The failed promise of parametric CAD, part 4)](http://www.3dcadworld.com/going-horizontal/) `3dcadworld.com`
 
 ### Sheet Metal Forming
 * [Mechanics of Sheet Metal Forming](https://www.amazon.com/Mechanics-Sheet-Metal-Forming-Second/dp/0750653000), by Z. Marciniak, J.L. Duncan and S.J. Hu (2002) `Amazon`
