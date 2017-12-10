@@ -439,8 +439,14 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 >Website: [https://www.ptc.com/](https://www.ptc.com/)
 >Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
 
+#### SolidWorks
 
+* [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
 
+#### Solid Edge
+
+* [Solid Edge Resources](https://community.plm.automation.siemens.com/t5/Solid-Edge/ct-p/solid-edge) `Siemens`
+ 
 ###### OpenSource
 
 
@@ -471,11 +477,6 @@ Script based modeller
 <details><summary><b>Coming Soon</b></summary>
 <!-- Empty sections Bloat: move out when ready  -->
 
-#### SolidWorks
-
-#### Solid Edge
-
-
 
 #### SpaceClaim
 
@@ -487,7 +488,7 @@ Script based modeller
 
 #### SketchUp
 
-#### <a name="#rhino"></a>Rhinoceros 3D
+#### Rhinoceros 3D
 </details>
 
 ---
