@@ -414,6 +414,10 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [Altair HyperWorks Online Training series - Meshing, Analysis & Post-processing](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
 
 #### Simscale
+>Website: [https://www.simscale.com/](https://www.simscale.com/)
+
+Cloud based FEA/CFD
+
 
 ### <a name="for-control"></a>For Control Engineering
 ###### MATLAB
