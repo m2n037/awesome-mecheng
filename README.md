@@ -305,6 +305,7 @@ I got inspiration from the countless awesome lists in github.
 ### CAD/CAM Theory
 * [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
 * [Geometric and Solid Modeling](https://www.cs.purdue.edu/homes/cmh/distribution/books/geo.html), by C.M. Hoffman (1992) *Out of Print* `Purdue.edu`
+* [Computer Aided Geometric Design](http://tom.cs.byu.edu/~557/text/cagd.pdf), by T.W. Sederberg (2006) `BYU.edu`
 
 ### Sheet Metal Forming
 * [Mechanics of Sheet Metal Forming](https://www.amazon.com/Mechanics-Sheet-Metal-Forming-Second/dp/0750653000), by Z. Marciniak, J.L. Duncan and S.J. Hu (2002) `Amazon`
