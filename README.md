@@ -455,6 +455,8 @@ Script based modeller
 
 #### Creo 
 *Formerly known as* Pro/ENGINEER.
+>Website: [https://www.ptc.com/](https://www.ptc.com/)
+>Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
 
 
 #### SpaceClaim
