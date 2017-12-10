@@ -461,7 +461,7 @@ Cloud based FEA/CFD
 *Geometric Kernel* [OpenCASCADE](https://github.com/tpaviot/oce)
 
 * [A FreeCAD mnaual](https://www.gitbook.com/book/yorikvanhavre/a-freecad-manual/details) `GitBook`
-* [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), "python based language for building parametric models" [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
+* [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), python based language for building parametric models [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
   * [CadQuery Documentation](http://dcowden.github.io/cadquery/)
 
 #### OnShape
