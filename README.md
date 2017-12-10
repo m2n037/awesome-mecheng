@@ -316,11 +316,11 @@ I got inspiration from the countless awesome lists in github.
   * [vertanux1's channel](https://www.youtube.com/user/vertanux1/) `youtube`
 
 ##### Technique
-**Resilient Modeling Strategy (RMS)**
-  * [A Resilient Modeling Strategy](https://community.plm.automation.siemens.com/siemensplm/attachments/siemensplm/solid-edge-tkb/159/1/122%20-%20A%20Resilient%20Modeling%20Strategy%20%20-%20Richard%20Gebhard.pdf), by R. Gbebhard (Slides) `Siemens`
+* **Resilient Modeling Strategy (RMS)**
+  * [A Resilient Modeling Strategy](https://community.plm.automation.siemens.com/siemensplm/attachments/siemensplm/solid-edge-tkb/159/1/122%20-%20A%20Resilient%20Modeling%20Strategy%20%20-%20Richard%20Gebhard.pdf), by R. Gebhard (Slides) `Siemens`
     * [RMS Presentation](https://www.youtube.com/watch?v=QGj3hwtyZxQ) `youtube`
   * [Learn RMS](http://learnrms.com/)
-**Horizontal Modeling**
+* **Horizontal Modeling**
   * [Horizontally structured CAD/CAM modeling-vertical to horizontal conversion [US 7472044 B2]](https://www.google.com/patents/US7472044) `patent`
   * [Product/Process Design using Horizontally Structured Modeling](www.dezignstuff.com/swparts/Delphi-Burke.pdf), by Delphi Automotive `dezignstuff.com`
   * [Going Horizontal (The failed promise of parametric CAD, part 4)](http://www.3dcadworld.com/going-horizontal/) `3dcadworld.com`
