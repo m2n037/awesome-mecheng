@@ -417,6 +417,10 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 *Formely known as* Unigraphics.
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
+#### Creo
+*Formerly known as* Pro/ENGINEER.
+>Website: [https://www.ptc.com/](https://www.ptc.com/)
+>Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
 
 
 
@@ -453,10 +457,6 @@ Script based modeller
 
 #### Solid Edge
 
-#### Creo 
-*Formerly known as* Pro/ENGINEER.
->Website: [https://www.ptc.com/](https://www.ptc.com/)
->Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
 
 
 #### SpaceClaim
