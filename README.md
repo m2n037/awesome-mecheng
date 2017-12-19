@@ -161,7 +161,7 @@ I got inspiration from the countless awesome lists in github.
 * [Essentials of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) `youtube`
 * [Introduction to Tensor Analysis](http://ruina.mae.cornell.edu/Courses/ME6700/references/block_tensor_analysis.pdf), by H.D. Block. *Out of print* `Cornell.edu`
 * [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=3274), by K.B. Petersen, M.S. Pedersen (2012) `DTU.dk`
-* [Fundamentals of Linear Algebra and Optimization](http://www.cis.upenn.edu/~cis515/linalg.pdf), by J. Gallier and J. Quaintance (2017) `UPenn.edu`
+* [Fundamentals of Linear Algebra and Optimization](http://www.cis.upenn.edu/~cis515/linalg.pdf), by [J. Gallier](http://www.cis.upenn.edu/~jean/home.html) and J. Quaintance (2017) `UPenn.edu`
 
 ### Numerical Analysis
 * [Numerical Analysis for Engineering](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/), by D.W. Harder and R. Khoury `UWaterloo.ca`
@@ -311,7 +311,7 @@ I got inspiration from the countless awesome lists in github.
 * [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
 * [Geometric and Solid Modeling](https://www.cs.purdue.edu/homes/cmh/distribution/books/geo.html), by C.M. Hoffman (1992) *Out of Print* `Purdue.edu`
 * [Computer Aided Geometric Design](http://tom.cs.byu.edu/~557/text/cagd.pdf), by T.W. Sederberg (2006) `BYU.edu`
-* [Curves and Surfaces in Geomtric Modeling](http://www.cis.upenn.edu/~jean/gbooks/geom1.html) by J. Gallier (1999) *Out of Print* `UPenn.edu`
+* [Curves and Surfaces in Geomtric Modeling](http://www.cis.upenn.edu/~jean/gbooks/geom1.html) by [J. Gallier](http://www.cis.upenn.edu/~jean/home.html) (1999) *Out of Print* `UPenn.edu`
 &emsp;&bull; <sub><sup>ISBN: 978-1558605992</sup></sub>
 
 #### Learning and Tutorials
