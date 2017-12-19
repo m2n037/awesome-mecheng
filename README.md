@@ -453,8 +453,12 @@ Cloud based FEA/CFD
 
 * [Solid Edge Resources](https://community.plm.automation.siemens.com/t5/Solid-Edge/ct-p/solid-edge) `Siemens`
  
-###### OpenSource
+#### OnShape
+>Website: [https://www.onshape.com/](https://www.onshape.com/)
 
+Cloud Based CAD
+
+###### OpenSource
 
 #### FreeCAD
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
@@ -464,11 +468,6 @@ Cloud based FEA/CFD
 * [A FreeCAD mnaual](https://www.gitbook.com/book/yorikvanhavre/a-freecad-manual/details) `GitBook`
 * [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), python based language for building parametric models [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
   * [CadQuery Documentation](http://dcowden.github.io/cadquery/)
-
-#### OnShape
->Website: [https://www.onshape.com/](https://www.onshape.com/)
-
-Cloud Based CAD
 
 #### OpenSCAD
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
