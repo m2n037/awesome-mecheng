@@ -217,6 +217,10 @@ I got inspiration from the countless awesome lists in github.
 * [Continuum Mechanics](http://www.continuummechanics.org/index.html), by B. McGinty (2012)
 * [Introduction to Continuum Mechanics for Engineers](http://oaktrust.library.tamu.edu/bitstream/handle/1969.1/2501/IntroductionToContinuumMechanicsRevisedEdition.pdf?sequence=6&isAllowed=y), by R.M. Bowen (1989) `Tamu.edu`
 
+#### Theory of Plates and Shells
+* [Theory of Plates and Shells](https://archive.org/details/TheoryOfPlatesAndShells) by S. Timoshenko and S. Woinowsky-Krieger (1959) `Archive.org`
+&emsp;&bull; <sub><sup>ISBN: 978-0070647794</sup></sub>
+
 ### <a name="statics&dynamics"></a>Statics and Dynamics
 * [Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/) `Cornell.edu`
 * [Bolted Joint Analysis](https://www.mechanicalc.com/reference/bolted-joint-analysis)
