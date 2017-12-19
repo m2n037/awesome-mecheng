@@ -133,7 +133,7 @@ I got inspiration from the countless awesome lists in github.
 
 #### Patents
 * [Google Patents](https://www.google.com/patents/)
-* [European Pantent Office](https://worldwide.espacenet.com/)
+* [European Patent Office](https://worldwide.espacenet.com/)
 * [United States Patent and Trademark Office](https://www.uspto.gov/)
 
 #### <a name="blog"></a>Blogs and Forums
