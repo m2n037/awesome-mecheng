@@ -284,6 +284,7 @@ I got inspiration from the countless awesome lists in github.
 
 ### Heat Transfer
 * [MIT OpenCourseWare: Introduction to Heat Transfer](https://ocw.mit.edu/courses/mechanical-engineering/2-051-introduction-to-heat-transfer-fall-2015/) `MIT.edu`
+* [A Heat Transfer Textbook](http://web.mit.edu/lienhard/www/ahtt.html), by J.H. Lienhard IV and [J.H. Lienhard V](http://meche.mit.edu/people/faculty/lienhard@mit.edu) (2017) `MIT.edu` 
 * [Wikibooks: Heat Transfer](https://en.wikibooks.org/wiki/Heat_Transfer) `Wikibooks`
 * [Fundamentals of Heat and Mass Transfer](https://www.amazon.com/Fundamentals-Heat-Mass-Transfer-5th/dp/0471386502/) , by F.P. Incropera & D.P. DeWitt. `Amazon`
 &emsp;&bull; <sub><sup>ISBN: 978-0471386506</sup></sub>
