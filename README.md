@@ -261,6 +261,7 @@ I got inspiration from the countless awesome lists in github.
 * [Feedback Systems](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf) by K.J. Åström and R. Murray (2011) `CalTech.edu`
 * [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), by Brian Douglas `youtube`
 * [Control Systems](https://en.wikibooks.org/wiki/Control_Systems) `wikibooks`
+* [System Design for Uncertainty](https://ocw.mit.edu/courses/mechanical-engineering/2-017j-design-of-electromechanical-robotic-systems-fall-2009/course-text/MIT2_017JF09_coursetext.pdf), by F.S. Hover & M.S. Triantafyllou (2009) `MIT.edu`
 
 ### Robotics
 * [Awesome Robotics List](https://github.com/Kiloreux/awesome-robotics), by [@Kiloreux](https://github.com/kiloreux) `github`
