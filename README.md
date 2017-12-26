@@ -96,6 +96,7 @@ I got inspiration from the countless awesome lists in github.
 * [InTech](https://www.intechopen.com/books/subject/mechanical-engineering), Open Acess book publisher
 
 ## General
+* [ASME The Unwritten Laws of Engineering](http://rotorlab.tamu.edu/me489_SP11/README/2010%20ASME%20Unwritten_Laws_of_Enginering.pdf), what the beginner needs to learn at once, by K.J. King and J.G. Skakoon (1944)
 * [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/) `UNC.edu`
 
 #### <a name="database"></a>Databases
