@@ -215,13 +215,13 @@ I got inspiration from the countless awesome lists in github.
 * [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) *Copyright expired* `Archive.org`
 * Many lecture notes links available from [iMechanica](http://imechanica.org/node/1551) (2007)
 * [Applied Mechanics of Solids](http://solidmechanics.org/contents.php), by [A.F. Bower](https://vivo.brown.edu/display/albower) (2012) [[Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/)]
-&emsp;&bull; <sub><sup>ISBN: 978-1439802472</sup></sub>
+&emsp; <sub><sup>ISBN: 978-1439802472</sup></sub>
 * [Continuum Mechanics](http://www.continuummechanics.org/index.html), by B. McGinty (2012)
 * [Introduction to Continuum Mechanics for Engineers](http://oaktrust.library.tamu.edu/bitstream/handle/1969.1/2501/IntroductionToContinuumMechanicsRevisedEdition.pdf?sequence=6&isAllowed=y), by R.M. Bowen (1989) `Tamu.edu`
 
 #### Theory of Plates and Shells
 * [Theory of Plates and Shells](https://archive.org/details/TheoryOfPlatesAndShells) by S. Timoshenko and S. Woinowsky-Krieger (1959) `Archive.org`
-&emsp;&bull; <sub><sup>ISBN: 978-0070647794</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0070647794</sup></sub>
 
 ### <a name="statics&dynamics"></a>Statics and Dynamics
 * [Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/) `Cornell.edu`
@@ -245,7 +245,7 @@ I got inspiration from the countless awesome lists in github.
 ### Plasticity
 * [The Mathematical Theory of Plasticity](https://archive.org/details/in.ernet.dli.2015.84513), by R. Hill (1950) `Archive.org`
 * [Computational Methods for Plasticity](https://www.amazon.com/Computational-Methods-Plasticity-Theory-Applications/dp/0470694521/), by E.A. de Souza Neto, D. Peric & D.R.J. Owen  `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0470694527</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0470694527</sup></sub>
 
 ## <a name="machine"></a>Theory of Machines
 ### Mechanism Design
@@ -281,16 +281,16 @@ I got inspiration from the countless awesome lists in github.
 * [MIT OpenCourseWare: Thermodynamics & Kinematics Lecture Series](https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/) `MIT.edu`
 * [Wikibooks: Engineering Thermodynamics](https://en.wikibooks.org/wiki/Engineering_Thermodynamics) `Wikibooks`
 * [Fundamentals of Engineering Thermodynamics](https://www.amazon.com/Fundamentals-Engineering-Thermodynamics-Michael-Moran/dp/0471787353/), by M.J. Moran & H.N. Shapiro. `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0471274711</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0471274711</sup></sub>
 * [Thermodynamics: An Engineering Approach](https://www.amazon.com/Thermodynamics-Engineering-Yunus-Cengel-Dr/dp/0073398179/), by Y.A. Cengel & M.A. Boles. `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0073398174</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0073398174</sup></sub>
 
 ### Heat Transfer
 * [MIT OpenCourseWare: Introduction to Heat Transfer](https://ocw.mit.edu/courses/mechanical-engineering/2-051-introduction-to-heat-transfer-fall-2015/) `MIT.edu`
 * [A Heat Transfer Textbook](http://web.mit.edu/lienhard/www/ahtt.html), by J.H. Lienhard IV and [J.H. Lienhard V](http://meche.mit.edu/people/faculty/lienhard@mit.edu) (2017) `MIT.edu` 
 * [Wikibooks: Heat Transfer](https://en.wikibooks.org/wiki/Heat_Transfer) `Wikibooks`
 * [Fundamentals of Heat and Mass Transfer](https://www.amazon.com/Fundamentals-Heat-Mass-Transfer-5th/dp/0471386502/) , by F.P. Incropera & D.P. DeWitt. `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0471386506</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0471386506</sup></sub>
 
 ### Fluid Mechanics
 * [NASA's Basic Fluid Mechanics Notes](https://www.grc.nasa.gov/www/k-12/airplane/mass.html) `NASA`
@@ -298,12 +298,12 @@ I got inspiration from the countless awesome lists in github.
 * [Wikibooks: Fluid Mechanics](https://en.wikibooks.org/wiki/Fluid_Mechanics) `Wikibooks`
 * Thermophysical properties of water and steam: [International Association for the Properties of Water and Steam](http://iapws.org/relguide/IAPWS-95.html)
 * [Fundamentals of Fluid Mechanics](https://www.amazon.com/Fundamentals-Fluid-Mechanics-Bruce-Munson/dp/047144250X), by B.R. Munson, D.R. Young & T.H. Okiishi. `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0471442509</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0471442509</sup></sub>
 
 ### Gas Dynamics
 * [NASA's Compressible Fluids/Aerodynamics Notes](https://www.grc.nasa.gov/www/k-12/airplane/shortc.html) `NASA`
 * [Modern Compressible Flow: With Historical Perspective](https://www.amazon.com/Modern-Compressible-Flow-Historical-Perspective/dp/0071241361/), by J.D. Anderson. `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0072424430</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0072424430</sup></sub>
 
 ---
 <div align="right">
@@ -322,7 +322,7 @@ I got inspiration from the countless awesome lists in github.
 * [Geometric and Solid Modeling](https://www.cs.purdue.edu/homes/cmh/distribution/books/geo.html), by C.M. Hoffman (1992) *Out of Print* `Purdue.edu`
 * [Computer Aided Geometric Design](http://tom.cs.byu.edu/~557/text/cagd.pdf), by T.W. Sederberg (2006) `BYU.edu`
 * [Curves and Surfaces in Geometric Modeling](http://www.cis.upenn.edu/~jean/gbooks/geom1.html) by [J. Gallier](http://www.cis.upenn.edu/~jean/home.html) (1999) *Out of Print* `UPenn.edu`
-&emsp;&bull; <sub><sup>ISBN: 978-1558605992</sup></sub>
+&emsp; <sub><sup>ISBN: 978-1558605992</sup></sub>
 
 #### Learning and Tutorials
 * [Vertanux1](http://www.vertanux1.com/), Training Guides: Creo, Solidworks, NX, Inventor, Rhino3d.
@@ -340,7 +340,7 @@ I got inspiration from the countless awesome lists in github.
 
 ### Sheet Metal Forming
 * [Mechanics of Sheet Metal Forming](https://www.amazon.com/Mechanics-Sheet-Metal-Forming-Second/dp/0750653000), by Z. Marciniak, J.L. Duncan and S.J. Hu (2002) `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0750653008</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0750653008</sup></sub>
 * [SheetMetal.me](http://sheetmetal.me/)
 
 ---
