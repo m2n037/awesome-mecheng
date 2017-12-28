@@ -98,6 +98,7 @@ I got inspiration from the countless awesome lists in github.
 ## General
 * [ASME The Unwritten Laws of Engineering](http://rotorlab.tamu.edu/me489_SP11/README/2010%20ASME%20Unwritten_Laws_of_Enginering.pdf), what the beginner needs to learn at once, by K.J. King and J.G. Skakoon (1944)
 * [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/) `UNC.edu`
+* [How to be a Star Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf), by R.E. Kelley
 
 #### <a name="database"></a>Databases
 * [MatWeb](http://www.matweb.com/), database of material properties
