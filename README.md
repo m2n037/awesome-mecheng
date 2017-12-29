@@ -352,6 +352,7 @@ I got inspiration from the countless awesome lists in github.
  * [Bayer Snap-Fit Joints for Plastics](http://fab.cba.mit.edu/classes/S62.12/people/vernelle.noel/Plastic_Snap_fit_design.pdf)
  * [Living Hinges Design Guide](http://web.mit.edu/2.75/resources/random/Living%20Hinge%20Design.pdf) `MIT.edu`
  * [Bayer Part and Mold Design Guide](https://blackboard.tudelft.nl/bbcswebdav/courses/consultancy/Basic_Des/Dsn_Plastics_Bayer.pdf)
+ * [DuPont General Design Principles for Engineering Polymers](http://www.dupont.com/content/dam/dupont/products-and-services/plastics-polymers-and-resins/thermoplastics/documents/General%20Design%20Principles/General%20Design%20Principles%20for%20Engineering%20Polymers.pdf)
 
 ---
 <div align="right">
