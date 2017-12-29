@@ -346,6 +346,7 @@ I got inspiration from the countless awesome lists in github.
 * [SheetMetal.me](http://sheetmetal.me/)
 
 ### Plastic
+ * [BASF Snap-Fit Design Manual](http://web.mit.edu/2.75/resources/random/Snap-Fit%20Design%20Manual.pdf) `MIT.edu`
 ---
 <div align="right">
 
