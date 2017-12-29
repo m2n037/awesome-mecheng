@@ -351,6 +351,7 @@ I got inspiration from the countless awesome lists in github.
  * [BASF Snap-Fit Design Manual](http://web.mit.edu/2.75/resources/random/Snap-Fit%20Design%20Manual.pdf) `MIT.edu`
  * [Bayer Snap-Fit Joints for Plastics](http://fab.cba.mit.edu/classes/S62.12/people/vernelle.noel/Plastic_Snap_fit_design.pdf)
  * [Living Hinges Design Guide](http://web.mit.edu/2.75/resources/random/Living%20Hinge%20Design.pdf) `MIT.edu`
+ * [Bayer Part and Mold Design Guide](https://blackboard.tudelft.nl/bbcswebdav/courses/consultancy/Basic_Des/Dsn_Plastics_Bayer.pdf)
 
 ---
 <div align="right">
