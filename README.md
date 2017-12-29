@@ -347,6 +347,8 @@ I got inspiration from the countless awesome lists in github.
 
 ### Plastic
  * [BASF Snap-Fit Design Manual](http://web.mit.edu/2.75/resources/random/Snap-Fit%20Design%20Manual.pdf) `MIT.edu`
+ * [Living Hinges Design Guide](http://web.mit.edu/2.75/resources/random/Living%20Hinge%20Design.pdf) `MIT.edu`
+
 ---
 <div align="right">
 
