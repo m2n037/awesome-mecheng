@@ -348,6 +348,7 @@ I got inspiration from the countless awesome lists in github.
 
 ### Plastic
  * [BASF Snap-Fit Design Manual](http://web.mit.edu/2.75/resources/random/Snap-Fit%20Design%20Manual.pdf) `MIT.edu`
+ * [Bayer Snap-Fit Joints for Plastics](http://fab.cba.mit.edu/classes/S62.12/people/vernelle.noel/Plastic_Snap_fit_design.pdf)
  * [Living Hinges Design Guide](http://web.mit.edu/2.75/resources/random/Living%20Hinge%20Design.pdf) `MIT.edu`
 
 ---
