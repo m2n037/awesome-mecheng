@@ -150,6 +150,7 @@ I got inspiration from the countless awesome lists in github.
 * [Hackaday](https://hackaday.com/)
 * [Plastics Engineering Blog](https://plasticsengineeringblog.com/)
 * [3D CAD World](http://www.3dcadworld.com/)
+* [Engineers Rule](https://www.engineersrule.com/), blog on SolidWork
 
 ---
 <div align="right">
