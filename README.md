@@ -63,6 +63,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 [Manufacturing](#manufacturing)
   * [CAD/CAM](#cadcam)
   * [Sheet Metal Forming](#sheet-metal-forming)
+  * [Plastic](#plastic)
 
 [Finite Element Analysis](#fea)
 
