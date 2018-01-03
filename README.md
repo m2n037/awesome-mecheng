@@ -101,6 +101,7 @@ I got inspiration from the countless awesome lists in github.
 * [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/) `UNC.edu`
 * [How to be a Star Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf), by R.E. Kelley
 * [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf), by R.I. Cook (*Rev.D*)
+* [How to Be a Good Graduate Student](http://www.physlink.com/Education/grad_how2.cfm), by M. desJardins
 
 #### <a name="database"></a>Databases
 * [MatWeb](http://www.matweb.com/), database of material properties
