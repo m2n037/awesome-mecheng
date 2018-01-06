@@ -465,26 +465,60 @@ Cloud based FEA/CFD
 
 ### <a name="for-cad"></a>For CAD Modeling
 #### CATIA
-[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" width="64" align="right" />
+
+>Website: [https://www.3ds.com/products-services/catia/](https://www.3ds.com/products-services/catia/)
+>
+>[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th.
+>*Promo code*: `CATIA4FREE17`
+
 
 #### NX
+
+<img src="../test/img/nx.svg" width="64" align="right" />
+
 *Formely known as* Unigraphics.
+
+>Website: [https://www.plm.automation.siemens.com/en/products/nx/](https://www.plm.automation.siemens.com/en/products/nx/)
+>
+>Student Edition: *N/A*
+
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
+
 #### Creo
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="64" align="right" />
+
 *Formerly known as* Pro/ENGINEER.
 >Website: [https://www.ptc.com/](https://www.ptc.com/)
 >
 >Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
 
+
 #### SolidWorks
 
-* [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
+<img src="https://www.solidworks.com/includes/products/FB_icon.png" width="64" align="right" />
+
+>Website: [https://www.solidworks.com/](https://www.solidworks.com/)
+>
+>Student Edition: [request](https://www.solidworks.com/sw/educator-evaulation-request.htm) (*60 Days*)
+
+ * [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
+
 
 #### Solid Edge
 
+<img src="../test/img/se.svg" width="64" align="right" />
+
+>Website: [https://www.plm.automation.siemens.com/it/products/solid-edge/](https://www.plm.automation.siemens.com/it/products/solid-edge/)
+>
+>Student Edition: [request](https://www.plm.automation.siemens.com/plmapp/se/en_US/online/Shop#ACTION=1189811524) (*45 Days*)
+
 * [Solid Edge Resources](https://community.plm.automation.siemens.com/t5/Solid-Edge/ct-p/solid-edge) `Siemens`
- 
+
+
 #### OnShape
 >Website: [https://www.onshape.com/](https://www.onshape.com/)
 
@@ -493,13 +527,17 @@ Cloud Based CAD
 ###### OpenSource
 
 #### FreeCAD
->Website: [http://www.openscad.org/](http://www.openscad.org/)
+
+<img src="https://www.freecadweb.org/images/logo.png" width="64" align="right" />
 
 *Geometric Kernel* [OpenCASCADE](https://github.com/tpaviot/oce)
+
+>Website: [http://www.openscad.org/](http://www.openscad.org/)
 
 * [A FreeCAD mnaual](https://www.gitbook.com/book/yorikvanhavre/a-freecad-manual/details) `GitBook`
 * [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), python based language for building parametric models [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
   * [CadQuery Documentation](http://dcowden.github.io/cadquery/)
+
 
 #### OpenSCAD
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
