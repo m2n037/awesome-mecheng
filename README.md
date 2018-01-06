@@ -219,7 +219,7 @@ I got inspiration from the countless awesome lists in github.
 
 ## Mechanics
 ### <a name="continuum"></a>Continuum Mechanics
-* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) *Copyright expired* `Archive.org`
+* [Introduction to the Mechanics of a Continuous Medium](https://archive.org/details/in.ernet.dli.2015.140589), by L.E. Malvern (1969) *Out of Copyright* `Archive.org`
 * Many lecture notes links available from [iMechanica](http://imechanica.org/node/1551) (2007)
 * [Applied Mechanics of Solids](http://solidmechanics.org/contents.php), by [A.F. Bower](https://vivo.brown.edu/display/albower) (2012) [[Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/)]
 &emsp; <sub><sup>ISBN: 978-1439802472</sup></sub>
