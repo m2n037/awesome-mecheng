@@ -320,6 +320,7 @@ I got inspiration from the countless awesome lists in github.
 
 ## Manufacturing
 
+* [Fundamentals of Manufacturing Processes](https://www.edx.org/course/fundamentals-manufacturing-processes-mitx-2-008x-0) `edX MIT` 
 * [A.J. Hart](http://meche.mit.edu/people/faculty/ajhart@mit.edu)'s [Presentations](https://www.slideshare.net/AJohnHart/presentations) `slideshare`
 * [Building Prototypes](https://www.youtube.com/watch?v=xMP_AfiNlX4), by D. Gelbart `youtube`
 
