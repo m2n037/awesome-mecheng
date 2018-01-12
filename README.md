@@ -97,7 +97,7 @@ I got inspiration from the countless awesome lists in github.
 * [InTech](https://www.intechopen.com/books/subject/mechanical-engineering), Open Acess book publisher
 
 ## General
-* [ASME The Unwritten Laws of Engineering](http://rotorlab.tamu.edu/me489_SP11/README/2010%20ASME%20Unwritten_Laws_of_Enginering.pdf), what the beginner needs to learn at once, by K.J. King and J.G. Skakoon (1944)
+* [ASME The Unwritten Laws of Engineering](http://rotorlab.tamu.edu/me489_SP11/README/2010%20ASME%20Unwritten_Laws_of_Enginering.pdf), by K.J. King and J.G. Skakoon (1944)
 * [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/) `UNC.edu`
 * [How to be a Star Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf), by R.E. Kelley
 * [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf), by R.I. Cook (*Rev.D*)
