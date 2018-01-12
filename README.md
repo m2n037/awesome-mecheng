@@ -350,6 +350,7 @@ I got inspiration from the countless awesome lists in github.
 ### Sheet Metal Forming
 * [Mechanics of Sheet Metal Forming](https://www.amazon.com/Mechanics-Sheet-Metal-Forming-Second/dp/0750653000), by Z. Marciniak, J.L. Duncan and S.J. Hu (2002) `Amazon`
 &emsp; <sub><sup>ISBN: 978-0750653008</sup></sub>
+* [MDLPostech Mechanical Properties of Steel](https://www.youtube.com/watch?v=3K-8Emy8JQA&list=PLj4YiOgq320p4ASmEwWJzPXNusBFNwuPM)'youtube'
 * [SheetMetal.me](http://sheetmetal.me/)
 
 ### Plastic
