@@ -589,6 +589,11 @@ Misc
 
 * [r/EngineeringPorn](https://www.reddit.com/r/EngineeringPorn/): porn for engineers (*safe for work*)
 * [r/Mechanical_gifs](https://www.reddit.com/r/mechanical_gifs/): perfect loops of mechanical things
+* [r/SpecializedTools/](https://www.reddit.com/r/specializedtools/)
+* [r/MachinePorn](https://www.reddit.com/r/MachinePorn/)
+* [r/ToolPorn/](https://www.reddit.com/r/toolporn/)
+* [r/ThingsCutInHalfPorn/](https://www.reddit.com/r/ThingsCutInHalfPorn/)
+
 <details><summary>Other</summary><br/>
 
   * [r/Aerospace](https://www.reddit.com/r/aerospace/): Aerospace Engineering
