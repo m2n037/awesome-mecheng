@@ -477,8 +477,6 @@ Cloud based FEA/CFD
 
 #### NX
 
-<img src="../test/img/nx.svg" width="64" align="right" />
-
 *Formely known as* Unigraphics.
 
 >Website: [https://www.plm.automation.siemens.com/en/products/nx/](https://www.plm.automation.siemens.com/en/products/nx/)
@@ -510,8 +508,6 @@ Cloud based FEA/CFD
 
 
 #### Solid Edge
-
-<img src="../test/img/se.svg" width="64" align="right" />
 
 >Website: [https://www.plm.automation.siemens.com/it/products/solid-edge/](https://www.plm.automation.siemens.com/it/products/solid-edge/)
 >
