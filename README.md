@@ -63,6 +63,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 [Manufacturing](#manufacturing)
   * [CAD/CAM](#cadcam)
   * [Sheet Metal Forming](#sheet-metal-forming)
+  * [Plastic](#plastic)
 
 [Finite Element Analysis](#fea)
 
@@ -96,8 +97,11 @@ I got inspiration from the countless awesome lists in github.
 * [InTech](https://www.intechopen.com/books/subject/mechanical-engineering), Open Acess book publisher
 
 ## General
-* [ASME The Unwritten Laws of Engineering](http://rotorlab.tamu.edu/me489_SP11/README/2010%20ASME%20Unwritten_Laws_of_Enginering.pdf), what the beginner needs to learn at once, by K.J. King and J.G. Skakoon (1944)
+* [ASME The Unwritten Laws of Engineering](http://rotorlab.tamu.edu/me489_SP11/README/2010%20ASME%20Unwritten_Laws_of_Enginering.pdf), by K.J. King and J.G. Skakoon (1944)
 * [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/) `UNC.edu`
+* [How to be a Star Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf), by R.E. Kelley
+* [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf), by R.I. Cook (*Rev.D*)
+* [How to Be a Good Graduate Student](http://www.physlink.com/Education/grad_how2.cfm), by M. desJardins
 
 #### <a name="database"></a>Databases
 * [MatWeb](http://www.matweb.com/), database of material properties
@@ -148,6 +152,7 @@ I got inspiration from the countless awesome lists in github.
 * [Hackaday](https://hackaday.com/)
 * [Plastics Engineering Blog](https://plasticsengineeringblog.com/)
 * [3D CAD World](http://www.3dcadworld.com/)
+* [Engineers Rule](https://www.engineersrule.com/), blog on SolidWork
 
 ---
 <div align="right">
@@ -169,6 +174,7 @@ I got inspiration from the countless awesome lists in github.
 * [Numerical Recipes in C](http://www.nrbook.com/a/bookcpdf.html), by W.H. Press, B.P. Flannery, S.A. Teukolsky and W.T. Vetterly (1992) *Free for personal use*
 * [Numerical Methods for PDEs](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos), by Qiqi Wang `MIT.edu` `youtube`
 * [Math, Numerics, & Programming (for Mechanical Engineers)](http://ocw.mit.edu/ans7870/2/2.086/F14/MIT2_086S13_Textbook.pdf), M. Yano, J.D. Penn, G. Konidaris and A.T Patera (2013) *Draft v2.1* `MIT.edu`
+* [Iterative Methods for Sparse Linear Systems](http://www-users.cs.umn.edu/~saad/IterMethBook_2ndEd.pdf), by Y. Saad (2003) `UMN.edu`
 
 ## Programming
 * [Free programming books](https://github.com/vhf/free-programming-books) `github`
@@ -213,7 +219,7 @@ I got inspiration from the countless awesome lists in github.
 
 ## Mechanics
 ### <a name="continuum"></a>Continuum Mechanics
-* [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) *Copyright expired* `Archive.org`
+* [Introduction to the Mechanics of a Continuous Medium](https://archive.org/details/in.ernet.dli.2015.140589), by L.E. Malvern (1969) *Out of Copyright* `Archive.org`
 * Many lecture notes links available from [iMechanica](http://imechanica.org/node/1551) (2007)
 * [Applied Mechanics of Solids](http://solidmechanics.org/contents.php), by [A.F. Bower](https://vivo.brown.edu/display/albower) (2012) [[Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/)]
 &emsp; <sub><sup>ISBN: 978-1439802472</sup></sub>
@@ -314,7 +320,9 @@ I got inspiration from the countless awesome lists in github.
 
 ## Manufacturing
 
+* [Fundamentals of Manufacturing Processes](https://www.edx.org/course/fundamentals-manufacturing-processes-mitx-2-008x-0) `edX MIT` 
 * [A.J. Hart](http://meche.mit.edu/people/faculty/ajhart@mit.edu)'s [Presentations](https://www.slideshare.net/AJohnHart/presentations) `slideshare`
+* [Building Prototypes](https://www.youtube.com/watch?v=xMP_AfiNlX4), by D. Gelbart `youtube`
 
 ### CAD/CAM
 
@@ -342,7 +350,17 @@ I got inspiration from the countless awesome lists in github.
 ### Sheet Metal Forming
 * [Mechanics of Sheet Metal Forming](https://www.amazon.com/Mechanics-Sheet-Metal-Forming-Second/dp/0750653000), by Z. Marciniak, J.L. Duncan and S.J. Hu (2002) `Amazon`
 &emsp; <sub><sup>ISBN: 978-0750653008</sup></sub>
+* [MDLPostech Mechanical Properties of Steel](https://www.youtube.com/watch?v=3K-8Emy8JQA&list=PLj4YiOgq320p4ASmEwWJzPXNusBFNwuPM)'youtube'
 * [SheetMetal.me](http://sheetmetal.me/)
+
+### Plastic
+ * [Polymer Processing](http://encyclopedia.che.engin.umich.edu/Pages/PolymerProcessing/menu.html) `UMich.edu`
+ * [BASF Snap-Fit Design Manual](http://web.mit.edu/2.75/resources/random/Snap-Fit%20Design%20Manual.pdf)
+ * [Bayer Snap-Fit Joints for Plastics](http://fab.cba.mit.edu/classes/S62.12/people/vernelle.noel/Plastic_Snap_fit_design.pdf)
+ * [Living Hinges Design Guide](http://web.mit.edu/2.75/resources/random/Living%20Hinge%20Design.pdf) `MIT.edu`
+ * [Bayer Part and Mold Design Guide](https://blackboard.tudelft.nl/bbcswebdav/courses/consultancy/Basic_Des/Dsn_Plastics_Bayer.pdf)
+ * [DuPont General Design Principles for Engineering Polymers](http://www.dupont.com/content/dam/dupont/products-and-services/plastics-polymers-and-resins/thermoplastics/documents/General%20Design%20Principles/General%20Design%20Principles%20for%20Engineering%20Polymers.pdf)
+ * [Bayer Reaction Injection Molding (PolyUrethanes), Part and Mold Design Guide](http://www.reactioninjectionmolding.com/wp-content/uploads/2013/09/RIM-PartMoldDesignGuide.pdf)
 
 ---
 <div align="right">
@@ -353,7 +371,7 @@ I got inspiration from the countless awesome lists in github.
 ## <a name="fea"></a>Finite Element Analysis
 * [Finite Element Procedures](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf), by [K.J. Bathe](http://meche.mit.edu/people/faculty/kjb@mit.edu) (2014) `MIT.edu`
 * [Introduction to the Finite Element Method](http://hyfem.com/HyFem/fem.pdf), by C.S. Jog
-* [Introduction to Finite Element Methods] `Colorado.edu`
+* [Introduction to Finite Element Methods](https://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/) `Colorado.edu`
   * [Advance FEM](https://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/Home.html)
   * [Nonlinear FEM](https://www.colorado.edu/engineering/CAS/courses.d/NFEM.d/Home.html)
 
@@ -449,26 +467,56 @@ Cloud based FEA/CFD
 
 ### <a name="for-cad"></a>For CAD Modeling
 #### CATIA
-[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" width="64" align="right" />
+
+>Website: [https://www.3ds.com/products-services/catia/](https://www.3ds.com/products-services/catia/)
+>
+>[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th.
+>*Promo code*: `CATIA4FREE17`
+
 
 #### NX
+
 *Formely known as* Unigraphics.
+
+>Website: [https://www.plm.automation.siemens.com/en/products/nx/](https://www.plm.automation.siemens.com/en/products/nx/)
+>
+>Student Edition: *N/A*
+
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
+
 #### Creo
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="64" align="right" />
+
 *Formerly known as* Pro/ENGINEER.
 >Website: [https://www.ptc.com/](https://www.ptc.com/)
 >
 >Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
 
+
 #### SolidWorks
 
-* [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
+<img src="https://www.solidworks.com/includes/products/FB_icon.png" width="64" align="right" />
+
+>Website: [https://www.solidworks.com/](https://www.solidworks.com/)
+>
+>Student Edition: [request](https://www.solidworks.com/sw/educator-evaulation-request.htm) (*60 Days*)
+
+ * [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
+
 
 #### Solid Edge
 
+>Website: [https://www.plm.automation.siemens.com/it/products/solid-edge/](https://www.plm.automation.siemens.com/it/products/solid-edge/)
+>
+>Student Edition: [request](https://www.plm.automation.siemens.com/plmapp/se/en_US/online/Shop#ACTION=1189811524) (*45 Days*)
+
 * [Solid Edge Resources](https://community.plm.automation.siemens.com/t5/Solid-Edge/ct-p/solid-edge) `Siemens`
- 
+
+
 #### OnShape
 >Website: [https://www.onshape.com/](https://www.onshape.com/)
 
@@ -477,13 +525,17 @@ Cloud Based CAD
 ###### OpenSource
 
 #### FreeCAD
->Website: [http://www.openscad.org/](http://www.openscad.org/)
+
+<img src="https://www.freecadweb.org/images/logo.png" width="64" align="right" />
 
 *Geometric Kernel* [OpenCASCADE](https://github.com/tpaviot/oce)
+
+>Website: [http://www.openscad.org/](http://www.openscad.org/)
 
 * [A FreeCAD mnaual](https://www.gitbook.com/book/yorikvanhavre/a-freecad-manual/details) `GitBook`
 * [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), python based language for building parametric models [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
   * [CadQuery Documentation](http://dcowden.github.io/cadquery/)
+
 
 #### OpenSCAD
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
@@ -535,6 +587,11 @@ Misc
 
 * [r/EngineeringPorn](https://www.reddit.com/r/EngineeringPorn/): porn for engineers (*safe for work*)
 * [r/Mechanical_gifs](https://www.reddit.com/r/mechanical_gifs/): perfect loops of mechanical things
+* [r/SpecializedTools/](https://www.reddit.com/r/specializedtools/)
+* [r/MachinePorn](https://www.reddit.com/r/MachinePorn/)
+* [r/ToolPorn/](https://www.reddit.com/r/toolporn/)
+* [r/ThingsCutInHalfPorn/](https://www.reddit.com/r/ThingsCutInHalfPorn/)
+
 <details><summary>Other</summary><br/>
 
   * [r/Aerospace](https://www.reddit.com/r/aerospace/): Aerospace Engineering
