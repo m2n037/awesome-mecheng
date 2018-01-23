@@ -574,53 +574,53 @@ Script based modeller
 </div>
 
 ## <a name="subreddits"></a> SubReddits Related to Mechanical Engineering
-* [r/AskEngineers](https://www.reddit.com/r/AskEngineers/): Non-school Q&A
-* [r/CAD](https://www.reddit.com/r/CAD/): Computer Aided Design
-* [r/CFD](https://www.reddit.com/r/CFD/): Computational Fluid Dynamics
-* [r/Engineering](https://www.reddit.com/r/engineering/): About all things related to engineering
-* [r/EngineeringStudents](https://www.reddit.com/r/EngineeringStudents/): For wee engineerlings
-* [r/FEA](https://www.reddit.com/r/fea/): Finite Element Analysis
-* [r/FluidMechanics](https://www.reddit.com/r/FluidMechanics/)
-* [r/CivilEngineering](https://www.reddit.com/r/civilengineering/): Civil Engineering
-* [r/Manufacturing](https://www.reddit.com/r/Manufacturing/): Manufacturing Industry
-* [r/Materials](https://www.reddit.com/r/materials/): Materials Engineering
-* [r/MechanicalEngineering](https://www.reddit.com/r/mechanicalengineering/): Mechanical Engineering
+* [/r/AskEngineers](https://www.reddit.com/r/AskEngineers/): Non-school Q&A
+* [/r/CAD](https://www.reddit.com/r/CAD/): Computer Aided Design
+* [/r/CFD](https://www.reddit.com/r/CFD/): Computational Fluid Dynamics
+* [/r/Engineering](https://www.reddit.com/r/engineering/): About all things related to engineering
+* [/r/EngineeringStudents](https://www.reddit.com/r/EngineeringStudents/): For wee engineerlings
+* [/r/FEA](https://www.reddit.com/r/fea/): Finite Element Analysis
+* [/r/FluidMechanics](https://www.reddit.com/r/FluidMechanics/)
+* [/r/CivilEngineering](https://www.reddit.com/r/civilengineering/): Civil Engineering
+* [/r/Manufacturing](https://www.reddit.com/r/Manufacturing/): Manufacturing Industry
+* [/r/Materials](https://www.reddit.com/r/materials/): Materials Engineering
+* [/r/MechanicalEngineering](https://www.reddit.com/r/mechanicalengineering/): Mechanical Engineering
 
 Misc
 
-* [r/EngineeringPorn](https://www.reddit.com/r/EngineeringPorn/): porn for engineers (*safe for work*)
-* [r/Mechanical_gifs](https://www.reddit.com/r/mechanical_gifs/): perfect loops of mechanical things
-* [r/SpecializedTools](https://www.reddit.com/r/specializedtools/)
-* [r/MachinePorn](https://www.reddit.com/r/MachinePorn/)
-* [r/ToolPorn](https://www.reddit.com/r/toolporn/)
-* [r/ThingsCutInHalfPorn](https://www.reddit.com/r/ThingsCutInHalfPorn/)
+* [/r/EngineeringPorn](https://www.reddit.com/r/EngineeringPorn/): porn for engineers (*safe for work*)
+* [/r/Mechanical_gifs](https://www.reddit.com/r/mechanical_gifs/): perfect loops of mechanical things
+* [/r/SpecializedTools](https://www.reddit.com/r/specializedtools/)
+* [/r/MachinePorn](https://www.reddit.com/r/MachinePorn/)
+* [/r/ToolPorn](https://www.reddit.com/r/toolporn/)
+* [/r/ThingsCutInHalfPorn](https://www.reddit.com/r/ThingsCutInHalfPorn/)
 
 <details><summary>Other</summary><br/>
 
-  * [r/Aerospace](https://www.reddit.com/r/aerospace/): Aerospace Engineering
-  * [r/AskElectronics](https://www.reddit.com/r/AskElectronics/): CE/EE Q&A
-  * [r/AskScience](https://www.reddit.com/r/AskScience/): No-nonsense science Q&A
-  * [r/BioEngineering](https://www.reddit.com/r/BioEngineering/): Biological
-  * [r/Biology](https://www.reddit.com/r/biology/)
-  * [r/Biotech](https://www.reddit.com/r/biotech/): Biotechnology
-  * [r/ChemE](https://www.reddit.com/r/chemicalengineering/): Chemical Engineering
-  * [r/Chemistry](https://www.reddit.com/r/chemistry/)
-  * [r/Coding](https://www.reddit.com/r/coding/)
-  * [r/ComputerScience](https://www.reddit.com/r/ComputerScience/)
-  * [r/Construction](https://www.reddit.com/r/construction/): Construction
-  * [r/CSBooks](https://www.reddit.com/r/csbooks/): Computer Science
-  * [r/ECE](https://www.reddit.com/r/ECE/): General EE & CE discussion
-  * [r/ECEComponentExchange](https://www.reddit.com/r/ECEComponentExchange/): Parts swap
-  * [r/EE](https://www.reddit.com/r/electricalengineering/): Electrical Engineering
-  * [r/EEBooks](https://www.reddit.com/r/eebooks/): Electrical Engineering
-  * [r/Electronics](https://www.reddit.com/r/electronics/)
-  * [r/Lectures](https://www.reddit.com/r/lectures/)
-  * [r/Math](https://www.reddit.com/r/math/)
-  * [r/MathBooks](https://www.reddit.com/r/mathbooks/): Mathematics
-  * [r/Physics](https://www.reddit.com/r/physics/)
-  * [r/PhysicsBooks](https://www.reddit.com/r/physicsbooks/): Physics
-  * [r/Programming](https://www.reddit.com/r/programming/)
-  * [r/Science](https://www.reddit.com/r/science/)
+  * [/r/Aerospace](https://www.reddit.com/r/aerospace/): Aerospace Engineering
+  * [/r/AskElectronics](https://www.reddit.com/r/AskElectronics/): CE/EE Q&A
+  * [/r/AskScience](https://www.reddit.com/r/AskScience/): No-nonsense science Q&A
+  * [/r/BioEngineering](https://www.reddit.com/r/BioEngineering/): Biological
+  * [/r/Biology](https://www.reddit.com/r/biology/)
+  * [/r/Biotech](https://www.reddit.com/r/biotech/): Biotechnology
+  * [/r/ChemE](https://www.reddit.com/r/chemicalengineering/): Chemical Engineering
+  * [/r/Chemistry](https://www.reddit.com/r/chemistry/)
+  * [/r/Coding](https://www.reddit.com/r/coding/)
+  * [/r/ComputerScience](https://www.reddit.com/r/ComputerScience/)
+  * [/r/Construction](https://www.reddit.com/r/construction/): Construction
+  * [/r/CSBooks](https://www.reddit.com/r/csbooks/): Computer Science
+  * [/r/ECE](https://www.reddit.com/r/ECE/): General EE & CE discussion
+  * [/r/ECEComponentExchange](https://www.reddit.com/r/ECEComponentExchange/): Parts swap
+  * [/r/EE](https://www.reddit.com/r/electricalengineering/): Electrical Engineering
+  * [/r/EEBooks](https://www.reddit.com/r/eebooks/): Electrical Engineering
+  * [/r/Electronics](https://www.reddit.com/r/electronics/)
+  * [/r/Lectures](https://www.reddit.com/r/lectures/)
+  * [/r/Math](https://www.reddit.com/r/math/)
+  * [/r/MathBooks](https://www.reddit.com/r/mathbooks/): Mathematics
+  * [/r/Physics](https://www.reddit.com/r/physics/)
+  * [/r/PhysicsBooks](https://www.reddit.com/r/physicsbooks/): Physics
+  * [/r/Programming](https://www.reddit.com/r/programming/)
+  * [/r/Science](https://www.reddit.com/r/science/)
 </details>
 
 ---
