@@ -42,6 +42,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Matlab](#matlab)
   * [R](#r)
   * [Fortran](#fortran)
+  * [LaTeX](#latex)
 
 [Mechanics](#mechanics)
   * [Continuum Mechanics](#continuum)
@@ -220,6 +221,7 @@ I got inspiration from the countless awesome lists in github.
 * [Introduction to Programming with Fortran 95](https://www.fortrantutorial.com/documents/IntroductionToFTN95.pdf)
 * [EbookFoundation #Fortran](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#fortran) `github`
 
+### LaTeX
 
 ---
 <div align="right">
