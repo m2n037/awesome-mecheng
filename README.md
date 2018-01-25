@@ -103,7 +103,7 @@ I got inspiration from the countless awesome lists in github.
 * [How to be a Star Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf), by R.E. Kelley
 * [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf), by R.I. Cook (*Rev.D*)
 * [How to Be a Good Graduate Student](http://www.physlink.com/Education/grad_how2.cfm), by M. desJardins
-* [The Art of Insight in Science and Engineering](https://mitpress.mit.edu/books/art-insight-science-and-engineering), by S. Mahajan (2014)
+* [The Art of Insight in Science and Engineering](https://mitpress.mit.edu/books/art-insight-science-and-engineering), by S. Mahajan (2014) `MITPress`
 &emsp; <sub><sup>ISBN: 9780262526548</sup></sub>
 
 
