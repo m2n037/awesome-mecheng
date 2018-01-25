@@ -185,6 +185,7 @@ I got inspiration from the countless awesome lists in github.
 
 ### <a name="cpp"></a>C++
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
+* [EbookFoundation #C++](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1) `github`
 
 ### Python
 * [A Byte of Python](https://python.swaroopch.com/), by [C.H. Swaroop](https://www.swaroopch.com/about/) (2013)
@@ -192,10 +193,12 @@ I got inspiration from the countless awesome lists in github.
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
 * [Learn X in Y minutes, where X=Python](https://learnxinyminutes.com/docs/python/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com), a great book for getting a handle on writing python scripts
+* [EbookFoundation #Python](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python) `github`
 
 ### Julia
 * [Learning Julia](https://julialang.org/learning/), official learning resources
 * [Learn X in Y minutes, where X=Julia](https://learnxinyminutes.com/docs/julia/)
+* [EbookFoundation #Julia](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#julia) `github`
 
 ### <a name="excel"></a>Microsoft Excel VBA
 * [Excel VBA Programming for Dummies](https://michaelaustinfu.files.wordpress.com/2013/03/excel-vba-for-dummies-3rd-edition.pdf)
@@ -207,12 +210,16 @@ I got inspiration from the countless awesome lists in github.
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 * [A Brief Introduction to Engineering Computation with MATLAB](https://open.bccampus.ca/find-open-textbooks/?uuid=e12e3911-8a06-497e-b8c9-99e347092af0&contributor=&keyword=&subject=) `BCcampus.ca`
 * [Stuart’s MATLAB Videos](https://blogs.mathworks.com/videos/) (Blog) `MathWorks.com`
+* [EbookFoundation #MATLAB](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#matlab) `github`
 
 ### <a name="r"></a>R (statistics)
 * [Intro to R for data science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0) `edX Microsoft`
+* [EbookFoundation #R](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#r) `github`
 
 ### Fortran
 * [Introduction to Programming with Fortran 95](https://www.fortrantutorial.com/documents/IntroductionToFTN95.pdf)
+* [EbookFoundation #Fortran](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#fortran) `github`
+
 
 ---
 <div align="right">
