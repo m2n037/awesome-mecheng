@@ -662,7 +662,7 @@ Misc
 </div>
 
 ## <a name="competition"></a>Competitions
-### SAE Competitions
+<!--### SAE Competitions-->
 
 #### Altair Contests
 
@@ -698,7 +698,7 @@ Qualifying examinations are a kind of certification to engineers - PE in USA, GA
 ### Altair Certification
 * [Certification website](http://certification.altairuniversity.com)
 
-### Solidworks Certifications
+<!--### Solidworks Certifications -->
 
 ### Mechanical Engineering & Related PE License for USA
 A PE license is probably the most useful certification that a mechanical engineer can obtain.  A PE license is only actually a requirement if you want to provide services directly to the public, but it is still a good thing to have regardless.  It is a sign to employers and clients that you are a competent engineer, and the act of studying for the exam will sharpen your skills. This examination is organized by [NCEES - National Council of Examiners for Engineering and Surveying](http://ncees.org/).
@@ -709,7 +709,7 @@ A PE license is probably the most useful certification that a mechanical enginee
 * [NCEES Examinee Guide](http://ncees.org/exams/examinee-guide/)
 * [Passing the PE Exam](https://mechanicalc.com/posts/passing-the-pe-exam)
 
-###### Topper's Story or How to Prepare
+<!--###### Topper's Story or How to Prepare-->
 
 ###### ME PE specific Books
 * [Michael R. Lindeburg - Mechanical Engineering Reference Manual for the PE Exam](https://www.amazon.com/Mechanical-Engineering-Reference-Manual-Exam/dp/1591264146/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=7defb8a434a541210f122c9306b2392d) `Amazon`
@@ -720,7 +720,7 @@ A PE license is probably the most useful certification that a mechanical enginee
 &emsp; <sub><sup>ISBN: 978-1591264156</sup></sub>
 * [NCEES - PE Mechanical Engineering: Machine Design and Materials Practice Exam](https://www.amazon.com/PE-Mechanical-Engineering-Materials-Practice/dp/1932613773/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=323726031869b0095d1a4641a056257a) `Amazon`
 
-###### ME PE specific Tutorials/MOOCs
+<!-- ###### ME PE specific Tutorials/MOOCs -->
 
 
 ### GATE for India
