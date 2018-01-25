@@ -242,8 +242,11 @@ I got inspiration from the countless awesome lists in github.
 * [Mechanical Metallurgy](https://archive.org/details/mechanicalmetall00diet), by G.E. Dieter (1961) `Archive.org`
 * [Applied Strength of Materials for Engineering Technology](http://www.etcs.ipfw.edu/~dupenb/ET_200/Applied%20Str%20of%20Mat%20for%20ET%20v12%20Jun%202017.pdf), by [B. Dupen](http://www.etcs.ipfw.edu/~dupenb/) (2017) `IPFW.edu`
 * [Mechanics of Materials](https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1), by J.M. Gere and B.J. Goodno (2012) `Amazon`
+&emsp; <sub><sup>ISBN: 978-1111577735</sup></sub>
 * [Mechanical Behavior of Materials](https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1), by N.E. Dowling (2012) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0131395060</sup></sub>
 * [Roark's Formulas for Stress and Strain](https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1), by W.C. Young and R.G. Budynas (2001) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0070725423</sup></sub>
 * [Strength of Materials](https://www.mechanicalc.com/reference/strength-of-materials)
 * [Beam Stress and Deflection](https://www.mechanicalc.com/reference/beam-analysis)
 * [Column Buckling](https://www.mechanicalc.com/reference/column-buckling)
@@ -260,16 +263,23 @@ I got inspiration from the countless awesome lists in github.
 ## <a name="machine"></a>Theory of Machines
 ### Mechanism Design
 * [Shigley's Mechanical Engineering Design](https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2), by R.G.Budynas and J.K. Nisbett (2014) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0073398204</sup></sub>
 * [Introduction to Mechanisms](https://www.cs.cmu.edu/%7Erapidproto/mechanisms/tablecontents.html),  by Yi Zhang with S. Finger, S. Behrens. `CMU.edu`
 * [Mechanisms/Machines](https://archive.org/details/MechanismsMachines), by L. Teel (1972) `Archive.org`
 
 ### Control Engineering
 * [Modern Control Engineering](https://www.amazon.com/Modern-Control-Engineering-Katsuhiko-Ogata/dp/0136156738/ref=sr_1_cc_4), by K. Ogata (2009) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0136156734</sup></sub>
 * [Automatic Control Systems](https://www.amazon.com/Automatic-Control-Systems-Tenth-Golnaraghi/dp/1259643832/ref=sr_1_1), by F. Golnaraghi and B.C. Kuo (2017) `Amazon`
+&emsp; <sub><sup>ISBN: 978-1259643835</sup></sub>
 * [Control Systems Engineering](https://www.amazon.com/Control-Systems-Engineering-Norman-Nise/dp/1118170512/ref=sr_1_1), by N.S. Nise (2015) `Amazon`
+&emsp; <sub><sup>ISBN: 978-1118170519</sup></sub>
 * [Linear Robust Control](https://www.amazon.com/Linear-Control-Prentice-Information-Sciences/dp/0131022784/ref=sr_1_), by M. Green and D.J.N. Limebeer (1994) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0131022782</sup></sub>
 * [Essentials of Robust Control](https://www.amazon.com/Essentials-Robust-Control-Kemin-Zhou/dp/0135258332/ref=sr_1_1), by K. Zhou with J.C. Doyle (1997) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0135258330</sup></sub>
 * [Feedback Control Theory](https://www.amazon.com/Feedback-Control-Theory-Electrical-Engineering/dp/0486469336/ref=sr_1_1), by J.C. Doyle, B.A. Francis and A.R. Tannenbaum (2009) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0486469331</sup></sub>
 * [Feedback Systems](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf) by K.J. Åström and R. Murray (2011) `CalTech.edu`
 * [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), by Brian Douglas `youtube`
 * [Control Systems](https://en.wikibooks.org/wiki/Control_Systems) `wikibooks`
@@ -330,7 +340,8 @@ I got inspiration from the countless awesome lists in github.
 ### CAD/CAM
 
 #### Theory
-* [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
+* [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` 
+([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) &emsp; <sub><sup>ISBN: 978-3540424543</sup></sub>
 * [Geometric and Solid Modeling](https://www.cs.purdue.edu/homes/cmh/distribution/books/geo.html), by C.M. Hoffman (1992) *Out of Print* `Purdue.edu`
 * [Computer Aided Geometric Design](http://tom.cs.byu.edu/~557/text/cagd.pdf), by T.W. Sederberg (2006) `BYU.edu`
 * [Curves and Surfaces in Geometric Modeling](http://www.cis.upenn.edu/~jean/gbooks/geom1.html) by [J. Gallier](http://www.cis.upenn.edu/~jean/home.html) (1999) *Out of Print* `UPenn.edu`
@@ -701,10 +712,13 @@ A PE license is probably the most useful certification that a mechanical enginee
 ###### Topper's Story or How to Prepare
 
 ###### ME PE specific Books
-* [Michael R. Lindeburg - Mechanical Engineering Reference Manual for the PE Exam](https://www.amazon.com/Mechanical-Engineering-Reference-Manual-Exam/dp/1591264146/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=7defb8a434a541210f122c9306b2392d)
-* [Michael R. Lindeburg - Mechanical PE Practice Examination](https://www.amazon.com/Mechanical-PE-Practice-Examination-3rd/dp/1591264170/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=TZGSAJC0M4GVPQV089GD&linkCode=ll1&tag=mechanicalc-20&linkId=d42940ff0d1bdb59bc2ae2fdc98126a3)
-* [Michael R. Lindeburg - Practice Problems for the Mechanical Engineering PE Exam](https://www.amazon.com/Practice-Problems-Mechanical-Engineering-Comprehensive/dp/1591264154/)
-* [NCEES - PE Mechanical Engineering: Machine Design and Materials Practice Exam](https://www.amazon.com/PE-Mechanical-Engineering-Materials-Practice/dp/1932613773/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=323726031869b0095d1a4641a056257a)
+* [Michael R. Lindeburg - Mechanical Engineering Reference Manual for the PE Exam](https://www.amazon.com/Mechanical-Engineering-Reference-Manual-Exam/dp/1591264146/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=7defb8a434a541210f122c9306b2392d) `Amazon`
+&emsp; <sub><sup>ISBN: 978-1591264149</sup></sub>
+* [Michael R. Lindeburg - Mechanical PE Practice Examination](https://www.amazon.com/Mechanical-PE-Practice-Examination-3rd/dp/1591264170/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=TZGSAJC0M4GVPQV089GD&linkCode=ll1&tag=mechanicalc-20&linkId=d42940ff0d1bdb59bc2ae2fdc98126a3) `Amazon`
+&emsp; <sub><sup>ISBN: 978-1591264170</sup></sub>
+* [Michael R. Lindeburg - Practice Problems for the Mechanical Engineering PE Exam](https://www.amazon.com/Practice-Problems-Mechanical-Engineering-Comprehensive/dp/1591264154/) `Amazon`
+&emsp; <sub><sup>ISBN: 978-1591264156</sup></sub>
+* [NCEES - PE Mechanical Engineering: Machine Design and Materials Practice Exam](https://www.amazon.com/PE-Mechanical-Engineering-Materials-Practice/dp/1932613773/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=323726031869b0095d1a4641a056257a) `Amazon`
 
 ###### ME PE specific Tutorials/MOOCs
 
