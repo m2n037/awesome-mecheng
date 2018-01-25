@@ -183,7 +183,7 @@ I got inspiration from the countless awesome lists in github.
 ## Programming
 * [Free programming books](https://github.com/vhf/free-programming-books) `github`
 * [Project Euler](https://projecteuler.net/), math/programming problems archives
-* [Programming Notes for Professionals](http://goalkicker.com/), books compiled from StackOverflow Documentation
+* [Programming Notes for Professionals](http://goalkicker.com/), books compiled from StackOverflow Documentation `goalkicker`
 
 ### <a name="cpp"></a>C++
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
