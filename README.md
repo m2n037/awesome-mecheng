@@ -203,6 +203,7 @@ I got inspiration from the countless awesome lists in github.
 
 ### <a name="excel"></a>Microsoft Excel VBA
 * [Excel VBA Programming for Dummies](https://michaelaustinfu.files.wordpress.com/2013/03/excel-vba-for-dummies-3rd-edition.pdf)
+* [VBA Notes for Professinals](http://goalkicker.com/VBABook/) `goalkicker`
 
 ### MATLAB
 * [Awesome MATLAB List](https://github.com/mikecroucher/awesome-MATLAB), by [@mikecroucher](https://github.com/mikecroucher/) `github`
