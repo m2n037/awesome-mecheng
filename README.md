@@ -42,6 +42,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Matlab](#matlab)
   * [R](#r)
   * [Fortran](#fortran)
+  * [LaTeX](#latex)
 
 [Mechanics](#mechanics)
   * [Continuum Mechanics](#continuum)
@@ -102,6 +103,9 @@ I got inspiration from the countless awesome lists in github.
 * [How to be a Star Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf), by R.E. Kelley
 * [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf), by R.I. Cook (*Rev.D*)
 * [How to Be a Good Graduate Student](http://www.physlink.com/Education/grad_how2.cfm), by M. desJardins
+* [The Art of Insight in Science and Engineering](https://mitpress.mit.edu/books/art-insight-science-and-engineering), by S. Mahajan (2014) `MITPress`
+&emsp; <sub><sup>ISBN: 9780262526548</sup></sub>
+
 
 #### <a name="database"></a>Databases
 * [MatWeb](http://www.matweb.com/), database of material properties
@@ -179,9 +183,11 @@ I got inspiration from the countless awesome lists in github.
 ## Programming
 * [Free programming books](https://github.com/vhf/free-programming-books) `github`
 * [Project Euler](https://projecteuler.net/), math/programming problems archives
+* [Programming Notes for Professionals](http://goalkicker.com/), books compiled from StackOverflow Documentation `goalkicker`
 
 ### <a name="cpp"></a>C++
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
+* [EbookFoundation #C++](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1) `github`
 
 ### Python
 * [A Byte of Python](https://python.swaroopch.com/), by [C.H. Swaroop](https://www.swaroopch.com/about/) (2013)
@@ -189,13 +195,16 @@ I got inspiration from the countless awesome lists in github.
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
 * [Learn X in Y minutes, where X=Python](https://learnxinyminutes.com/docs/python/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com), a great book for getting a handle on writing python scripts
+* [EbookFoundation #Python](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python) `github`
 
 ### Julia
 * [Learning Julia](https://julialang.org/learning/), official learning resources
 * [Learn X in Y minutes, where X=Julia](https://learnxinyminutes.com/docs/julia/)
+* [EbookFoundation #Julia](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#julia) `github`
 
 ### <a name="excel"></a>Microsoft Excel VBA
 * [Excel VBA Programming for Dummies](https://michaelaustinfu.files.wordpress.com/2013/03/excel-vba-for-dummies-3rd-edition.pdf)
+* [VBA Notes for Professinals](http://goalkicker.com/VBABook/) `goalkicker`
 
 ### MATLAB
 * [Awesome MATLAB List](https://github.com/mikecroucher/awesome-MATLAB), by [@mikecroucher](https://github.com/mikecroucher/) `github`
@@ -204,12 +213,21 @@ I got inspiration from the countless awesome lists in github.
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 * [A Brief Introduction to Engineering Computation with MATLAB](https://open.bccampus.ca/find-open-textbooks/?uuid=e12e3911-8a06-497e-b8c9-99e347092af0&contributor=&keyword=&subject=) `BCcampus.ca`
 * [Stuart’s MATLAB Videos](https://blogs.mathworks.com/videos/) (Blog) `MathWorks.com`
+* [EbookFoundation #MATLAB](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#matlab) `github`
 
 ### <a name="r"></a>R (statistics)
 * [Intro to R for data science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-0) `edX Microsoft`
+* [EbookFoundation #R](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#r) `github`
 
 ### Fortran
 * [Introduction to Programming with Fortran 95](https://www.fortrantutorial.com/documents/IntroductionToFTN95.pdf)
+* [EbookFoundation #Fortran](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#fortran) `github`
+
+### LaTeX
+* [WikiBooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX) ([PDF](https://upload.wikimedia.org/wikipedia/commons/2/2d/LaTeX.pdf)) `wikibooks`
+* [LaTeX Notes for Professionals](http://books.goalkicker.com/LaTeXBook/) `goalkicker`
+* [Learn LaTeX in 30 min](https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes) `sharelatex`
+* [EbookFoundation #LaTeX](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#latex) `github`
 
 ---
 <div align="right">
@@ -239,8 +257,11 @@ I got inspiration from the countless awesome lists in github.
 * [Mechanical Metallurgy](https://archive.org/details/mechanicalmetall00diet), by G.E. Dieter (1961) `Archive.org`
 * [Applied Strength of Materials for Engineering Technology](http://www.etcs.ipfw.edu/~dupenb/ET_200/Applied%20Str%20of%20Mat%20for%20ET%20v12%20Jun%202017.pdf), by [B. Dupen](http://www.etcs.ipfw.edu/~dupenb/) (2017) `IPFW.edu`
 * [Mechanics of Materials](https://www.amazon.com/Mechanics-Materials-James-M-Gere/dp/1111577730/ref=sr_1_1), by J.M. Gere and B.J. Goodno (2012) `Amazon`
+&emsp; <sub><sup>ISBN: 978-1111577735</sup></sub>
 * [Mechanical Behavior of Materials](https://www.amazon.com/Mechanical-Behavior-Materials-Norman-Dowling/dp/0131395068/ref=sr_1_1), by N.E. Dowling (2012) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0131395060</sup></sub>
 * [Roark's Formulas for Stress and Strain](https://www.amazon.com/Roarks-Formulas-Stress-Strain-Warren-ebook/dp/B00938YD4Y/ref=sr_1_1), by W.C. Young and R.G. Budynas (2001) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0070725423</sup></sub>
 * [Strength of Materials](https://www.mechanicalc.com/reference/strength-of-materials)
 * [Beam Stress and Deflection](https://www.mechanicalc.com/reference/beam-analysis)
 * [Column Buckling](https://www.mechanicalc.com/reference/column-buckling)
@@ -257,16 +278,23 @@ I got inspiration from the countless awesome lists in github.
 ## <a name="machine"></a>Theory of Machines
 ### Mechanism Design
 * [Shigley's Mechanical Engineering Design](https://www.amazon.com/Shigleys-Mechanical-Engineering-Design-McGraw-Hill-ebook/dp/B00HZ3B1KI/ref=sr_1_2), by R.G.Budynas and J.K. Nisbett (2014) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0073398204</sup></sub>
 * [Introduction to Mechanisms](https://www.cs.cmu.edu/%7Erapidproto/mechanisms/tablecontents.html),  by Yi Zhang with S. Finger, S. Behrens. `CMU.edu`
 * [Mechanisms/Machines](https://archive.org/details/MechanismsMachines), by L. Teel (1972) `Archive.org`
 
 ### Control Engineering
 * [Modern Control Engineering](https://www.amazon.com/Modern-Control-Engineering-Katsuhiko-Ogata/dp/0136156738/ref=sr_1_cc_4), by K. Ogata (2009) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0136156734</sup></sub>
 * [Automatic Control Systems](https://www.amazon.com/Automatic-Control-Systems-Tenth-Golnaraghi/dp/1259643832/ref=sr_1_1), by F. Golnaraghi and B.C. Kuo (2017) `Amazon`
+&emsp; <sub><sup>ISBN: 978-1259643835</sup></sub>
 * [Control Systems Engineering](https://www.amazon.com/Control-Systems-Engineering-Norman-Nise/dp/1118170512/ref=sr_1_1), by N.S. Nise (2015) `Amazon`
+&emsp; <sub><sup>ISBN: 978-1118170519</sup></sub>
 * [Linear Robust Control](https://www.amazon.com/Linear-Control-Prentice-Information-Sciences/dp/0131022784/ref=sr_1_), by M. Green and D.J.N. Limebeer (1994) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0131022782</sup></sub>
 * [Essentials of Robust Control](https://www.amazon.com/Essentials-Robust-Control-Kemin-Zhou/dp/0135258332/ref=sr_1_1), by K. Zhou with J.C. Doyle (1997) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0135258330</sup></sub>
 * [Feedback Control Theory](https://www.amazon.com/Feedback-Control-Theory-Electrical-Engineering/dp/0486469336/ref=sr_1_1), by J.C. Doyle, B.A. Francis and A.R. Tannenbaum (2009) `Amazon`
+&emsp; <sub><sup>ISBN: 978-0486469331</sup></sub>
 * [Feedback Systems](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf) by K.J. Åström and R. Murray (2011) `CalTech.edu`
 * [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), by Brian Douglas `youtube`
 * [Control Systems](https://en.wikibooks.org/wiki/Control_Systems) `wikibooks`
@@ -327,7 +355,8 @@ I got inspiration from the countless awesome lists in github.
 ### CAD/CAM
 
 #### Theory
-* [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
+* [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` 
+([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) &emsp; <sub><sup>ISBN: 978-3540424543</sup></sub>
 * [Geometric and Solid Modeling](https://www.cs.purdue.edu/homes/cmh/distribution/books/geo.html), by C.M. Hoffman (1992) *Out of Print* `Purdue.edu`
 * [Computer Aided Geometric Design](http://tom.cs.byu.edu/~557/text/cagd.pdf), by T.W. Sederberg (2006) `BYU.edu`
 * [Curves and Surfaces in Geometric Modeling](http://www.cis.upenn.edu/~jean/gbooks/geom1.html) by [J. Gallier](http://www.cis.upenn.edu/~jean/home.html) (1999) *Out of Print* `UPenn.edu`
@@ -350,7 +379,7 @@ I got inspiration from the countless awesome lists in github.
 ### Sheet Metal Forming
 * [Mechanics of Sheet Metal Forming](https://www.amazon.com/Mechanics-Sheet-Metal-Forming-Second/dp/0750653000), by Z. Marciniak, J.L. Duncan and S.J. Hu (2002) `Amazon`
 &emsp; <sub><sup>ISBN: 978-0750653008</sup></sub>
-* [MDLPostech Mechanical Properties of Steel](https://www.youtube.com/watch?v=3K-8Emy8JQA&list=PLj4YiOgq320p4ASmEwWJzPXNusBFNwuPM)'youtube'
+* [MDLPostech Mechanical Properties of Steel](https://www.youtube.com/watch?v=3K-8Emy8JQA&list=PLj4YiOgq320p4ASmEwWJzPXNusBFNwuPM) `youtube`
 * [SheetMetal.me](http://sheetmetal.me/)
 
 ### Plastic
@@ -370,6 +399,7 @@ I got inspiration from the countless awesome lists in github.
 
 ## <a name="fea"></a>Finite Element Analysis
 * [Finite Element Procedures](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf), by [K.J. Bathe](http://meche.mit.edu/people/faculty/kjb@mit.edu) (2014) `MIT.edu`
+&emsp; <sub><sup>ISBN: 978-0979004957</sup></sub>
 * [Introduction to the Finite Element Method](http://hyfem.com/HyFem/fem.pdf), by C.S. Jog
 * [Introduction to Finite Element Methods](https://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/) `Colorado.edu`
   * [Advance FEM](https://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/Home.html)
@@ -532,7 +562,7 @@ Cloud Based CAD
 
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
 
-* [A FreeCAD mnaual](https://www.gitbook.com/book/yorikvanhavre/a-freecad-manual/details) `GitBook`
+* [A FreeCAD manual](https://www.gitbook.com/book/yorikvanhavre/a-freecad-manual/details) `GitBook`
 * [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), python based language for building parametric models [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
   * [CadQuery Documentation](http://dcowden.github.io/cadquery/)
 
@@ -571,53 +601,53 @@ Script based modeller
 </div>
 
 ## <a name="subreddits"></a> SubReddits Related to Mechanical Engineering
-* [r/AskEngineers](https://www.reddit.com/r/AskEngineers/): Non-school Q&A
-* [r/CAD](https://www.reddit.com/r/CAD/): Computer Aided Design
-* [r/CFD](https://www.reddit.com/r/CFD/): Computational Fluid Dynamics
-* [r/Engineering](https://www.reddit.com/r/engineering/): About all things related to engineering
-* [r/EngineeringStudents](https://www.reddit.com/r/EngineeringStudents/): For wee engineerlings
-* [r/FEA](https://www.reddit.com/r/fea/): Finite Element Analysis
-* [r/FluidMechanics](https://www.reddit.com/r/FluidMechanics/)
-* [r/CivilEngineering](https://www.reddit.com/r/civilengineering/): Civil Engineering
-* [r/Manufacturing](https://www.reddit.com/r/Manufacturing/): Manufacturing Industry
-* [r/Materials](https://www.reddit.com/r/materials/): Materials Engineering
-* [r/MechanicalEngineering](https://www.reddit.com/r/mechanicalengineering/): Mechanical Engineering
+* [/r/AskEngineers](https://www.reddit.com/r/AskEngineers/): Non-school Q&A
+* [/r/CAD](https://www.reddit.com/r/CAD/): Computer Aided Design
+* [/r/CFD](https://www.reddit.com/r/CFD/): Computational Fluid Dynamics
+* [/r/Engineering](https://www.reddit.com/r/engineering/): About all things related to engineering
+* [/r/EngineeringStudents](https://www.reddit.com/r/EngineeringStudents/): For wee engineerlings
+* [/r/FEA](https://www.reddit.com/r/fea/): Finite Element Analysis
+* [/r/FluidMechanics](https://www.reddit.com/r/FluidMechanics/)
+* [/r/CivilEngineering](https://www.reddit.com/r/civilengineering/): Civil Engineering
+* [/r/Manufacturing](https://www.reddit.com/r/Manufacturing/): Manufacturing Industry
+* [/r/Materials](https://www.reddit.com/r/materials/): Materials Engineering
+* [/r/MechanicalEngineering](https://www.reddit.com/r/mechanicalengineering/): Mechanical Engineering
 
 Misc
 
-* [r/EngineeringPorn](https://www.reddit.com/r/EngineeringPorn/): porn for engineers (*safe for work*)
-* [r/Mechanical_gifs](https://www.reddit.com/r/mechanical_gifs/): perfect loops of mechanical things
-* [r/SpecializedTools/](https://www.reddit.com/r/specializedtools/)
-* [r/MachinePorn](https://www.reddit.com/r/MachinePorn/)
-* [r/ToolPorn/](https://www.reddit.com/r/toolporn/)
-* [r/ThingsCutInHalfPorn/](https://www.reddit.com/r/ThingsCutInHalfPorn/)
+* [/r/EngineeringPorn](https://www.reddit.com/r/EngineeringPorn/): porn for engineers (*safe for work*)
+* [/r/Mechanical_gifs](https://www.reddit.com/r/mechanical_gifs/): perfect loops of mechanical things
+* [/r/SpecializedTools](https://www.reddit.com/r/specializedtools/)
+* [/r/MachinePorn](https://www.reddit.com/r/MachinePorn/)
+* [/r/ToolPorn](https://www.reddit.com/r/toolporn/)
+* [/r/ThingsCutInHalfPorn](https://www.reddit.com/r/ThingsCutInHalfPorn/)
 
 <details><summary>Other</summary><br/>
 
-  * [r/Aerospace](https://www.reddit.com/r/aerospace/): Aerospace Engineering
-  * [r/AskElectronics](https://www.reddit.com/r/AskElectronics/): CE/EE Q&A
-  * [r/AskScience](https://www.reddit.com/r/AskScience/): No-nonsense science Q&A
-  * [r/BioEngineering](https://www.reddit.com/r/BioEngineering/): Biological
-  * [r/Biology](https://www.reddit.com/r/biology/)
-  * [r/Biotech](https://www.reddit.com/r/biotech/): Biotechnology
-  * [r/ChemE](https://www.reddit.com/r/chemicalengineering/): Chemical Engineering
-  * [r/Chemistry](https://www.reddit.com/r/chemistry/)
-  * [r/Coding](https://www.reddit.com/r/coding/)
-  * [r/ComputerScience](https://www.reddit.com/r/ComputerScience/)
-  * [r/Construction](https://www.reddit.com/r/construction/): Construction
-  * [r/CSBooks](https://www.reddit.com/r/csbooks/): Computer Science
-  * [r/ECE](https://www.reddit.com/r/ECE/): General EE & CE discussion
-  * [r/ECEComponentExchange](https://www.reddit.com/r/ECEComponentExchange/): Parts swap
-  * [r/EE](https://www.reddit.com/r/electricalengineering/): Electrical Engineering
-  * [r/EEBooks](https://www.reddit.com/r/eebooks/): Electrical Engineering
-  * [r/Electronics](https://www.reddit.com/r/electronics/)
-  * [r/Lectures](https://www.reddit.com/r/lectures/)
-  * [r/Math](https://www.reddit.com/r/math/)
-  * [r/MathBooks](https://www.reddit.com/r/mathbooks/): Mathematics
-  * [r/Physics](https://www.reddit.com/r/physics/)
-  * [r/PhysicsBooks](https://www.reddit.com/r/physicsbooks/): Physics
-  * [r/Programming](https://www.reddit.com/r/programming/)
-  * [r/Science](https://www.reddit.com/r/science/)
+  * [/r/Aerospace](https://www.reddit.com/r/aerospace/): Aerospace Engineering
+  * [/r/AskElectronics](https://www.reddit.com/r/AskElectronics/): CE/EE Q&A
+  * [/r/AskScience](https://www.reddit.com/r/AskScience/): No-nonsense science Q&A
+  * [/r/BioEngineering](https://www.reddit.com/r/BioEngineering/): Biological
+  * [/r/Biology](https://www.reddit.com/r/biology/)
+  * [/r/Biotech](https://www.reddit.com/r/biotech/): Biotechnology
+  * [/r/ChemE](https://www.reddit.com/r/chemicalengineering/): Chemical Engineering
+  * [/r/Chemistry](https://www.reddit.com/r/chemistry/)
+  * [/r/Coding](https://www.reddit.com/r/coding/)
+  * [/r/ComputerScience](https://www.reddit.com/r/ComputerScience/)
+  * [/r/Construction](https://www.reddit.com/r/construction/): Construction
+  * [/r/CSBooks](https://www.reddit.com/r/csbooks/): Computer Science
+  * [/r/ECE](https://www.reddit.com/r/ECE/): General EE & CE discussion
+  * [/r/ECEComponentExchange](https://www.reddit.com/r/ECEComponentExchange/): Parts swap
+  * [/r/EE](https://www.reddit.com/r/electricalengineering/): Electrical Engineering
+  * [/r/EEBooks](https://www.reddit.com/r/eebooks/): Electrical Engineering
+  * [/r/Electronics](https://www.reddit.com/r/electronics/)
+  * [/r/Lectures](https://www.reddit.com/r/lectures/)
+  * [/r/Math](https://www.reddit.com/r/math/)
+  * [/r/MathBooks](https://www.reddit.com/r/mathbooks/): Mathematics
+  * [/r/Physics](https://www.reddit.com/r/physics/)
+  * [/r/PhysicsBooks](https://www.reddit.com/r/physicsbooks/): Physics
+  * [/r/Programming](https://www.reddit.com/r/programming/)
+  * [/r/Science](https://www.reddit.com/r/science/)
 </details>
 
 ---
@@ -648,7 +678,7 @@ Misc
 </div>
 
 ## <a name="competition"></a>Competitions
-### SAE Competitions
+<!--### SAE Competitions-->
 
 #### Altair Contests
 
@@ -684,7 +714,7 @@ Qualifying examinations are a kind of certification to engineers - PE in USA, GA
 ### Altair Certification
 * [Certification website](http://certification.altairuniversity.com)
 
-### Solidworks Certifications
+<!--### Solidworks Certifications -->
 
 ### Mechanical Engineering & Related PE License for USA
 A PE license is probably the most useful certification that a mechanical engineer can obtain.  A PE license is only actually a requirement if you want to provide services directly to the public, but it is still a good thing to have regardless.  It is a sign to employers and clients that you are a competent engineer, and the act of studying for the exam will sharpen your skills. This examination is organized by [NCEES - National Council of Examiners for Engineering and Surveying](http://ncees.org/).
@@ -695,15 +725,18 @@ A PE license is probably the most useful certification that a mechanical enginee
 * [NCEES Examinee Guide](http://ncees.org/exams/examinee-guide/)
 * [Passing the PE Exam](https://mechanicalc.com/posts/passing-the-pe-exam)
 
-###### Topper's Story or How to Prepare
+<!--###### Topper's Story or How to Prepare-->
 
 ###### ME PE specific Books
-* [Michael R. Lindeburg - Mechanical Engineering Reference Manual for the PE Exam](https://www.amazon.com/Mechanical-Engineering-Reference-Manual-Exam/dp/1591264146/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=7defb8a434a541210f122c9306b2392d)
-* [Michael R. Lindeburg - Mechanical PE Practice Examination](https://www.amazon.com/Mechanical-PE-Practice-Examination-3rd/dp/1591264170/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=TZGSAJC0M4GVPQV089GD&linkCode=ll1&tag=mechanicalc-20&linkId=d42940ff0d1bdb59bc2ae2fdc98126a3)
-* [Michael R. Lindeburg - Practice Problems for the Mechanical Engineering PE Exam](https://www.amazon.com/Practice-Problems-Mechanical-Engineering-Comprehensive/dp/1591264154/)
-* [NCEES - PE Mechanical Engineering: Machine Design and Materials Practice Exam](https://www.amazon.com/PE-Mechanical-Engineering-Materials-Practice/dp/1932613773/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=323726031869b0095d1a4641a056257a)
+* [Michael R. Lindeburg - Mechanical Engineering Reference Manual for the PE Exam](https://www.amazon.com/Mechanical-Engineering-Reference-Manual-Exam/dp/1591264146/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=7defb8a434a541210f122c9306b2392d) `Amazon`
+&emsp; <sub><sup>ISBN: 978-1591264149</sup></sub>
+* [Michael R. Lindeburg - Mechanical PE Practice Examination](https://www.amazon.com/Mechanical-PE-Practice-Examination-3rd/dp/1591264170/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=TZGSAJC0M4GVPQV089GD&linkCode=ll1&tag=mechanicalc-20&linkId=d42940ff0d1bdb59bc2ae2fdc98126a3) `Amazon`
+&emsp; <sub><sup>ISBN: 978-1591264170</sup></sub>
+* [Michael R. Lindeburg - Practice Problems for the Mechanical Engineering PE Exam](https://www.amazon.com/Practice-Problems-Mechanical-Engineering-Comprehensive/dp/1591264154/) `Amazon`
+&emsp; <sub><sup>ISBN: 978-1591264156</sup></sub>
+* [NCEES - PE Mechanical Engineering: Machine Design and Materials Practice Exam](https://www.amazon.com/PE-Mechanical-Engineering-Materials-Practice/dp/1932613773/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mechanicalc-20&linkId=323726031869b0095d1a4641a056257a) `Amazon`
 
-###### ME PE specific Tutorials/MOOCs
+<!-- ###### ME PE specific Tutorials/MOOCs -->
 
 
 ### GATE for India
