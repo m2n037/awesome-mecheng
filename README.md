@@ -399,6 +399,7 @@ I got inspiration from the countless awesome lists in github.
 
 ## <a name="fea"></a>Finite Element Analysis
 * [Finite Element Procedures](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf), by [K.J. Bathe](http://meche.mit.edu/people/faculty/kjb@mit.edu) (2014) `MIT.edu`
+&emsp; <sub><sup>ISBN: 978-0979004957</sup></sub>
 * [Introduction to the Finite Element Method](http://hyfem.com/HyFem/fem.pdf), by C.S. Jog
 * [Introduction to Finite Element Methods](https://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/) `Colorado.edu`
   * [Advance FEM](https://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/Home.html)
