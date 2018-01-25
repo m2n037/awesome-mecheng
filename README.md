@@ -224,6 +224,10 @@ I got inspiration from the countless awesome lists in github.
 * [EbookFoundation #Fortran](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#fortran) `github`
 
 ### LaTeX
+* [WikiBooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX) ([PDF](https://upload.wikimedia.org/wikipedia/commons/2/2d/LaTeX.pdf)) `wikibooks`
+* [LaTeX Notes for Professionals](http://books.goalkicker.com/LaTeXBook/) `goalkicker`
+* [Learn LaTeX in 30 min](https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes) `sharelatex`
+* [EbookFoundation #LaTeX](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#latex) `github`
 
 ---
 <div align="right">
