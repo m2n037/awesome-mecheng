@@ -708,6 +708,20 @@ Misc
 ### Other Competitions
 * [Elsevier 3D Printing Grand Challenge](http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
 
+## Challenges
+
+### CAD
+* [GrabCAD Challenge](https://grabcad.com/challenges), product design challenges
+* [Fusion360 Monthly Challenge](https://knowledge.autodesk.com/support/fusion-360/getting-started/caas/simplecontent/content/join-the-autodesk-fusion-360-monthly-challenge.html) `Autodesk Community Philippines`
+  * [Video Playlist](https://www.youtube.com/user/autodeskcomphil/playlists) `Youtube`
+* [Reddit CAD Challenges](https://www.reddit.com/r/cad/search?q=cad+challenge+%23&restrict_sr=on&sort=new&t=all) (*Inactive*) `/r/CAD`
+  * [Archived version](https://github.com/symbian9/reddit_cad_challenge) `Github`
+
+### Misc
+* [Hackaday Contest](https://hackaday.io/contests)
+* [Instructables Contests](http://www.instructables.com/contest/)
+
+
 ---
 <div align="right">
 
