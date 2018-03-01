@@ -184,6 +184,7 @@ I got inspiration from the countless awesome lists in github.
 * [Free programming books](https://github.com/vhf/free-programming-books) `github`
 * [Project Euler](https://projecteuler.net/), math/programming problems archives
 * [Programming Notes for Professionals](http://goalkicker.com/), books compiled from StackOverflow Documentation `goalkicker`
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code), implementations of common algorithms in many programmming languages
 
 ### <a name="cpp"></a>C++
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
