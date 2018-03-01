@@ -180,6 +180,7 @@ I got inspiration from the countless awesome lists in github.
 * [Numerical Methods for PDEs](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos), by Qiqi Wang `MIT.edu` `youtube`
 * [Math, Numerics, & Programming (for Mechanical Engineers)](http://ocw.mit.edu/ans7870/2/2.086/F14/MIT2_086S13_Textbook.pdf), M. Yano, J.D. Penn, G. Konidaris and A.T Patera (2013) *Draft v2.1* `MIT.edu`
 * [Iterative Methods for Sparse Linear Systems](http://www-users.cs.umn.edu/~saad/IterMethBook_2ndEd.pdf), by Y. Saad (2003) `UMN.edu`
+* [Fundamental Numerical Methods and Data Analysis](http://ads.harvard.edu/books/1990fnmd.book/), by G.W. Collins (1990) `Harvard.edu`
 
 ## Programming
 * [Free programming books](https://github.com/vhf/free-programming-books) `github`
