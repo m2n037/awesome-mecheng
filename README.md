@@ -362,6 +362,7 @@ I got inspiration from the countless awesome lists in github.
 * [Computer Aided Geometric Design](http://tom.cs.byu.edu/~557/text/cagd.pdf), by T.W. Sederberg (2006) `BYU.edu`
 * [Curves and Surfaces in Geometric Modeling](http://www.cis.upenn.edu/~jean/gbooks/geom1.html) by [J. Gallier](http://www.cis.upenn.edu/~jean/home.html) (1999) *Out of Print* `UPenn.edu`
 &emsp; <sub><sup>ISBN: 978-1558605992</sup></sub>
+* [Geometric Modeling: A First Course,](http://www-bcf.usc.edu/~requicha/book.html) by [A. Requicha](http://www-bcf.usc.edu/~requicha/) (1996) *Draft*
 
 #### Learning and Tutorials
 * [Vertanux1](http://www.vertanux1.com/), Training Guides: Creo, Solidworks, NX, Inventor, Rhino3d.
