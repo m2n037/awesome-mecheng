@@ -671,6 +671,7 @@ Misc
 * [DOAJ](https://doaj.org/), Directory of Open Acess Journals
 * [SCIRP](http://www.scirp.org/journal/mme/), Modern Mechanical Engineering
 * [SAGE journals](http://journals.sagepub.com/loi/adea), Advances in Mechanical Engineering
+* [The Royal Society](http://rspa.royalsocietypublishing.org/collection/mechanical-engineering)
 
 ### Magazines
 * [Machine Design](http://machinedesign.com/)
