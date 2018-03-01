@@ -127,6 +127,7 @@ I got inspiration from the countless awesome lists in github.
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/), quick prototyping of linkage mechanism
 * [LyX](http://www.lyx.org/), document processor based on LaTeX
 * [SumatraPDF](https://www.sumatrapdfreader.org/), lightweight pdf reader
+* [Pandoc](https://pandoc.org/), a universal document converter
 
 #### <a name="useful"></a>Useful Websites
 * [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
