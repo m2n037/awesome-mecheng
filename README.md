@@ -270,6 +270,7 @@ I got inspiration from the countless awesome lists in github.
 * [Elements of Structures](https://www.edx.org/course/elements-structures-mitx-2-01x-1) `edX MIT`
 * [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
 * [Mechanics of Materials](http://madhuvable.org/books-2/introduction/), by [M. Vable](http://pages.mtu.edu/~mavable/) (2009) `MTU.edu` 
+* [Mechanical Properties of Materials](http://web.mit.edu/course/3/3.225/), by [D. Roylance](http://web.mit.edu/roylance/www/home.html) (2008) [[Direct](http://web.mit.edu/course/3/3.225/book.pdf)] `MIT.edu`
 
 ### Plasticity
 * [The Mathematical Theory of Plasticity](https://archive.org/details/in.ernet.dli.2015.84513), by R. Hill (1950) `Archive.org`
