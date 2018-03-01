@@ -80,7 +80,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Journals](#journals)
   * [Magazines](#magazines)
 
-[Competitions](#competition)
+[Competitions](#competitions)
 
 [Qualifying/Certification Examinations](#certification)
 </details>
@@ -684,7 +684,7 @@ Misc
 <sup>[Back to Top](#toc)</sup> &Hat;
 </div>
 
-## <a name="competition"></a>Competitions
+## Competitions
 <!--### SAE Competitions-->
 
 #### Altair Contests
