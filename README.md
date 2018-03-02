@@ -80,7 +80,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Journals](#journals)
   * [Magazines](#magazines)
 
-[Competitions](#competition)
+[Competitions](#competitions)
 
 [Qualifying/Certification Examinations](#certification)
 </details>
@@ -127,6 +127,7 @@ I got inspiration from the countless awesome lists in github.
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/), quick prototyping of linkage mechanism
 * [LyX](http://www.lyx.org/), document processor based on LaTeX
 * [SumatraPDF](https://www.sumatrapdfreader.org/), lightweight pdf reader
+* [Pandoc](https://pandoc.org/), a universal document converter
 
 #### <a name="useful"></a>Useful Websites
 * [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
@@ -165,7 +166,7 @@ I got inspiration from the countless awesome lists in github.
 </div>
 
 ## <a name="math"></a>Mathematics
-### Calculus and Linear Algebra
+### <a name="calculus"></a>Calculus and Linear Algebra
 * [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), by [G. Strang](http://www-math.mit.edu/~gs/). [Direct download](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) `MIT.edu` 
 * [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by [G. Cain](http://people.math.gatech.edu/%7Ecain/index.html)
 * [Essentials of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) `youtube`
@@ -173,17 +174,20 @@ I got inspiration from the countless awesome lists in github.
 * [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=3274), by K.B. Petersen, M.S. Pedersen (2012) `DTU.dk`
 * [Fundamentals of Linear Algebra and Optimization](http://www.cis.upenn.edu/~cis515/linalg.pdf), by [J. Gallier](http://www.cis.upenn.edu/~jean/home.html) and J. Quaintance (2017) `UPenn.edu`
 
-### Numerical Analysis
+### <a name="numerical"></a>Numerical Analysis
 * [Numerical Analysis for Engineering](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/), by D.W. Harder and R. Khoury `UWaterloo.ca`
 * [Numerical Recipes in C](http://www.nrbook.com/a/bookcpdf.html), by W.H. Press, B.P. Flannery, S.A. Teukolsky and W.T. Vetterly (1992) *Free for personal use*
 * [Numerical Methods for PDEs](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos), by Qiqi Wang `MIT.edu` `youtube`
 * [Math, Numerics, & Programming (for Mechanical Engineers)](http://ocw.mit.edu/ans7870/2/2.086/F14/MIT2_086S13_Textbook.pdf), M. Yano, J.D. Penn, G. Konidaris and A.T Patera (2013) *Draft v2.1* `MIT.edu`
 * [Iterative Methods for Sparse Linear Systems](http://www-users.cs.umn.edu/~saad/IterMethBook_2ndEd.pdf), by Y. Saad (2003) `UMN.edu`
+* [Fundamental Numerical Methods and Data Analysis](http://ads.harvard.edu/books/1990fnmd.book/), by G.W. Collins (1990) `Harvard.edu`
+* [A Pragmatic Introduction to Signal Processing](https://terpconnect.umd.edu/~toh/spectrum/), by [T.C. O'Haver](https://terpconnect.umd.edu/%7Etoh/) (2018) `UMD.edu`
 
 ## Programming
 * [Free programming books](https://github.com/vhf/free-programming-books) `github`
 * [Project Euler](https://projecteuler.net/), math/programming problems archives
 * [Programming Notes for Professionals](http://goalkicker.com/), books compiled from StackOverflow Documentation `goalkicker`
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code), implementations of common algorithms in many programmming languages
 
 ### <a name="cpp"></a>C++
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
@@ -269,6 +273,7 @@ I got inspiration from the countless awesome lists in github.
 * [Elements of Structures](https://www.edx.org/course/elements-structures-mitx-2-01x-1) `edX MIT`
 * [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
 * [Mechanics of Materials](http://madhuvable.org/books-2/introduction/), by [M. Vable](http://pages.mtu.edu/~mavable/) (2009) `MTU.edu` 
+* [Mechanical Properties of Materials](http://web.mit.edu/course/3/3.225/), by [D. Roylance](http://web.mit.edu/roylance/www/home.html) (2008) [[Direct](http://web.mit.edu/course/3/3.225/book.pdf)] `MIT.edu`
 
 ### Plasticity
 * [The Mathematical Theory of Plasticity](https://archive.org/details/in.ernet.dli.2015.84513), by R. Hill (1950) `Archive.org`
@@ -361,6 +366,8 @@ I got inspiration from the countless awesome lists in github.
 * [Computer Aided Geometric Design](http://tom.cs.byu.edu/~557/text/cagd.pdf), by T.W. Sederberg (2006) `BYU.edu`
 * [Curves and Surfaces in Geometric Modeling](http://www.cis.upenn.edu/~jean/gbooks/geom1.html) by [J. Gallier](http://www.cis.upenn.edu/~jean/home.html) (1999) *Out of Print* `UPenn.edu`
 &emsp; <sub><sup>ISBN: 978-1558605992</sup></sub>
+* [Geometric Modeling: A First Course,](http://www-bcf.usc.edu/~requicha/book.html) by [A. Requicha](http://www-bcf.usc.edu/~requicha/) (1996) *Draft* `USC.edu`
+* [Computer Aided Design in Mechanical Engineering](http://www.cgeo.ulg.ac.be/CAO/) *Slides* `ULiege.be`
 
 #### Learning and Tutorials
 * [Vertanux1](http://www.vertanux1.com/), Training Guides: Creo, Solidworks, NX, Inventor, Rhino3d.
@@ -390,6 +397,7 @@ I got inspiration from the countless awesome lists in github.
  * [Bayer Part and Mold Design Guide](https://blackboard.tudelft.nl/bbcswebdav/courses/consultancy/Basic_Des/Dsn_Plastics_Bayer.pdf)
  * [DuPont General Design Principles for Engineering Polymers](http://www.dupont.com/content/dam/dupont/products-and-services/plastics-polymers-and-resins/thermoplastics/documents/General%20Design%20Principles/General%20Design%20Principles%20for%20Engineering%20Polymers.pdf)
  * [Bayer Reaction Injection Molding (PolyUrethanes), Part and Mold Design Guide](http://www.reactioninjectionmolding.com/wp-content/uploads/2013/09/RIM-PartMoldDesignGuide.pdf)
+ * [3D Hubs Knowledge Base](https://www.3dhubs.com/knowledge-base)
 
 ---
 <div align="right">
@@ -664,6 +672,7 @@ Misc
 * [DOAJ](https://doaj.org/), Directory of Open Acess Journals
 * [SCIRP](http://www.scirp.org/journal/mme/), Modern Mechanical Engineering
 * [SAGE journals](http://journals.sagepub.com/loi/adea), Advances in Mechanical Engineering
+* [The Royal Society](http://rspa.royalsocietypublishing.org/collection/mechanical-engineering)
 
 ### Magazines
 * [Machine Design](http://machinedesign.com/)
@@ -677,7 +686,7 @@ Misc
 <sup>[Back to Top](#toc)</sup> &Hat;
 </div>
 
-## <a name="competition"></a>Competitions
+## Competitions
 <!--### SAE Competitions-->
 
 #### Altair Contests
@@ -699,6 +708,20 @@ Misc
 
 ### Other Competitions
 * [Elsevier 3D Printing Grand Challenge](http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
+
+## Challenges
+
+### CAD
+* [GrabCAD Challenge](https://grabcad.com/challenges), product design challenges
+* [Fusion360 Monthly Challenge](https://knowledge.autodesk.com/support/fusion-360/getting-started/caas/simplecontent/content/join-the-autodesk-fusion-360-monthly-challenge.html) `Autodesk Community Philippines`
+  * [Video Playlist](https://www.youtube.com/user/autodeskcomphil/playlists) `Youtube`
+* [Reddit CAD Challenges](https://www.reddit.com/r/cad/search?q=cad+challenge+%23&restrict_sr=on&sort=new&t=all) (*Inactive*) `/r/CAD`
+  * [Archived version](https://github.com/symbian9/reddit_cad_challenge) `Github`
+
+### Misc
+* [Hackaday Contest](https://hackaday.io/contests)
+* [Instructables Contests](http://www.instructables.com/contest/)
+
 
 ---
 <div align="right">
