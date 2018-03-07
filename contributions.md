@@ -33,7 +33,7 @@ _This section contains some rules to be followed while adding resources to this 
 *This list is in no particular order*
 - [Mukunda Madhava Nath](https://github.com/m2n037)
 - [Philipp Wabnitz](https://github.com/pwab)
-- [Giuseppe Vale](https://github.com/Clockmaker)
+- [Giuseppe Vale](https://github.com/Clockmaker) :tada:
 - [Alois](https://github.com/aloisdg)
 - [Arthur Kirkby](https://github.com/akirkby)
 - [Betsy Megas](https://github.com/BMegas)
