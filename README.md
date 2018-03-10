@@ -23,6 +23,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 [Open Courses](#opencourse)
 
 [General](#general)
+  * [Mechanical Engineering Knowledge Maps](#MechEng-Map)
   * [Databases](#database)
   * [Online Calculators](#calculator)
   * [Tools and Programs](#tool)
@@ -106,6 +107,11 @@ I got inspiration from the countless awesome lists in github.
 * [The Art of Insight in Science and Engineering](https://mitpress.mit.edu/books/art-insight-science-and-engineering), by S. Mahajan (2014) `MITPress`
 &emsp; <sub><sup>ISBN: 9780262526548</sup></sub>
 
+#### <a name="MechEng-Map"></a>Mechanical Engineering Knowledge Maps
+* [MECHANICAL ENGINEERING DESIGN](http://www.engineer-assist.com/KnowledgeMap/MechEng_KnowledgeMap_4_files/png_1.htm), knowledge maps with selectable links
+* [AIRCRAFT & MISSILE DESIGN](http://www.engineer-assist.com/KnowledgeMap/MechEng_KnowledgeMap_4_files/png_2.htm), knowledge maps with selectable links
+* [STRUCTURAL DYNAMICS](http://www.engineer-assist.com/KnowledgeMap/MechEng_KnowledgeMap_4_files/png_3.htm), knowledge maps with selectable links
+* [VIBRATION & FATIGUE](http://www.engineer-assist.com/KnowledgeMap/MechEng_KnowledgeMap_4_files/png_4.htm), knowledge maps with selectable links
 
 #### <a name="database"></a>Databases
 * [MatWeb](http://www.matweb.com/), database of material properties
