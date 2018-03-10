@@ -8,7 +8,7 @@ Check the [contributions guideline](../master/contributions.md)
 
 Discuss this list in [Hacker News](https://news.ycombinator.com/item?id=15337556)
 
-Discuss this list in [Reddit r/engineering](https://redd.it/78dqn5) - *8.3k+ views and 700+ upvotes*
+Discuss this list in [Reddit r/engineering](https://redd.it/78dqn5) - *8.3k+ views and 770+ upvotes*
 
 Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
