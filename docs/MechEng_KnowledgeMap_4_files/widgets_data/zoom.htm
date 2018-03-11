@@ -1,0 +1,995 @@
+<html xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<script type="text/javascript" language="javascript">
+
+var BUFFER = 1;
+var pnzObj = null;
+
+// ----- START ----- cross-browser event manipulation helpers ---------------------------
+
+function getEvent(event)
+{
+	// Retrieve the event in IE
+	if (!event)
+		return window.event;
+	// Return the passed event for everything else
+	return event;
+}
+
+function getSrcElem(event)
+{
+	var event = getEvent(event);
+	
+	// Reference the element howeaver this browser can
+	var elem;
+	if (event.target) // For Firefox
+		elem = event.target;
+	else if (event.srcElement) // For IE
+		elem = event.srcElement;
+	if (elem.nodeType == 3) // For Safari
+		elem = elem.parentNode;
+	
+	return elem
+}
+// ----- END ----------------------------------------------------------------------------
+
+function zoomObject()
+{
+	this.PZImgRatio			= null;
+	
+	this.zoomWinHeight		= null;
+	this.zoomWinWidth		= null;
+	this.zoomWinTop			= null;
+	this.zoomWinLeft		= null;
+	
+	this.scaleFactor		= null;
+	
+	this.updateContent		= zObj_updateContent;
+	this.doOnBodyResize		= zObj_doOnBodyResize;
+	this.clipZoomRect		= zObj_clipZoomRect;
+}
+
+var g_thumbHeight = window.clientHeight;
+var g_thumbWidth = window.clientWidth;
+zoomObj = new zoomObject();
+
+
+function showObject( divObject, divID ) 
+{
+	if( divObject == null )
+		divObject = getObj( divID );
+	
+	if( divObject != null ) 
+	{
+		divObject.style.visibility = "visible";
+	}
+	return divObject;
+}
+
+function hideObject( divObject, divID ) 
+{
+	if( divObject == null )
+		divObject = getObj( divID );
+	
+	if( divObject != null ) 
+	{
+		divObject.style.visibility = "hidden";
+	}
+	return divObject;
+}
+
+function zObj_updateContent( win_width, win_height, VMLDiv_left, VMLDiv_top, VMLDiv_width, VMLDiv_height )
+{
+	this.mainWinWidth		= win_width;
+	this.mainWinHeight		= win_height;
+
+	this.mainImgRatio = VMLDiv_height / VMLDiv_width;
+	this.doOnBodyResize();
+}
+
+function zObj_doOnBodyResize()
+{
+	return;
+}
+
+function zObj_clipZoomRect( objectToClip )
+{
+	if( objectToClip == null )
+	{
+		objectToClip = zoomRectObj;
+	}
+	
+	var clipTop		= ( objectToClip.style.posTop < (g_thumbTop) )	? (g_thumbTop - objectToClip.style.posTop)	: 0;
+	var clipLeft	= ( objectToClip.style.posLeft < (g_thumbLeft) )	? (g_thumbLeft - objectToClip.style.posLeft)	: 0;
+	var clipBottom	= ( (objectToClip.style.posHeight - clipTop) > (g_thumbTop + g_thumbHeight + 2 * BUFFER) ) ? (g_thumbHeight + clipTop + BUFFER) : objectToClip.style.posHeight;
+	var clipRight	= 0;
+	if( (this.zoomWinWidth - clipLeft) > (g_thumbLeft + g_thumbWidth) )
+	{
+		if( clipLeft == 0 )
+		{
+			clipRight = g_thumbWidth - objectToClip.style.posLeft + 2 * BUFFER;
+		}
+		else
+		{
+			clipRight = (g_thumbWidth + clipLeft + BUFFER);
+		}
+	}
+	else
+	{
+		clipRight = objectToClip.style.posWidth;
+	}
+	clipTo( objectToClip, clipTop, clipRight, clipBottom, clipLeft);
+}
+
+function findContent()
+{
+	zoomRectDiv.style.display = "none";
+	newZoomWindowDiv.style.display = "none";
+
+	if (parent.parent.frmDrawing && parent.parent.viewMgr)
+	{
+		var viewMgr = parent.parent.viewMgr;
+		var createPNZ = parent.parent.viewMgr.createPNZ;
+
+		if (createPNZ)
+		{
+			divThumb = document.getElementById("divThumbnail");
+
+			pnzObj = createPNZ(divThumb, document.body.clientWidth, document.body.clientHeight);
+				
+			// Force this window to call the correct callback function
+			window[pnzObj.callbackIndex] = function(a){ pnzObj.handleLoad(a); };
+
+			zoomRectObj = document.getElementById("zoomRectDiv");
+			showObject( zoomRectObj );
+			
+			viewMgr.viewChanged = PageViewChanged;
+		}
+	}
+}
+
+function getPixelWidth()
+{
+    return pnzObj.rootCanvas.Width * pnzObj.scale;
+}
+
+function getPixelHeight()
+{
+    return pnzObj.rootCanvas.Height * pnzObj.scale;
+}
+
+function getPixelTop()
+{
+    if(pnzObj.rootCanvas['Canvas.Top'])
+        return pnzObj.rootCanvas['Canvas.Top'];
+    else
+        return 0;
+}
+
+function getPixelLeft()
+{
+    if(pnzObj.rootCanvas['Canvas.Left'])
+        return pnzObj.rootCanvas['Canvas.Left'];
+    else
+        return 0;
+}
+
+function inSLBounds(x, y)
+{
+    if(x < getPixelLeft() || x > getPixelLeft() + getPixelWidth() ||
+       y < getPixelTop() || y > getPixelTop() + getPixelHeight())
+       return false;
+   
+    return true;
+}
+
+function setZoomRectCursor(event)
+{
+	var event = getEvent(event);
+	var x = getMouseXcoord(event) - zoomObj.zoomWinLeft;
+	var y = getMouseYcoord(event) - zoomObj.zoomWinTop;
+
+	var rbw = 5;
+
+	var newCursor	= "";
+	if( y > (zoomObj.zoomWinHeight - rbw) )
+		newCursor = "s"
+	else if( y < rbw )
+		newCursor = "n";
+		
+	if( x < rbw )
+		newCursor += "w";
+	else if( x > (zoomObj.zoomWinWidth - rbw) )
+		newCursor += "e";
+
+	if( newCursor != "" )
+		zoomRectObj.style.cursor = newCursor + "-resize";
+	else
+		zoomRectObj.style.cursor = "move";
+}
+
+function startZoomRectDrag(event)
+{
+	var event = getEvent(event);
+	var currentCursor = zoomRectObj.style.cursor;
+
+	if( currentCursor.indexOf( '-' ) != -1 )
+	{
+		g_resizeDirection = currentCursor.split( '-' )[0];
+		startDrag( event, 'zoomRectDiv', doResizeZoomRectDrag, stopResizeZoomRectDrag );
+	}
+	else
+	{
+		startDrag( event, 'zoomRectDiv', doZoomRectDrag, stopZoomRectDrag );
+	}
+}
+
+function doZoomRectDrag(dragObj, x, y)
+{
+	var rectLeft = parseInt(dragObj.divObject.style.left);
+	var rectTop = parseInt(dragObj.divObject.style.top);
+	var rectWidth = parseInt(dragObj.divObject.style.width);
+	var rectHeight = parseInt(dragObj.divObject.style.height);
+
+	var xOffset = 0;
+	var yOffset = 0;
+
+	var xPercent = 0;
+	var yPercent = 0;
+
+	var pnzImgLeft = getPixelLeft();
+	var pnzImgTop = getPixelTop();
+	var pnzImgWidth = getPixelWidth();
+	var pnzImgHeight = getPixelHeight();
+		
+	xOffset = x + dragObj.xOffset - pnzImgLeft;
+	xPercent = xOffset / pnzImgWidth;
+
+	yOffset = y + dragObj.yOffset - pnzImgTop;
+	yPercent = yOffset / pnzImgHeight;
+
+	if (xOffset < 0)
+	{
+		xPercent = 0;
+		xOffset = pnzImgLeft - BUFFER;
+	}
+	else if (xOffset + rectWidth > pnzImgWidth)
+	{
+		xPercent = 1;
+		xOffset = pnzImgLeft + pnzImgWidth - rectWidth + BUFFER;
+	}
+	else
+	{
+		xOffset = x + dragObj.xOffset;
+	}
+
+	if (yOffset < 0)
+	{
+		yPercent = 0;
+		yOffset = pnzImgTop - BUFFER;
+	}
+	else if (yOffset + rectHeight > pnzImgHeight)
+	{
+		yPercent = 1;
+		yOffset = pnzImgTop + pnzImgHeight - rectHeight + BUFFER;
+	}
+	else
+	{
+		yOffset = y + dragObj.yOffset;
+	}
+
+	if (parent.parent.viewMgr.setView)
+	{
+		var viewMgr = parent.parent.viewMgr;
+		viewMgr.PostSetViewProcessing = PostSetViewProcessing;
+		viewMgr.ChangingView = true;
+		viewMgr.setView (xPercent, yPercent);
+	}
+
+	setZWinSize (null, null, xOffset, yOffset);
+}
+
+function stopZoomRectDrag(dragObj, x, y)
+{
+	var event = dragObj.event;
+	var el = getSrcElem(event);
+	g_newLeft = parseInt(el.style.left);
+	g_newTop = parseInt(el.style.top);
+}
+
+function setZWinSize( newWidth, newHeight, newLeft, newTop )
+{
+	if( newWidth != null && newWidth >= 0 ) 
+	{
+		zoomObj.zoomWinWidth = newWidth;
+		zoomRectObj.style.width = newWidth;
+	}
+
+	if( newHeight != null && newHeight >= 0 ) 
+	{
+		zoomObj.zoomWinHeight = newHeight;
+		zoomRectObj.style.height = newHeight;
+	}
+
+	if( newLeft != null && newLeft >= 0 )
+	{
+		zoomObj.zoomWinLeft = newLeft;
+		zoomRectObj.style.left = newLeft;
+	}
+
+	if( newTop != null && newTop >= 0 )
+	{
+		zoomObj.zoomWinTop = newTop;
+		zoomRectObj.style.top= newTop;
+	}
+}
+
+function doResizeZoomRectDrag(dragObj, x, y)
+{
+	if(!inSLBounds(x,y))
+        return;
+		
+	var newWidth	= null;
+	var newHeight	= null;
+	var newLeft		= null;
+	var newTop		= null;
+		
+	var tmp = parent.parent.frmDrawing;
+	if (tmp)
+	{
+		zoomObj.mainWinWidth		= tmp.document.body.clientWidth;
+		zoomObj.mainWinHeight		= tmp.document.body.clientHeight;
+	}
+
+	var widthHeightRatio = zoomObj.mainWinWidth / zoomObj.mainWinHeight;
+	
+	var minimumSize = 10;
+	if( g_resizeDirection == 'e' )
+	{
+		newWidth	= Math.max( minimumSize, x - zoomObj.zoomWinLeft);
+		newHeight	= newWidth / widthHeightRatio;
+		newTop		= zoomObj.zoomWinTop - (newWidth - zoomObj.zoomWinWidth)/4;
+		setZWinSize( newWidth, newHeight, newLeft, newTop );
+		return;
+	}
+
+	if( g_resizeDirection == 'w' )
+	{
+		newWidth	= zoomObj.zoomWinWidth + zoomObj.zoomWinLeft - x;
+		if( newWidth > minimumSize )
+		{
+			newHeight	= newWidth / widthHeightRatio;
+			newTop		= zoomObj.zoomWinTop - (newWidth - zoomObj.zoomWinWidth)/4;
+			newLeft		= x;
+			setZWinSize( newWidth, newHeight, newLeft, newTop );
+		}
+		return;
+	}
+
+	if( g_resizeDirection == 'se' )
+	{
+		newWidth	= Math.max( minimumSize, x - zoomObj.zoomWinLeft);
+		newHeight	= newWidth / widthHeightRatio;
+		setZWinSize( newWidth, newHeight, newLeft, newTop );
+		return;
+	}
+
+	if( g_resizeDirection == 's' )
+	{
+		newHeight	= Math.max( minimumSize, y - zoomObj.zoomWinTop);
+		newWidth	= newHeight * widthHeightRatio;
+		newLeft		= zoomObj.zoomWinLeft - (newHeight - zoomObj.zoomWinHeight)/2;
+		setZWinSize( newWidth, newHeight, newLeft, newTop );
+		return;
+	}
+
+	if( g_resizeDirection == 'sw' )
+	{
+		newHeight	= Math.max( minimumSize, y - zoomObj.zoomWinTop);
+		newWidth	= newHeight * widthHeightRatio;
+		newLeft		= zoomObj.zoomWinLeft - ((newHeight - zoomObj.zoomWinHeight) * zoomObj.zoomWinWidth / zoomObj.zoomWinHeight);
+		setZWinSize( newWidth, newHeight, newLeft, newTop );
+		return;
+	}
+	
+	if( g_resizeDirection == 'n' )
+	{
+		newHeight	= zoomObj.zoomWinTop - y + zoomObj.zoomWinHeight;
+		if( newHeight > minimumSize )
+		{
+			newWidth	= newHeight * widthHeightRatio;
+			newTop		= y;
+			newLeft		= zoomObj.zoomWinLeft - (newHeight - zoomObj.zoomWinHeight)/2;
+			setZWinSize( newWidth, newHeight, newLeft, newTop );
+		}
+		return;
+	}
+	
+	if( g_resizeDirection == 'ne' )
+	{
+		newHeight	= zoomObj.zoomWinTop - y + zoomObj.zoomWinHeight;
+		if( newHeight > minimumSize )
+		{
+			newWidth	= newHeight * widthHeightRatio;
+			newTop		= y;
+			setZWinSize( newWidth, newHeight, newLeft, newTop );
+		}
+		return;
+	}
+	
+	if( g_resizeDirection == 'nw' )
+	{
+		newHeight	= zoomObj.zoomWinTop - y + zoomObj.zoomWinHeight;
+		if( newHeight > minimumSize )
+		{
+			newWidth	= newHeight * widthHeightRatio;
+			newTop		= y;
+			newLeft		= zoomObj.zoomWinLeft - ((newHeight - zoomObj.zoomWinHeight) * zoomObj.zoomWinWidth / zoomObj.zoomWinHeight);
+			setZWinSize( newWidth, newHeight, newLeft, newTop );
+		}
+		return;
+	}
+}
+
+function stopResizeZoomRectDrag(dragObj, x, y)
+{
+	var xWidthPercent = parseInt(zoomRectDiv.style.width) / getPixelWidth();
+	var yHeightPercent = parseInt(zoomRectDiv.style.height) / getPixelHeight();
+
+	var newZoomLevel = GetZoomLevel (xWidthPercent, yHeightPercent);
+
+	if (parent.parent.viewMgr.Zoom)
+	{
+		var viewMgr = parent.parent.viewMgr;
+		viewMgr.PostZoomProcessing = PostZoomProcessing;
+		viewMgr.ChangingView = true;
+		viewMgr.Zoom (newZoomLevel);
+	}
+
+	g_width = parseInt(zoomRectDiv.style.pixelWidth);
+	g_height = parseInt(zoomRectDiv.style.pixelHeight);
+	g_newLeft = parseInt(zoomRectDiv.style.left);
+	g_newTop = parseInt(zoomRectDiv.style.top);
+}
+
+function GetZoomLevel (xWidthPercent, yHeightPercent)
+{
+	var newZoomLevel;
+	if (xWidthPercent < yHeightPercent)
+	{
+		newZoomLevel = 100 / xWidthPercent;
+	}
+	else
+	{
+		newZoomLevel = 100 / yHeightPercent;
+	}
+
+	return newZoomLevel;
+}
+
+function PostZoomProcessing (newZoomLevel)
+{
+	var xOffset = parseInt(zoomRectDiv.style.left) - getPixelLeft();
+	var yOffset = parseInt(zoomRectDiv.style.top) - getPixelTop();
+
+	var xPercent = xOffset / getPixelWidth();
+	var yPercent = yOffset / getPixelHeight();
+
+	var viewMgr = parent.parent.viewMgr;
+	viewMgr.ChangingView = true;
+
+	if (viewMgr.setView)
+	{
+		viewMgr.PostSetViewProcessing = PostSetViewProcessing;
+		viewMgr.setView (xPercent, yPercent);
+	}
+
+	SetCorrectTick (newZoomLevel);
+
+	viewMgr.PostZoomProcessing = null;
+}
+
+function SetCorrectTick (newZoomLevel)
+{
+	var zoomLevels = parent.zoomLevels;
+	if (newZoomLevel <= zoomLevels[0])
+	{
+		parent.changeTick(zoomLevels[0]);
+	}
+	else if (newZoomLevel >= zoomLevels[zoomLevels.length - 1])
+	{
+		parent.changeTick(zoomLevels[zoomLevels.length - 1]);
+	}
+	else
+	{
+		for (var count = 0; count < zoomLevels.length - 1; count++)
+		{
+			var deltaDown = newZoomLevel - zoomLevels[count];
+			var deltaUp = newZoomLevel - zoomLevels[count + 1];
+			if (deltaDown >= 0 && deltaUp <= 0)
+			{
+				if (Math.abs(deltaDown) < Math.abs(deltaUp))
+				{
+					parent.changeTick(zoomLevels[count]);
+					break;
+				}
+				else
+				{
+					parent.changeTick(zoomLevels[count + 1]);
+					break;
+				}
+			}
+		}
+	}
+}
+
+function PostSetViewProcessing ()
+{
+	parent.parent.viewMgr.ChangingView = false;
+	parent.parent.viewMgr.PostSetViewProcessing = null;
+}
+
+function startNewZoomRectDrag(event)
+{
+	var event = getEvent(event);
+	var x = getMouseXcoord(event);
+	var y = getMouseYcoord(event);
+	
+	if(!inSLBounds(x, y))
+		return;
+		
+	zoomObj.newZWinStartX = x;
+	zoomObj.newZWinStartY = y;
+	
+	g_newZWinObjRef = document.getElementById("newZoomWindowDiv");
+	g_newZWinObjRef.style.display = "";
+
+	startDrag( event, 'zoomRectDiv', doNewZoomRectDrag, stopNewZoomRectDrag );
+}
+
+function doNewZoomRectDrag(dragObj, x, y)
+{
+	var width	= Math.abs( zoomObj.newZWinStartX - x );
+	var height	= Math.abs( zoomObj.newZWinStartY - y );
+
+	var aspectRatio = parent.parent.viewMgr.docDrawing.body.clientWidth / parent.parent.viewMgr.docDrawing.body.clientHeight;
+
+	if( width < (aspectRatio * height))
+	{
+		width = (aspectRatio) * height;
+	}
+	else
+	{
+		height = width / (aspectRatio);
+	}
+
+	width = Math.min (width, getPixelWidth());
+	height = Math.min (height, getPixelHeight());
+
+    var left, top;
+    if(x > zoomObj.newZWinStartX)
+    {
+        left = zoomObj.newZWinStartX;
+        width = Math.min(width, getPixelWidth() - (left - getPixelLeft()));
+    }
+    else
+    {
+        width = Math.min(zoomObj.newZWinStartX - getPixelLeft(), width);
+        left = zoomObj.newZWinStartX - width;
+        
+    }
+    if(y > zoomObj.newZWinStartY)
+    {
+        top = zoomObj.newZWinStartY;
+        height = Math.min(height, getPixelHeight() - (top - getPixelTop()));
+    }
+    else
+    {
+        height = Math.min(zoomObj.newZWinStartY - getPixelTop(), height);
+        top = zoomObj.newZWinStartY - height;
+        
+    }
+
+	newZoomWindowDiv.style.top = top;
+	newZoomWindowDiv.style.left = left;
+	newZoomWindowDiv.style.height = height;
+	newZoomWindowDiv.style.width = width;
+	newZoomWindowDiv.style.visibility = "visible";
+
+	zoomObj.zoomWinLeft		= left;
+	zoomObj.zoomWinWidth	= width;
+	zoomObj.zoomWinTop		= top;
+	zoomObj.zoomWinHeight	= height;
+}
+
+function stopNewZoomRectDrag(dragObj, x, y)
+{
+	newZoomWindowDiv.style.visibility = "hidden";
+
+	if (parseInt (newZoomWindowDiv.style.width) > 10 && 
+		parseInt (newZoomWindowDiv.style.height) > 10)
+	{
+		zoomRectDiv.style.top = newZoomWindowDiv.style.top;
+		zoomRectDiv.style.left = newZoomWindowDiv.style.left;
+		zoomRectDiv.style.height = newZoomWindowDiv.style.height;
+		zoomRectDiv.style.width = newZoomWindowDiv.style.width;
+
+		stopResizeZoomRectDrag(dragObj,x,y);
+		zoomRectDiv.style.display = "inline";
+		zoomRectDiv.style.visibility = "visible";
+	}
+	else
+	{
+		zoomObj.zoomWinLeft		= parseInt(zoomRectDiv.style.left);
+		zoomObj.zoomWinWidth	= parseInt(zoomRectDiv.style.width);
+		zoomObj.zoomWinTop		= parseInt(zoomRectDiv.style.top);
+		zoomObj.zoomWinHeight	= parseInt(zoomRectDiv.style.height);
+	}
+
+	newZoomWindowDiv.style.height = "0px";
+	newZoomWindowDiv.style.width = "0px";
+
+	newZoomWindowDiv.style.display = "none";
+}
+
+var g_lastX = 0;
+var g_lastY = 0;
+
+function mouseDown(event)
+{
+	return true;
+}
+
+function mouseMove(event)
+{
+	var event = getEvent(event);
+	var x = event.clientX + document.body.scrollLeft;
+	var y = event.clientY + document.body.scrollTop;
+
+	g_lastX = x;
+	g_lastY = y;
+	
+	doDrag( x, y );
+	return true;
+}
+
+function mouseUp(event) 
+{
+	var event = getEvent(event);
+	var x = event.clientX + document.body.scrollLeft;
+	var y = event.clientU + document.body.scrollTop;
+	
+	stopDrag(null,x,y);
+	return true;
+}
+
+function mouseOut(event) 
+{
+	var event = getEvent(event);
+	var x = event.clientX + document.body.scrollLeft;
+	var y = event.clientY + document.body.scrollTop;
+
+	if( x < 0 ) x = -1;
+	if( x >= document.body.clientWidth ) x = -1;
+		
+	if( y < 0 ) y = -1;
+	if( y >= document.body.clientHeight ) y = -1;
+
+	if( x == -1 || y == -1 )
+	{
+		x = -1;
+		y = -1;
+	}
+	
+
+	if( x == -1 )
+		stopDrag( null, x, y );
+	return true;
+}
+
+function getMouseXcoord(event)
+{
+	var event = getEvent(event);
+	return event.clientX + document.body.scrollLeft;
+}
+
+function getMouseYcoord(event)
+{
+	var event = getEvent(event);
+	return event.clientY + document.body.scrollTop;
+}
+
+var g_width		= -1;
+var g_height	= -1;
+var g_newLeft	= -1;	
+var g_newTop	= -1;
+		
+var g_pnzImgWidth = -1;
+var g_pnzImgHeight = -1;
+var g_pnzImgLeft = -1;
+var g_pnzImgTop = -1;
+
+function keydown(event)
+{
+	var event = getEvent(event);
+	var key = event.keyCode;
+
+	if(key == 37 || key == 38 || key == 39 || key == 40)
+	{
+	    var zoomDiv = document.getElementById('zoomRectDiv');
+		if(g_width == -1)
+			g_width		= parseInt(zoomDiv.style.pixelWidth);
+			
+		if(g_height == -1)
+			g_height		= parseInt(zoomDiv.style.pixelHeight);
+			
+		if(g_newLeft == -1)
+			g_newLeft		= parseInt(zoomDiv.style.left);	
+		
+		if(g_newTop == -1)
+			g_newTop		= parseInt(zoomDiv.style.top);
+		
+		if(g_pnzImgWidth == -1)
+			g_pnzImgWidth = getPixelWidth();
+			
+		if(g_pnzImgHeight == -1)
+			g_pnzImgHeight = getPixelHeight();
+			
+		if(g_pnzImgLeft == -1)
+			g_pnzImgLeft = getPixelLeft();
+			
+		if(g_pnzImgTop == -1)
+			g_pnzImgTop = getPixelTop();
+	
+
+		if(key == 37)	
+		{
+			g_newLeft -= 1;
+			if(g_newLeft < g_pnzImgLeft)
+			{
+				g_newLeft = g_pnzImgLeft;
+			}	
+		}
+		else if(key == 38)	
+		{
+			g_newTop -= 1;
+			if(g_newTop < g_pnzImgTop)
+			{
+				g_newTop = g_pnzImgTop;
+			}	
+		}
+		else if(key == 39)	
+		{
+			g_newLeft += 1;
+			if(g_newLeft + g_width > g_pnzImgLeft + g_pnzImgWidth)
+			{
+				g_newLeft = g_pnzImgLeft + g_pnzImgWidth - g_width;		
+			}
+		}
+		
+		else if(key == 40)	
+		{
+			g_newTop += 1;
+			if(g_newTop + g_height > g_pnzImgTop + g_pnzImgHeight)
+			{
+				g_newTop = g_pnzImgTop + g_pnzImgHeight - g_height;		
+			}
+		}
+		
+		setZoomRectCursor(event);
+
+		var xOffset = g_newLeft - g_pnzImgLeft;
+		var yOffset = g_newTop - g_pnzImgTop;
+		
+		var xPercent = xPercent = xOffset / g_pnzImgWidth;
+		var yPercent = yPercent = yOffset / g_pnzImgHeight;
+
+		if (xOffset < 0)
+		{
+			xPercent = 0;
+			xOffset = g_pnzImgLeft;
+		}
+		else if (xOffset + g_width > g_pnzImgWidth)
+		{
+			xPercent = 1;
+			xOffset = g_pnzImgLeft + g_pnzImgWidth - g_width;
+		}
+
+		if (yOffset < 0)
+		{
+			yPercent = 0;
+			yOffset = g_pnzImgTop;
+		}
+		else if (yOffset + g_height > g_pnzImgHeight)
+		{
+			yPercent = 1;
+			yOffset = g_pnzImgTop + g_pnzImgHeight - g_height;
+		}
+
+		if (parent.parent.viewMgr.setView)
+		{
+			var viewMgr = parent.parent.viewMgr;
+			viewMgr.PostSetViewProcessing = PostSetViewProcessing;
+			viewMgr.ChangingView = true;
+			viewMgr.setView (xPercent, yPercent);
+		}	
+		setZWinSize (null, null, g_newLeft, g_newTop);
+	}
+}
+
+function keyup(event)
+{
+	var event = getEvent(event);
+	var key = event.keyCode;
+	if(key == 37 || key == 38 || key == 39 || key == 40)
+	{		
+		el = getSrcElem(event);
+	}
+}
+
+function dragObject( event, divID, divObject, xOffset, yOffset, dragFunctionPointer, dragStopFunctionPointer )
+{
+	this.event			= event;
+	this.divID			= divID;
+	this.divObject		= divObject;
+	this.xOffset		= xOffset;
+	this.yOffset		= yOffset;
+	this.dragFPtr		= dragFunctionPointer;
+	this.dragStopFPtr	= dragStopFunctionPointer;
+}
+
+var dragList = new Array();
+
+
+function startDrag( event, divID, dragFunctionPtr, dragStopFunctionPointer, xOffset, yOffset ) 
+{
+	var divObject = document.getElementById(divID);
+	if( divObject != null ) 
+	{
+		if (document.selection)
+			document.selection.empty();
+		else if (window.getSelection)
+			window.getSelection().removeAllRanges();
+		
+		if( xOffset == null )
+			xOffset = parseInt(divObject.style.left) - g_lastX;
+		
+		if( yOffset == null )
+			yOffset = parseInt(divObject.style.top)  - g_lastY;
+
+		dragList[ dragList.length ] = new dragObject( event, divID, divObject, xOffset, yOffset, dragFunctionPtr, dragStopFunctionPointer );
+		return true;
+	} 
+	else 
+	{
+		return false;
+	}
+}
+
+function doDrag( x, y ) 
+{
+	for( var i=0; i < dragList.length; i++ ) 
+	{
+		if( dragList[i].dragFPtr != null )
+			dragList[i].dragFPtr( dragList[i], x, y );
+	}
+	if( dragList.length )
+	{
+		if (document.selection)
+			document.selection.empty();
+		else if (window.getSelection)
+			window.getSelection().removeAllRanges();
+	}
+}
+
+function stopDrag( divID, x, y ) 
+{ 
+	var tmpDragObject;
+	for( var i=0; i < dragList.length; i++ ) 
+	{
+		if( dragList[i].divID == divID || divID == null ) 
+		{
+			tmpDragObject = dragList[i];
+			
+			dragList[i] = dragList[ dragList.length - 1 ];
+			dragList.length = dragList.length - 1;
+			
+			if( tmpDragObject.dragStopFPtr != null )
+			{
+				tmpDragObject.dragStopFPtr( tmpDragObject, x, y );
+			}
+			
+		}
+	}
+}
+
+function PageViewChanged(newLeftPercent, newTopPercent, newWidthPercent, newHeightPercent)
+{
+	if (dragList.length == 0 && !parent.parent.viewMgr.ChangingView)
+	{
+		var newLeft		= null;
+		var newTop		= null;
+		var newWidth	= null;
+		var newHeight	= null;
+
+		var PNZimg = document.getElementById("ConvertedImage");
+
+		if (newLeftPercent != null)
+		{
+			newLeft = (newLeftPercent * getPixelWidth()) + getPixelLeft();
+		}
+		
+		if (newTopPercent != null)
+		{
+			newTop = (newTopPercent * getPixelHeight()) + getPixelTop();
+		}
+		
+		if (newWidthPercent != null)
+		{
+			newWidth = newWidthPercent * getPixelWidth();
+		}
+		
+		if (newHeightPercent != null)
+		{
+			newHeight = newHeightPercent * getPixelHeight();
+		}
+
+		setZWinSize (newWidth, newHeight, newLeft, newTop);
+
+		if (newLeftPercent <= 0 && newTopPercent <= 0 && newWidthPercent >= 1 && newHeightPercent >= 1)
+		{
+			zoomRectDiv.style.display = "none";
+			zoomRectDiv.style.visibility = "hidden";
+		}
+		else
+		{
+			zoomRectDiv.style.display = "inline";
+			zoomRectDiv.style.visibility = "visible";
+		}
+
+		if (newWidthPercent != null && newHeightPercent != null)
+		{
+			var newZoomLevel = GetZoomLevel (newWidthPercent, newHeightPercent);
+			SetCorrectTick (newZoomLevel);
+		}
+	}
+}
+
+function load()
+{
+	parent.parent.g_ZoomLoaded = true;
+
+	if (parent.parent.g_LoadingWidgets)
+	{
+		parent.parent.g_LoadingWidgets = false;
+		parent.parent.location.reload();
+	}
+}
+
+function unload()
+{
+	if (parent.parent.viewMgr)
+	{
+		parent.parent.viewMgr.viewChanged = null;
+	}
+
+	parent.parent.g_LoadingWidgets = true;
+}
+
+
+</script>
+</head>
+<body onload="load()" onunload="unload()" onmousedown="mouseDown(event)" onmousemove="mouseMove(event)" onmouseup="mouseUp(event)" onmouseout="mouseOut(event)">
+<div id="divPZWindow" style="width: 100%; height: 100%;" onkeydown="keydown(event)" onmousedown="startNewZoomRectDrag(event);">
+	<div id="divThumbnail" style="position: absolute;"></div>
+</div>
+<div id="divTempThumbnail" style="position: absolute; visibility:hidden; display:none;"></div>
+
+<div id="zoomRectDiv" tabindex="1" title="Visible Area. Use mouse or arrow keys to move." onkeydown="keydown(event)" onkeyup="keyup(event)" style="display:none;position: absolute; border: solid red 2px; z-index: 3; background-color: #DDDDDD; filter:alpha(opacity=50); opacity:0.5;" onmousedown="startZoomRectDrag(event)" onmouseover="setZoomRectCursor(event)" onmousemove="setZoomRectCursor(event)"></div>
+<div id="newZoomWindowDiv" style="position: absolute; border: solid blue 2px; z-index: 4; visibility: hidden;"></div>
+
+
+
+
+</body></html>
