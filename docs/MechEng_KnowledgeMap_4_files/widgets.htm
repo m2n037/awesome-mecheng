@@ -1,0 +1,524 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>MechEng_KnowledgeMap_4</title>
+<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+<link href="png_1_data/visio.css" rel="stylesheet">
+<script src="widgets_data/keys.js" type="text/javascript" language="javascript"></script>
+<script src="widgets_data/find.js" type="text/javascript" language="javascript"></script>
+<script type="text/javascript" language="javascript">
+	
+	var imgMin = new Image();
+	imgMin.src = "minimize.gif";
+	
+	var imgMax = new Image();
+	imgMax.src = "maximize.gif";
+
+	var fileList = parent.g_FileList;
+	
+	function Widgets()
+	{
+		this.GoTo = null;
+		this.Search = null;
+		this.Details = null;
+		this.PNZ = null;
+
+		this.divCount = 0;
+		
+		this.OpenText = "Collapse all";
+		this.OpenAlt = "Collapse all";
+		this.ClosedText = "Expand all";
+		this.ClosedAlt = "Expand all";
+
+		this.Display = "";
+		this.Img = imgMin;
+		this.Text = this.OpenText;
+		this.Alt = this.OpenAlt;
+		
+		this.ToggleAll = ToggleAll;
+		this.ToggleWidget = ToggleWidget;
+		this.Add = Add;
+	}		
+
+	function Add(div, name)
+	{
+		tmpStr = "this." + name + " = new Widget(div);"
+		eval(tmpStr);
+		var thisWidget = eval("this." + name);
+	}
+
+	function Widget(div)
+	{
+		return div;
+	}	
+
+	function ToggleAll()
+	{
+		var OpenCloseFunc = Widget;
+
+		if(this.Display == "")
+		{
+			this.Display = "none";
+			this.Img = imgMax;
+			this.Text = this.ClosedText;
+			this.Alt = this.ClosedAlt;
+			document.getElementById("expparent00").title = this.ClosedAlt;
+			OpenCloseFunc = CloseWidget;
+		}
+		else
+		{
+			this.Display = "";
+			this.Img = imgMin;
+			this.Text = this.OpenText;
+			this.Alt = this.OpenAlt;
+			document.getElementById("expparent00").title = this.OpenAlt;
+			OpenCloseFunc = OpenWidget;
+		}
+		document.getElementById("exp00").src = this.Img.src;	
+		document.getElementById("textExp").innerHTML = this.Text;
+		document.getElementById("exp00").alt = this.Alt;
+	
+		if(this.GoTo)
+		{
+			OpenCloseFunc(this.GoTo)
+		}
+		if(this.Search)
+		{
+			OpenCloseFunc(this.Search)
+		}
+		if(this.Details)
+		{
+			OpenCloseFunc(this.Details)
+		}
+		if(this.PNZ)
+		{
+			OpenCloseFunc(this.PNZ)
+		}
+	}
+
+	function ToggleNav()
+	{
+		if(document.getElementById("divCollapsedNav").style.display == "none")
+		{
+			document.getElementById("divCollapsedNav").style.display = "";
+			document.getElementById("divOpenNav").style.display = "none";
+			parent.document.getElementById("frmstOuter").cols = "20,*"
+			parent.document.getElementById("frmToolbar").noResize = true;
+		}
+		else
+		{
+			document.getElementById("divOpenNav").style.display = "";
+			document.getElementById("divCollapsedNav").style.display = "none";
+			parent.document.getElementById("frmstOuter").cols = "237,*"
+			parent.document.getElementById("frmToolbar").noResize = false;
+		}
+	}
+	
+	function ToggleWidget(div)
+	{
+		if(div.style.display == "none")
+		{
+			OpenWidget(div);
+		}
+		else
+		{
+			CloseWidget(div);
+		}
+	}
+
+	function OpenWidget(div)
+	{
+		document.getElementById(div.img).src = imgMin.src;
+		div.style.display = "";
+		document.getElementById(div.img).alt = div.openAlt;
+		document.getElementById(div.img + "1").title = div.openAlt;
+		document.getElementById(div.img + "2").title = div.openAlt;
+	}
+
+	function CloseWidget(div)
+	{
+		document.getElementById(div.img).src = imgMax.src;
+		div.style.display = "none";
+		document.getElementById(div.img).alt = div.closedAlt;
+		document.getElementById(div.img + "1").title = div.closedAlt;
+		document.getElementById(div.img + "2").title = div.closedAlt;
+	}
+
+	function load()
+	{
+		parent.g_WidgetsLoaded = true;
+
+		if (parent.g_LoadingWidgets)
+		{
+			parent.g_LoadingWidgets = false;
+			parent.location.reload();
+		}
+	}
+
+	function unload()
+	{
+		parent.g_LoadingWidgets = true;
+	}
+	
+		
+	var widgets = new Widgets();
+
+</script>
+
+</head>
+<body onload="load();" onunload="unload();" onkeypress="keyHandler(event)">
+<div id="divOpenNav" class="nav" style="display: none;">
+
+	<table id="tabToc" class="navTocColor" style="margin-bottom:1px;" dir="ltr" width="100%" height="20" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	<td width="2"><a href="javascript:ToggleNav();" title="Collapse navigation frame" id="linkNavOpen"><img src="widgets_data/toc.gif" alt="Collapse navigation frame" width="22" height="17" border="0"></a></td>
+	<td><p class="p1"><a href="javascript:ToggleNav();" title="Collapse navigation frame" class="a1">Hide</a></p></td>
+	<td align="right"><p class="p1"><a href="javascript:widgets.ToggleAll()" id="textExp" class="a1">Collapse all</a></p></td>
+	<td width="2">
+		<div style="padding:2pt,1.5pt,0pt,0pt"><a href="javascript:widgets.ToggleAll()" title="Collapse all" id="expparent00"><img id="exp00" alt="Collapse all" src="widgets_data/minimize.gif" width="15" height="15" border="0"></a></div>
+	</td>
+	</tr>
+	</tbody></table>
+	
+	
+	<div id="divGoto" class="holder">
+		<table class="holderTable" width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr><td>
+			<div class="fillcolor">
+				<table class="fillcolor" width="100%" border="0" cellspacing="0" cellpadding="1">
+				<tbody><tr>
+				<td style="padding:3px;"><a id="exp01" title="Collapse Go to Page" href="javascript:widgets.ToggleWidget(hideGoto);"><p class="label" style="display:inline">Go to Page</p></a></td>
+				<td width="15"><a id="exp02" title="Collapse Go to Page" href="javascript:widgets.ToggleWidget(hideGoto);"><img id="exp0" alt="Collapse Go to Page" src="widgets_data/minimize.gif" width="15" height="15" border="0"></a></td>
+				</tr>
+				</tbody></table>
+			</div>
+		</td></tr>
+		<tr><td>
+			<div id="hideGoto" class="hider" openalt="Collapse Go to Page" closedalt="Expand Go to Page">
+				<form class="page" id="formPage" onsubmit="parent.GoToPage(Select1.value); return false;">
+					<table width="100%" border="0" cellspacing="0" cellpadding="3">	
+					<tbody><tr>
+					<td>
+					<select class="formText" id="Select1" name="Select1" title="Select page from list. Press Enter to go to the selected page." onkeyup="if(window.event.keyCode == 13) {parent.GoToPage(Select1.value);} return false;">
+					<script type="text/javascript" language="javascript">
+						var options = "";
+						for (var count = 0; count < fileList.length; count++)
+						{
+							options += '<option value="' + count + '">' + fileList[count].PageName + '</option>';
+						}
+
+						document.write (options);
+					</script><option value="0" selected="selected">MECH. ENG.</option><option value="1">AIRFRAMES &amp; LAUNCHERS</option><option value="2">STRUCTURAL DYNAMICS</option><option value="3">CARRIAGE VIBRATION &amp; FATIGUE</option>
+					</select>
+					</td>
+					<td class="gobutton" width="18">
+					<input src="widgets_data/go.gif" name="go" alt="Go to selected page" width="18" type="image" height="18" border="0">
+					</td>
+					</tr>
+					</tbody></table>
+				</form>
+			</div>
+		</td></tr>
+		</tbody></table>	
+		
+		<script type="text/javascript" language="javascript">
+		    var hideGoto = document.getElementById("hideGoto");
+			hideGoto.img = "exp0";
+			widgets.Add(hideGoto, "GoTo");
+		</script>
+	</div>
+
+	
+	<div id="divPNZ" class="holder" dir="ltr">
+		<table class="holderTable" width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr><td>
+			<div class="fillcolor">
+				<table class="fillcolor" width="100%" border="0" cellspacing="0" cellpadding="1">
+				<tbody><tr>
+				<td style="padding:3px;"><a id="exp41" title="Collapse Pan and Zoom" href="javascript:widgets.ToggleWidget(hidePNZ);"><p class="label" style="display:inline;">Pan and Zoom</p></a></td>
+				<td width="15"><a id="exp42" title="Collapse Pan and Zoom" href="javascript:widgets.ToggleWidget(hidePNZ);"><img id="exp4" alt="Collapse Pan and Zoom" src="widgets_data/minimize.gif" width="15" height="15" border="0"></a></td>
+				</tr>
+				</tbody></table>
+			</div>
+		</td></tr>
+		<tr><td>
+			<div id="hidePNZ" style="text-align:right;" class="hiderScroll" openalt="Collapse Pan and Zoom" closedalt="Expand Pan and Zoom">
+				<table width="220" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+				<td valign="middle" align="center">
+					<iframe title="Pan and Zoom window" longdesc="Pan and Zoom window" name="ifrmPNZ" id="ifrmPNZ" src="widgets_data/zoom.htm" marginheight="0" marginwidth="0" scrolling="no" style="border: #cccccc 1px solid;" width="178" height="178" frameborder="0"></iframe>
+				</td>
+					
+				<td>
+					<table id="tabScale" onmouseover="tickFocus(event)" onmouseout="tickBlur(event)" width="17" border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr><td><a href="javascript:tickSelect(100);" title="Zoom page to 100%"><img src="widgets_data/fullpage.gif" alt="Zoom page to 100%" border="0"></a></td></tr>
+						<tr><td><a href="javascript:ZoomUpDown(1);" title="Zoom in"><img src="widgets_data/panplus.gif" alt="Zoom in" border="0"></a></td></tr>
+						<tr><td><a href="javascript:tickSelect(500);" title="Zoom to 500%"><img id="t500" src="widgets_data/tick-off.gif" alt="Zoom to 500%" width="17" height="11" border="0"></a></td></tr>
+						<tr><td><a href="javascript:tickSelect(450);" title="Zoom to 450%"><img id="t450" src="widgets_data/tick-off.gif" alt="Zoom to 450%" width="17" height="11" border="0"></a></td></tr>
+						<tr><td><a href="javascript:tickSelect(400);" title="Zoom to 400%"><img id="t400" src="widgets_data/tick-off.gif" alt="Zoom to 400%" width="17" height="11" border="0"></a></td></tr>
+						<tr><td><a href="javascript:tickSelect(350);" title="Zoom to 350%"><img id="t350" src="widgets_data/tick-off.gif" alt="Zoom to 350%" width="17" height="11" border="0"></a></td></tr>
+						<tr><td><a href="javascript:tickSelect(300);" title="Zoom to 300%"><img id="t300" src="widgets_data/tick-off.gif" alt="Zoom to 300%" width="17" height="11" border="0"></a></td></tr>
+						<tr><td><a href="javascript:tickSelect(250);" title="Zoom to 250%"><img id="t250" src="widgets_data/tick-off.gif" alt="Zoom to 250%" width="17" height="11" border="0"></a></td></tr>
+						<tr><td><a href="javascript:tickSelect(200);" title="Zoom to 200%"><img id="t200" src="widgets_data/tick-off.gif" alt="Zoom to 200%" width="17" height="11" border="0"></a></td></tr>
+						<tr><td><a href="javascript:tickSelect(150);" title="Zoom to 150%"><img id="t150" src="widgets_data/tick-off.gif" alt="Zoom to 150%" width="17" height="11" border="0"></a></td></tr>
+						<tr><td><a href="javascript:tickSelect(100);" title="Zoom to 100%" id="a100"><img id="t100" src="widgets_data/tick-on.gif" alt="Zoom to 100%" width="17" height="11" border="0"></a></td></tr>
+						<tr><td><a href="javascript:tickSelect(50);" title="Zoom to 50%"><img id="t50" src="widgets_data/tick-off.gif" alt="Zoom to 50%" width="17" height="11" border="0"></a></td></tr>
+						<tr><td><a href="javascript:tickSelect(10);" title="Zoom to 10%"><img id="t10" src="widgets_data/tick-off.gif" alt="Zoom to 10%" width="17" height="11" border="0"></a></td></tr>
+						<tr><td><a href="javascript:ZoomUpDown(-1);" title="Zoom out"><img src="widgets_data/panminus.gif" alt="Zoom out" border="0"></a></td></tr>
+					</tbody></table>
+				</td>
+				</tr>
+				</tbody></table>
+			</div>			
+		</td></tr>
+		</tbody></table>
+		
+		<script type="text/javascript" language="javascript">
+		    var hidePNZ = document.getElementById("hidePNZ");
+			hidePNZ.img = "exp4";
+			widgets.Add(hidePNZ, "PNZ");
+			widgets.divCount++;
+
+			var zoomLevels = new Array(10, 50, 100, 150, 200, 250, 300, 350, 400, 450, 500);
+
+			var tickOff = new Image();
+			tickOff.src = "tick-off.gif";
+			
+			var tickFoc = new Image();
+			tickFoc.src = "tick-foc.gif";
+			
+			var tickOn = new Image();
+			tickOn.src = "tick-on.gif";
+				
+			function getElem(event)
+			{
+				// Retrieve the event in IE
+				if (!event)
+					var event = window.event;
+				
+				// Reference the element howeaver this browser can
+				var elem;
+				if (event.target) // For Firefox
+					elem = event.target;
+				else if (event.srcElement) // For IE
+					elem = event.srcElement;
+				if (elem.nodeType == 3) // For Safari
+					elem = elem.parentNode;
+				
+				return elem
+			}
+			function tickFocus(event)
+			{
+				var elem = getElem(event);
+				
+				if(elem.state == "off")
+					elem.src = tickFoc.src;
+			}
+			
+			function tickBlur(event)
+			{
+				var elem = getElem(event);
+					
+				if(elem.state == "off")
+					elem.src = tickOff.src;
+			}
+
+			function tickSelect(percentZoom)
+			{
+				if (parent.viewMgr &&
+					parent.viewMgr.Zoom)
+				{
+					changeTick(percentZoom);
+					parent.viewMgr.Zoom(percentZoom);					
+				}
+
+                var frame = frames[0];
+				
+				if(frame.zoomRectDiv)
+				{
+					frame.g_width = parseInt(frame.zoomRectDiv.style.pixelWidth);
+					frame.g_height = parseInt(frame.zoomRectDiv.style.pixelHeight);
+					frame.g_newLeft = parseInt(frame.zoomRectDiv.style.left);
+					frame.g_newTop = parseInt(frame.zoomRectDiv.style.top);
+				}
+			}
+
+			function changeTick(percentZoom)
+			{
+				img = document.getElementById("t" + percentZoom);
+									
+				img.src = tickOn.src;
+				
+				if(elemScale.tickSelected && elemScale.tickSelected != img)
+				{
+					elemScale.tickSelected.src = tickOff.src;
+				}
+				elemScale.tickSelected = img;
+			}
+			
+			function ZoomUpDown(increment)
+			{
+				if (elemScale.tickSelected)
+				{
+					var curZoomLevel = elemScale.tickSelected.id.substring (1);
+					var newZoomLevelIndex = IndexFromLevel (curZoomLevel * 1.0);
+					if (newZoomLevelIndex >= 0)
+					{
+						var img = document.getElementById("t" + zoomLevels[newZoomLevelIndex + increment]);
+						if (img)
+						{
+							tickSelect(img.id.substring(1));
+						}
+					}
+				}
+				else
+				{
+					tickSelect (100);
+				}
+			}
+
+			function IndexFromLevel (zoomLevel)
+			{
+				for (var count = 0; count < zoomLevels.length; count++)
+				{
+					if (zoomLevels[count] == zoomLevel)
+					{
+						return count;
+					}
+				}
+
+				return -1;
+			}
+			
+			elemScale = document.getElementById("tabScale");
+		</script>
+	</div>
+
+	
+	<div id="divDetails" class="holder" dir="ltr">
+		<table class="holderTable" width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr><td>
+			<div class="fillcolor">
+				<table class="fillcolor" width="100%" border="0" cellspacing="0" cellpadding="1">
+				<tbody><tr>
+				<td style="padding:3px;"><a id="exp21" title="Collapse Details" href="javascript:widgets.ToggleWidget(hideDetails);"><p class="label" style="display:inline;">Details</p></a></td>
+				<td width="15"><a id="exp22" title="Collapse Details" href="javascript:widgets.ToggleWidget(hideDetails);"><img id="exp2" alt="Collapse Details" src="widgets_data/minimize.gif" width="15" height="15" border="0"></a></td>
+				</tr>
+				</tbody></table>
+			</div>
+		</td></tr>
+		<tr><td>
+			<div id="hideDetails" class="hiderScroll" openalt="Collapse Details" closedalt="Expand Details">
+				<p class="p2">CTRL+click a shape in the drawing to view details.</p>
+			</div>
+		</td></tr>
+		</tbody></table>		
+		
+		<script type="text/javascript" language="javascript">
+		    var hideDetails = document.getElementById("hideDetails");
+			hideDetails.img = "exp2";
+			widgets.Add(hideDetails, "Details");
+			widgets.divCount++;
+		</script>
+	</div>
+
+	
+	<div id="divSearch" class="holder">
+		<table class="holderTable" width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr><td>
+			<div class="fillcolor" dir="ltr">
+				<table class="fillcolor" width="100%" border="0" cellspacing="0" cellpadding="1">
+				<tbody><tr>
+				<td style="padding:3px;"><a id="exp11" title="Collapse Search Pages" href="javascript:widgets.ToggleWidget(hideSearch);"><p class="label" style="display:inline;">Search Pages</p></a></td>
+				<td width="15"><a id="exp12" title="Collapse Search Pages" href="javascript:widgets.ToggleWidget(hideSearch);"><img src="widgets_data/minimize.gif" id="exp1" alt="Collapse Search Pages" width="15" height="15" border="0"></a></td>
+				</tr>
+				</tbody></table>
+			</div>
+
+		</td></tr>
+		<tr><td>	
+
+			<div id="hideSearch" img="exp1" class="hiderScroll" openalt="Collapse Search Pages" closedalt="Expand Search Pages">
+								<form name="theForm" onsubmit="FindOnClick(); return false;" id="Form1">
+									<table width="100%" border="0" cellspacing="0" cellpadding="3">
+									<tbody><tr>
+									<td width="100%">
+										<input class="formText" name="findString" maxlength="255" size="26" title="Enter text for search. Press Enter to begin search." type="text">
+									</td>
+									<td class="gobutton" width="18">
+										<input src="widgets_data/go.gif" alt="Start searching" id="GoButton" name="GoButton" width="18" type="image" height="18">
+									</td>
+									</tr>
+									<tr>
+									<td colspan="2" class="p2">
+										<a href="javascript:{};" tabindex="0" onclick="TogglePlus(hideAdvSrch,as0);" class="blu1"><img src="widgets_data/plus.gif" alt="Shows/hides advanced searching options" id="as0" border="0">Advanced</a>
+											<div id="hideAdvSrch" class="hiderScroll" style="display:none;">
+												<b>Search By:</b>
+												<div id="divS"></div>
+											</div>
+										<hr width="100%" size="1" color="#cccccc">
+										<div id="hideResults" class="hiderScroll" style="display:none;"></div>
+									</td>
+									</tr>
+									</tbody></table>
+								</form>
+			</div>					
+
+		</td></tr>
+		</tbody></table>
+		
+		
+		<script type="text/javascript" language="javascript">
+		    var hideSearch = document.getElementById("hideSearch");
+			hideSearch.img = "exp1";
+			widgets.Add(hideSearch, "Search");
+			widgets.divCount++;
+			
+			makeAdvancedFindCheckboxes(document.getElementById("divS"));
+			
+			
+			var imgPlus = new Image();
+			imgPlus.src = "plus.gif";
+	
+			var imgMinus = new Image();
+			imgMinus.src = "minus.gif";
+			
+			function TogglePlus(div, img, container)
+			{
+				if(typeof(img) == "string")	
+					img = document.getElementById(img)
+				if(typeof(div) == "string")
+					div = document.getElementById(div)
+					
+				widget = widgets.Search;
+				if(div && img)
+				{
+					if(div.style.display == "none")
+					{
+						div.style.display = "";
+						img.src = imgMinus.src;
+						div.open = "true";
+					}
+					else
+					{
+						div.style.display = "none";
+						img.src = imgPlus.src;
+						
+						div.open = "false";
+					}
+				}
+			}
+		</script>
+	</div>
+
+
+</div>
+
+<div id="divCollapsedNav" class="navTocColor" style="width: 100%; height: 100%;">
+	<a href="javascript:ToggleNav();" title="Expand navigation frame" id="linkNavClosed"><img src="widgets_data/toc2.gif" alt="Expand navigation frame" border="0"></a>
+</div>	
+
+
+
+
+
+</body></html>
