@@ -147,7 +147,7 @@ I got inspiration from the countless awesome lists in github.
 * [DMG Lib](http://www.dmg-lib.org/dmglib/main/portal.jsp), Digital Mechanism and Gear Library
 * [KMODDL](http://kmoddl.library.cornell.edu/e-books.php), collection of mechanism and machines `Cornell.edu`
 * [Engineering ToolBox](https://www.engineeringtoolbox.com/)
-* [Roymechx(http://www.roymech.co.uk/ )
+* [Roymechx](http://www.roymech.co.uk/ )
 * [Thermopedia](http://www.thermopedia.com/)
 * [In Tech open](http://www.intechopen.com/)
 * [Wolverine Industries](http://www.wlv.com/products/thermal-management-databooks.html)
