@@ -108,7 +108,7 @@ I got inspiration from the countless awesome lists in github.
 &emsp; <sub><sup>ISBN: 9780262526548</sup></sub>
 
 #### <a name="MechEng-Map"></a>Mechanical Engineering Knowledge Maps
-* [MECHANICAL ENGINEERING DESIGN](http://www.engineer-assist.com/KnowledgeMap/MechEng_KnowledgeMap_4_files/png_1.htm), knowledge maps with selectable links
+* [MECHANICAL ENGINEERING DESIGN](http://htmlpreview.github.io/?https://github.com/MechEngKnowledgeMap/awesome-mecheng/blob/gh-branches/docs/index.htm), knowledge maps with selectable links
 * [AIRCRAFT & MISSILE DESIGN](http://www.engineer-assist.com/KnowledgeMap/MechEng_KnowledgeMap_4_files/png_2.htm), knowledge maps with selectable links
 * [STRUCTURAL DYNAMICS](http://www.engineer-assist.com/KnowledgeMap/MechEng_KnowledgeMap_4_files/png_3.htm), knowledge maps with selectable links
 * [VIBRATION & FATIGUE](http://www.engineer-assist.com/KnowledgeMap/MechEng_KnowledgeMap_4_files/png_4.htm), knowledge maps with selectable links
@@ -146,7 +146,14 @@ I got inspiration from the countless awesome lists in github.
 * [thang010146](https://www.youtube.com/user/thang010146/videos), 2100+ animated mechanisms (downloadable) `youtube`
 * [DMG Lib](http://www.dmg-lib.org/dmglib/main/portal.jsp), Digital Mechanism and Gear Library
 * [KMODDL](http://kmoddl.library.cornell.edu/e-books.php), collection of mechanism and machines `Cornell.edu`
-
+* [Engineering ToolBox](https://www.engineeringtoolbox.com/)
+* [Roymechx](http://www.roymech.co.uk/ )
+* [Thermopedia](http://www.thermopedia.com/)
+* [In Tech open](http://www.intechopen.com/)
+* [Wolverine Industries](http://www.wlv.com/products/thermal-management-databooks.html)
+* [Omega Engineering](http://www.omega.com/techref/)
+* [Electrical Training](http://electricaltrainingalliance.org/Resources/Authentication)
+* [NASA Technical Report Server](http://ntrs.nasa.gov/search.jsp)
 #### Patents
 * [Google Patents](https://www.google.com/patents/)
 * [European Patent Office](https://worldwide.espacenet.com/)
@@ -418,6 +425,7 @@ I got inspiration from the countless awesome lists in github.
 * [Introduction to Finite Element Methods](https://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/) `Colorado.edu`
   * [Advance FEM](https://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/Home.html)
   * [Nonlinear FEM](https://www.colorado.edu/engineering/CAS/courses.d/NFEM.d/Home.html)
+* [FINITE ELEMENT MODELING CONTINUOUS IMPROVEMENT ](https://femci.gsfc.nasa.gov/femcibook.html), (NASA FEMCI book)
 
 ###### Good Reads
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `stackexchange`
