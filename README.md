@@ -741,7 +741,7 @@ Misc
 
 ### Civilization Starter Kit Mechanical Design Project
 
-* [Open Source Ecology-Build Yourself] (https://www.opensourceecology.org/)
+* [Open Source Ecology-Build Yourself](https://www.opensourceecology.org/)
 
 * [Open Source Ecology wiki](http://opensourceecology.org/wiki/Main_Page)
 
