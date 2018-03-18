@@ -83,7 +83,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
 [Competitions](#competitions)
 
-[Open Source Design Projects](#opendesign)
+[Open Source Design Projects](#openprojects)
 
 [Qualifying/Certification Examinations](#certification)
 </details>
@@ -737,10 +737,9 @@ Misc
 * [Instructables Contests](http://www.instructables.com/contest/)
 
 
-## Open Source Design projects
+## <a name="openprojects"></a>Open Source Design projects
 
 ### Civilization Starter Kit Mechanical Design Project
-
 
 * [Open Source Ecology-Build Yourself] (https://www.opensourceecology.org/)
 
