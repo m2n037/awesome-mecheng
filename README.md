@@ -83,6 +83,8 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
 [Competitions](#competitions)
 
+[Open Source Design Projects](#opendesign)
+
 [Qualifying/Certification Examinations](#certification)
 </details>
 
@@ -734,6 +736,17 @@ Misc
 * [Hackaday Contest](https://hackaday.io/contests)
 * [Instructables Contests](http://www.instructables.com/contest/)
 
+
+## Open Source Design projects
+
+### Civilization Starter Kit Mechanical Design Project
+
+
+* [Open Source Ecology-Build Yourself] (https://www.opensourceecology.org/)
+
+* [Open Source Ecology wiki](http://opensourceecology.org/wiki/Main_Page)
+
+* [Global Village Construction Set](http://opensourceecology.org/wiki/Global_Village_Construction_Set)
 
 ---
 <div align="right">
