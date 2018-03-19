@@ -83,6 +83,8 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
 [Competitions](#competitions)
 
+[Open Source Design Projects](#openprojects)
+
 [Qualifying/Certification Examinations](#certification)
 </details>
 
@@ -146,7 +148,12 @@ I got inspiration from the countless awesome lists in github.
 * [thang010146](https://www.youtube.com/user/thang010146/videos), 2100+ animated mechanisms (downloadable) `youtube`
 * [DMG Lib](http://www.dmg-lib.org/dmglib/main/portal.jsp), Digital Mechanism and Gear Library
 * [KMODDL](http://kmoddl.library.cornell.edu/e-books.php), collection of mechanism and machines `Cornell.edu`
-
+* [Engineering ToolBox](https://www.engineeringtoolbox.com/)
+* [Thermopedia](http://www.thermopedia.com/)
+* [Wolverine Industries](http://www.wlv.com/products/thermal-management-databooks.html)
+* [Omega Engineering](http://www.omega.com/techref/)
+* [Electrical Training](http://electricaltrainingalliance.org/Resources/Authentication)
+* [NASA Technical Report Server](http://ntrs.nasa.gov/search.jsp)
 #### Patents
 * [Google Patents](https://www.google.com/patents/)
 * [European Patent Office](https://worldwide.espacenet.com/)
@@ -362,7 +369,7 @@ I got inspiration from the countless awesome lists in github.
 * [Fundamentals of Manufacturing Processes](https://www.edx.org/course/fundamentals-manufacturing-processes-mitx-2-008x-0) `edX MIT` 
 * [A.J. Hart](http://meche.mit.edu/people/faculty/ajhart@mit.edu)'s [Presentations](https://www.slideshare.net/AJohnHart/presentations) `slideshare`
 * [Building Prototypes](https://www.youtube.com/watch?v=xMP_AfiNlX4), by D. Gelbart `youtube`
-
+* [Fabrication Labs](http://www.fabfoundation.org/index.html), Labs available globally
 ### CAD/CAM
 
 #### Theory
@@ -418,6 +425,7 @@ I got inspiration from the countless awesome lists in github.
 * [Introduction to Finite Element Methods](https://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/) `Colorado.edu`
   * [Advance FEM](https://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/Home.html)
   * [Nonlinear FEM](https://www.colorado.edu/engineering/CAS/courses.d/NFEM.d/Home.html)
+* [FINITE ELEMENT MODELING CONTINUOUS IMPROVEMENT ](https://femci.gsfc.nasa.gov/femcibook.html), (NASA FEMCI book)
 
 ###### Good Reads
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `stackexchange`
@@ -728,6 +736,16 @@ Misc
 * [Hackaday Contest](https://hackaday.io/contests)
 * [Instructables Contests](http://www.instructables.com/contest/)
 
+
+## <a name="openprojects"></a>Open Source Design projects
+
+### Civilization Starter Kit Mechanical Design Project
+
+* [Open Source Ecology-Build Yourself](https://www.opensourceecology.org/)
+
+* [Open Source Ecology wiki](http://opensourceecology.org/wiki/Main_Page)
+
+* [Global Village Construction Set](http://opensourceecology.org/wiki/Global_Village_Construction_Set)
 
 ---
 <div align="right">
