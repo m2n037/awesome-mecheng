@@ -769,7 +769,7 @@ A PE license is probably the most useful certification that a mechanical enginee
 
 
 ### GATE for India
-[GATE Official Website](www.gate.iitr.ernet.in/)
+[GATE Official Website](https://www.gate.iitr.ernet.in/)
 
 GATE or [Graduate Aptitute Test in Engineering](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) is a qualifying examination conducted by a consortium of [Indian Institutes of Technology](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology) and [Indian Institute of Science Bangalore](http://www.iisc.ac.in/). Even though the official reason to conduct GATE is for post-graduate admissions only, PSUs and Govt. research entities often recruit students on the basis of GATE score.
 
