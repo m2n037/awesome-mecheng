@@ -299,6 +299,17 @@ I got inspiration from the countless awesome lists in github.
 &emsp; <sub><sup>ISBN: 978-0073398204</sup></sub>
 * [Introduction to Mechanisms](https://www.cs.cmu.edu/%7Erapidproto/mechanisms/tablecontents.html),  by Yi Zhang with S. Finger, S. Behrens. `CMU.edu`
 * [Mechanisms/Machines](https://archive.org/details/MechanismsMachines), by L. Teel (1972) `Archive.org`
+* [U of Minessota](https://www.youtube.com/playlist?list=PLNWWAQ4wioJxZ3_UBEWIbOq7hiA0dnJ8J) 'YouTube'
+* [NPTEL IIT Kgp Mechanisms and Robot Kinematics] (https://onlinecourses.nptel.ac.in/noc18_me18) 'NPTEL'
+* [MIT Fundamentals of Design](http://pergatory.mit.edu/resources/fundamentals.html) 'MIT'
+* [NPTEL- Kinematics of Machines](http://nptel.ac.in/courses/112104121/1#) 'Courseware'
+* [Middle East TU Mechanisms](http://ocw.metu.edu.tr/mod/resource/view.php?id=2094) 'Courseware'
+* [Kinematic Models for Design Digital Library (KMODDL) by Cornell U](http://kmoddl.library.cornell.edu/)
+* [Mechanism Design: v. 1: Analysis and Synthesis](https://www.amazon.in/1-Mechanism-Design-Analysis-Synthesis/dp/0130408727/) by Arthur G. Erdman, George N. Sandor, Sridhar Kota `Amazon`&emsp; <sub><sup>ISBN: 978-0130408723</sup></sub>
+* [Mechanism Design: v. 2: Analysis and Synthesis](https://www.amazon.in/1-Mechanism-Design-Analysis-Synthesis/dp/0130408727/) by Arthur G. Erdman, George N. Sandor, Sridhar Kota `Amazon`&emsp; <sub><sup>ISBN:  978-0130408723</sup></sub>
+* [Design of Machinery](http://amzn.to/2FTZQbu) by Robert L Norton `Amazon`&emsp; <sub><sup>ISBN: 978-0071236713</sup></sub>
+* [Mechanisms and Mechanical Devices Sourcebook](https://www.amazon.in/Mechanisms-Mechanical-Sourcebook-Nicholas-Chironis/dp/0070113564) by by Nicholas Paul Chironis, Neil Sclater `Amazon`&emsp; <sub><sup>ISBN: 978-0070113565</sup></sub>
+* 
 
 ### Control Engineering
 * [Modern Control Engineering](https://www.amazon.com/Modern-Control-Engineering-Katsuhiko-Ogata/dp/0136156738/ref=sr_1_cc_4), by K. Ogata (2009) `Amazon`
