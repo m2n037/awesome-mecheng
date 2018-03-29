@@ -480,6 +480,7 @@ Student/Free version: **Not available** but a student license can be obtained fo
 
 * [LS Dyna Official Examples Site](http://www.dynaexamples.com/)
 * [LS Prepost Tutorials](http://www.lstc.com/lspp/content/tutorials.shtml)
+* [Jim Day FAQ](http://ftp.lstc.com/anonymous/outgoing/jday/faq/?C=M;O=D)
 
 #### COMSOL
 Comsol was known as FEMLAB before and is a academic spin-off from Stanford University. Comsol integrated multiphysics simulation capability for the first time in a commercial package and is pretty popular in many unconventional industry.
