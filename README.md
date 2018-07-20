@@ -741,7 +741,8 @@ Misc
 * [GrabCAD Challenge](https://grabcad.com/challenges), product design challenges
 * [Fusion360 Monthly Challenge](https://knowledge.autodesk.com/support/fusion-360/getting-started/caas/simplecontent/content/join-the-autodesk-fusion-360-monthly-challenge.html) `Autodesk Community Philippines`
   * [Video Playlist](https://www.youtube.com/user/autodeskcomphil/playlists) `Youtube`
-* [Reddit CAD Challenges](https://www.reddit.com/r/cad/search?q=cad+challenge+%23&restrict_sr=on&sort=new&t=all) (*Inactive*) `/r/CAD`
+* [Model Mania Challenge](http://blogs.solidworks.com/tech/2018/04/19-years-of-model-mania.html) `SOLIDWORKS World`
+* [Reddit CAD Challenge](https://www.reddit.com/r/cad/search?q=cad+challenge+%23&restrict_sr=on&sort=new&t=all&include_over_18=on) (*Inactive*) `/r/CAD`
   * [Archived version](https://github.com/symbian9/reddit_cad_challenge) `Github`
 
 ### Misc
