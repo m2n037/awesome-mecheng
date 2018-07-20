@@ -39,6 +39,7 @@ _This section contains some rules to be followed while adding resources to this 
 - [Betsy Megas](https://github.com/BMegas)
 - [Ryan Halliday](https://github.com/ry167)
 - [Gary Hammock](https://github.com/ghammock)
+- [app4soft](https://github.com/Symbian9) 👷
 
 ## Contact Details
 You can contact me at ``` m2n037 [at] gmail [dot] com ``` for any issue related to this list. Please mention "awesome mecheng" in the subject line.
