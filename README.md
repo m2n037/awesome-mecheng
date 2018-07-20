@@ -8,7 +8,7 @@ Check the [contributions guideline](../master/contributions.md)
 
 Discuss this list in [Hacker News](https://news.ycombinator.com/item?id=15337556)
 
-Discuss this list in [Reddit r/engineering](https://redd.it/78dqn5) - *8.3k+ views and 700+ upvotes*
+Discuss this list in [Reddit r/engineering](https://redd.it/78dqn5) - *8.3k+ views and 770+ upvotes*
 
 Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
@@ -23,6 +23,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 [Open Courses](#opencourse)
 
 [General](#general)
+  * [Mechanical Engineering Knowledge Maps](#MechEng-Map)
   * [Databases](#database)
   * [Online Calculators](#calculator)
   * [Tools and Programs](#tool)
@@ -80,7 +81,9 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Journals](#journals)
   * [Magazines](#magazines)
 
-[Competitions](#competition)
+[Competitions](#competitions)
+
+[Open Source Design Projects](#openprojects)
 
 [Qualifying/Certification Examinations](#certification)
 </details>
@@ -106,6 +109,11 @@ I got inspiration from the countless awesome lists in github.
 * [The Art of Insight in Science and Engineering](https://mitpress.mit.edu/books/art-insight-science-and-engineering), by S. Mahajan (2014) `MITPress`
 &emsp; <sub><sup>ISBN: 9780262526548</sup></sub>
 
+#### <a name="MechEng-Map"></a>Mechanical Engineering Knowledge Maps
+* [MECHANICAL ENGINEERING DESIGN](http://www.engineer-assist.com/KnowledgeMap/MechEng_KnowledgeMap_4_files/png_1.htm), knowledge maps with selectable links
+* [AIRCRAFT & MISSILE DESIGN](http://www.engineer-assist.com/KnowledgeMap/MechEng_KnowledgeMap_4_files/png_2.htm), knowledge maps with selectable links
+* [STRUCTURAL DYNAMICS](http://www.engineer-assist.com/KnowledgeMap/MechEng_KnowledgeMap_4_files/png_3.htm), knowledge maps with selectable links
+* [VIBRATION & FATIGUE](http://www.engineer-assist.com/KnowledgeMap/MechEng_KnowledgeMap_4_files/png_4.htm), knowledge maps with selectable links
 
 #### <a name="database"></a>Databases
 * [MatWeb](http://www.matweb.com/), database of material properties
@@ -127,6 +135,7 @@ I got inspiration from the countless awesome lists in github.
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/), quick prototyping of linkage mechanism
 * [LyX](http://www.lyx.org/), document processor based on LaTeX
 * [SumatraPDF](https://www.sumatrapdfreader.org/), lightweight pdf reader
+* [Pandoc](https://pandoc.org/), a universal document converter
 
 #### <a name="useful"></a>Useful Websites
 * [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
@@ -139,7 +148,12 @@ I got inspiration from the countless awesome lists in github.
 * [thang010146](https://www.youtube.com/user/thang010146/videos), 2100+ animated mechanisms (downloadable) `youtube`
 * [DMG Lib](http://www.dmg-lib.org/dmglib/main/portal.jsp), Digital Mechanism and Gear Library
 * [KMODDL](http://kmoddl.library.cornell.edu/e-books.php), collection of mechanism and machines `Cornell.edu`
-
+* [Engineering ToolBox](https://www.engineeringtoolbox.com/)
+* [Thermopedia](http://www.thermopedia.com/)
+* [Wolverine Industries](http://www.wlv.com/products/thermal-management-databooks.html)
+* [Omega Engineering](http://www.omega.com/techref/)
+* [Electrical Training](http://electricaltrainingalliance.org/Resources/Authentication)
+* [NASA Technical Report Server](http://ntrs.nasa.gov/search.jsp)
 #### Patents
 * [Google Patents](https://www.google.com/patents/)
 * [European Patent Office](https://worldwide.espacenet.com/)
@@ -165,7 +179,7 @@ I got inspiration from the countless awesome lists in github.
 </div>
 
 ## <a name="math"></a>Mathematics
-### Calculus and Linear Algebra
+### <a name="calculus"></a>Calculus and Linear Algebra
 * [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), by [G. Strang](http://www-math.mit.edu/~gs/). [Direct download](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) `MIT.edu` 
 * [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by [G. Cain](http://people.math.gatech.edu/%7Ecain/index.html)
 * [Essentials of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) `youtube`
@@ -173,17 +187,20 @@ I got inspiration from the countless awesome lists in github.
 * [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=3274), by K.B. Petersen, M.S. Pedersen (2012) `DTU.dk`
 * [Fundamentals of Linear Algebra and Optimization](http://www.cis.upenn.edu/~cis515/linalg.pdf), by [J. Gallier](http://www.cis.upenn.edu/~jean/home.html) and J. Quaintance (2017) `UPenn.edu`
 
-### Numerical Analysis
+### <a name="numerical"></a>Numerical Analysis
 * [Numerical Analysis for Engineering](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/), by D.W. Harder and R. Khoury `UWaterloo.ca`
 * [Numerical Recipes in C](http://www.nrbook.com/a/bookcpdf.html), by W.H. Press, B.P. Flannery, S.A. Teukolsky and W.T. Vetterly (1992) *Free for personal use*
 * [Numerical Methods for PDEs](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos), by Qiqi Wang `MIT.edu` `youtube`
 * [Math, Numerics, & Programming (for Mechanical Engineers)](http://ocw.mit.edu/ans7870/2/2.086/F14/MIT2_086S13_Textbook.pdf), M. Yano, J.D. Penn, G. Konidaris and A.T Patera (2013) *Draft v2.1* `MIT.edu`
 * [Iterative Methods for Sparse Linear Systems](http://www-users.cs.umn.edu/~saad/IterMethBook_2ndEd.pdf), by Y. Saad (2003) `UMN.edu`
+* [Fundamental Numerical Methods and Data Analysis](http://ads.harvard.edu/books/1990fnmd.book/), by G.W. Collins (1990) `Harvard.edu`
+* [A Pragmatic Introduction to Signal Processing](https://terpconnect.umd.edu/~toh/spectrum/), by [T.C. O'Haver](https://terpconnect.umd.edu/%7Etoh/) (2018) `UMD.edu`
 
 ## Programming
 * [Free programming books](https://github.com/vhf/free-programming-books) `github`
 * [Project Euler](https://projecteuler.net/), math/programming problems archives
 * [Programming Notes for Professionals](http://goalkicker.com/), books compiled from StackOverflow Documentation `goalkicker`
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code), implementations of common algorithms in many programmming languages
 
 ### <a name="cpp"></a>C++
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
@@ -269,6 +286,7 @@ I got inspiration from the countless awesome lists in github.
 * [Elements of Structures](https://www.edx.org/course/elements-structures-mitx-2-01x-1) `edX MIT`
 * [Mechanical Properties of Materials](https://www.mechanicalc.com/reference/material-properties)
 * [Mechanics of Materials](http://madhuvable.org/books-2/introduction/), by [M. Vable](http://pages.mtu.edu/~mavable/) (2009) `MTU.edu` 
+* [Mechanical Properties of Materials](http://web.mit.edu/course/3/3.225/), by [D. Roylance](http://web.mit.edu/roylance/www/home.html) (2008) [[Direct](http://web.mit.edu/course/3/3.225/book.pdf)] `MIT.edu`
 
 ### Plasticity
 * [The Mathematical Theory of Plasticity](https://archive.org/details/in.ernet.dli.2015.84513), by R. Hill (1950) `Archive.org`
@@ -281,6 +299,17 @@ I got inspiration from the countless awesome lists in github.
 &emsp; <sub><sup>ISBN: 978-0073398204</sup></sub>
 * [Introduction to Mechanisms](https://www.cs.cmu.edu/%7Erapidproto/mechanisms/tablecontents.html),  by Yi Zhang with S. Finger, S. Behrens. `CMU.edu`
 * [Mechanisms/Machines](https://archive.org/details/MechanismsMachines), by L. Teel (1972) `Archive.org`
+* [U of Minessota](https://www.youtube.com/playlist?list=PLNWWAQ4wioJxZ3_UBEWIbOq7hiA0dnJ8J) 'YouTube'
+* [NPTEL IIT Kgp Mechanisms and Robot Kinematics] (https://onlinecourses.nptel.ac.in/noc18_me18) 'NPTEL'
+* [MIT Fundamentals of Design](http://pergatory.mit.edu/resources/fundamentals.html) 'MIT'
+* [NPTEL- Kinematics of Machines](http://nptel.ac.in/courses/112104121/1#) 'Courseware'
+* [Middle East TU Mechanisms](http://ocw.metu.edu.tr/mod/resource/view.php?id=2094) 'Courseware'
+* [Kinematic Models for Design Digital Library (KMODDL) by Cornell U](http://kmoddl.library.cornell.edu/)
+* [Mechanism Design: v. 1: Analysis and Synthesis](https://www.amazon.in/1-Mechanism-Design-Analysis-Synthesis/dp/0130408727/) by Arthur G. Erdman, George N. Sandor, Sridhar Kota `Amazon`&emsp; <sub><sup>ISBN: 978-0130408723</sup></sub>
+* [Mechanism Design: v. 2: Analysis and Synthesis](https://www.amazon.in/1-Mechanism-Design-Analysis-Synthesis/dp/0130408727/) by Arthur G. Erdman, George N. Sandor, Sridhar Kota `Amazon`&emsp; <sub><sup>ISBN:  978-0130408723</sup></sub>
+* [Design of Machinery](http://amzn.to/2FTZQbu) by Robert L Norton `Amazon`&emsp; <sub><sup>ISBN: 978-0071236713</sup></sub>
+* [Mechanisms and Mechanical Devices Sourcebook](https://www.amazon.in/Mechanisms-Mechanical-Sourcebook-Nicholas-Chironis/dp/0070113564) by by Nicholas Paul Chironis, Neil Sclater `Amazon`&emsp; <sub><sup>ISBN: 978-0070113565</sup></sub>
+* 
 
 ### Control Engineering
 * [Modern Control Engineering](https://www.amazon.com/Modern-Control-Engineering-Katsuhiko-Ogata/dp/0136156738/ref=sr_1_cc_4), by K. Ogata (2009) `Amazon`
@@ -351,7 +380,7 @@ I got inspiration from the countless awesome lists in github.
 * [Fundamentals of Manufacturing Processes](https://www.edx.org/course/fundamentals-manufacturing-processes-mitx-2-008x-0) `edX MIT` 
 * [A.J. Hart](http://meche.mit.edu/people/faculty/ajhart@mit.edu)'s [Presentations](https://www.slideshare.net/AJohnHart/presentations) `slideshare`
 * [Building Prototypes](https://www.youtube.com/watch?v=xMP_AfiNlX4), by D. Gelbart `youtube`
-
+* [Fabrication Labs](http://www.fabfoundation.org/index.html), Labs available globally
 ### CAD/CAM
 
 #### Theory
@@ -361,6 +390,8 @@ I got inspiration from the countless awesome lists in github.
 * [Computer Aided Geometric Design](http://tom.cs.byu.edu/~557/text/cagd.pdf), by T.W. Sederberg (2006) `BYU.edu`
 * [Curves and Surfaces in Geometric Modeling](http://www.cis.upenn.edu/~jean/gbooks/geom1.html) by [J. Gallier](http://www.cis.upenn.edu/~jean/home.html) (1999) *Out of Print* `UPenn.edu`
 &emsp; <sub><sup>ISBN: 978-1558605992</sup></sub>
+* [Geometric Modeling: A First Course,](http://www-bcf.usc.edu/~requicha/book.html) by [A. Requicha](http://www-bcf.usc.edu/~requicha/) (1996) *Draft* `USC.edu`
+* [Computer Aided Design in Mechanical Engineering](http://www.cgeo.ulg.ac.be/CAO/) *Slides* `ULiege.be`
 
 #### Learning and Tutorials
 * [Vertanux1](http://www.vertanux1.com/), Training Guides: Creo, Solidworks, NX, Inventor, Rhino3d.
@@ -390,6 +421,7 @@ I got inspiration from the countless awesome lists in github.
  * [Bayer Part and Mold Design Guide](https://blackboard.tudelft.nl/bbcswebdav/courses/consultancy/Basic_Des/Dsn_Plastics_Bayer.pdf)
  * [DuPont General Design Principles for Engineering Polymers](http://www.dupont.com/content/dam/dupont/products-and-services/plastics-polymers-and-resins/thermoplastics/documents/General%20Design%20Principles/General%20Design%20Principles%20for%20Engineering%20Polymers.pdf)
  * [Bayer Reaction Injection Molding (PolyUrethanes), Part and Mold Design Guide](http://www.reactioninjectionmolding.com/wp-content/uploads/2013/09/RIM-PartMoldDesignGuide.pdf)
+ * [3D Hubs Knowledge Base](https://www.3dhubs.com/knowledge-base)
 
 ---
 <div align="right">
@@ -404,6 +436,7 @@ I got inspiration from the countless awesome lists in github.
 * [Introduction to Finite Element Methods](https://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/) `Colorado.edu`
   * [Advance FEM](https://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/Home.html)
   * [Nonlinear FEM](https://www.colorado.edu/engineering/CAS/courses.d/NFEM.d/Home.html)
+* [FINITE ELEMENT MODELING CONTINUOUS IMPROVEMENT ](https://femci.gsfc.nasa.gov/femcibook.html), (NASA FEMCI book)
 
 ###### Good Reads
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `stackexchange`
@@ -447,6 +480,7 @@ Student/Free version: **Not available** but a student license can be obtained fo
 
 * [LS Dyna Official Examples Site](http://www.dynaexamples.com/)
 * [LS Prepost Tutorials](http://www.lstc.com/lspp/content/tutorials.shtml)
+* [Jim Day FAQ](http://ftp.lstc.com/anonymous/outgoing/jday/faq/?C=M;O=D)
 
 #### COMSOL
 Comsol was known as FEMLAB before and is a academic spin-off from Stanford University. Comsol integrated multiphysics simulation capability for the first time in a commercial package and is pretty popular in many unconventional industry.
@@ -664,6 +698,7 @@ Misc
 * [DOAJ](https://doaj.org/), Directory of Open Acess Journals
 * [SCIRP](http://www.scirp.org/journal/mme/), Modern Mechanical Engineering
 * [SAGE journals](http://journals.sagepub.com/loi/adea), Advances in Mechanical Engineering
+* [The Royal Society](http://rspa.royalsocietypublishing.org/collection/mechanical-engineering)
 
 ### Magazines
 * [Machine Design](http://machinedesign.com/)
@@ -677,7 +712,7 @@ Misc
 <sup>[Back to Top](#toc)</sup> &Hat;
 </div>
 
-## <a name="competition"></a>Competitions
+## Competitions
 <!--### SAE Competitions-->
 
 #### Altair Contests
@@ -699,6 +734,30 @@ Misc
 
 ### Other Competitions
 * [Elsevier 3D Printing Grand Challenge](http://www.materialstoday.com/elsevier-3d-printing-grand-challenge)
+
+## Challenges
+
+### CAD
+* [GrabCAD Challenge](https://grabcad.com/challenges), product design challenges
+* [Fusion360 Monthly Challenge](https://knowledge.autodesk.com/support/fusion-360/getting-started/caas/simplecontent/content/join-the-autodesk-fusion-360-monthly-challenge.html) `Autodesk Community Philippines`
+  * [Video Playlist](https://www.youtube.com/user/autodeskcomphil/playlists) `Youtube`
+* [Reddit CAD Challenges](https://www.reddit.com/r/cad/search?q=cad+challenge+%23&restrict_sr=on&sort=new&t=all) (*Inactive*) `/r/CAD`
+  * [Archived version](https://github.com/symbian9/reddit_cad_challenge) `Github`
+
+### Misc
+* [Hackaday Contest](https://hackaday.io/contests)
+* [Instructables Contests](http://www.instructables.com/contest/)
+
+
+## <a name="openprojects"></a>Open Source Design projects
+
+### Civilization Starter Kit Mechanical Design Project
+
+* [Open Source Ecology-Build Yourself](https://www.opensourceecology.org/)
+
+* [Open Source Ecology wiki](http://opensourceecology.org/wiki/Main_Page)
+
+* [Global Village Construction Set](http://opensourceecology.org/wiki/Global_Village_Construction_Set)
 
 ---
 <div align="right">
@@ -740,7 +799,7 @@ A PE license is probably the most useful certification that a mechanical enginee
 
 
 ### GATE for India
-[GATE Official Website](www.gate.iitr.ernet.in/)
+[GATE Official Website](https://www.gate.iitr.ernet.in/)
 
 GATE or [Graduate Aptitute Test in Engineering](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) is a qualifying examination conducted by a consortium of [Indian Institutes of Technology](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology) and [Indian Institute of Science Bangalore](http://www.iisc.ac.in/). Even though the official reason to conduct GATE is for post-graduate admissions only, PSUs and Govt. research entities often recruit students on the basis of GATE score.
 
