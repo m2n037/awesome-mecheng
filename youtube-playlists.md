@@ -87,6 +87,10 @@
 
 ## Specialized Fields
 
+### Computational Fluid Dynamics
+
+* [AirShaper - Computational Fluid Dynamics,](https://www.youtube.com/watch?v=dyiREvdc4Gg&list=PLMva8iKkkrhRTre2QyaZ1AgfNYPkSvjBl)
+
 ### Robotics
 
 #### Generic
