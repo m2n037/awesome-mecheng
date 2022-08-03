@@ -171,6 +171,7 @@ I got inspiration from the countless awesome lists in github.
 * [Plastics Engineering Blog](https://plasticsengineeringblog.com/)
 * [3D CAD World](http://www.3dcadworld.com/)
 * [Engineers Rule](https://www.engineersrule.com/), blog on SolidWork
+* [AirShaper](https://airshaper.com/blog/page/1), blog on Aerodynamics
 
 ---
 <div align="right">
