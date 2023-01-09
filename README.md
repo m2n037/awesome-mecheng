@@ -208,6 +208,7 @@ I got inspiration from the countless awesome lists in github.
 * [EbookFoundation #C++](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1) `github`
 
 ### Python
+* [NumFOCUS: numfocus.com/sponsored-projects #python](https://numfocus.org/sponsored-projects)
 * [A Byte of Python](https://python.swaroopch.com/), by [C.H. Swaroop](https://www.swaroopch.com/about/) (2013)
  [[Free Copy](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)/[Hard Copy](https://www.swaroopch.com/buybook/)]
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
@@ -220,6 +221,7 @@ I got inspiration from the countless awesome lists in github.
 * [kaggle.com/learn](https://kaggle.com/learn) - Python, Machine Learning, AI, Reinforcement Learning as Jupyter Notebooks (kaggle/docker-python)
 * [awesome-python-in-education#jupyter](https://github.com/quobit/awesome-python-in-education#jupyter)
 * [jupyter/jupyter/wiki: A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki#a-gallery-of-interesting-jupyter-notebooks)
+* [conda-forge/miniforge#mambaforge](https://github.com/conda-forge/miniforge#mambaforge) - Install conda and mamba. `mamba install -y` defaults to ~= `conda install -c conda-forge -y`
 
 ### Julia
 * [Learning Julia](https://julialang.org/learning/), official learning resources
@@ -535,6 +537,7 @@ Cloud based FEA/CFD
 * [Mastering ROS for Robotics Programming ](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming)
 * [Learning Robotics Using Python ](https://www.packtpub.com/application-development/learning-robotics-using-python)
 * [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
+* ["ROS on conda-forge" by @wolfv ](https://wolfv.medium.com/ros-on-conda-forge-dca6827ac4b6)
 
 ### <a name="for-cad"></a>For CAD Modeling
 #### CATIA
