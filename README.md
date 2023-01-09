@@ -214,6 +214,7 @@ I got inspiration from the countless awesome lists in github.
 * [Learn X in Y minutes, where X=Python](https://learnxinyminutes.com/docs/python/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com), a great book for getting a handle on writing python scripts
 * [EbookFoundation #Python](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python) `github`
+* [fast.ai: Book, Courses, Python library, nbdev](https://www.fast.ai/)
 * [GreenTeaPress: Think Python, Think Stats, Think Complexity, Modeling and Simulation in Python](https://greenteapress.com/wp/) - Free books as Jupyter notebooks on GitHub
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - "introduces the core libraries essential for working with data in Python: particularly IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and related packages"
 * [kaggle.com/learn](https://kaggle.com/learn) - Python, Machine Learning, AI, Reinforcement Learning as Jupyter Notebooks (kaggle/docker-python)
