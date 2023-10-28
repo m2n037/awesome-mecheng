@@ -230,7 +230,6 @@ I got inspiration from the countless awesome lists in github.
 * [EbookFoundation #Julia](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#julia) `github`
 
 ### <a name="excel"></a>Microsoft Excel VBA
-* [Excel VBA Programming for Dummies](https://michaelaustinfu.files.wordpress.com/2013/03/excel-vba-for-dummies-3rd-edition.pdf)
 * [VBA Notes for Professinals](http://goalkicker.com/VBABook/) `goalkicker`
 
 ### MATLAB
