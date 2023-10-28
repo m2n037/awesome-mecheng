@@ -208,12 +208,20 @@ I got inspiration from the countless awesome lists in github.
 * [EbookFoundation #C++](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1) `github`
 
 ### Python
+* [NumFOCUS: numfocus.com/sponsored-projects #python](https://numfocus.org/sponsored-projects)
 * [A Byte of Python](https://python.swaroopch.com/), by [C.H. Swaroop](https://www.swaroopch.com/about/) (2013)
  [[Free Copy](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)/[Hard Copy](https://www.swaroopch.com/buybook/)]
 * [Dive into Python 3](http://www.diveintopython3.net/index.html)
 * [Learn X in Y minutes, where X=Python](https://learnxinyminutes.com/docs/python/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com), a great book for getting a handle on writing python scripts
 * [EbookFoundation #Python](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python) `github`
+* [fast.ai: Book, Courses, Python library, nbdev](https://www.fast.ai/)
+* [GreenTeaPress: Think Python, Think Stats, Think Complexity, Modeling and Simulation in Python](https://greenteapress.com/wp/) - Free books as Jupyter notebooks on GitHub
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - "introduces the core libraries essential for working with data in Python: particularly IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and related packages"
+* [kaggle.com/learn](https://kaggle.com/learn) - Python, Machine Learning, AI, Reinforcement Learning as Jupyter Notebooks (kaggle/docker-python)
+* [awesome-python-in-education#jupyter](https://github.com/quobit/awesome-python-in-education#jupyter)
+* [jupyter/jupyter/wiki: A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki#a-gallery-of-interesting-jupyter-notebooks)
+* [conda-forge/miniforge#mambaforge](https://github.com/conda-forge/miniforge#mambaforge) - Install conda and mamba. `mamba install -y` defaults to ~= `conda install -c conda-forge -y`
 
 ### Julia
 * [Learning Julia](https://julialang.org/learning/), official learning resources
@@ -529,6 +537,7 @@ Cloud based FEA/CFD
 * [Mastering ROS for Robotics Programming ](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming)
 * [Learning Robotics Using Python ](https://www.packtpub.com/application-development/learning-robotics-using-python)
 * [ROS Robotics By Example ](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
+* ["ROS on conda-forge" by @wolfv ](https://wolfv.medium.com/ros-on-conda-forge-dca6827ac4b6)
 
 ### <a name="for-cad"></a>For CAD Modeling
 #### CATIA
