@@ -574,7 +574,7 @@ Cloud based FEA/CFD
 
 #### SolidWorks
 
-<img src="https://www.solidworks.com/includes/products/FB_icon.png" width="64" align="right" />
+<img src="https://www.solidworks.com/sw/images/content/SolidWorks_Logotype_CMYK_Red.bmp" width="128" align="right" />
 
 >Website: [https://www.solidworks.com/](https://www.solidworks.com/)
 >
@@ -601,11 +601,11 @@ Cloud Based CAD
 
 #### FreeCAD
 
-<img src="https://www.freecadweb.org/images/logo.png" width="64" align="right" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/FreeCAD016-logo.svg" width="64" align="right" />
+
+>Website: [https://www.freecadweb.org/](https://www.freecadweb.org/)
 
 *Geometric Kernel* [OpenCASCADE](https://github.com/tpaviot/oce)
-
->Website: [http://www.openscad.org/](http://www.openscad.org/)
 
 * [A FreeCAD manual](https://www.gitbook.com/book/yorikvanhavre/a-freecad-manual/details) `GitBook`
 * [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), python based language for building parametric models [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
