@@ -55,6 +55,9 @@
 #### Wordpress
 * [Wordpress Basics](https://www.youtube.com/playlist?list=PLC5E59DD6D84D34DC)
 
+#### Rust
+* [The Rusty Bits](https://www.youtube.com/@therustybits)
+
 ## Mechanics & Theory of Machines
 
 ### Statics and Dynamics

@@ -44,6 +44,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [R](#r)
   * [Fortran](#fortran)
   * [LaTeX](#latex)
+  * [Rust](#rust)
 
 [Mechanics](#mechanics)
   * [Continuum Mechanics](#continuum)
@@ -254,6 +255,13 @@ I got inspiration from the countless awesome lists in github.
 * [LaTeX Notes for Professionals](http://books.goalkicker.com/LaTeXBook/) `goalkicker`
 * [Learn LaTeX in 30 min](https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes) `sharelatex`
 * [EbookFoundation #LaTeX](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#latex) `github`
+
+### Rust
+* [The Rust Programming Language](https://doc.rust-lang.org/book/), _the_ book to get started with Rust
+* [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
+* [Awesome Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust/), a great collection of links to get started with Rust on embedded devices
+* [Beginner's Series to Rust (Microsoft Learn)](https://learn.microsoft.com/en-us/shows/beginners-series-to-rust/)
+* [Comprehensive Rust (Google Course)](https://google.github.io/comprehensive-rust/)
 
 ---
 <div align="right">
