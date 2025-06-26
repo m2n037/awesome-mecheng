@@ -456,6 +456,7 @@ I got inspiration from the countless awesome lists in github.
 #### Code
 * [deal.II](https://www.dealii.org/) (C++ library)
 * [FEniCS Project](https://fenicsproject.org/) (C++ and Python library)
+* [xara](https://xara.so) (C++ and Python library)
 * [List of FE packages](https://en.wikipedia.org/wiki/List_of_finite_element_software_packages) `wikipedia`
 
 ---
