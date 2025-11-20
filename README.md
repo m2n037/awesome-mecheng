@@ -484,6 +484,8 @@ I got inspiration from the countless awesome lists in github.
 #### ABAQUS
 [Student/Free version](https://academy.3ds.com/en/software/abaqus-student-edition): Available, 1000 nodes limit.
 
+* [Official Abaqus | Learning Resources (requires free account)](https://r1132100503382-eu1-3dswym.3dexperience.3ds.com/community/swym:prd:R1132100503382:community:39?content=swym%3Aprd%3AR1132100503382%3Awikitree%3AkMyiVKPMQw639V2kleOkNg)
+
 #### LS Dyna
 Student/Free version: **Not available** but a student license can be obtained for less than $150 AFAIK.
 
@@ -526,6 +528,21 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 
 Cloud based FEA/CFD
 
+#### Autodesk Moldflow
+* [MoldFlow Insight Fundamentals (47min)](https://www.youtube.com/watch?v=XFN2EynTKbk)
+* [Moldflow Insight Quick Start Webinar](https://www.youtube.com/watch?v=C7xeSyuMQXU)
+* [MoldFlow Summit Recordings (2018-2024)](https://www.autodesk.com/campaigns/advmfg-summit/recordings/2024)
+* [MoldFlow Insight Forum](https://forums.autodesk.com/t5/moldflow-insight-forum/bd-p/366)
+* [MoldFlow Insight Knowledge Base](https://www.autodesk.com/support/technical/product/moldflow-insight)
+* [MoldFlow Insight - Official Talks](https://www.autodesk.com/autodesk-university/search?fields.product=Moldflow+Insight)
+* [MoldFlow Insight Validation Reports](https://www.autodesk.com/industry/manufacturing/simulation-hub/resources?products=--autodesk-moldflow)
+* [Moldflow training videos to build simulation knowledge and understanding.](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Moldflow-training-videos-to-build-simulation-knowledge-and-understanding.html)
+* [YT Channel - MoldFlow Videos](https://www.youtube.com/@PrakashCheyyar)
+* [YT Playlist -  Moldflow Monday Training Content ](https://www.youtube.com/playlist?list=PLIv6vwn776aTRDFm3QQNShjmhJrdJ5GaN)
+* [YT Playlist -  Getting Started with Moldflow Training ](https://www.youtube.com/playlist?list=PL8HJ5sUh-AP4Z0YhwuZ20hxKFrEXfiB7b)
+* [YT Playlist -  Autodesk Moldflow ](https://www.youtube.com/playlist?list=PLIv6vwn776aQzty-V81k9l4453VyxrUql)
+
+#### Moldex 
 
 ### <a name="for-control"></a>For Control Engineering
 ###### MATLAB
