@@ -130,6 +130,7 @@ I got inspiration from the countless awesome lists in github.
 * [EngineeringPaper.xyz](https://engineeringpaper.xyz), engineering calculator with units support, plotting, and equation solving
 * [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
 * [MechaniCalc](https://mechanicalc.com/), mechanical calculator with extensive documentation
+* [MechCODEX](https://mechcodex.com/calculators), free mechanical engineering calculators with full derivations — machine design (bearing life L10/ISO 281, bolt torque-preload, spring design), structural (column buckling, cantilever beam, stress concentration), fluid mechanics (Reynolds number), and thermal (ε-NTU heat exchanger)
 * [WolframAlpha](https://www.wolframalpha.com/)
 
 #### <a name="tool"></a>Tools and Programs
