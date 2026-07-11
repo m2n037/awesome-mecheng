@@ -48,6 +48,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 [Mechanics](#mechanics)
   * [Continuum Mechanics](#continuum)
   * [Statics and Dynamics](#statics&dynamics)
+  * [Tribology and Lubrication](#tribology)
   * [Strength of Materials](#strength)
   * [Plasticity](#plasticity)
 
@@ -278,6 +279,12 @@ I got inspiration from the countless awesome lists in github.
 * [Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/) `Cornell.edu`
 * [Bolted Joint Analysis](https://www.mechanicalc.com/reference/bolted-joint-analysis)
 * [Lug Analysis](https://www.mechanicalc.com/reference/lug-analysis)
+
+### <a name="tribology"></a>Tribology and Lubrication
+* [MIT OpenCourseWare: Tribology](https://ocw.mit.edu/courses/2-800-tribology-fall-2004/), course materials covering friction, wear, and lubrication `MIT.edu`
+* [NASA Technical Reports Server: Lubrication Handbook](https://ntrs.nasa.gov/search?q=lubrication%20handbook), public technical reports and historical lubrication references `NASA`
+* [Tribology](https://github.com/moritzploss/tribology), an open-source Python package for tribology research and education `github`
+* [Industrial Lubricant Replacement Notes](https://github.com/gzyx96890-netizen/industrial-lubricant-replacement-notes), document-first screening checklists for industrial lubricant replacements `github`
 
 ### <a name="strength"></a>Strength of Materials
 * [Mechanical Metallurgy](https://archive.org/details/mechanicalmetall00diet), by G.E. Dieter (1961) `Archive.org`
