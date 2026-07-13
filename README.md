@@ -130,6 +130,7 @@ I got inspiration from the countless awesome lists in github.
 * [EngineeringPaper.xyz](https://engineeringpaper.xyz), engineering calculator with units support, plotting, and equation solving
 * [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
 * [MechaniCalc](https://mechanicalc.com/), mechanical calculator with extensive documentation
+* [Concrete Estimator Hub](https://concreteestimatorhub.com/), concrete volume, slab, bag count, ready-mix vs bags, and cost calculators for construction planning
 * [WolframAlpha](https://www.wolframalpha.com/)
 
 #### <a name="tool"></a>Tools and Programs
