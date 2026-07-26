@@ -131,6 +131,7 @@ I got inspiration from the countless awesome lists in github.
 * [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
 * [MechaniCalc](https://mechanicalc.com/), mechanical calculator with extensive documentation
 * [WolframAlpha](https://www.wolframalpha.com/)
+* [Conyso Crucible](https://conyso.com/crucible.html?utm_source=github&utm_medium=directory&utm_campaign=listing), free browser-based reliability engineering and FMEA tool (Weibull, RBD, fault/event trees, MIL-HDBK-217 MTBF)
 
 #### <a name="tool"></a>Tools and Programs
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/), quick prototyping of linkage mechanism
