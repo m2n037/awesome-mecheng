@@ -711,6 +711,8 @@ Misc
   * [/r/Science](https://www.reddit.com/r/science/)
 </details>
 
+###deflection metal,CAD,weight, cutting tool 
+- **[MetalAbout](https://www.metalabout.net)** - Free online engineering calculators for metalworking (metal weight, beam deflection, press brake tonnage, welding cost) plus a browser-based STL/DXF viewer. No signup.
 ---
 <div align="right">
 
