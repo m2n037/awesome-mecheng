@@ -131,6 +131,7 @@ I got inspiration from the countless awesome lists in github.
 * [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
 * [MechaniCalc](https://mechanicalc.com/), mechanical calculator with extensive documentation
 * [WolframAlpha](https://www.wolframalpha.com/)
+* [WrenchMath](https://wrenchmath.com), small-engine and powersports calculators: gear ratio, compression ratio, engine displacement, chain length, and density altitude
 
 #### <a name="tool"></a>Tools and Programs
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/), quick prototyping of linkage mechanism
