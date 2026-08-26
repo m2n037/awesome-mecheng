@@ -340,6 +340,7 @@ I got inspiration from the countless awesome lists in github.
 
 ### Robotics
 * [Awesome Robotics List](https://github.com/Kiloreux/awesome-robotics), by [@Kiloreux](https://github.com/kiloreux) `github`
+* [OmniSim](https://github.com/omnilink-tech/omnisim) - Apache-2.0 robotics simulator with URDF/STEP import, ROS 2 integration, agent-facing HTTP/MCP control, and measured physics and sensor capability benchmarks `github`
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) `Caltech.edu`
 
 ---
