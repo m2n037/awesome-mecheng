@@ -131,6 +131,7 @@ I got inspiration from the countless awesome lists in github.
 * [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
 * [MechaniCalc](https://mechanicalc.com/), mechanical calculator with extensive documentation
 * [WolframAlpha](https://www.wolframalpha.com/)
+* [CADGuide.tools](https://cadguide.tools/toolbox), 480+ free client-side engineering calculators (K-factor bend, beam analysis, DWG version check) plus a CAD software comparison directory
 
 #### <a name="tool"></a>Tools and Programs
 * [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/), quick prototyping of linkage mechanism
