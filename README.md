@@ -613,6 +613,12 @@ Cloud based FEA/CFD
 
 Cloud Based CAD
 
+
+#### CADProps
+>Website: [https://www.cadprops.com/](https://www.cadprops.com/)
+>
+>Browser-based CAD viewer and inspection tool for supported CAD and mesh files, with dimensions, properties and geometry measurement. Files are processed on its servers.
+
 ###### OpenSource
 
 #### FreeCAD
