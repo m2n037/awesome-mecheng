@@ -1,4 +1,4 @@
-# Awesome Mechanical Engineering Resources
+<img width="661" height="119" alt="image" src="https://github.com/user-attachments/assets/c3a43437-2132-4417-bb4d-ee9e437b2278" /># Awesome Mechanical Engineering Resources
 
 ![Banner Image](../master/img/open-end-wrench-2452245_1920.jpg)
 
@@ -128,6 +128,7 @@ I got inspiration from the countless awesome lists in github.
 #### <a name="calculator"></a>Online Calculators
 * [Desmos](https://www.desmos.com/calculator), online graphing calculator
 * [EngineeringPaper.xyz](https://engineeringpaper.xyz), engineering calculator with units support, plotting, and equation solving
+* [FieldEngineersKit](https://fieldengineerskit.com), free plant/piping engineering calculators (ASME/API)
 * [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
 * [MechaniCalc](https://mechanicalc.com/), mechanical calculator with extensive documentation
 * [WolframAlpha](https://www.wolframalpha.com/)
