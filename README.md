@@ -129,6 +129,7 @@ I got inspiration from the countless awesome lists in github.
 * [Desmos](https://www.desmos.com/calculator), online graphing calculator
 * [EngineeringPaper.xyz](https://engineeringpaper.xyz), engineering calculator with units support, plotting, and equation solving
 * [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
+* [Libre Calculator](https://librecalculator.com/), free, open-source calculators with input-specific worked steps and diagrams, including force, pressure, density, and kinetic energy
 * [MechaniCalc](https://mechanicalc.com/), mechanical calculator with extensive documentation
 * [WolframAlpha](https://www.wolframalpha.com/)
 
