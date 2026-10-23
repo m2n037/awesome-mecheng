@@ -130,6 +130,7 @@ I got inspiration from the countless awesome lists in github.
 * [EngineeringPaper.xyz](https://engineeringpaper.xyz), engineering calculator with units support, plotting, and equation solving
 * [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
 * [MechaniCalc](https://mechanicalc.com/), mechanical calculator with extensive documentation
+* [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator), U.S. roof replacement cost planning calculator with roof geometry, material, tear-off, and regional inputs
 * [WolframAlpha](https://www.wolframalpha.com/)
 
 #### <a name="tool"></a>Tools and Programs
