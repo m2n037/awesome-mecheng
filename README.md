@@ -446,6 +446,7 @@ I got inspiration from the countless awesome lists in github.
   * [Advance FEM](https://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/Home.html)
   * [Nonlinear FEM](https://www.colorado.edu/engineering/CAS/courses.d/NFEM.d/Home.html)
 * [FINITE ELEMENT MODELING CONTINUOUS IMPROVEMENT ](https://femci.gsfc.nasa.gov/femcibook.html), (NASA FEMCI book)
+* [AgentFEM introductory exercises](https://lab.haoming-luo.com/learn/en.html), six AI-assisted FEM exercises covering beam bending, cylinder expansion, heat conduction, column buckling, and auxetic structures, with reference results and downloadable handouts in English, French, and Chinese. Running the exercises requires a local AgentFEM installation.
 
 ###### Good Reads
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `stackexchange`
