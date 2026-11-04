@@ -130,6 +130,7 @@ I got inspiration from the countless awesome lists in github.
 * [EngineeringPaper.xyz](https://engineeringpaper.xyz), engineering calculator with units support, plotting, and equation solving
 * [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
 * [MechaniCalc](https://mechanicalc.com/), mechanical calculator with extensive documentation
+* [taueng steam calculator](https://taueng.com/en/tools/steam/), water and steam properties (IAPWS-IF97) by temperature and pressure, with free steam, t, chi-square and Z tables
 * [WolframAlpha](https://www.wolframalpha.com/)
 
 #### <a name="tool"></a>Tools and Programs
