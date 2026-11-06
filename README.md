@@ -137,6 +137,7 @@ I got inspiration from the countless awesome lists in github.
 * [LyX](http://www.lyx.org/), document processor based on LaTeX
 * [SumatraPDF](https://www.sumatrapdfreader.org/), lightweight pdf reader
 * [Pandoc](https://pandoc.org/), a universal document converter
+* [Physics Explorer](https://apps.microsoft.com/detail/9nclldcrlpfs?hl=en-US), paid offline Windows physics-learning app with guided investigations of motion, gravity and waves; educational models, not a precision engineering instrument
 
 #### <a name="useful"></a>Useful Websites
 * [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
