@@ -124,6 +124,7 @@ I got inspiration from the countless awesome lists in github.
 * [GrabCAD](https://grabcad.com/), models' library and tutorials
 * [Thingiverse](https://www.thingiverse.com/), CAD parts, especially for 3D printing
 * [Direct Industry](http://pdf.directindustry.com/), online catalogs
+* [OpenAxia](https://openaxia.com/), free catalog of blind, shutter, awning and door motor specifications with source references
 
 #### <a name="calculator"></a>Online Calculators
 * [Desmos](https://www.desmos.com/calculator), online graphing calculator
