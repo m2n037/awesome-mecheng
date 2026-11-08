@@ -469,6 +469,8 @@ I got inspiration from the countless awesome lists in github.
 * [Code_Aster](https://www.code-aster.org/)
 * [CalculiX](http://www.calculix.de/)
 * [Elmer](https://www.csc.fi/web/elmer)
+* [QF Solver](https://github.com/emptiesvoid-cloud/QF_solver)
+
 
 ###### Further reading
 * [awesome-CAE](https://github.com/qd-cae/awesome-CAE) `github`
