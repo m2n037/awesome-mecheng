@@ -403,6 +403,7 @@ I got inspiration from the countless awesome lists in github.
 * [Computer Aided Design in Mechanical Engineering](http://www.cgeo.ulg.ac.be/CAO/) *Slides* `ULiege.be`
 
 #### Learning and Tutorials
+* [SolidCraft CAD](https://solidcraftcad.com/), Guide to SolidCraft, the open-source parametric 3D CAD app in Rust: browser use, downloads, MCP setup.
 * [Vertanux1](http://www.vertanux1.com/), Training Guides: Creo, Solidworks, NX, Inventor, Rhino3d.
   * [vertanux1's channel](https://www.youtube.com/user/vertanux1/) `youtube`
 
