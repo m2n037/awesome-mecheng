@@ -130,6 +130,7 @@ I got inspiration from the countless awesome lists in github.
 * [EngineeringPaper.xyz](https://engineeringpaper.xyz), engineering calculator with units support, plotting, and equation solving
 * [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
 * [MechaniCalc](https://mechanicalc.com/), mechanical calculator with extensive documentation
+* [NET tolerance and fit calculator](https://netstratejikmetal.com/en/tolerance-calculator), free ISO 286 size limits and hole/shaft clearance checks, with worked examples in English and Turkish
 * [WolframAlpha](https://www.wolframalpha.com/)
 
 #### <a name="tool"></a>Tools and Programs
