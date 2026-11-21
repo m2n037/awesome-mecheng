@@ -126,6 +126,7 @@ I got inspiration from the countless awesome lists in github.
 * [Direct Industry](http://pdf.directindustry.com/), online catalogs
 
 #### <a name="calculator"></a>Online Calculators
+* [ABD Composites](https://www.abdcomposites.com/calculators/), composite laminate calculators
 * [Desmos](https://www.desmos.com/calculator), online graphing calculator
 * [EngineeringPaper.xyz](https://engineeringpaper.xyz), engineering calculator with units support, plotting, and equation solving
 * [fxSolver](https://www.fxsolver.com/), solver for engineering and scientific equations
