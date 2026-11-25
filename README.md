@@ -137,6 +137,7 @@ I got inspiration from the countless awesome lists in github.
 * [LyX](http://www.lyx.org/), document processor based on LaTeX
 * [SumatraPDF](https://www.sumatrapdfreader.org/), lightweight pdf reader
 * [Pandoc](https://pandoc.org/), a universal document converter
+* [CoolLoad Studio](https://github.com/Xheir/CoolLoad-Studio), free HVAC cooling-load calculation (ASHRAE CLTD/CLF) for Windows, prints a load sheet for reports
 
 #### <a name="useful"></a>Useful Websites
 * [The American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
