@@ -390,6 +390,7 @@ I got inspiration from the countless awesome lists in github.
 * [A.J. Hart](http://meche.mit.edu/people/faculty/ajhart@mit.edu)'s [Presentations](https://www.slideshare.net/AJohnHart/presentations) `slideshare`
 * [Building Prototypes](https://www.youtube.com/watch?v=xMP_AfiNlX4), by D. Gelbart `youtube`
 * [Fabrication Labs](http://www.fabfoundation.org/index.html), Labs available globally
+* [Metal Can Gasket Selection and Leak-Test Checklist](https://www.jy-jy.com/how-to-choose-the-right-metal-can-sealing-gasket-for-reliable-packaging/), a free reference for measuring lid grooves, selecting gasket materials, and documenting assembled-closure leak checks.
 ### CAD/CAM
 
 #### Theory
